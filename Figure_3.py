@@ -6,7 +6,7 @@ import numpy as np
 def find_top_ten(numbers, names, colors):
     abs_numbers = np.abs(numbers)
     sorted_indices = np.argsort(abs_numbers)[::-1]
-    top_10_indices = sorted_indices[:20]
+    top_10_indices = sorted_indices[:30]
     top_10_numbers = [numbers[_] for _ in top_10_indices]
     top_10_names = np.array(names)[top_10_indices]
     return top_10_numbers, top_10_names, np.array(colors)[top_10_indices]
@@ -18,6 +18,7 @@ def get_names(lst1, lst2):
         for l2 in lst2:
             outcome.append(l1+'_'+l2)
     return outcome
+
 
 Region = [
     "Australia_Oceania",
@@ -122,8 +123,6 @@ plt.savefig(r'Figs/Figure_3_a&b.png')
 # plt.show()
 
 
-fig, ax = plt.subplots(figsize=(6, 8), frameon=False)
-fig.subplots_adjust(hspace=0.4, wspace=0.45, bottom=0.1, left=0.21, top=0.95, right=0.7)
 colors_elec = ['black', 'grey', 'darkred', 'darkviolet', 'royalblue', 'lightskyblue', 'darkorange', 'palegreen']
 colors_ene = ['dimgrey', 'brown', 'lightsteelblue', 'slategrey', 'darkblue']
 scn = scns[0]
@@ -162,16 +161,9 @@ for i, region in enumerate(Region):
         bots += share / total
         values[count] = share/total
         count += 1
-plt.yticks(x1+width/2, labels=RegionSimple)
-plt.text(-0.325, len(Region)+2.5, 'c.', fontsize=25, fontweight='bold')
-plt.legend(frameon=False, bbox_to_anchor=(1, 0.5))
-plt.xticks([0, 0.25, 0.5, 0.75, 1], ['0', '25', '50', '75', '100'])
-plt.xlabel('Energy share (%)', fontsize=15)
-plt.savefig(r'Figs/Figure_3_c.png')
-
 colors_long = (colors_ene+colors_elec)*len(Region)
-fig, ax = plt.subplots(figsize=(10, 8), frameon=False)
-fig.subplots_adjust(hspace=0.25, wspace=0.45, bottom=0.1, left=0.1, right=0.95, top=0.95)
+fig, ax = plt.subplots(figsize=(16, 8), frameon=False)
+fig.subplots_adjust(hspace=0.25, wspace=0.45, bottom=0.1, left=0.078, right=0.95, top=0.95)
 for j, scn in enumerate(scns[1:]):
     values_scn = np.zeros(len(Region)*(len(Ene)+len(ElecType)))
     count = 0
@@ -193,15 +185,16 @@ for j, scn in enumerate(scns[1:]):
         plt.yticks([-0.2, -0.1, 0, 0.1, 0.2], labels=['-20%', '-10%', '0', '10%', '20%'])
         plt.ylim(-0.2, 0.2)
         plt.text(0, 0.21, 'SCN1:GwC relative to SCN0')
-        plt.text(-2, 0.21, 'd.', fontsize=25, fontweight='bold')
+        plt.text(-2, 0.21, 'c.', fontsize=25, fontweight='bold')
     elif j == 2:
         plt.subplot(2, 1, 2)
         plt.yticks([-0.3, -0.15, 0, 0.15, 0.3], labels=['-30%', '-15%', '0', '15%', '30%'])
         plt.ylim([-0.3, 0.3])
         plt.text(0, 0.315, 'SCN2:GwC relative to SCN0')
+        plt.text(-2, 0.315, 'd.', fontsize=25, fontweight='bold')
     else:
         continue
-    x = np.linspace(1, 20, 20)
+    x = np.linspace(1, 30, 30)
     y, nms, cs = find_top_ten(values_scn - values, names, colors_long)
     plt.bar(x, y, width=0.5, color=cs)
     for k in range(len(nms)):
@@ -209,11 +202,11 @@ for j, scn in enumerate(scns[1:]):
             plt.annotate(f'{int(y[k]*100)}%', xy=(x[k], y[k]), ha='center')
         else:
             plt.annotate(f'{int(y[k]*100)}%', xy=(x[k], y[k]-0.03), ha='center')
-    plt.hlines(0, xmin=0, xmax=21, color='black', linewidth=0.7)
-    plt.xlim(0, 21)
+    plt.hlines(0, xmin=0, xmax=31, color='black', linewidth=0.7)
+    plt.xlim(0, 31)
     plt.xticks(x, [item[:item.index('_')] for item in nms], rotation=-45, ha='left', fontsize=10)
     plt.ylabel('Change rate')
-plt.savefig(r'Figs/Figure_3_d.png')
+plt.savefig(r'Figs/Figure_3_c&d.png')
 
 Sector_new = ['Agriculture & Forestry', 'Fossil fuels', 'Mine & Manufacture', 'Power', 'Services', 'Transportation']
 Sec = [
@@ -234,13 +227,8 @@ plt.imshow(plt.imread('Figs/Figure_3_a&b.png'))
 plt.xticks([])
 plt.yticks([])
 plt.axis('off')
-plt.subplot(grid[1:3, :3])
-plt.imshow(plt.imread('Figs/Figure_3_c.png'))
-plt.xticks([])
-plt.yticks([])
-plt.axis('off')
-plt.subplot(grid[1:3, 3:])
-plt.imshow(plt.imread('Figs/Figure_3_d.png'))
+plt.subplot(grid[1:3, :])
+plt.imshow(plt.imread('Figs/Figure_3_c&d.png'))
 plt.xticks([])
 plt.yticks([])
 plt.axis('off')
