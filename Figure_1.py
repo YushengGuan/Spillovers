@@ -14,8 +14,8 @@ qt2_wind = data_wind['qt2'].values
 np.random.seed(42)
 
 plt.rcParams['font.family'] = 'Arial'
-fig, ax = plt.subplots(figsize=(24, 16))
-fig.subplots_adjust(hspace=0.2, wspace=0.2, bottom=0.05, top=0.95, left=0.05, right=0.95)
+fig, ax = plt.subplots(figsize=(18, 12))
+fig.subplots_adjust(hspace=0.2, wspace=0.2, bottom=0.08, top=0.95, left=0.1, right=0.95)
 x = np.linspace(10, 22, 13)
 xticks = np.linspace(10, 22, 7)
 xlabels = ["'10", "'12", "'14", "'16", "'18", "'20", "'22"]
@@ -43,8 +43,8 @@ plt.xticks(xticks, xlabels, fontsize=15)
 plt.ylim(0, 8000)
 plt.yticks([0, 2000, 4000, 6000, 8000], ['0', '2000', '4000', '6000', '8000'], fontsize=15)
 # plt.title('Solar PV - total installed cost', fontsize=
-plt.text(8, 8300, 'a.', fontweight='bold', fontsize=35)
-plt.ylabel('Cost per kW (2022 USD)', fontsize=20)
+plt.text(7, 8300, 'a.', fontweight='bold', fontsize=35)
+plt.ylabel('Cost ($/kW)', fontsize=20)
 plt.xlabel('Year', fontsize=20)
 plt.plot(x, y_0, label='Global scenario')
 plt.plot(x, y_1, label='Gradually without China')
@@ -80,8 +80,8 @@ plt.xticks(xticks, xlabels, fontsize=15)
 plt.ylim(0, 4000)
 plt.yticks([0, 1000, 2000, 3000, 4000], ['0', '1000', '2000', '3000', '4000'], fontsize=15)
 # plt.title('Wind power - total installed cost', fontsize=20)
-plt.text(8, 4150, 'b.', fontweight='bold', fontsize=35)
-plt.ylabel('Cost per kW (2022 USD)', fontsize=20)
+plt.text(7, 4150, 'b.', fontweight='bold', fontsize=35)
+plt.ylabel('Cost ($/kW)', fontsize=20)
 plt.xlabel('Year', fontsize=20)
 plt.plot(x, y_0, label='Global scenario')
 plt.plot(x, y_1, label='Gradually without China')
@@ -138,8 +138,8 @@ for i, c in enumerate(country_solar2):
     capa = data_solar[c].values  # 2010-2022 annual added capacity, 2010 cumulative
     plt.bar(x-width/2, capa*(y_1-y_0), bottom=bottom, width=width, color=cmap[c], alpha=0.8, edgecolor='black')
     bottom += capa*(y_1-y_0)
-    print(f'{c}, GwC, Solar, saved {capa*(y_1-y_0)} million USD')
-print(f'Total, GwC, Solar, saved {bottom} million USD')
+    print(f'{c}, GwC, Solar, saved {capa*(y_1-y_0)} million $')
+print(f'Total, GwC, Solar, saved {bottom} million $')
 bottom = np.array([0] * len(x), dtype=float)
 for i, c in enumerate(country_solar2):
     co_effs = df_co[c].values if c != 'Others' else df_co['Global'].values
@@ -148,12 +148,12 @@ for i, c in enumerate(country_solar2):
     capa = data_solar[c].values  # 2010-2022 annual added capacity, 2010 cumulative
     plt.bar(x+width/2, capa*(y_2-y_0), bottom=bottom, width=width, color=cmap[c], label=country_solar2[i], alpha=0.8, edgecolor='black')
     bottom += capa*(y_2-y_0)
-    print(f'{c}, TwC, Solar, saved {capa*(y_2-y_0)} million USD')
-print(f'Total, TwC, Solar, saved {bottom} million USD')
+    print(f'{c}, TwC, Solar, saved {capa*(y_2-y_0)} million $')
+print(f'Total, TwC, Solar, saved {bottom} million $')
 # plt.text(9.5, 30000*0.9, 'TwC scenario', fontsize=20)
-plt.ylabel('Annual installed cost savings (million USD)', fontsize=20)
-plt.text(7.7, 30000*1.05, 'c.', fontsize=35, fontweight='bold')
-plt.legend(loc='upper left', borderaxespad=0., frameon=False, fontsize=20, ncol=2)
+plt.ylabel('Annual installed cost savings (million $)', fontsize=20)
+plt.text(6.3, 30000*1.05, 'c.', fontsize=35, fontweight='bold')
+plt.legend(loc='upper left', borderaxespad=0., frameon=False, fontsize=18, ncol=2)
 plt.xlabel('Year', fontsize=20)
 
 # Annual savings of wind power
@@ -171,8 +171,8 @@ for i, c in enumerate(country_wind2):
     capa = data_wind[c].values  # 2010-2022 annual added capacity, 2010 cumulative
     plt.bar(x-width/2, capa*(y_1-y_0), bottom=bottom, width=width, color=cmap[c], alpha=0.8, edgecolor='black')
     bottom += capa*(y_1-y_0)
-    print(f'{c}, GwC, Wind, saved {capa*(y_1-y_0)} million USD')
-print(f'Total, GwC, Wind, saved {bottom} million USD')
+    print(f'{c}, GwC, Wind, saved {capa*(y_1-y_0)} million $')
+print(f'Total, GwC, Wind, saved {bottom} million $')
 bottom = np.array([0] * len(x), dtype=float)
 for i, c in enumerate(country_wind2):
     co_effs = df_co[c].values if c != 'Others' else df_co['Global'].values
@@ -181,11 +181,11 @@ for i, c in enumerate(country_wind2):
     capa = data_wind[c].values  # 2010-2022 annual added capacity, 2010 cumulative
     plt.bar(x+width/2, capa*(y_2-y_0), bottom=bottom, width=width, color=cmap[c], label=country_wind2[i], alpha=0.8, edgecolor='black')
     bottom += capa*(y_2-y_0)
-    print(f'{c}, TwC, Wind, saved {capa*(y_2-y_0)} million USD')
-print(f'Total, TwC, Wind, saved {bottom} million USD')
-plt.ylabel('Annual installed cost savings (million USD)', fontsize=20)
-plt.legend(loc='upper left', borderaxespad=0., frameon=False, fontsize=20, ncol=2)
-plt.text(7.7, 14000*1.05, 'd.', fontsize=35, fontweight='bold')
+    print(f'{c}, TwC, Wind, saved {capa*(y_2-y_0)} million $')
+print(f'Total, TwC, Wind, saved {bottom} million $')
+plt.ylabel('Annual installed cost savings (million $)', fontsize=20)
+plt.legend(loc='upper left', borderaxespad=0., frameon=False, fontsize=18, ncol=2)
+plt.text(6.3, 14000*1.05, 'd.', fontsize=35, fontweight='bold')
 plt.xlabel('Year', fontsize=20)
 
-plt.savefig(f'Figs/Figure_1.jpg', dpi=600)
+plt.savefig(f'Figs/Figure_1.jpg', dpi=300)

@@ -70,8 +70,8 @@ def plot_world_map(var_data, ax1, vs, title, tick, camp="RdYlBu"):
     sm = plt.cm.ScalarMappable(cmap=camp)
     sm.set_array([])
     cbar = fig.colorbar(sm, shrink=0.5, ax=ax1, orientation='horizontal', pad=0, extend='both')
-    ax1.set_title(title, fontsize=15)
-    cbar.set_label('change rate (%)', fontsize=12)
+    ax1.set_title(title, fontsize=20)
+    cbar.set_label('change rate (%)', fontsize=20)
     cbar.set_ticklabels(tick)
     
 
@@ -127,7 +127,7 @@ bottoms = [-1, -1, -1, -1, -1, -1]
 tops = [4, 2, 5, 30, 8, 0]
 for i, sec in enumerate(Sector_new):
     ax = plt.subplot(2, 3, i+1, projection='polar')
-    plt.title(sec)
+    plt.title(sec, fontsize=15)
     data = np.array([0]*(len(Region)+1), dtype=float)
     for j, region in enumerate(Region):
         y = sum(df1[(df1['sector'].isin(Sec[i])) & (df1['species'] == 'CO2') & (df1['year'] == 2030) & (df1['region'] == region)]['value'].values)
@@ -145,12 +145,12 @@ for i, sec in enumerate(Sector_new):
     data[0] = bottoms[0]
     ax.bar(theta, data-bottoms[i], width=width, bottom=bottoms[i], color='orangered')
     for k, region in enumerate(RegionSimple):
-        plt.text(theta[k+1], data[k+1]+(tops[i]-bottoms[i])*0.15, region, ha='center', va='center',
+        plt.text(theta[k+1], data[k+1]+(tops[i]-bottoms[i])*0.25, region, ha='center', va='center',
                     rotation=90-np.rad2deg(theta[k+1]) if theta[k+1] < np.pi else 270 - np.rad2deg(theta[k+1]),
-                    rotation_mode='anchor')
+                    rotation_mode='anchor', fontsize=15)
     for y in np.linspace(bottoms[i], tops[i], 5):
         plt.plot(np.linspace(-width/2, width/2, 5), [y]*5, color='black', alpha=0.8, linewidth=0.8)
-        plt.text(0, y+(tops[i]-bottoms[i])*0.03, str(y)+'%', ha='center', va='center')
+        plt.text(0, y+(tops[i]-bottoms[i])*0.03, str(y)+'%', ha='center', va='center', fontsize=15)
     ax.axis('off')
 # ax.remove()
 plt.savefig(r'Figs/Figure_4_c.png', dpi=600)

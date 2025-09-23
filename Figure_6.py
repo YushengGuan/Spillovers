@@ -94,6 +94,7 @@ for i in range(len(Sector_new)):
         print(np.array(y))
         print(scn_names[j], Sector_new[i], 'ratio')
         print(ratio)
+        plt.yticks(fontsize=12)
         if j in [0, 2, 4]:
             plt.bar(x, ratio, color=colors_scn[j], label=scn_names[j], width=width)
             # print(scn_names[j])
@@ -103,7 +104,7 @@ for i in range(len(Sector_new)):
     if i == 3:
         plt.ylabel('Change of total output by sector (%)', labelpad=5, y=-0.25, fontsize=15)
     plt.xticks([], [], rotation=90, fontsize=5)
-plt.legend(bbox_to_anchor=(-0.7, -3.5), ncol=2, borderaxespad=0, frameon=False)
+plt.legend(bbox_to_anchor=(-0.8, -3.5), ncol=2, borderaxespad=0, frameon=False, fontsize=15)
 for i in range(len(Sector_new)):
     plt.subplot(4, 3, i+7)
     plt.title(Sector_new[i], fontsize=15)
@@ -120,6 +121,7 @@ for i in range(len(Sector_new)):
         print(np.array(y))
         print(scn_names[j], Sector_new[i], 'ratio')
         print(ratio)
+        plt.yticks(fontsize=12)
         if j in [0, 2, 4]:
             plt.bar(x, ratio, color=colors_scn[j], label=scn_names[j], width=width)
             # print(scn_names[j])
@@ -127,11 +129,11 @@ for i in range(len(Sector_new)):
             plt.bar(x+width, ratio, color=colors_scn[j], label=scn_names[j], alpha=0.7, width=width)
             # print(scn_names[j])
     if i == 4:
-        plt.xlabel('Region', labelpad=5)
+        plt.xlabel('Region', labelpad=5, fontsize=15)
     if i in range(3, 6):
-        plt.xticks(x, RegionSimple, rotation=90, fontsize=10)
+        plt.xticks(x, RegionSimple, rotation=90, fontsize=12)
     else:
         plt.xticks([], [], rotation=90, fontsize=5)
-plt.legend(bbox_to_anchor=(0.05, -0.7), ncol=2, borderaxespad=0, frameon=False)
+plt.legend(bbox_to_anchor=(0.35, -0.7), ncol=2, borderaxespad=0, frameon=False, fontsize=15)
 # ax.remove()
-plt.savefig(r'./Figs/Figure_S4.jpg', dpi=600)
+plt.savefig(r'./Figs/Figure_6.jpg', dpi=600)

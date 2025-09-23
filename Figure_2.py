@@ -11,8 +11,8 @@ colors = ['darkgrey', 'orangered', 'steelblue']
 result_dir = r'CGEresults/'
 plt.rcParams['font.family'] = 'Arial'
 
-plt.figure(figsize=(14, 12))#设置图片大小
-grid = plt.GridSpec(6, 5, wspace=1.2, hspace=0.6, top=0.95, bottom=0.05, left=0.1, right=0.95)
+plt.figure(figsize=(12, 10))  # 设置图片大小
+grid = plt.GridSpec(6, 5, wspace=1.2, hspace=0.6, top=0.95, bottom=0.05, left=0.1, right=0.92)
 ax1 = plt.subplot(grid[0:2, :])
 width = 0.2
 x0 = [1, 5]
@@ -37,13 +37,13 @@ for i in range(len(scn_name)):
 plt.text(-0.6, 70*1.025, 'a.', fontsize=25, fontweight='bold')
 # GWC: [0.065, 3.05], [0.06, 3.02], [0.055, 2.99], [0.057, 3.0]
 # TwC: [0.073, 3.05], [0.07, 3.03], [0.06, 2.98], [0.062, 2.99], [0.063, 2.99], [0.065, 3.0]
-plt.xticks([1.4, 5.4], ['2022', '2030'])
-plt.ylabel('RE consumption (EJ)', labelpad=5, fontsize=12)
-plt.xlabel('Year', fontsize=12, labelpad=0)
-plt.yticks(np.linspace(0, 50, 6), range(0, 51, 10))
+plt.xticks([1.4, 5.4], ['2022', '2030'], fontsize=15)
+plt.ylabel('RE consumption (EJ)', labelpad=5, fontsize=15)
+# plt.xlabel('Year', fontsize=15, labelpad=0)
+plt.yticks(np.linspace(0, 50, 6), range(0, 51, 10), fontsize=15)
 plt.ylim(0, 70)
 # plt.legend(bbox_to_anchor=(0.85, -0.1), borderaxespad=0, ncol=5, fontsize=10)
-plt.legend(loc='upper left', ncols=2, fontsize=10, frameon=False)
+plt.legend(loc='upper left', ncols=2, fontsize=15, frameon=False)
 
 ax2 = ax1.twinx()
 x2 = np.linspace(1, 5, 9)
@@ -62,10 +62,10 @@ for i in range(len(scn_name)):
     plt.plot(x2, ratio, color=colors[int(scns[i][3])], alpha=alpha, marker='.')
     x2 += [width for _ in range(9)]
 plt.ylim(0, 3.5)
-plt.yticks(np.linspace(1, 3, 5), ['1', '1.5', '2', '2.5', '3'])
+plt.yticks(np.linspace(1, 3, 5), ['1', '1.5', '2', '2.5', '3'], fontsize=15)
 plt.hlines(y=1, xmin=1, xmax=10, colors='forestgreen', linestyles='--')
 plt.hlines(y=3, xmin=5, xmax=10, colors='forestgreen', linestyles='--')
-plt.ylabel('Ratio of 2030 on 2022', labelpad=10, fontsize=12)
+plt.ylabel('Ratio of 2030 on 2022', labelpad=10, fontsize=15)
 
 
 def cum_saving(reduction, capacity):
@@ -120,21 +120,21 @@ plt.bar(x[-1], y[-1], width, alpha=0.9, color='#FF9232',
 plt.bar(x[-1] + width, y1[-1], width, alpha=0.9, color='#2EA12E',
         edgecolor='k', linestyle='dashed')
 # 将坐标设置在指定位置
-plt.xticks(x2+width/2, x1labels)
-plt.yticks(np.linspace(0, 10**6, 6), range(0, 1001, 200))
-plt.ylabel('Savings (billion USD)')
-plt.text(0, 1.05*10**6, 'Solar PV')
-plt.text(18.8, 0.55*10**6, int(y[-1]/10**3))
-plt.text(19.5, 0.9*10**6, int(y1[-1]/10**3))
+plt.xticks(x2+width/2, x1labels, fontsize=13)
+plt.yticks(np.linspace(0, 10**6, 6), range(0, 1001, 200), fontsize=15)
+plt.ylabel('Savings (billion $)', fontsize=15)
+plt.text(0, 1.05*10**6, 'Solar PV', fontsize=15)
+plt.text(18.5, 0.55*10**6, int(y[-1]/10**3), fontsize=15)
+plt.text(19.5, 0.9*10**6, int(y1[-1]/10**3), fontsize=15)
 ax2 = ax1.twinx()
 x3 = x2+width/2
 lns3, = ax2.plot(x3[:-1], q2030[1:13], color='k', marker='.', label='Cumulative installed capacity')
 ax2.plot(x3[-2:], q2030[12:], color='k', marker='.', linestyle=':')
 ax2.set_ylim(0, 4*10**3)
-ax2.set_yticks(np.linspace(0, 4*10**3, 5), range(0, 5, 1))
+ax2.set_yticks(np.linspace(0, 4*10**3, 5), range(0, 5, 1), fontsize=15)
 lns = [lns1, lns2, lns3]
 labs = [l.get_label() for l in lns]
-ax1.legend(lns, labs, loc='upper left', frameon=False)
+ax1.legend(lns, labs, loc='upper left', frameon=False, fontsize=15)
 plt.text(-3, 4*10**3*1.05, 'b.', fontsize=25, fontweight='bold')
 # plt.legend(loc="upper left")
 
@@ -169,28 +169,28 @@ plt.bar(x[-1], y[-1], width, alpha=0.9, color='#FF9232',
 plt.bar(x[-1] + width, y1[-1], width, alpha=0.9, color='#2EA12E',
         edgecolor='k', linestyle='dashed')
 # 将坐标设置在指定位置
-plt.xticks(x2+width/2, x1labels)
-plt.ylabel('Savings (billion USD)')
-plt.xlabel('Year')
-plt.yticks(np.linspace(0, 0.6*10**6, 7), range(0, 601, 100))
-plt.text(0, 1.05*0.6*10**6, 'Wind power')
-plt.text(18.8, 0.3*10**6, int(y[-1]/10**3))
-plt.text(19.5, 0.55*10**6, int(y1[-1]/10**3))
+plt.xticks(x2+width/2, x1labels, fontsize=13)
+plt.ylabel('Savings (billion $)', fontsize=15)
+plt.xlabel('Year', fontsize=15)
+plt.yticks(np.linspace(0, 0.6*10**6, 7), range(0, 601, 100), fontsize=15)
+plt.text(0, 1.05*0.6*10**6, 'Wind power', fontsize=15)
+plt.text(18.5, 0.3*10**6, int(y[-1]/10**3), fontsize=15)
+plt.text(19.5, 0.55*10**6, int(y1[-1]/10**3), fontsize=15)
 ax2 = ax1.twinx()
 x3 = x2+width/2
 lns3, = ax2.plot(x3[:-1], q2030[1:13], color='k', marker='.', label='Cumulative installed capacity')
 ax2.plot(x3[-2:], q2030[12:], color='k', marker='.', linestyle=':')
 ax2.set_ylim(0, 3*10**3)
-ax2.set_yticks(np.linspace(0, 3*10**3, 4), range(0, 4, 1))
-ax2.set_ylabel('Cumulative installed capacity (TW)', y=1.15)
+ax2.set_yticks(np.linspace(0, 3*10**3, 4), range(0, 4, 1), fontsize=15)
+ax2.set_ylabel('Cumulative installed capacity (TW)', y=1.15, fontsize=15)
 lns = [lns1, lns2, lns3]
 labs = [l.get_label() for l in lns]
-ax1.legend(lns, labs, loc='upper left', frameon=False)
+ax1.legend(lns, labs, loc='upper left', frameon=False, fontsize=15)
 plt.text(-3, 3*10**3*1.05, 'c.', fontsize=25, fontweight='bold')
 # plt.legend(loc="upper left")
 
-plt.subplot(grid[2:6,3:])
-plt.ylabel('Annual investment demand of renewable energy (bn USD)')
+plt.subplot(grid[2:6, 3:])
+plt.ylabel('Annual investment demand of renewable energy (billion $)', fontsize=15)
 fidemand = 1300
 finow = 486
 width=0.15
@@ -212,14 +212,14 @@ plt.bar(start+width, finalsavings[1], width, alpha=0.9, label="TwC scenario", co
         bottom=fidemand, edgecolor='k', linestyle='dashed')
 plt.vlines(0.7, ymin=finow, ymax=fidemand, color='#FF9232')
 plt.vlines(0.9, ymin=finow, ymax=fidemand, color='#2EA12E')
-plt.text(0.7, 1330, 'gap=0%')
-plt.text(0.7, 430, 'gap=100%')
+plt.text(0.7, 1330, 'gap=0%', fontsize=13)
+plt.text(0.7, 430, 'gap=100%', fontsize=13)
 plt.vlines(1.1, ymin=fidemand, ymax=fidemand+finalsavings[0], color='#FF9232', linestyles='dashed')
 plt.vlines(1.3, ymin=fidemand, ymax=fidemand+finalsavings[1], color='#2EA12E', linestyles='dashed')
-plt.text(1.1, 1250, '\u0394'+'gap={}%'.format(int(finalsavings[0]/fidemand*100)))
-plt.text(1.4, 1350, '\u0394'+'gap={}%'.format(int(finalsavings[1]/fidemand*100)))
+plt.text(1.1, 1250, '\u0394'+'gap={}%'.format(int(finalsavings[0]/fidemand*100)), fontsize=13)
+plt.text(1.4, 1350, '\u0394'+'gap={}%'.format(int(finalsavings[1]/fidemand*100)), fontsize=13)
 plt.xticks([])
-plt.legend(loc='lower right', frameon=False)
+plt.legend(loc='lower right', frameon=False, fontsize=13)
 plt.text(-0.5, 1600*1.025, 'd.', fontsize=25, fontweight='bold')
 
-plt.savefig(r'Figs/Figure_2.jpg', dpi=600)
+plt.savefig(r'Figs/Figure_2.jpg', dpi=300)
