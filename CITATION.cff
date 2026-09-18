@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and identify this replication-package version."
+type: software
+title: "ChinaContribution: replication package for Cost Spillovers in Solar and Wind Power: Mechanism Decomposition and Economic Implications"
+version: "2026.09.18"
+date-released: 2026-09-18
+authors:
+  - family-names: Guan
+    given-names: Yusheng
+  - family-names: An
+    given-names: Kangxin
+  - family-names: Zhang
+    given-names: Shihui
+  - family-names: Wang
+    given-names: Can
+  - family-names: He
+    given-names: Kebin
+abstract: "Prepared data, calculation code, plotting code and final scenario results for the revised manuscript."

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.DS_Store
+Thumbs.db
+.env
+*.log
+**/matplotlib_cache/
+**/mpl_config/
+cge/logs/
+cge/equilibria_final/fiveyear_2050/trial_*/

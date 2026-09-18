@@ -1,0 +1,26 @@
+﻿technology,iso3,country,country_cn,flows2010_2024_unchanged,F2008,F2009,missing_early_years,early_missing_count
+pv,AUS,Australia,澳大利亚,True,10.0,13.0,,0
+pv,BRA,Brazil,巴西,True,4.0,1.0,,0
+pv,CHN,China,中国,True,874.0,1448.0,,0
+pv,DEU,Germany,德国,True,129.0,174.0,,0
+pv,ESP,Spain,西班牙,True,16.0,25.0,,0
+pv,FRA,France,法国,True,38.0,73.0,,0
+pv,IND,India,印度,True,0.0,0.0,"2008,2009",2
+pv,ITA,Italy,意大利,True,20.0,40.0,,0
+pv,JPN,Japan,日本,True,614.0,1034.0,,0
+pv,KOR,South Korea,韩国,True,728.0,1346.0,,0
+pv,USA,United States,美国,True,490.0,619.0,,0
+wind,AUS,Australia,澳大利亚,True,1.0,0.0,2009,1
+wind,BRA,Brazil,巴西,True,4.0,3.0,,0
+wind,CAN,Canada,加拿大,True,1.0,1.0,,0
+wind,CHN,China,中国,True,30.0,45.0,,0
+wind,DEU,Germany,德国,True,8.0,4.0,,0
+wind,ESP,Spain,西班牙,True,1.0,0.0,2009,1
+wind,FRA,France,法国,True,1.0,2.0,,0
+wind,GBR,United Kingdom,英国,True,0.0,0.0,"2008,2009",2
+wind,IND,India,印度,True,0.0,0.0,"2008,2009",2
+wind,ITA,Italy,意大利,True,1.0,3.0,,0
+wind,POL,Poland,波兰,True,1.0,0.0,2009,1
+wind,SWE,Sweden,瑞典,True,1.0,0.0,2009,1
+wind,TUR,Turkey,土耳其,True,0.0,0.0,"2008,2009",2
+wind,USA,United States,美国,True,16.0,28.0,,0

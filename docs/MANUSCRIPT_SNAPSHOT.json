@@ -1,0 +1,22 @@
+{
+  "release": "2026-09-18",
+  "documents_not_distributed": true,
+  "sources": [
+    {
+      "file": "Manuscript_revised_clean.docx",
+      "sha256": "4921c1656eb81cb6b97ce9f519fba8c1437b90256405df0af4060053246a031e"
+    },
+    {
+      "file": "Manuscript_revised_track_changes.docx",
+      "sha256": "c10170bc85f07ea57962088aae7b156e3f570490e09e3bb5af789e2b0b217abe"
+    },
+    {
+      "file": "SI_revised_clean.docx",
+      "sha256": "5ca0931dc8efb15692aa3736341d2a086aff244ed47046dda3f8b39dbad630b7"
+    },
+    {
+      "file": "SI_revised_track_changes.docx",
+      "sha256": "6c4bd9e3fe4dc17279d40361e4cc80dbf01b2b925a0e3ff282d21fb1b6a4ee0c"
+    }
+  ]
+}

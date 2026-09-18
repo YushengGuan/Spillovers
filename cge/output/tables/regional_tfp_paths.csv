@@ -1,0 +1,1225 @@
+﻿year,source_year,region,technology,baseline_tfp,cf_tfp,tfp_multiplier,alpha,mapping_status,countries
+2017,2017,Australia_Oceania,pv,1.0,0.5458502601810682,0.5458502601810682,1.0,historical_net_same_country_paths_as_section31,AUS
+2017,2017,China,pv,1.0,1.0,1.0,1.0,China_no_inward_shock,CHN
+2017,2017,Japan,pv,1.0,0.6858374096085579,0.6858374096085579,1.0,historical_net_same_country_paths_as_section31,JPN
+2017,2017,South Korea,pv,1.0,0.6906568379622727,0.6906568379622727,1.0,historical_net_same_country_paths_as_section31,KOR
+2017,2017,Rest of World,pv,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,Southeast Asia,pv,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,"Central, Western and South Asia",pv,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,India,pv,1.0,0.4287712488972319,0.4287712488972319,1.0,historical_net_same_country_paths_as_section31,IND
+2017,2017,Canada,pv,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,United States,pv,1.0,0.7119568256305583,0.7119568256305583,1.0,historical_net_same_country_paths_as_section31,USA
+2017,2017,Rest of America,pv,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,Brazil,pv,1.0,0.5127790988443778,0.5127790988443778,1.0,historical_net_same_country_paths_as_section31,BRA
+2017,2017,"EU, UK and EFTA",pv,1.0,0.7040990147730306,0.7040990147730306,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2017,2017,Eastern Europe,pv,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,Russia,pv,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,North Africa,pv,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,Sub Saharan,pv,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,South Africa,pv,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,Australia_Oceania,pv,1.1504093159625448,0.5797305630904406,0.5039341693833393,1.0,historical_net_same_country_paths_as_section31,AUS
+2018,2018,China,pv,1.3156796915731783,1.3156796915731783,1.0,1.0,China_no_inward_shock,CHN
+2018,2018,Japan,pv,1.068380806132996,0.7155382668761272,0.6697408478031515,1.0,historical_net_same_country_paths_as_section31,JPN
+2018,2018,South Korea,pv,1.095099367575737,0.7628118156924686,0.6965685838912811,1.0,historical_net_same_country_paths_as_section31,KOR
+2018,2018,Rest of World,pv,1.1356951850384935,1.1356951850384935,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,Southeast Asia,pv,1.1356951850384935,1.1356951850384935,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,"Central, Western and South Asia",pv,1.1356951850384935,1.1356951850384935,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,India,pv,1.0836823035069318,0.4773967856726173,0.4405320490402966,1.0,historical_net_same_country_paths_as_section31,IND
+2018,2018,Canada,pv,1.1356951850384935,1.1356951850384935,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,United States,pv,1.028563603934331,0.7823019212498323,0.7605770982537882,1.0,historical_net_same_country_paths_as_section31,USA
+2018,2018,Rest of America,pv,1.1356951850384935,1.1356951850384935,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,Brazil,pv,1.1791714415080066,0.5469199831330062,0.4638171888165531,1.0,historical_net_same_country_paths_as_section31,BRA
+2018,2018,"EU, UK and EFTA",pv,1.1314030033422355,0.7474386902979735,0.6606299330035298,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2018,2018,Eastern Europe,pv,1.1356951850384935,1.1356951850384935,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,Russia,pv,1.1356951850384935,1.1356951850384935,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,North Africa,pv,1.1356951850384935,1.1356951850384935,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,Sub Saharan,pv,1.1356951850384935,1.1356951850384935,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,South Africa,pv,1.1356951850384935,1.1356951850384935,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,Australia_Oceania,pv,1.3432819612038829,0.6172361071411808,0.4594985453299756,1.0,historical_net_same_country_paths_as_section31,AUS
+2019,2019,China,pv,1.4562288200534756,1.4562288200534756,1.0,1.0,China_no_inward_shock,CHN
+2019,2019,Japan,pv,1.1693625118292446,0.7360521039284036,0.629447324061202,1.0,historical_net_same_country_paths_as_section31,JPN
+2019,2019,South Korea,pv,1.236817176059272,0.8026914790315394,0.6489976809580399,1.0,historical_net_same_country_paths_as_section31,KOR
+2019,2019,Rest of World,pv,1.2762246060896398,1.2762246060896398,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,Southeast Asia,pv,1.2762246060896398,1.2762246060896398,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,"Central, Western and South Asia",pv,1.2762246060896398,1.2762246060896398,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,India,pv,1.239854679862658,0.5177475444121384,0.4175872808493094,1.0,historical_net_same_country_paths_as_section31,IND
+2019,2019,Canada,pv,1.2762246060896398,1.2762246060896398,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,United States,pv,1.172567447891933,0.9311240411965552,0.7940899629019637,1.0,historical_net_same_country_paths_as_section31,USA
+2019,2019,Rest of America,pv,1.2762246060896398,1.2762246060896398,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,Brazil,pv,1.417001757494074,0.5989933572839599,0.4227188527579966,1.0,historical_net_same_country_paths_as_section31,BRA
+2019,2019,"EU, UK and EFTA",pv,1.3910216651758762,0.7164415852585857,0.5150470357109795,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2019,2019,Eastern Europe,pv,1.2762246060896398,1.2762246060896398,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,Russia,pv,1.2762246060896398,1.2762246060896398,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,North Africa,pv,1.2762246060896398,1.2762246060896398,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,Sub Saharan,pv,1.2762246060896398,1.2762246060896398,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,South Africa,pv,1.2762246060896398,1.2762246060896398,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,Australia_Oceania,pv,1.5185646951817762,0.6644831552860846,0.4375731619432547,1.0,historical_net_same_country_paths_as_section31,AUS
+2020,2020,China,pv,1.7992140675587056,1.7992140675587056,1.0,1.0,China_no_inward_shock,CHN
+2020,2020,Japan,pv,1.248713696037365,0.7508464563696566,0.6012959245601076,1.0,historical_net_same_country_paths_as_section31,JPN
+2020,2020,South Korea,pv,1.343450622090075,0.9012278604769712,0.6708306547767903,1.0,historical_net_same_country_paths_as_section31,KOR
+2020,2020,Rest of World,pv,1.4326117611494549,1.4326117611494549,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,Southeast Asia,pv,1.4326117611494549,1.4326117611494549,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,"Central, Western and South Asia",pv,1.4326117611494549,1.4326117611494549,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,India,pv,1.4672618077107489,0.5250642879922969,0.3578531692387691,1.0,historical_net_same_country_paths_as_section31,IND
+2020,2020,Canada,pv,1.4326117611494549,1.4326117611494549,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,United States,pv,1.325561698898661,1.0182709971539587,0.768180762917325,1.0,historical_net_same_country_paths_as_section31,USA
+2020,2020,Rest of America,pv,1.4326117611494549,1.4326117611494549,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,Brazil,pv,1.6551717384261375,0.6489175429331331,0.3920545088270858,1.0,historical_net_same_country_paths_as_section31,BRA
+2020,2020,"EU, UK and EFTA",pv,1.54874692773943,0.7392098657032014,0.4772954525128008,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2020,2020,Eastern Europe,pv,1.4326117611494549,1.4326117611494549,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,Russia,pv,1.4326117611494549,1.4326117611494549,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,North Africa,pv,1.4326117611494549,1.4326117611494549,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,Sub Saharan,pv,1.4326117611494549,1.4326117611494549,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,South Africa,pv,1.4326117611494549,1.4326117611494549,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,Australia_Oceania,pv,1.5752725944567003,0.6986504976380113,0.4435108565314504,1.0,historical_net_same_country_paths_as_section31,AUS
+2021,2021,China,pv,1.9310987520576288,1.9310987520576288,1.0,1.0,China_no_inward_shock,CHN
+2021,2021,Japan,pv,1.2389833126579404,0.818616099545795,0.66071600091986,1.0,historical_net_same_country_paths_as_section31,JPN
+2021,2021,South Korea,pv,1.3987977944385424,0.998075902214052,0.713524074875072,1.0,historical_net_same_country_paths_as_section31,KOR
+2021,2021,Rest of World,pv,1.57647951881605,1.57647951881605,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,Southeast Asia,pv,1.57647951881605,1.57647951881605,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,"Central, Western and South Asia",pv,1.57647951881605,1.57647951881605,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,India,pv,1.462202919946118,0.5466743549803792,0.3738703756661381,1.0,historical_net_same_country_paths_as_section31,IND
+2021,2021,Canada,pv,1.57647951881605,1.57647951881605,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,United States,pv,1.3808565085047508,1.0932713959285285,0.7917342527590852,1.0,historical_net_same_country_paths_as_section31,USA
+2021,2021,Rest of America,pv,1.57647951881605,1.57647951881605,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,Brazil,pv,1.7386257099892657,0.726975414175899,0.4181322121253961,1.0,historical_net_same_country_paths_as_section31,BRA
+2021,2021,"EU, UK and EFTA",pv,1.521398528330702,0.7616576030104418,0.500629906515121,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2021,2021,Eastern Europe,pv,1.57647951881605,1.57647951881605,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,Russia,pv,1.57647951881605,1.57647951881605,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,North Africa,pv,1.57647951881605,1.57647951881605,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,Sub Saharan,pv,1.57647951881605,1.57647951881605,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,South Africa,pv,1.57647951881605,1.57647951881605,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,Australia_Oceania,pv,1.7482044383303728,0.7369201924318879,0.4215297572037315,1.0,historical_net_same_country_paths_as_section31,AUS
+2022,2022,China,pv,1.814586795163984,1.814586795163984,1.0,1.0,China_no_inward_shock,CHN
+2022,2022,Japan,pv,1.3190436941124013,0.775988109965126,0.5882959855149429,1.0,historical_net_same_country_paths_as_section31,JPN
+2022,2022,South Korea,pv,1.6222095347932453,0.8806157887786623,0.5428495948834988,1.0,historical_net_same_country_paths_as_section31,KOR
+2022,2022,Rest of World,pv,1.7701891530347975,1.7701891530347975,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,Southeast Asia,pv,1.7701891530347975,1.7701891530347975,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,"Central, Western and South Asia",pv,1.7701891530347975,1.7701891530347975,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,India,pv,1.4897037098361072,0.5265369191006892,0.3534507671720958,1.0,historical_net_same_country_paths_as_section31,IND
+2022,2022,Canada,pv,1.7701891530347975,1.7701891530347975,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,United States,pv,1.5407431673300849,1.2060213270719946,0.7827529939086986,1.0,historical_net_same_country_paths_as_section31,USA
+2022,2022,Rest of America,pv,1.7701891530347975,1.7701891530347975,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,Brazil,pv,1.9744113938559944,0.777733632594126,0.3939065764178074,1.0,historical_net_same_country_paths_as_section31,BRA
+2022,2022,"EU, UK and EFTA",pv,1.704694358417174,0.7162653455842629,0.4201722977773696,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2022,2022,Eastern Europe,pv,1.7701891530347975,1.7701891530347975,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,Russia,pv,1.7701891530347975,1.7701891530347975,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,North Africa,pv,1.7701891530347975,1.7701891530347975,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,Sub Saharan,pv,1.7701891530347975,1.7701891530347975,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,South Africa,pv,1.7701891530347975,1.7701891530347975,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,Australia_Oceania,pv,2.2678798722618585,0.7349716228476127,0.3240787273774746,1.0,historical_net_same_country_paths_as_section31,AUS
+2023,2023,China,pv,2.005165113831111,2.005165113831111,1.0,1.0,China_no_inward_shock,CHN
+2023,2023,Japan,pv,1.512911227480069,0.772543227802465,0.5106335479373938,1.0,historical_net_same_country_paths_as_section31,JPN
+2023,2023,South Korea,pv,1.956662882113016,0.9005434257709743,0.4602445490244443,1.0,historical_net_same_country_paths_as_section31,KOR
+2023,2023,Rest of World,pv,1.9769721726368048,1.9769721726368048,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,Southeast Asia,pv,1.9769721726368048,1.9769721726368048,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,"Central, Western and South Asia",pv,1.9769721726368048,1.9769721726368048,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,India,pv,1.8236286377317623,0.5776619023787556,0.3167650970305303,1.0,historical_net_same_country_paths_as_section31,IND
+2023,2023,Canada,pv,1.9769721726368048,1.9769721726368048,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,United States,pv,1.8862956139639944,1.3326248179226108,0.7064771863208329,1.0,historical_net_same_country_paths_as_section31,USA
+2023,2023,Rest of America,pv,1.9769721726368048,1.9769721726368048,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,Brazil,pv,2.7157744607873187,0.7943186940433284,0.2924833065162012,1.0,historical_net_same_country_paths_as_section31,BRA
+2023,2023,"EU, UK and EFTA",pv,2.1947611730900976,0.7379877429011212,0.3362496803522712,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2023,2023,Eastern Europe,pv,1.9769721726368048,1.9769721726368048,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,Russia,pv,1.9769721726368048,1.9769721726368048,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,North Africa,pv,1.9769721726368048,1.9769721726368048,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,Sub Saharan,pv,1.9769721726368048,1.9769721726368048,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,South Africa,pv,1.9769721726368048,1.9769721726368048,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2024,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2024,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2024,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2024,2024,Rest of World,pv,2.2296602318774736,2.2296602318774736,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,Southeast Asia,pv,2.2296602318774736,2.2296602318774736,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,"Central, Western and South Asia",pv,2.2296602318774736,2.2296602318774736,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2024,2024,Canada,pv,2.2296602318774736,2.2296602318774736,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2024,2024,Rest of America,pv,2.2296602318774736,2.2296602318774736,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2024,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2024,2024,Eastern Europe,pv,2.2296602318774736,2.2296602318774736,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,Russia,pv,2.2296602318774736,2.2296602318774736,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,North Africa,pv,2.2296602318774736,2.2296602318774736,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,Sub Saharan,pv,2.2296602318774736,2.2296602318774736,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,South Africa,pv,2.2296602318774736,2.2296602318774736,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2025,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2025,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2025,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2025,2024,Rest of World,pv,2.525219108342481,2.525219108342481,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,Southeast Asia,pv,2.525219108342481,2.525219108342481,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,"Central, Western and South Asia",pv,2.525219108342481,2.525219108342481,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2025,2024,Canada,pv,2.525219108342481,2.525219108342481,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2025,2024,Rest of America,pv,2.525219108342481,2.525219108342481,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2025,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2025,2024,Eastern Europe,pv,2.525219108342481,2.525219108342481,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,Russia,pv,2.525219108342481,2.525219108342481,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,North Africa,pv,2.525219108342481,2.525219108342481,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,Sub Saharan,pv,2.525219108342481,2.525219108342481,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,South Africa,pv,2.525219108342481,2.525219108342481,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2026,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2026,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2026,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2026,2024,Rest of World,pv,2.8272305866285645,2.8272305866285645,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,Southeast Asia,pv,2.8272305866285645,2.8272305866285645,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,"Central, Western and South Asia",pv,2.8272305866285645,2.8272305866285645,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2026,2024,Canada,pv,2.8272305866285645,2.8272305866285645,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2026,2024,Rest of America,pv,2.8272305866285645,2.8272305866285645,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2026,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2026,2024,Eastern Europe,pv,2.8272305866285645,2.8272305866285645,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,Russia,pv,2.8272305866285645,2.8272305866285645,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,North Africa,pv,2.8272305866285645,2.8272305866285645,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,Sub Saharan,pv,2.8272305866285645,2.8272305866285645,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,South Africa,pv,2.8272305866285645,2.8272305866285645,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2027,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2027,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2027,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2027,2024,Rest of World,pv,3.122413343643028,3.122413343643028,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,Southeast Asia,pv,3.122413343643028,3.122413343643028,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,"Central, Western and South Asia",pv,3.122413343643028,3.122413343643028,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2027,2024,Canada,pv,3.122413343643028,3.122413343643028,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2027,2024,Rest of America,pv,3.122413343643028,3.122413343643028,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2027,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2027,2024,Eastern Europe,pv,3.122413343643028,3.122413343643028,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,Russia,pv,3.122413343643028,3.122413343643028,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,North Africa,pv,3.122413343643028,3.122413343643028,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,Sub Saharan,pv,3.122413343643028,3.122413343643028,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,South Africa,pv,3.122413343643028,3.122413343643028,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2028,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2028,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2028,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2028,2024,Rest of World,pv,3.394447272279185,3.394447272279185,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,Southeast Asia,pv,3.394447272279185,3.394447272279185,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,"Central, Western and South Asia",pv,3.394447272279185,3.394447272279185,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2028,2024,Canada,pv,3.394447272279185,3.394447272279185,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2028,2024,Rest of America,pv,3.394447272279185,3.394447272279185,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2028,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2028,2024,Eastern Europe,pv,3.394447272279185,3.394447272279185,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,Russia,pv,3.394447272279185,3.394447272279185,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,North Africa,pv,3.394447272279185,3.394447272279185,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,Sub Saharan,pv,3.394447272279185,3.394447272279185,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,South Africa,pv,3.394447272279185,3.394447272279185,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2029,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2029,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2029,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2029,2024,Rest of World,pv,3.6271486857506927,3.6271486857506927,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,Southeast Asia,pv,3.6271486857506927,3.6271486857506927,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,"Central, Western and South Asia",pv,3.6271486857506927,3.6271486857506927,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2029,2024,Canada,pv,3.6271486857506927,3.6271486857506927,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2029,2024,Rest of America,pv,3.6271486857506927,3.6271486857506927,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2029,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2029,2024,Eastern Europe,pv,3.6271486857506927,3.6271486857506927,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,Russia,pv,3.6271486857506927,3.6271486857506927,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,North Africa,pv,3.6271486857506927,3.6271486857506927,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,Sub Saharan,pv,3.6271486857506927,3.6271486857506927,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,South Africa,pv,3.6271486857506927,3.6271486857506927,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2030,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2030,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2030,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2030,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2030,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2030,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2030,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2030,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2031,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2031,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2031,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2031,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2031,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2031,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2031,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2031,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2032,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2032,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2032,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2032,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2032,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2032,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2032,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2032,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2033,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2033,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2033,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2033,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2033,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2033,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2033,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2033,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2034,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2034,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2034,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2034,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2034,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2034,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2034,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2034,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2035,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2035,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2035,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2035,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2035,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2035,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2035,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2035,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2036,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2036,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2036,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2036,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2036,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2036,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2036,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2036,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2037,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2037,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2037,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2037,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2037,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2037,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2037,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2037,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2038,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2038,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2038,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2038,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2038,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2038,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2038,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2038,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2039,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2039,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2039,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2039,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2039,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2039,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2039,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2039,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2040,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2040,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2040,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2040,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2040,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2040,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2040,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2040,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2041,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2041,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2041,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2041,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2041,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2041,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2041,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2041,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2042,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2042,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2042,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2042,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2042,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2042,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2042,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2042,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2043,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2043,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2043,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2043,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2043,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2043,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2043,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2043,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2044,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2044,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2044,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2044,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2044,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2044,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2044,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2044,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2045,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2045,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2045,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2045,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2045,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2045,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2045,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2045,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2046,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2046,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2046,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2046,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2046,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2046,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2046,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2046,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2047,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2047,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2047,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2047,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2047,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2047,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2047,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2047,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2048,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2048,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2048,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2048,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2048,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2048,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2048,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2048,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2049,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2049,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2049,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2049,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2049,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2049,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2049,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2049,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,Australia_Oceania,pv,2.9302684460156763,0.7403061488355559,0.252641067695405,1.0,historical_net_same_country_paths_as_section31,AUS
+2050,2024,China,pv,2.333049287331037,2.333049287331037,1.0,1.0,China_no_inward_shock,CHN
+2050,2024,Japan,pv,1.7243486380180186,0.7681543390088242,0.4454750750937162,1.0,historical_net_same_country_paths_as_section31,JPN
+2050,2024,South Korea,pv,2.356775620528416,0.8807555807090052,0.3737121060814138,1.0,historical_net_same_country_paths_as_section31,KOR
+2050,2024,Rest of World,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,Southeast Asia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,"Central, Western and South Asia",pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,India,pv,2.773945296316803,0.5583232001243201,0.2012740485061663,1.0,historical_net_same_country_paths_as_section31,IND
+2050,2024,Canada,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,United States,pv,2.331060095783817,1.4656106697954554,0.6287313966921324,1.0,historical_net_same_country_paths_as_section31,USA
+2050,2024,Rest of America,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,Brazil,pv,3.754880269028203,0.7938969597191157,0.2114306989406571,1.0,historical_net_same_country_paths_as_section31,BRA
+2050,2024,"EU, UK and EFTA",pv,2.817843151948113,0.7588472172849395,0.2693007298011996,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,ITA"
+2050,2024,Eastern Europe,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,Russia,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,North Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,Sub Saharan,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,South Africa,pv,3.8105834511056513,3.8105834511056513,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,Australia_Oceania,wind,1.0,0.9047175630467402,0.9047175630467402,1.0,historical_net_same_country_paths_as_section31,AUS
+2017,2017,China,wind,1.0,1.0,1.0,1.0,China_no_inward_shock,CHN
+2017,2017,Japan,wind,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,South Korea,wind,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,Rest of World,wind,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,Southeast Asia,wind,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,"Central, Western and South Asia",wind,1.0,0.9346711362320588,0.9346711362320588,1.0,historical_net_same_country_paths_as_section31,TUR
+2017,2017,India,wind,1.0,0.881741948770488,0.881741948770488,1.0,historical_net_same_country_paths_as_section31,IND
+2017,2017,Canada,wind,1.0,0.9671170255566776,0.9671170255566776,1.0,historical_net_same_country_paths_as_section31,CAN
+2017,2017,United States,wind,1.0,0.8465745756455881,0.8465745756455881,1.0,historical_net_same_country_paths_as_section31,USA
+2017,2017,Rest of America,wind,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,Brazil,wind,1.0,0.9715420521424664,0.9715420521424664,1.0,historical_net_same_country_paths_as_section31,BRA
+2017,2017,"EU, UK and EFTA",wind,1.0,0.9363722696657152,0.9363722696657152,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2017,2017,Eastern Europe,wind,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,Russia,wind,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,North Africa,wind,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,Sub Saharan,wind,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2017,2017,South Africa,wind,1.0,1.0,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,Australia_Oceania,wind,1.0042615700495785,0.9474209979948568,0.9434006301247636,1.0,historical_net_same_country_paths_as_section31,AUS
+2018,2018,China,wind,0.96512122746036,0.96512122746036,1.0,1.0,China_no_inward_shock,CHN
+2018,2018,Japan,wind,1.029266442949972,1.029266442949972,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,South Korea,wind,1.029266442949972,1.029266442949972,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,Rest of World,wind,1.029266442949972,1.029266442949972,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,Southeast Asia,wind,1.029266442949972,1.029266442949972,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,"Central, Western and South Asia",wind,1.033774846923405,0.9587536189570526,0.9274298187950486,1.0,historical_net_same_country_paths_as_section31,TUR
+2018,2018,India,wind,0.9889626231810912,0.90870958158098,0.9188512895037736,1.0,historical_net_same_country_paths_as_section31,IND
+2018,2018,Canada,wind,1.0481754455135133,0.9552019091524364,0.9112996428612884,1.0,historical_net_same_country_paths_as_section31,CAN
+2018,2018,United States,wind,0.9533364410741504,0.9218950298966168,0.9670196062765548,1.0,historical_net_same_country_paths_as_section31,USA
+2018,2018,Rest of America,wind,1.029266442949972,1.029266442949972,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,Brazil,wind,1.0236006318262951,1.0029912494920667,0.9798657975645664,1.0,historical_net_same_country_paths_as_section31,BRA
+2018,2018,"EU, UK and EFTA",wind,1.0403775491735674,0.9458983013583322,0.9091875368799668,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2018,2018,Eastern Europe,wind,1.029266442949972,1.029266442949972,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,Russia,wind,1.029266442949972,1.029266442949972,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,North Africa,wind,1.029266442949972,1.029266442949972,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,Sub Saharan,wind,1.029266442949972,1.029266442949972,1.0,1.0,uncovered_neutral_legacy_reference,
+2018,2018,South Africa,wind,1.029266442949972,1.029266442949972,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,Australia_Oceania,wind,1.2453456878829927,0.9507664129672222,0.7634558197117651,1.0,historical_net_same_country_paths_as_section31,AUS
+2019,2019,China,wind,1.0201561109551167,1.0201561109551167,1.0,1.0,China_no_inward_shock,CHN
+2019,2019,Japan,wind,1.0601115256382934,1.0601115256382934,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,South Korea,wind,1.0601115256382934,1.0601115256382934,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,Rest of World,wind,1.0601115256382934,1.0601115256382934,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,Southeast Asia,wind,1.0601115256382934,1.0601115256382934,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,"Central, Western and South Asia",wind,1.0250821648815642,0.97826036762227,0.9543238592345384,1.0,historical_net_same_country_paths_as_section31,TUR
+2019,2019,India,wind,1.0489174227060194,0.9163909832576204,0.8736540774520606,1.0,historical_net_same_country_paths_as_section31,IND
+2019,2019,Canada,wind,1.2457568947860005,0.9431923161265392,0.7571238979885908,1.0,historical_net_same_country_paths_as_section31,CAN
+2019,2019,United States,wind,1.000753218987451,0.9453095616216488,0.944598072417994,1.0,historical_net_same_country_paths_as_section31,USA
+2019,2019,Rest of America,wind,1.0601115256382934,1.0601115256382934,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,Brazil,wind,1.0642438435751902,1.0304481682195568,0.968244424847128,1.0,historical_net_same_country_paths_as_section31,BRA
+2019,2019,"EU, UK and EFTA",wind,1.086716140329446,0.9675919266784552,0.8903814812073395,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2019,2019,Eastern Europe,wind,1.0601115256382934,1.0601115256382934,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,Russia,wind,1.0601115256382934,1.0601115256382934,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,North Africa,wind,1.0601115256382934,1.0601115256382934,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,Sub Saharan,wind,1.0601115256382934,1.0601115256382934,1.0,1.0,uncovered_neutral_legacy_reference,
+2019,2019,South Africa,wind,1.0601115256382934,1.0601115256382934,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,Australia_Oceania,wind,1.3982047481686823,1.0109330501977405,0.7230221836407177,1.0,historical_net_same_country_paths_as_section31,AUS
+2020,2020,China,wind,0.9982622444332242,0.9982622444332242,1.0,1.0,China_no_inward_shock,CHN
+2020,2020,Japan,wind,1.115564755547483,1.115564755547483,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,South Korea,wind,1.115564755547483,1.115564755547483,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,Rest of World,wind,1.115564755547483,1.115564755547483,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,Southeast Asia,wind,1.115564755547483,1.115564755547483,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,"Central, Western and South Asia",wind,1.1647953238536188,0.9746012861451068,0.8367146280436012,1.0,historical_net_same_country_paths_as_section31,TUR
+2020,2020,India,wind,1.0599814428554613,0.9694071173555536,0.9145510271803332,1.0,historical_net_same_country_paths_as_section31,IND
+2020,2020,Canada,wind,1.397423624682244,0.9537268833002038,0.6824894516271464,1.0,historical_net_same_country_paths_as_section31,CAN
+2020,2020,United States,wind,1.0876246798205296,0.8864638917678497,0.8150457673635415,1.0,historical_net_same_country_paths_as_section31,USA
+2020,2020,Rest of America,wind,1.115564755547483,1.115564755547483,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,Brazil,wind,1.181386997077429,1.1287942735044465,0.9554822224189964,1.0,historical_net_same_country_paths_as_section31,BRA
+2020,2020,"EU, UK and EFTA",wind,1.1354157770677904,0.9873345151042944,0.8695797037928117,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2020,2020,Eastern Europe,wind,1.115564755547483,1.115564755547483,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,Russia,wind,1.115564755547483,1.115564755547483,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,North Africa,wind,1.115564755547483,1.115564755547483,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,Sub Saharan,wind,1.115564755547483,1.115564755547483,1.0,1.0,uncovered_neutral_legacy_reference,
+2020,2020,South Africa,wind,1.115564755547483,1.115564755547483,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,Australia_Oceania,wind,1.403260139986059,1.0623983516309523,0.7570929447490092,1.0,historical_net_same_country_paths_as_section31,AUS
+2021,2021,China,wind,1.1295623504400392,1.1295623504400392,1.0,1.0,China_no_inward_shock,CHN
+2021,2021,Japan,wind,1.1575730575531356,1.1575730575531356,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,South Korea,wind,1.1575730575531356,1.1575730575531356,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,Rest of World,wind,1.1575730575531356,1.1575730575531356,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,Southeast Asia,wind,1.1575730575531356,1.1575730575531356,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,"Central, Western and South Asia",wind,1.1105598390237938,1.038557370311799,0.9351656109091008,1.0,historical_net_same_country_paths_as_section31,TUR
+2021,2021,India,wind,1.1264371683773662,0.9529255682704074,0.8459642446307926,1.0,historical_net_same_country_paths_as_section31,IND
+2021,2021,Canada,wind,1.4608589796309537,0.9721035409399428,0.6654328408793561,1.0,historical_net_same_country_paths_as_section31,CAN
+2021,2021,United States,wind,1.0976865710183246,0.9751254400633064,0.8883459685205786,1.0,historical_net_same_country_paths_as_section31,USA
+2021,2021,Rest of America,wind,1.1575730575531356,1.1575730575531356,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,Brazil,wind,1.6011549369132592,1.1119960203433814,0.6944962006532055,1.0,historical_net_same_country_paths_as_section31,BRA
+2021,2021,"EU, UK and EFTA",wind,1.2164845626133838,1.003126023060518,0.8246105654686602,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2021,2021,Eastern Europe,wind,1.1575730575531356,1.1575730575531356,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,Russia,wind,1.1575730575531356,1.1575730575531356,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,North Africa,wind,1.1575730575531356,1.1575730575531356,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,Sub Saharan,wind,1.1575730575531356,1.1575730575531356,1.0,1.0,uncovered_neutral_legacy_reference,
+2021,2021,South Africa,wind,1.1575730575531356,1.1575730575531356,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,Australia_Oceania,wind,1.3958558798102625,1.1846751356058285,0.8487087762719892,1.0,historical_net_same_country_paths_as_section31,AUS
+2022,2022,China,wind,1.268500813918344,1.268500813918344,1.0,1.0,China_no_inward_shock,CHN
+2022,2022,Japan,wind,1.1891570980843862,1.1891570980843862,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,South Korea,wind,1.1891570980843862,1.1891570980843862,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,Rest of World,wind,1.1891570980843862,1.1891570980843862,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,Southeast Asia,wind,1.1891570980843862,1.1891570980843862,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,"Central, Western and South Asia",wind,1.261797204114802,1.0236539465315042,0.8112666149467622,1.0,historical_net_same_country_paths_as_section31,TUR
+2022,2022,India,wind,1.2175911179580283,0.9271795352575054,0.7614867762935392,1.0,historical_net_same_country_paths_as_section31,IND
+2022,2022,Canada,wind,1.5030302537388245,0.9937306606819828,0.6611514693134443,1.0,historical_net_same_country_paths_as_section31,CAN
+2022,2022,United States,wind,1.2343906104193665,0.9126617690352108,0.7393622094428823,1.0,historical_net_same_country_paths_as_section31,USA
+2022,2022,Rest of America,wind,1.1891570980843862,1.1891570980843862,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,Brazil,wind,1.8152499075381596,1.092015094154874,0.6015783775115924,1.0,historical_net_same_country_paths_as_section31,BRA
+2022,2022,"EU, UK and EFTA",wind,1.2390641282670578,1.0339072224995074,0.8344259178461726,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2022,2022,Eastern Europe,wind,1.1891570980843862,1.1891570980843862,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,Russia,wind,1.1891570980843862,1.1891570980843862,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,North Africa,wind,1.1891570980843862,1.1891570980843862,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,Sub Saharan,wind,1.1891570980843862,1.1891570980843862,1.0,1.0,uncovered_neutral_legacy_reference,
+2022,2022,South Africa,wind,1.1891570980843862,1.1891570980843862,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,Australia_Oceania,wind,1.6995821183346889,1.124129995067748,0.661415522639889,1.0,historical_net_same_country_paths_as_section31,AUS
+2023,2023,China,wind,1.4706272539976832,1.4706272539976832,1.0,1.0,China_no_inward_shock,CHN
+2023,2023,Japan,wind,1.234811713452115,1.234811713452115,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,South Korea,wind,1.234811713452115,1.234811713452115,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,Rest of World,wind,1.234811713452115,1.234811713452115,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,Southeast Asia,wind,1.234811713452115,1.234811713452115,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,"Central, Western and South Asia",wind,1.2969853279746857,1.0447474891917328,0.8055198980725279,1.0,historical_net_same_country_paths_as_section31,TUR
+2023,2023,India,wind,1.2582452244766895,0.9386638684746968,0.74601027702298,1.0,historical_net_same_country_paths_as_section31,IND
+2023,2023,Canada,wind,1.5902110004409284,1.0191689337570844,0.6409017001357006,1.0,historical_net_same_country_paths_as_section31,CAN
+2023,2023,United States,wind,1.3428526390751656,0.9191583703420224,0.6844819331591401,1.0,historical_net_same_country_paths_as_section31,USA
+2023,2023,Rest of America,wind,1.234811713452115,1.234811713452115,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,Brazil,wind,1.9105576640616648,1.1235329341468203,0.5880654404108882,1.0,historical_net_same_country_paths_as_section31,BRA
+2023,2023,"EU, UK and EFTA",wind,1.2074091046469149,1.1114937838512888,0.9205610422958714,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2023,2023,Eastern Europe,wind,1.234811713452115,1.234811713452115,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,Russia,wind,1.234811713452115,1.234811713452115,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,North Africa,wind,1.234811713452115,1.234811713452115,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,Sub Saharan,wind,1.234811713452115,1.234811713452115,1.0,1.0,uncovered_neutral_legacy_reference,
+2023,2023,South Africa,wind,1.234811713452115,1.234811713452115,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2024,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2024,2024,Japan,wind,1.2609860748298265,1.2609860748298265,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,South Korea,wind,1.2609860748298265,1.2609860748298265,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,Rest of World,wind,1.2609860748298265,1.2609860748298265,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,Southeast Asia,wind,1.2609860748298265,1.2609860748298265,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2024,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2024,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2024,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2024,2024,Rest of America,wind,1.2609860748298265,1.2609860748298265,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2024,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2024,2024,Eastern Europe,wind,1.2609860748298265,1.2609860748298265,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,Russia,wind,1.2609860748298265,1.2609860748298265,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,North Africa,wind,1.2609860748298265,1.2609860748298265,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,Sub Saharan,wind,1.2609860748298265,1.2609860748298265,1.0,1.0,uncovered_neutral_legacy_reference,
+2024,2024,South Africa,wind,1.2609860748298265,1.2609860748298265,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2025,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2025,2024,Japan,wind,1.29434426899172,1.29434426899172,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,South Korea,wind,1.29434426899172,1.29434426899172,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,Rest of World,wind,1.29434426899172,1.29434426899172,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,Southeast Asia,wind,1.29434426899172,1.29434426899172,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2025,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2025,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2025,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2025,2024,Rest of America,wind,1.29434426899172,1.29434426899172,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2025,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2025,2024,Eastern Europe,wind,1.29434426899172,1.29434426899172,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,Russia,wind,1.29434426899172,1.29434426899172,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,North Africa,wind,1.29434426899172,1.29434426899172,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,Sub Saharan,wind,1.29434426899172,1.29434426899172,1.0,1.0,uncovered_neutral_legacy_reference,
+2025,2024,South Africa,wind,1.29434426899172,1.29434426899172,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2026,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2026,2024,Japan,wind,1.326568005146501,1.326568005146501,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,South Korea,wind,1.326568005146501,1.326568005146501,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,Rest of World,wind,1.326568005146501,1.326568005146501,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,Southeast Asia,wind,1.326568005146501,1.326568005146501,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2026,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2026,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2026,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2026,2024,Rest of America,wind,1.326568005146501,1.326568005146501,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2026,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2026,2024,Eastern Europe,wind,1.326568005146501,1.326568005146501,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,Russia,wind,1.326568005146501,1.326568005146501,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,North Africa,wind,1.326568005146501,1.326568005146501,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,Sub Saharan,wind,1.326568005146501,1.326568005146501,1.0,1.0,uncovered_neutral_legacy_reference,
+2026,2024,South Africa,wind,1.326568005146501,1.326568005146501,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2027,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2027,2024,Japan,wind,1.357627759364342,1.357627759364342,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,South Korea,wind,1.357627759364342,1.357627759364342,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,Rest of World,wind,1.357627759364342,1.357627759364342,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,Southeast Asia,wind,1.357627759364342,1.357627759364342,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2027,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2027,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2027,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2027,2024,Rest of America,wind,1.357627759364342,1.357627759364342,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2027,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2027,2024,Eastern Europe,wind,1.357627759364342,1.357627759364342,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,Russia,wind,1.357627759364342,1.357627759364342,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,North Africa,wind,1.357627759364342,1.357627759364342,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,Sub Saharan,wind,1.357627759364342,1.357627759364342,1.0,1.0,uncovered_neutral_legacy_reference,
+2027,2024,South Africa,wind,1.357627759364342,1.357627759364342,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2028,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2028,2024,Japan,wind,1.3875041064074711,1.3875041064074711,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,South Korea,wind,1.3875041064074711,1.3875041064074711,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,Rest of World,wind,1.3875041064074711,1.3875041064074711,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,Southeast Asia,wind,1.3875041064074711,1.3875041064074711,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2028,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2028,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2028,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2028,2024,Rest of America,wind,1.3875041064074711,1.3875041064074711,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2028,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2028,2024,Eastern Europe,wind,1.3875041064074711,1.3875041064074711,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,Russia,wind,1.3875041064074711,1.3875041064074711,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,North Africa,wind,1.3875041064074711,1.3875041064074711,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,Sub Saharan,wind,1.3875041064074711,1.3875041064074711,1.0,1.0,uncovered_neutral_legacy_reference,
+2028,2024,South Africa,wind,1.3875041064074711,1.3875041064074711,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2029,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2029,2024,Japan,wind,1.416186989740318,1.416186989740318,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,South Korea,wind,1.416186989740318,1.416186989740318,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,Rest of World,wind,1.416186989740318,1.416186989740318,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,Southeast Asia,wind,1.416186989740318,1.416186989740318,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2029,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2029,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2029,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2029,2024,Rest of America,wind,1.416186989740318,1.416186989740318,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2029,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2029,2024,Eastern Europe,wind,1.416186989740318,1.416186989740318,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,Russia,wind,1.416186989740318,1.416186989740318,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,North Africa,wind,1.416186989740318,1.416186989740318,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,Sub Saharan,wind,1.416186989740318,1.416186989740318,1.0,1.0,uncovered_neutral_legacy_reference,
+2029,2024,South Africa,wind,1.416186989740318,1.416186989740318,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2030,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2030,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2030,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2030,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2030,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2030,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2030,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2030,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2030,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2031,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2031,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2031,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2031,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2031,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2031,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2031,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2031,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2031,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2032,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2032,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2032,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2032,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2032,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2032,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2032,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2032,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2032,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2033,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2033,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2033,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2033,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2033,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2033,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2033,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2033,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2033,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2034,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2034,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2034,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2034,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2034,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2034,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2034,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2034,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2034,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2035,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2035,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2035,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2035,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2035,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2035,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2035,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2035,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2035,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2036,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2036,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2036,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2036,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2036,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2036,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2036,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2036,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2036,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2037,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2037,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2037,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2037,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2037,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2037,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2037,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2037,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2037,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2038,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2038,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2038,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2038,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2038,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2038,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2038,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2038,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2038,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2039,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2039,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2039,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2039,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2039,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2039,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2039,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2039,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2039,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2040,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2040,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2040,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2040,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2040,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2040,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2040,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2040,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2040,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2041,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2041,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2041,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2041,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2041,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2041,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2041,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2041,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2041,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2042,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2042,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2042,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2042,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2042,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2042,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2042,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2042,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2042,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2043,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2043,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2043,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2043,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2043,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2043,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2043,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2043,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2043,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2044,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2044,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2044,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2044,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2044,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2044,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2044,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2044,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2044,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2045,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2045,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2045,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2045,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2045,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2045,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2045,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2045,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2045,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2046,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2046,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2046,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2046,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2046,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2046,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2046,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2046,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2046,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2047,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2047,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2047,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2047,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2047,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2047,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2047,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2047,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2047,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2048,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2048,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2048,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2048,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2048,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2048,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2048,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2048,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2048,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2049,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2049,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2049,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2049,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2049,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2049,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2049,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2049,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2049,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,Australia_Oceania,wind,1.844416035310268,1.16431997311628,0.6312675398749816,1.0,historical_net_same_country_paths_as_section31,AUS
+2050,2024,China,wind,1.7350331399503898,1.7350331399503898,1.0,1.0,China_no_inward_shock,CHN
+2050,2024,Japan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,South Korea,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,Rest of World,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,Southeast Asia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,"Central, Western and South Asia",wind,1.3679032599594545,1.0480817204901345,0.7661957911564594,1.0,historical_net_same_country_paths_as_section31,TUR
+2050,2024,India,wind,1.2913243216801094,0.9472193059963936,0.7335254901448696,1.0,historical_net_same_country_paths_as_section31,IND
+2050,2024,Canada,wind,1.4882571377942178,1.0972085844342454,0.7372439591053768,1.0,historical_net_same_country_paths_as_section31,CAN
+2050,2024,United States,wind,1.2186368478529173,1.1516172291398263,0.9450044376787302,1.0,historical_net_same_country_paths_as_section31,USA
+2050,2024,Rest of America,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,Brazil,wind,2.0918677840233597,1.167992964709647,0.5583493247662178,1.0,historical_net_same_country_paths_as_section31,BRA
+2050,2024,"EU, UK and EFTA",wind,1.2487958551676406,1.1224555826220848,0.8988303236091414,1.0,historical_net_same_country_paths_as_section31,"DEU,ESP,FRA,GBR,ITA,POL,SWE"
+2050,2024,Eastern Europe,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,Russia,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,North Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,Sub Saharan,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,
+2050,2024,South Africa,wind,1.443674885273872,1.443674885273872,1.0,1.0,uncovered_neutral_legacy_reference,

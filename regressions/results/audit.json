@@ -1,0 +1,41 @@
+{
+  "models": 34,
+  "max_archived_coefficient_error": 5.773159728050814e-14,
+  "max_archived_SE_error": 1.6264767310758543e-13,
+  "versions": {
+    "statsmodels": "0.14.2",
+    "numpy": "1.26.4",
+    "pandas": "2.1.0",
+    "scipy": "1.13.0"
+  },
+  "sources": [
+    {
+      "path": "regressions\\data\\equipment\\accepted_models.csv",
+      "sha256": "dc4c9832ca7ca9b8e5ae0e1425b1582e4f5517b03da5a7f178ec65341fac9693"
+    },
+    {
+      "path": "regressions\\data\\equipment\\accepted_coefficients.csv",
+      "sha256": "982699236dc535d24dff156c481a9703f2ec05db9e3392ff9225a863ed79d0c2"
+    },
+    {
+      "path": "regressions\\data\\equipment\\pv_regression_panel.csv",
+      "sha256": "c3f0aeaf190e6bd43c2b29738a6c1c12cc12614a177f08c558a789034657c5b9"
+    },
+    {
+      "path": "regressions\\data\\equipment\\wind_regression_panel.csv",
+      "sha256": "1ddb5403a17c336ad0538a3d268f6603bfa68693e3b258de82e9fa62d744a1e9"
+    },
+    {
+      "path": "regressions\\data\\balance\\models.csv",
+      "sha256": "4a9531cb7865a73aa0d2de851a38f4bba36846bc185d4eca2617c5c72be6155c"
+    },
+    {
+      "path": "regressions\\data\\balance\\coefficients.csv",
+      "sha256": "da8c0c2bf35f296dd4cbbe6b623bc72e17f068013f0be194dd315eca0015bf2e"
+    },
+    {
+      "path": "regressions\\data\\balance\\fit_samples.csv",
+      "sha256": "7d8e1be25e2e10dffd7d4e3a8205eb6bbf37652f7b7d5a8cd9f60e1cae55ec77"
+    }
+  ]
+}

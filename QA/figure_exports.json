@@ -1,0 +1,26 @@
+[
+  {
+    "file": "Figure1_costs.pdf",
+    "width_mm": 183.0,
+    "height_mm": 215.0,
+    "sha256": "cb5fb80756453cccbd961752817aece745950827784a6d823d71365465921046"
+  },
+  {
+    "file": "Figure1_costs.svg",
+    "width_mm": 183.0,
+    "height_mm": 215.0,
+    "sha256": "fff801c8690ec08e0f98603f93cd7fe933750eba69525c03be989c4c07120b06"
+  },
+  {
+    "file": "Figure1_costs.png",
+    "width_mm": 183.0,
+    "height_mm": 215.0,
+    "sha256": "c47a9cab36affb4a359a1ba92e95982aafefbb8ca7ae3450101eac65ff9a547b"
+  },
+  {
+    "file": "Figure1_costs.tiff",
+    "width_mm": 183.0,
+    "height_mm": 215.0,
+    "sha256": "14bd5059b8e6d76360103ab77a5ccadb7a559c872a6124a0940b20adfa3d2086"
+  }
+]

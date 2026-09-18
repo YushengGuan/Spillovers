@@ -1,0 +1,7 @@
+{
+  "models": 245,
+  "max_coefficient_error": 4.543920795185841e-12,
+  "max_SE_error": 5.4554220696445554e-08,
+  "prepared_samples": true,
+  "all_pass": true
+}

@@ -1,0 +1,498 @@
+﻿Country,Coount,Year,technology,exclude_office
+Korea,116,2024,wind,False
+China,26,2024,wind,False
+United States,16,2024,wind,False
+EPO,13,2024,wind,True
+Poland,13,2024,wind,False
+WIPO,11,2024,wind,True
+Japan,9,2024,wind,False
+Great Britain,5,2024,wind,False
+Australia,3,2024,wind,False
+Mexico,3,2024,wind,False
+Chile,2,2024,wind,False
+Sweden,2,2024,wind,False
+South Africa,2,2024,wind,False
+Luxembourg,1,2024,wind,False
+Chinese Taiwan,1,2024,wind,False
+Korea,93,2023,wind,False
+United States,23,2023,wind,False
+EPO,21,2023,wind,True
+China,19,2023,wind,False
+Japan,16,2023,wind,False
+WIPO,16,2023,wind,True
+Australia,7,2023,wind,False
+Poland,6,2023,wind,False
+Germany,4,2023,wind,False
+Sweden,4,2023,wind,False
+Canada,3,2023,wind,False
+Czech Republic,2,2023,wind,False
+Finland,2,2023,wind,False
+Great Britain,2,2023,wind,False
+Chinese Taiwan,2,2023,wind,False
+Spain,1,2023,wind,False
+Israel,1,2023,wind,False
+Italy,1,2023,wind,False
+Norway,1,2023,wind,False
+Romania,1,2023,wind,False
+Korea,119,2022,wind,False
+China,46,2022,wind,False
+EPO,46,2022,wind,True
+United States,29,2022,wind,False
+WIPO,23,2022,wind,True
+Japan,19,2022,wind,False
+Australia,9,2022,wind,False
+Canada,6,2022,wind,False
+Great Britain,6,2022,wind,False
+Norway,4,2022,wind,False
+Chinese Taiwan,4,2022,wind,False
+Spain,2,2022,wind,False
+Finland,2,2022,wind,False
+Poland,2,2022,wind,False
+Brazil,1,2022,wind,False
+Cyprus,1,2022,wind,False
+Denmark,1,2022,wind,False
+France,1,2022,wind,False
+Israel,1,2022,wind,False
+Sweden,1,2022,wind,False
+Korea,96,2021,wind,False
+China,90,2021,wind,False
+United States,37,2021,wind,False
+EPO,24,2021,wind,True
+WIPO,20,2021,wind,True
+Japan,15,2021,wind,False
+France,5,2021,wind,False
+Canada,3,2021,wind,False
+Germany,3,2021,wind,False
+Great Britain,3,2021,wind,False
+Australia,2,2021,wind,False
+Mexico,2,2021,wind,False
+Sweden,2,2021,wind,False
+Turkey,2,2021,wind,False
+South Africa,2,2021,wind,False
+Brazil,1,2021,wind,False
+Italy,1,2021,wind,False
+Russia,1,2021,wind,False
+China,69,2020,wind,False
+Korea,68,2020,wind,False
+United States,30,2020,wind,False
+EPO,16,2020,wind,True
+Japan,16,2020,wind,False
+WIPO,12,2020,wind,True
+Germany,5,2020,wind,False
+Great Britain,5,2020,wind,False
+France,4,2020,wind,False
+Sweden,4,2020,wind,False
+Turkey,4,2020,wind,False
+Spain,2,2020,wind,False
+Latvia,2,2020,wind,False
+Netherlands,2,2020,wind,False
+Norway,2,2020,wind,False
+Poland,2,2020,wind,False
+Russia,2,2020,wind,False
+Australia,1,2020,wind,False
+Colombia,1,2020,wind,False
+Denmark,1,2020,wind,False
+Hungary,1,2020,wind,False
+Israel,1,2020,wind,False
+Italy,1,2020,wind,False
+Mexico,1,2020,wind,False
+Saudi Arabia,1,2020,wind,False
+Chinese Taiwan,1,2020,wind,False
+Korea,88,2019,wind,False
+China,57,2019,wind,False
+United States,34,2019,wind,False
+WIPO,33,2019,wind,True
+EPO,22,2019,wind,True
+Japan,11,2019,wind,False
+Russia,9,2019,wind,False
+Australia,6,2019,wind,False
+Great Britain,5,2019,wind,False
+Mexico,4,2019,wind,False
+Cyprus,3,2019,wind,False
+Germany,3,2019,wind,False
+Chinese Taiwan,3,2019,wind,False
+South Africa,3,2019,wind,False
+Brazil,2,2019,wind,False
+Poland,2,2019,wind,False
+Slovakia,2,2019,wind,False
+Turkey,2,2019,wind,False
+Canada,1,2019,wind,False
+Chile,1,2019,wind,False
+Denmark,1,2019,wind,False
+Spain,1,2019,wind,False
+Finland,1,2019,wind,False
+Lithuania,1,2019,wind,False
+Netherlands,1,2019,wind,False
+Saudi Arabia,1,2019,wind,False
+Singapore,1,2019,wind,False
+Korea,77,2018,wind,False
+China,69,2018,wind,False
+United States,55,2018,wind,False
+EPO,44,2018,wind,True
+WIPO,34,2018,wind,True
+Japan,17,2018,wind,False
+Australia,11,2018,wind,False
+Canada,10,2018,wind,False
+Russia,10,2018,wind,False
+Turkey,10,2018,wind,False
+Spain,7,2018,wind,False
+Denmark,6,2018,wind,False
+Brazil,5,2018,wind,False
+Great Britain,5,2018,wind,False
+Belgium,4,2018,wind,False
+France,4,2018,wind,False
+Italy,3,2018,wind,False
+Poland,3,2018,wind,False
+Switzerland,2,2018,wind,False
+Germany,2,2018,wind,False
+EAPO,2,2018,wind,True
+Israel,2,2018,wind,False
+Morocco,2,2018,wind,False
+Mexico,2,2018,wind,False
+Netherlands,2,2018,wind,False
+Portugal,2,2018,wind,False
+Sweden,2,2018,wind,False
+Chinese Taiwan,2,2018,wind,False
+Argentina,1,2018,wind,False
+Chile,1,2018,wind,False
+Finland,1,2018,wind,False
+China Hong Kong,1,2018,wind,False
+Croatia,1,2018,wind,False
+Lithuania,1,2018,wind,False
+Malaysia,1,2018,wind,False
+Philippines,1,2018,wind,False
+Ukraine,1,2018,wind,False
+Korea,103,2017,wind,False
+China,88,2017,wind,False
+United States,70,2017,wind,False
+EPO,46,2017,wind,True
+WIPO,37,2017,wind,True
+Japan,29,2017,wind,False
+Russia,21,2017,wind,False
+Great Britain,15,2017,wind,False
+Australia,13,2017,wind,False
+Chinese Taiwan,12,2017,wind,False
+Germany,11,2017,wind,False
+Argentina,7,2017,wind,False
+Spain,7,2017,wind,False
+Denmark,6,2017,wind,False
+Italy,6,2017,wind,False
+Mexico,5,2017,wind,False
+Switzerland,4,2017,wind,False
+Czech Republic,4,2017,wind,False
+Canada,3,2017,wind,False
+Brazil,2,2017,wind,False
+France,2,2017,wind,False
+Israel,2,2017,wind,False
+Turkey,2,2017,wind,False
+South Africa,2,2017,wind,False
+Belgium,1,2017,wind,False
+Chile,1,2017,wind,False
+EAPO,1,2017,wind,True
+Estonia,1,2017,wind,False
+Croatia,1,2017,wind,False
+Malaysia,1,2017,wind,False
+Netherlands,1,2017,wind,False
+New Zealand,1,2017,wind,False
+Philippines,1,2017,wind,False
+Portugal,1,2017,wind,False
+Romania,1,2017,wind,False
+Ukraine,1,2017,wind,False
+Korea,101,2016,wind,False
+China,80,2016,wind,False
+United States,63,2016,wind,False
+EPO,46,2016,wind,True
+WIPO,34,2016,wind,True
+Japan,25,2016,wind,False
+Spain,14,2016,wind,False
+Russia,12,2016,wind,False
+Australia,11,2016,wind,False
+Canada,11,2016,wind,False
+France,9,2016,wind,False
+Great Britain,9,2016,wind,False
+Denmark,7,2016,wind,False
+Chinese Taiwan,6,2016,wind,False
+Brazil,5,2016,wind,False
+Philippines,5,2016,wind,False
+Poland,5,2016,wind,False
+Germany,3,2016,wind,False
+Hungary,3,2016,wind,False
+Portugal,3,2016,wind,False
+Turkey,3,2016,wind,False
+Chile,2,2016,wind,False
+Cyprus,2,2016,wind,False
+Finland,2,2016,wind,False
+Croatia,2,2016,wind,False
+Italy,2,2016,wind,False
+Lithuania,2,2016,wind,False
+Mexico,2,2016,wind,False
+Republic of Serbia,2,2016,wind,False
+Slovenia,2,2016,wind,False
+Argentina,1,2016,wind,False
+China Hong Kong,1,2016,wind,False
+New Zealand,1,2016,wind,False
+United States,102,2015,wind,False
+Korea,66,2015,wind,False
+China,55,2015,wind,False
+EPO,50,2015,wind,True
+WIPO,43,2015,wind,True
+Russia,27,2015,wind,False
+Canada,19,2015,wind,False
+Japan,19,2015,wind,False
+Spain,14,2015,wind,False
+Great Britain,14,2015,wind,False
+Australia,12,2015,wind,False
+Mexico,11,2015,wind,False
+Morocco,9,2015,wind,False
+Brazil,8,2015,wind,False
+Cyprus,7,2015,wind,False
+France,7,2015,wind,False
+Chile,5,2015,wind,False
+South Africa,5,2015,wind,False
+Germany,4,2015,wind,False
+Denmark,4,2015,wind,False
+EAPO,4,2015,wind,True
+Italy,3,2015,wind,False
+Netherlands,3,2015,wind,False
+Chinese Taiwan,3,2015,wind,False
+Poland,2,2015,wind,False
+Slovakia,2,2015,wind,False
+Ukraine,2,2015,wind,False
+Israel,1,2015,wind,False
+Saudi Arabia,1,2015,wind,False
+Singapore,1,2015,wind,False
+Korea,114,2014,wind,False
+China,98,2014,wind,False
+United States,96,2014,wind,False
+EPO,90,2014,wind,True
+WIPO,63,2014,wind,True
+Japan,40,2014,wind,False
+Russia,34,2014,wind,False
+Australia,27,2014,wind,False
+Canada,21,2014,wind,False
+Great Britain,17,2014,wind,False
+Brazil,15,2014,wind,False
+Spain,13,2014,wind,False
+Chinese Taiwan,11,2014,wind,False
+India,8,2014,wind,False
+Germany,7,2014,wind,False
+Portugal,6,2014,wind,False
+France,5,2014,wind,False
+Cyprus,4,2014,wind,False
+Denmark,4,2014,wind,False
+Philippines,4,2014,wind,False
+Singapore,4,2014,wind,False
+Tunisia,4,2014,wind,False
+EAPO,3,2014,wind,True
+Netherlands,3,2014,wind,False
+Poland,3,2014,wind,False
+Ukraine,3,2014,wind,False
+Croatia,2,2014,wind,False
+Israel,2,2014,wind,False
+Morocco,2,2014,wind,False
+Slovenia,2,2014,wind,False
+Belgium,1,2014,wind,False
+Cuba,1,2014,wind,False
+Hungary,1,2014,wind,False
+Lithuania,1,2014,wind,False
+Romania,1,2014,wind,False
+Republic of Serbia,1,2014,wind,False
+Turkey,1,2014,wind,False
+Korea,100,2013,wind,False
+United States,94,2013,wind,False
+China,66,2013,wind,False
+WIPO,50,2013,wind,True
+EPO,32,2013,wind,True
+Japan,26,2013,wind,False
+Russia,20,2013,wind,False
+Canada,18,2013,wind,False
+Great Britain,11,2013,wind,False
+Australia,10,2013,wind,False
+Italy,9,2013,wind,False
+Germany,8,2013,wind,False
+Brazil,7,2013,wind,False
+Spain,7,2013,wind,False
+Mexico,7,2013,wind,False
+South Africa,6,2013,wind,False
+Chile,5,2013,wind,False
+Denmark,5,2013,wind,False
+Poland,5,2013,wind,False
+Argentina,3,2013,wind,False
+France,2,2013,wind,False
+China Hong Kong,2,2013,wind,False
+India,2,2013,wind,False
+Netherlands,2,2013,wind,False
+Portugal,2,2013,wind,False
+Chinese Taiwan,2,2013,wind,False
+Ukraine,2,2013,wind,False
+Switzerland,1,2013,wind,False
+Cyprus,1,2013,wind,False
+Georgia,1,2013,wind,False
+Croatia,1,2013,wind,False
+Montenegro,1,2013,wind,False
+Norway,1,2013,wind,False
+New Zealand,1,2013,wind,False
+San Marino,1,2013,wind,False
+Korea,181,2012,wind,False
+China,102,2012,wind,False
+EPO,70,2012,wind,True
+United States,68,2012,wind,False
+WIPO,59,2012,wind,True
+Japan,43,2012,wind,False
+Russia,28,2012,wind,False
+Canada,20,2012,wind,False
+Australia,17,2012,wind,False
+Brazil,16,2012,wind,False
+Spain,15,2012,wind,False
+Denmark,14,2012,wind,False
+Germany,9,2012,wind,False
+Portugal,9,2012,wind,False
+Chinese Taiwan,8,2012,wind,False
+Poland,5,2012,wind,False
+France,3,2012,wind,False
+Great Britain,3,2012,wind,False
+Italy,3,2012,wind,False
+Netherlands,3,2012,wind,False
+Singapore,3,2012,wind,False
+Argentina,2,2012,wind,False
+Austria,2,2012,wind,False
+Croatia,2,2012,wind,False
+Hungary,2,2012,wind,False
+Mexico,2,2012,wind,False
+New Zealand,2,2012,wind,False
+Switzerland,1,2012,wind,False
+Cyprus,1,2012,wind,False
+Israel,1,2012,wind,False
+Lithuania,1,2012,wind,False
+Norway,1,2012,wind,False
+Philippines,1,2012,wind,False
+Republic of Serbia,1,2012,wind,False
+Slovenia,1,2012,wind,False
+Ukraine,1,2012,wind,False
+South Africa,1,2012,wind,False
+Korea,144,2011,wind,False
+China,70,2011,wind,False
+United States,65,2011,wind,False
+WIPO,48,2011,wind,True
+EPO,39,2011,wind,True
+Russia,32,2011,wind,False
+Great Britain,30,2011,wind,False
+Japan,27,2011,wind,False
+Germany,24,2011,wind,False
+Canada,17,2011,wind,False
+Australia,10,2011,wind,False
+Chinese Taiwan,10,2011,wind,False
+Brazil,8,2011,wind,False
+Denmark,6,2011,wind,False
+Spain,5,2011,wind,False
+France,4,2011,wind,False
+Mexico,4,2011,wind,False
+Romania,4,2011,wind,False
+South Africa,4,2011,wind,False
+EAPO,3,2011,wind,True
+Italy,3,2011,wind,False
+New Zealand,3,2011,wind,False
+Poland,3,2011,wind,False
+Republic of Serbia,3,2011,wind,False
+Austria,2,2011,wind,False
+Chile,2,2011,wind,False
+Egypt,2,2011,wind,False
+Morocco,2,2011,wind,False
+Portugal,2,2011,wind,False
+Slovenia,2,2011,wind,False
+Ukraine,2,2011,wind,False
+China Hong Kong,1,2011,wind,False
+Croatia,1,2011,wind,False
+Netherlands,1,2011,wind,False
+Sweden,1,2011,wind,False
+Korea,134,2010,wind,False
+WIPO,79,2010,wind,True
+United States,76,2010,wind,False
+China,51,2010,wind,False
+EPO,44,2010,wind,True
+Japan,28,2010,wind,False
+Russia,28,2010,wind,False
+Great Britain,19,2010,wind,False
+Australia,17,2010,wind,False
+Canada,17,2010,wind,False
+Italy,13,2010,wind,False
+Germany,10,2010,wind,False
+Spain,8,2010,wind,False
+Brazil,6,2010,wind,False
+France,6,2010,wind,False
+Denmark,5,2010,wind,False
+EAPO,5,2010,wind,True
+Israel,5,2010,wind,False
+Chinese Taiwan,5,2010,wind,False
+Ukraine,5,2010,wind,False
+Croatia,4,2010,wind,False
+New Zealand,3,2010,wind,False
+Portugal,3,2010,wind,False
+Sweden,3,2010,wind,False
+Austria,2,2010,wind,False
+Czech Republic,2,2010,wind,False
+Morocco,2,2010,wind,False
+Poland,2,2010,wind,False
+Slovenia,2,2010,wind,False
+Turkey,2,2010,wind,False
+South Africa,2,2010,wind,False
+Cyprus,1,2010,wind,False
+Greece,1,2010,wind,False
+Hungary,1,2010,wind,False
+Mexico,1,2010,wind,False
+Netherlands,1,2010,wind,False
+Philippines,1,2010,wind,False
+Singapore,1,2010,wind,False
+Tunisia,1,2010,wind,False
+Korea,90,2009,wind,False
+China,45,2009,wind,False
+United States,28,2009,wind,False
+Russia,18,2009,wind,False
+Chinese Taiwan,12,2009,wind,False
+WIPO,10,2009,wind,True
+Japan,6,2009,wind,False
+Germany,4,2009,wind,False
+EPO,4,2009,wind,True
+Brazil,3,2009,wind,False
+Italy,3,2009,wind,False
+France,2,2009,wind,False
+Argentina,1,2009,wind,False
+Austria,1,2009,wind,False
+Belgium,1,2009,wind,False
+Canada,1,2009,wind,False
+Czech Republic,1,2009,wind,False
+EAPO,1,2009,wind,True
+Georgia,1,2009,wind,False
+Croatia,1,2009,wind,False
+Hungary,1,2009,wind,False
+Ireland,1,2009,wind,False
+Netherlands,1,2009,wind,False
+Korea,37,2008,wind,False
+China,30,2008,wind,False
+Russia,17,2008,wind,False
+United States,16,2008,wind,False
+Germany,8,2008,wind,False
+WIPO,8,2008,wind,True
+Japan,6,2008,wind,False
+Brazil,4,2008,wind,False
+EPO,3,2008,wind,True
+Chinese Taiwan,3,2008,wind,False
+Greece,2,2008,wind,False
+Australia,1,2008,wind,False
+Canada,1,2008,wind,False
+Colombia,1,2008,wind,False
+Cuba,1,2008,wind,False
+Denmark,1,2008,wind,False
+Spain,1,2008,wind,False
+France,1,2008,wind,False
+Croatia,1,2008,wind,False
+Italy,1,2008,wind,False
+Morocco,1,2008,wind,False
+Moldova,1,2008,wind,False
+New Zealand,1,2008,wind,False
+Poland,1,2008,wind,False
+Portugal,1,2008,wind,False
+Romania,1,2008,wind,False
+Republic of Serbia,1,2008,wind,False
+Sweden,1,2008,wind,False
+Slovakia,1,2008,wind,False

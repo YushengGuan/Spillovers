@@ -1,0 +1,77 @@
+{
+  "runtime": ".",
+  "years": [
+    2017,
+    2020,
+    2025,
+    2030,
+    2035,
+    2040,
+    2045,
+    2050
+  ],
+  "report_years": [
+    2025,
+    2030,
+    2035,
+    2040,
+    2045,
+    2050
+  ],
+  "scenarios": [
+    "S0_BASELINE",
+    "S1_NO_CN",
+    "S2_CAPACITY"
+  ],
+  "internal_ids": {
+    "A": "S0_BASELINE",
+    "B": "S1_NO_CN",
+    "C": "S2_CAPACITY"
+  },
+  "coverage": "observed_only",
+  "tfp": "Exact inverse annual cost rule. Both raw paths start at 1 in 2010, where historical net contribution is zero, and share factual-2017 normalization; country S1/S0 multiplier equals C_actual/C_cf. Existing cumulative-capacity regional weights retained; these differ from fixed 2024 net-added-capacity sample reporting weights in Section 3.1.",
+  "physical_constraints": "No renewable-specific capital stock, no generation ceiling, no equipment investment satellite. Shared regional capital remains.",
+  "capacity": "Generation divided by fixed reference capacity factor: capacity equivalent, not independently modelled GW stock.",
+  "calibration": "Baseline GDP and historical renewable generation calibrated; future electricity CES preferences calibrated to 11000 GW equivalent in 2030, then frozen. All calibrated coefficients fixed across scenarios.",
+  "future": "Covered country technology productivity paths frozen at 2024; uncovered reference paths use legacy inputs through 2030, frozen thereafter; zero direct shock unless global proxy selected.",
+  "carbon": "Uniform real increment starts 2017, full-trajectory search to 2030 target; selected increment held through 2050. Original government-budget recycling.",
+  "capital": "Shared regional capital: exact compounding of original annual depreciation/investment recursion over 3/5 years; no technology stock constraints.",
+  "deflator": 1.279736455613577,
+  "corrections": "Retain repaired non-power carbon charges and explicit saving/investment closure; repair two household import energy/emission source filenames. Not a bit-for-bit reproduction of old buggy code.",
+  "sources": [
+    {
+      "source": "reference/costs/annual_country_costs_completed.csv",
+      "sha256": "7ef24e5ab65a7deecc2e3021a0849347cdc80f5732f0db624f777965c5c8e842"
+    },
+    {
+      "source": "reference/costs/weighted_shapley_summary.csv",
+      "sha256": "65278335cbcad2f375a37f7d36ea2cac4ce18e6809d714db1b7a19406a143c93"
+    },
+    {
+      "source": "reference/costs/results.csv",
+      "sha256": "a81b5f75072964a042d1822e5d555474aa4851ef19f1de84f3d9251f12c88555"
+    }
+  ],
+  "scenario_basis": "Historical China-related net cost contribution; same annual model-factual and model-without-China-contribution curves as Section 3.1; not a deployment-only causal counterfactual.",
+  "historical_contribution": [
+    {
+      "technology": "pv",
+      "markets": 10,
+      "historical_net_2024_USD_kW": 1313.3084738284267,
+      "section31_value": 1313.3084738284274
+    },
+    {
+      "technology": "wind",
+      "markets": 13,
+      "historical_net_2024_USD_kW": 378.5992545497495,
+      "section31_value": 378.5992545497498
+    }
+  ],
+  "cost_actual": "Section 3.1 model_factual",
+  "cost_cf": "Section 3.1 model_without_china_contribution = model_factual + P_direct + S_share + T_cn_tariff + K_spillover + G_other",
+  "changes_from_previous": [
+    "Replace deployment-only costs with the complete historical net contribution on the same country model cost paths plotted in Section 3.1.",
+    "Recalibrate S0 for the changed factual productivity paths, retaining identical macro and renewable reference targets.",
+    "Keep signed historical contributions, including negative early wind values; no clipping."
+  ]
+}

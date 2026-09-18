@@ -1,0 +1,12 @@
+{
+  "figure_count": 2,
+  "panels": 8,
+  "geometry_pass": true,
+  "dimensions_mm": [
+    183,
+    215
+  ],
+  "source": "country_endpoints.csv and weighted_annual.csv",
+  "P": "historical equipment-price decline",
+  "uncertainty": "point estimates; joint uncertainty not propagated"
+}

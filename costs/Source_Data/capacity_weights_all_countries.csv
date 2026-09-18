@@ -1,0 +1,449 @@
+technology,country,2023,2024,net_additions_2024_mw
+pv,Afghanistan,31.7,41.7,10.000000000000004
+pv,Albania,206.73,719.57,512.84
+pv,Algeria,388.95,388.95,0.0
+pv,Amer Samoa,5.61,5.61,0.0
+pv,Andorra,4.81,6.81,2.0
+pv,Angola,309.0,360.43,51.43000000000001
+pv,Anguilla,1.54,1.54,0.0
+pv,Antigua Barb,15.17,15.17,0.0
+pv,Argentina,1396.93,1732.23,335.29999999999995
+pv,Armenia,401.7,485.4,83.69999999999999
+pv,Aruba,14.8,14.8,0.0
+pv,Australia,30671.94,35994.94,5323.000000000004
+pv,Austria,6385.61,8895.07,2509.46
+pv,Azerbaijan,281.8,281.0,-0.8000000000000114
+pv,BES Islands,16.1,21.4,5.299999999999997
+pv,Bahamas,9.6,15.6,6.0
+pv,Bahrain,56.62,66.03,9.410000000000004
+pv,Bangladesh,594.22,708.44,114.22000000000003
+pv,Barbados,69.34,69.34,0.0
+pv,Belarus,272.7,265.0,-7.699999999999989
+pv,Belgium,8360.4,9642.4,1282.0
+pv,Belize,5.9,5.9,0.0
+pv,Benin,26.4,26.4,0.0
+pv,Bhutan,0.94,3.04,2.1
+pv,Bolivia,166.66,170.41,3.75
+pv,Bosnia Herzg,212.19,607.64,395.45
+pv,Botswana,6.9,63.2,56.300000000000004
+pv,Br Virgin Is,0.33,0.33,0.0
+pv,Brazil,37556.61,53107.46,15550.849999999999
+pv,Brunei Darsm,5.0,5.29,0.29000000000000004
+pv,Bulgaria,2927.25,4559.88,1632.63
+pv,Burkina Faso,155.0,183.6,28.599999999999994
+pv,Burundi,7.9,7.9,0.0
+pv,Cabo Verde,24.25,29.25,5.0
+pv,Cambodia,481.64,966.0,484.36
+pv,Cameroon,62.67,62.67,0.0
+pv,Canada,5328.0,5818.47,490.47000000000025
+pv,Cayman Is,14.1,14.1,0.0
+pv,Cent Afr Rep,40.0,40.0,0.0
+pv,Chad,0.5,0.5,0.0
+pv,Chile,8629.75,10906.71,2276.959999999999
+pv,China,608920.0,885680.0,276760.0
+pv,China HK SAR,333.1,405.0,71.89999999999998
+pv,Chinese Taipei,12417.69,14281.15,1863.4599999999991
+pv,Colombia,514.1,1395.88,881.7800000000001
+pv,Comoros,3.0,3.0,0.0
+pv,Congo DR,3.85,8.7,4.85
+pv,Congo Rep,0.0,0.0,0.0
+pv,Cook Is,2.96,2.96,0.0
+pv,Costa Rica,72.1,72.1,0.0
+pv,Cote d Ivoire,30.0,30.0,0.0
+pv,Croatia,462.5,901.8,439.29999999999995
+pv,Cuba,271.95,384.0,112.05000000000001
+pv,Curacao,13.36,14.36,1.0
+pv,Cyprus,580.72,751.26,170.53999999999996
+pv,Czechia,3239.4,3984.21,744.81
+pv,Denmark,3529.0,3945.0,416.0
+pv,Djibouti,0.0,0.0,0.0
+pv,Dominica,0.95,0.96,0.010000000000000009
+pv,Dominican Rep,1057.7,1403.5,345.79999999999995
+pv,Ecuador,25.12,24.82,-0.3000000000000007
+pv,Egypt,1770.0,2504.0,734.0
+pv,El Salvador,642.77,734.23,91.46000000000004
+pv,Eq Guinea,0.0,0.0,0.0
+pv,Eritrea,0.0,0.0,0.0
+pv,Estonia,813.0,877.21,64.21000000000004
+pv,Eswatini,27.9,27.9,0.0
+pv,Ethiopia,0.0,0.0,0.0
+pv,Falklands Malv,0.0,0.01,0.01
+pv,Faroe Islands,0.26,0.26,0.0
+pv,Fiji,3.76,4.77,1.0099999999999998
+pv,Finland,986.21,1218.83,232.6199999999999
+pv,Fr Guiana,64.88,67.66,2.780000000000001
+pv,Fr Polynesia,49.57,77.27,27.699999999999996
+pv,France,19749.31,25082.83,5333.52
+pv,Gabon,0.0,11.0,11.0
+pv,Gambia,0.68,23.68,23.0
+pv,Georgia,63.51,137.86,74.35000000000002
+pv,Germany,75519.0,91204.0,15685.0
+pv,Ghana,173.36,173.36,0.0
+pv,Greece,6688.7,8826.92,2138.2200000000003
+pv,Greenland,0.0,0.0,0.0
+pv,Grenada,3.78,3.78,0.0
+pv,Guadeloupe,95.0,95.0,0.0
+pv,Guam,104.8,104.8,0.0
+pv,Guatemala,101.3,101.3,0.0
+pv,Guinea,0.08,0.08,0.0
+pv,Guinea Bissau,0.0,0.0,0.0
+pv,Guyana,9.95,9.95,0.0
+pv,Haiti,2.39,2.39,0.0
+pv,Honduras,519.63,544.63,25.0
+pv,Hungary,5910.0,7166.0,1256.0
+pv,Iceland,0.12,0.12,0.0
+pv,India,70762.32,94937.04,24174.719999999987
+pv,Indonesia,323.46,416.14,92.68
+pv,Iran IR,594.65,781.26,186.61
+pv,Iraq,2.58,2.58,0.0
+pv,Ireland,783.79,1323.4,539.6100000000001
+pv,Israel,5274.0,5363.4,89.39999999999964
+pv,Italy,29351.4,35437.15,6085.75
+pv,Jamaica,113.05,116.56,3.510000000000005
+pv,Japan,87068.0,89601.33,2533.3300000000017
+pv,Jordan,1986.6,2191.8,205.20000000000027
+pv,Kazakhstan,1204.94,1228.81,23.86999999999989
+pv,Kenya,410.4,484.9,74.5
+pv,Kiribati,1.82,1.82,0.0
+pv,Korea DPR,129.19,142.74,13.550000000000011
+pv,Korea Rep,23528.22,26680.25,3152.029999999999
+pv,Kosovo,14.15,19.55,5.4
+pv,Kuwait,50.16,50.16,0.0
+pv,Kyrgyzstan,0.08,0.08,0.0
+pv,Lao PDR,57.76,57.76,0.0
+pv,Latvia,319.0,660.41,341.40999999999997
+pv,Lebanon,1076.12,1076.12,0.0
+pv,Lesotho,28.28,28.28,0.0
+pv,Liberia,0.07,0.07,0.0
+pv,Libya,2.0,2.0,0.0
+pv,Lithuania,1158.56,2404.0,1245.44
+pv,Luxembourg,394.0,547.87,153.87
+pv,Madagascar,49.86,49.86,0.0
+pv,Malawi,101.87,101.87,0.0
+pv,Malaysia,2409.16,3065.44,656.2800000000002
+pv,Maldives,0.0,0.0,0.0
+pv,Mali,55.94,95.94,40.0
+pv,Malta,226.11,238.05,11.939999999999998
+pv,Marshall Is,1.16,2.46,1.3
+pv,Martinique,104.17,115.34,11.170000000000002
+pv,Mauritania,67.8,67.8,0.0
+pv,Mauritius,129.32,155.11,25.79000000000002
+pv,Mayotte,31.23,31.23,0.0
+pv,Mexico,10884.22,11966.56,1082.3400000000001
+pv,Micronesia,7.08,7.01,-0.07000000000000028
+pv,Moldova Rep,200.61,399.7,199.08999999999997
+pv,Mongolia,95.2,130.0,34.8
+pv,Montenegro,17.3,63.7,46.400000000000006
+pv,Montserrat,1.02,1.02,0.0
+pv,Morocco,291.0,388.0,97.0
+pv,Mozambique,100.18,103.6,3.4199999999999875
+pv,Myanmar,92.9,122.9,30.0
+pv,Namibia,231.09,231.09,0.0
+pv,Nauru,3.01,3.01,0.0
+pv,Nepal,61.51,114.97,53.46
+pv,Netherlands,21956.64,24771.66,2815.0200000000004
+pv,New Caledon,214.53,214.53,0.0
+pv,New Zealand,371.04,578.04,206.99999999999994
+pv,Nicaragua,13.89,31.39,17.5
+pv,Niger,72.0,72.0,0.0
+pv,Nigeria,72.12,124.47,52.349999999999994
+pv,Niue,0.94,1.82,0.8800000000000001
+pv,North Macedonia,547.74,869.32,321.58000000000004
+pv,Norway,614.96,767.11,152.14999999999998
+pv,Oman,672.08,672.08,0.0
+pv,Pakistan,3195.91,3703.51,507.60000000000036
+pv,Palau,19.08,19.34,0.26000000000000156
+pv,Palestine,257.0,300.0,43.0
+pv,Panama,646.35,743.14,96.78999999999996
+pv,Papua N Guin,0.45,1.45,1.0
+pv,Paraguay,0.0,0.0,0.0
+pv,Peru,401.43,482.0,80.57
+pv,Philippines,1782.55,2970.57,1188.0200000000002
+pv,Poland,15917.28,21721.21,5803.9299999999985
+pv,Portugal,3868.79,5639.38,1770.5900000000001
+pv,Puerto Rico,955.15,962.6,7.4500000000000455
+pv,Qatar,805.1,805.1,0.0
+pv,Reunion,266.2,312.0,45.80000000000001
+pv,Romania,2987.98,4257.41,1269.4299999999998
+pv,Russian Fed,1899.05,2261.81,362.76
+pv,Rwanda,12.35,12.35,0.0
+pv,Samoa,15.73,15.73,0.0
+pv,Sao Tome Prn,0.5,0.5,0.0
+pv,Saudi Arabia,2389.87,6151.0,3761.13
+pv,Senegal,224.38,265.58,41.19999999999999
+pv,Serbia,82.51,181.39,98.87999999999998
+pv,Seychelles,14.16,14.74,0.5800000000000001
+pv,Sierra Leone,5.13,5.13,0.0
+pv,Singapore,918.6,1211.2,292.6
+pv,Slovakia,594.0,728.0,134.0
+pv,Slovenia,1031.2,1421.1,389.89999999999986
+pv,Solomon Is,3.11,3.11,0.0
+pv,Somalia,0.0,0.0,0.0
+pv,South Africa,7500.0,8452.0,952.0
+pv,South Georgia,0.0,0.0,0.0
+pv,South Sudan,13.0,27.0,14.0
+pv,Spain,29579.61,35822.87,6243.260000000002
+pv,Sri Lanka,950.18,1571.59,621.41
+pv,St Barth,0.06,1.2,1.14
+pv,St Kitts Nevis,3.01,4.51,1.5
+pv,St Lucia,4.24,4.98,0.7400000000000002
+pv,St Maarten,0.09,0.09,0.0
+pv,St Martin,2.1,2.1,0.0
+pv,St Pierre Mq,0.0,0.0,0.0
+pv,St Vincent Gren,5.6,5.6,0.0
+pv,Sudan,54.29,54.29,0.0
+pv,Suriname,6.23,6.33,0.09999999999999964
+pv,Sweden,3993.0,4829.0,836.0
+pv,Switzerland,6063.68,7763.68,1700.0
+pv,Syrian AR,91.0,106.0,15.0
+pv,Tajikistan,0.22,0.22,0.0
+pv,Tanzania,0.14,0.14,0.0
+pv,Thailand,3290.35,3378.91,88.55999999999995
+pv,Timor Leste,0.31,0.31,0.0
+pv,Togo,50.78,50.78,0.0
+pv,Tokelau,1.02,1.02,0.0
+pv,Tonga,14.66,14.91,0.25
+pv,Trinidad Tobago,4.11,4.62,0.5099999999999998
+pv,Tunisia,499.0,766.0,267.0
+pv,Turkmenistan,0.0,0.11,0.11
+pv,Turks Caicos,3.52,3.52,0.0
+pv,Tuvalu,2.5,3.0,0.5
+pv,Türkiye,15613.37,20232.11,4618.74
+pv,UK,16428.06,18999.97,2571.91
+pv,US Virgin Is,9.99,30.49,20.5
+pv,USA,138446.6,176114.3,37667.69999999998
+pv,Uganda,83.39,84.19,0.7999999999999972
+pv,Ukraine,8062.0,5500.0,-2562.0
+pv,United Arab Em,5336.1,5683.0,346.89999999999964
+pv,Uruguay,287.38,321.9,34.51999999999998
+pv,Uzbekistan,863.98,3184.25,2320.27
+pv,Vanuatu,2.74,2.77,0.029999999999999805
+pv,Venezuela,0.25,1.44,1.19
+pv,Viet Nam,18582.92,18661.85,78.93000000000029
+pv,Yemen,20.0,140.0,120.0
+pv,Zambia,124.0,186.0,62.0
+pv,Zimbabwe,43.08,102.08,59.0
+wind,Afghanistan,0.3,0.3,0.0
+wind,Albania,0.0,0.0,0.0
+wind,Algeria,0.0,0.0,0.0
+wind,Amer Samoa,0.0,0.0,0.0
+wind,Andorra,0.0,0.0,0.0
+wind,Angola,0.0,0.0,0.0
+wind,Anguilla,0.0,0.0,0.0
+wind,Antigua Barb,0.0,0.0,0.0
+wind,Argentina,3705.42,4319.42,614.0
+wind,Armenia,2.9,2.9,0.0
+wind,Aruba,30.0,30.0,0.0
+wind,Australia,12908.0,15563.0,2655.0
+wind,Austria,3896.29,4092.15,195.86000000000013
+wind,Azerbaijan,66.5,66.62,0.12000000000000455
+wind,BES Islands,11.13,11.13,0.0
+wind,Bahamas,0.0,0.0,0.0
+wind,Bahrain,2.68,2.68,0.0
+wind,Bangladesh,0.9,60.9,60.0
+wind,Barbados,1.16,1.16,0.0
+wind,Belarus,122.0,122.0,0.0
+wind,Belgium,3192.2,3382.6,190.4000000000001
+wind,Belize,0.0,0.0,0.0
+wind,Benin,0.0,0.0,0.0
+wind,Bhutan,0.6,0.6,0.0
+wind,Bolivia,135.0,135.0,0.0
+wind,Bosnia Herzg,135.0,219.0,84.0
+wind,Botswana,0.0,0.0,0.0
+wind,Br Virgin Is,0.0,0.0,0.0
+wind,Brazil,29112.88,32920.19,3807.3100000000013
+wind,Brunei Darsm,0.0,0.0,0.0
+wind,Bulgaria,704.31,705.92,1.6100000000000136
+wind,Burkina Faso,0.0,0.0,0.0
+wind,Burundi,0.0,0.0,0.0
+wind,Cabo Verde,26.8,26.8,0.0
+wind,Cambodia,0.0,0.0,0.0
+wind,Cameroon,0.0,0.0,0.0
+wind,Canada,16137.0,17397.0,1260.0
+wind,Cayman Is,0.8,0.8,0.0
+wind,Cent Afr Rep,0.0,0.0,0.0
+wind,Chad,0.0,0.0,0.0
+wind,Chile,4532.9,4716.9,184.0
+wind,China,404050.0,479410.0,75360.0
+wind,China HK SAR,0.8,0.8,0.0
+wind,Chinese Taipei,914.18,918.2,4.0200000000000955
+wind,Colombia,33.8,33.8,0.0
+wind,Comoros,0.0,0.0,0.0
+wind,Congo DR,0.0,0.0,0.0
+wind,Congo Rep,0.0,0.0,0.0
+wind,Cook Is,0.0,0.0,0.0
+wind,Costa Rica,407.62,402.34,-5.28000000000003
+wind,Cote d Ivoire,0.0,0.0,0.0
+wind,Croatia,1160.2,1303.2,143.0
+wind,Cuba,15.55,15.55,0.0
+wind,Curacao,47.25,69.75,22.5
+wind,Cyprus,157.5,157.5,0.0
+wind,Czechia,342.5,363.1,20.600000000000023
+wind,Denmark,4821.73,4868.0,46.27000000000044
+wind,Djibouti,60.0,60.0,0.0
+wind,Dominica,0.23,0.23,0.0
+wind,Dominican Rep,417.1,432.7,15.599999999999966
+wind,Ecuador,66.5,66.5,0.0
+wind,Egypt,1885.0,2194.0,309.0
+wind,El Salvador,54.0,54.0,0.0
+wind,Eq Guinea,0.0,0.0,0.0
+wind,Eritrea,0.0,0.0,0.0
+wind,Estonia,337.0,693.05,356.04999999999995
+wind,Eswatini,0.0,0.0,0.0
+wind,Ethiopia,324.0,404.0,80.0
+wind,Falklands Malv,2.97,2.97,0.0
+wind,Faroe Islands,65.7,67.68,1.980000000000004
+wind,Fiji,10.18,10.18,0.0
+wind,Finland,6914.0,8328.0,1414.0
+wind,Fr Guiana,0.0,0.0,0.0
+wind,Fr Polynesia,0.0,0.0,0.0
+wind,France,21609.93,22747.05,1137.119999999999
+wind,Gabon,0.0,0.0,0.0
+wind,Gambia,1.21,1.21,0.0
+wind,Georgia,21.05,21.05,0.0
+wind,Germany,60965.0,63530.0,2565.0
+wind,Ghana,0.0,0.0,0.0
+wind,Greece,5231.7,5366.39,134.6900000000005
+wind,Greenland,0.0,0.0,0.0
+wind,Grenada,0.08,0.08,0.0
+wind,Guadeloupe,56.03,57.03,1.0
+wind,Guam,0.28,0.28,0.0
+wind,Guatemala,107.4,107.4,0.0
+wind,Guinea,0.0,0.0,0.0
+wind,Guinea Bissau,0.0,0.0,0.0
+wind,Guyana,0.0,0.0,0.0
+wind,Haiti,0.0,0.0,0.0
+wind,Honduras,235.0,235.0,0.0
+wind,Hungary,325.0,325.0,0.0
+wind,Iceland,3.64,3.64,0.0
+wind,India,44736.24,48163.16,3426.9200000000055
+wind,Indonesia,151.82,151.82,0.0
+wind,Iran IR,364.89,376.3,11.410000000000025
+wind,Iraq,0.0,0.0,0.0
+wind,Ireland,4714.05,4917.74,203.6899999999996
+wind,Israel,343.25,347.0,3.75
+wind,Italy,12276.31,12929.17,652.8600000000006
+wind,Jamaica,102.0,102.0,0.0
+wind,Japan,5184.34,5573.34,389.0
+wind,Jordan,631.1,631.1,0.0
+wind,Kazakhstan,1394.6,1520.05,125.45000000000005
+wind,Kenya,435.5,435.5,0.0
+wind,Kiribati,0.0,0.0,0.0
+wind,Korea DPR,1.6,1.6,0.0
+wind,Korea Rep,2018.72,2015.13,-3.589999999999918
+wind,Kosovo,68.22,137.22,69.0
+wind,Kuwait,10.0,10.0,0.0
+wind,Kyrgyzstan,0.0,0.0,0.0
+wind,Lao PDR,0.0,0.0,0.0
+wind,Latvia,128.27,131.24,2.969999999999999
+wind,Lebanon,0.0,0.0,0.0
+wind,Lesotho,0.0,0.0,0.0
+wind,Liberia,0.0,0.0,0.0
+wind,Libya,0.0,0.0,0.0
+wind,Lithuania,1284.0,1832.0,548.0
+wind,Luxembourg,207.34,213.08,5.740000000000009
+wind,Madagascar,0.0,0.0,0.0
+wind,Malawi,0.0,0.0,0.0
+wind,Malaysia,0.0,0.0,0.0
+wind,Maldives,0.0,0.0,0.0
+wind,Mali,0.0,0.0,0.0
+wind,Malta,0.06,0.06,0.0
+wind,Marshall Is,0.0,0.0,0.0
+wind,Martinique,14.0,14.0,0.0
+wind,Mauritania,132.38,132.38,0.0
+wind,Mauritius,10.63,10.63,0.0
+wind,Mayotte,0.0,0.0,0.0
+wind,Mexico,7317.72,7512.0,194.27999999999975
+wind,Micronesia,0.83,0.83,0.0
+wind,Moldova Rep,141.32,158.2,16.879999999999995
+wind,Mongolia,153.6,155.0,1.4000000000000057
+wind,Montenegro,118.0,118.0,0.0
+wind,Montserrat,0.0,0.0,0.0
+wind,Morocco,2071.0,2390.0,319.0
+wind,Mozambique,0.0,0.0,0.0
+wind,Myanmar,0.0,0.0,0.0
+wind,Namibia,6.23,6.23,0.0
+wind,Nauru,0.0,0.0,0.0
+wind,Nepal,0.0,0.0,0.0
+wind,Netherlands,6692.12,6955.0,262.8800000000001
+wind,New Caledon,57.99,57.99,0.0
+wind,New Zealand,1046.0,1263.0,217.0
+wind,Nicaragua,186.2,186.2,0.0
+wind,Niger,0.0,0.0,0.0
+wind,Nigeria,0.0,0.0,0.0
+wind,Niue,0.0,0.0,0.0
+wind,North Macedonia,72.8,72.8,0.0
+wind,Norway,5061.7,5063.0,1.300000000000182
+wind,Oman,50.0,50.0,0.0
+wind,Pakistan,1845.0,1845.0,0.0
+wind,Palau,0.0,0.0,0.0
+wind,Palestine,0.0,0.0,0.0
+wind,Panama,336.0,336.0,0.0
+wind,Papua N Guin,0.0,0.0,0.0
+wind,Paraguay,0.0,0.0,0.0
+wind,Peru,1014.99,1014.99,0.0
+wind,Philippines,426.9,426.9,0.0
+wind,Poland,9343.32,10151.75,808.4300000000003
+wind,Portugal,5513.14,5575.47,62.32999999999993
+wind,Puerto Rico,99.0,127.8,28.799999999999997
+wind,Qatar,0.0,0.0,0.0
+wind,Reunion,8.8,19.8,11.0
+wind,Romania,3026.76,3095.43,68.66999999999962
+wind,Russian Fed,2532.4,2566.7,34.29999999999973
+wind,Rwanda,0.0,0.0,0.0
+wind,Samoa,0.55,0.55,0.0
+wind,Sao Tome Prn,0.0,0.0,0.0
+wind,Saudi Arabia,400.0,400.0,0.0
+wind,Senegal,158.7,159.0,0.30000000000001137
+wind,Serbia,510.0,604.0,94.0
+wind,Seychelles,6.0,6.0,0.0
+wind,Sierra Leone,0.0,0.0,0.0
+wind,Singapore,0.1,0.1,0.0
+wind,Slovakia,4.0,4.0,0.0
+wind,Slovenia,3.33,3.4,0.06999999999999984
+wind,Solomon Is,0.0,0.0,0.0
+wind,Somalia,0.0,0.0,0.0
+wind,South Africa,3442.0,3442.0,0.0
+wind,South Georgia,0.0,0.0,0.0
+wind,South Sudan,0.0,0.0,0.0
+wind,Spain,30863.5,32179.27,1315.7700000000004
+wind,Sri Lanka,267.0,267.0,0.0
+wind,St Barth,0.0,0.0,0.0
+wind,St Kitts Nevis,2.2,2.2,0.0
+wind,St Lucia,0.0,0.0,0.0
+wind,St Maarten,0.0,0.0,0.0
+wind,St Martin,0.0,0.0,0.0
+wind,St Pierre Mq,0.0,0.0,0.0
+wind,St Vincent Gren,0.0,0.0,0.0
+wind,Sudan,0.0,0.0,0.0
+wind,Suriname,0.0,0.0,0.0
+wind,Sweden,16031.0,16626.0,595.0
+wind,Switzerland,88.32,102.12,13.800000000000011
+wind,Syrian AR,5.0,5.0,0.0
+wind,Tajikistan,0.0,0.0,0.0
+wind,Tanzania,2.4,2.4,0.0
+wind,Thailand,1543.56,1543.56,0.0
+wind,Timor Leste,0.0,0.0,0.0
+wind,Togo,0.0,0.0,0.0
+wind,Tokelau,0.02,0.02,0.0
+wind,Tonga,1.4,1.4,0.0
+wind,Trinidad Tobago,0.01,0.01,0.0
+wind,Tunisia,245.0,245.0,0.0
+wind,Turkmenistan,0.0,0.0,0.0
+wind,Turks Caicos,0.0,0.0,0.0
+wind,Tuvalu,0.0,0.0,0.0
+wind,Türkiye,11806.07,12870.79,1064.7200000000012
+wind,UK,15417.87,16229.97,812.0999999999985
+wind,US Virgin Is,0.0,0.0,0.0
+wind,USA,147479.0,152481.4,5002.399999999994
+wind,Uganda,0.0,0.0,0.0
+wind,Ukraine,1761.0,0.0,-1761.0
+wind,United Arab Em,99.1,110.0,10.900000000000006
+wind,Uruguay,1509.03,1509.03,0.0
+wind,Uzbekistan,0.75,500.75,500.0
+wind,Vanuatu,3.13,3.13,0.0
+wind,Venezuela,0.0,0.0,0.0
+wind,Viet Nam,4778.0,5075.3,297.3000000000002
+wind,Yemen,0.0,0.0,0.0
+wind,Zambia,0.0,0.0,0.0
+wind,Zimbabwe,0.0,0.0,0.0

@@ -1,0 +1,145 @@
+region,year,technology,capacity_GW,status,onshore_fraction,generation_TWh,capacity_factor,CF_domain_valid
+Australia_Oceania,2017,Solar,7.46725,observed_IRENA_aggregate,1.0,8.146,0.12453161147665966,True
+Australia_Oceania,2017,Wind,6.150180000000001,observed_IRENA_aggregate,1.0,14.688,0.27262817165792275,True
+Australia_Oceania,2017,Hydro,14.570892095829855,other_RE_capacity_allocation_proxy,1.0,41.458,0.3248015544072935,True
+Australia_Oceania,2017,Biomass,0.9722179041701451,other_RE_capacity_allocation_proxy,1.0,4.303,0.505246862411346,True
+Australia_Oceania,2017,Coal_Power,33.84018264840182,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,163.042,0.5500000000000002,True
+Australia_Oceania,2017,Oil_Power,2.4109589041095894,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,5.28,0.25,True
+Australia_Oceania,2017,Gas_Power,14.572298325722983,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,57.444,0.45000000000000007,True
+Australia_Oceania,2017,Nuclear,0.0,zero_benchmark_capacity_CF_assumption_for_future_entry,1.0,0.0,0.8,True
+China,2017,Solar,130.83229,observed_IRENA_aggregate,0.9830387296130154,119.498,0.1042657298203161,True
+China,2017,Wind,164.37448,observed_IRENA_aggregate,0.9830387296130154,298.953,0.20761772018698124,True
+China,2017,Hydro,309.735933990844,other_RE_capacity_allocation_proxy,0.9830387296130154,1206.645,0.44471708929248893,True
+China,2017,Biomass,15.913006009155957,other_RE_capacity_allocation_proxy,0.9830387296130154,96.433,0.6917821388994264,True
+China,2017,Coal_Power,979.4555832295557,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,4719.017,0.55,True
+China,2017,Oil_Power,10.497260273972604,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,22.989,0.25,True
+China,2017,Gas_Power,73.01572805682393,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,287.828,0.45000000000000007,True
+China,2017,Nuclear,38.601027397260275,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,270.516,0.8000000000000002,True
+Japan,2017,Solar,49.49963,observed_IRENA_aggregate,0.981452397837453,55.069,0.12699924272391844,True
+Japan,2017,Wind,3.48293,observed_IRENA_aggregate,0.981452397837453,6.49,0.21271388741912006,True
+Japan,2017,Hydro,24.25240196097796,other_RE_capacity_allocation_proxy,0.981452397837453,91.104,0.4288235044402434,True
+Japan,2017,Biomass,6.361498039022046,other_RE_capacity_allocation_proxy,0.981452397837453,37.173,0.6670587846848232,True
+Japan,2017,Coal_Power,72.4167704441677,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,348.904,0.55,True
+Japan,2017,Oil_Power,27.766666666666666,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,60.809,0.25,True
+Japan,2017,Gas_Power,107.89091831557585,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,425.306,0.45,True
+Japan,2017,Nuclear,4.69634703196347,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,32.912,0.7999999999999999,True
+South Korea,2017,Solar,5.63367,observed_IRENA_aggregate,0.960206749984695,7.056,0.1429759733982989,True
+South Korea,2017,Wind,1.14341,observed_IRENA_aggregate,0.960206749984695,2.169,0.21654764233829282,True
+South Korea,2017,Hydro,2.6912808352726114,other_RE_capacity_allocation_proxy,0.960206749984695,7.006,0.2971713984715774,True
+South Korea,2017,Biomass,1.7066491647273883,other_RE_capacity_allocation_proxy,0.960206749984695,6.911,0.462266619844676,True
+South Korea,2017,Coal_Power,53.0321710253217,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,255.509,0.55,True
+South Korea,2017,Oil_Power,5.385844748858448,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,11.795,0.25,True
+South Korea,2017,Gas_Power,31.950025367833586,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,125.947,0.45000000000000007,True
+South Korea,2017,Nuclear,21.17965182648402,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,148.427,0.7999999999999999,True
+Rest of World,2017,Solar,1.91265,observed_IRENA_aggregate,0.9915785041317964,0.099,0.005908749568929861,True
+Rest of World,2017,Wind,0.94995,observed_IRENA_aggregate,0.9915785041317964,0.391,0.04698637106831626,True
+Rest of World,2017,Hydro,12.97183882233259,other_RE_capacity_allocation_proxy,0.9915785041317964,27.857,0.24514819175639418,True
+Rest of World,2017,Biomass,0.04101117766741294,other_RE_capacity_allocation_proxy,0.9915785041317964,0.137,0.3813416316210665,True
+Rest of World,2017,Coal_Power,10.56434205064342,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,50.899,0.55,True
+Rest of World,2017,Oil_Power,0.5748858447488584,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,1.259,0.25,True
+Rest of World,2017,Gas_Power,0.3556570268899036,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,1.402,0.45,True
+Rest of World,2017,Nuclear,0.0,zero_benchmark_capacity_CF_assumption_for_future_entry,1.0,0.0,0.8,True
+Southeast Asia,2017,Solar,4.25797,observed_IRENA_aggregate,0.9213472455678539,6.297,0.16882120269479498,True
+Southeast Asia,2017,Wind,1.26124,observed_IRENA_aggregate,0.9213472455678539,2.56,0.23170644994003875,True
+Southeast Asia,2017,Hydro,51.879507552094886,other_RE_capacity_allocation_proxy,0.9213472455678539,179.411,0.3947745213655188,True
+Southeast Asia,2017,Biomass,3.9184224479051175,other_RE_capacity_allocation_proxy,0.9213472455678539,21.079,0.6140936999019184,True
+Southeast Asia,2017,Coal_Power,80.28289746782896,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,386.803,0.5500000000000002,True
+Southeast Asia,2017,Oil_Power,11.906392694063927,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,26.075,0.25,True
+Southeast Asia,2017,Gas_Power,91.75951293759513,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,361.716,0.44999999999999996,True
+Southeast Asia,2017,Nuclear,0.0,zero_benchmark_capacity_CF_assumption_for_future_entry,1.0,0.0,0.8,True
+"Central, Western and South Asia",2017,Solar,6.88007,observed_IRENA_aggregate,1.0,7.65,0.12693005612339364,True
+"Central, Western and South Asia",2017,Wind,8.08765,observed_IRENA_aggregate,1.0,21.801,0.307715916259604,True
+"Central, Western and South Asia",2017,Hydro,73.77971542197308,other_RE_capacity_allocation_proxy,1.0,177.975,0.27537082117650813,True
+"Central, Western and South Asia",2017,Biomass,0.9042245780269247,other_RE_capacity_allocation_proxy,1.0,3.393,0.4283546107190136,True
+"Central, Western and South Asia",2017,Coal_Power,43.68638439186384,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,210.481,0.55,True
+"Central, Western and South Asia",2017,Oil_Power,171.75205479452055,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,376.137,0.25,True
+"Central, Western and South Asia",2017,Gas_Power,300.80923389142566,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,1185.79,0.44999999999999996,True
+"Central, Western and South Asia",2017,Nuclear,2.8558789954337898,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,20.014,0.8,True
+India,2017,Solar,18.25685,observed_IRENA_aggregate,1.0,26.035,0.1627899645048472,True
+India,2017,Wind,32.84846,observed_IRENA_aggregate,1.0,54.994,0.19111562250645964,True
+India,2017,Hydro,47.020129154241936,other_RE_capacity_allocation_proxy,1.0,141.765,0.3441764084695675,True
+India,2017,Biomass,7.132230845758084,other_RE_capacity_allocation_proxy,1.0,33.45,0.5353855242859943,True
+India,2017,Coal_Power,234.63242009132418,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,1130.459,0.5500000000000002,True
+India,2017,Oil_Power,4.414611872146119,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,9.668,0.25,True
+India,2017,Gas_Power,18.8404363267377,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,74.269,0.44999999999999996,True
+India,2017,Nuclear,5.471746575342466,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,38.346,0.7999999999999999,True
+Canada,2017,Solar,2.493,observed_IRENA_aggregate,1.0,3.892,0.17821589949575706,True
+Canada,2017,Wind,12.25,observed_IRENA_aggregate,1.0,31.511,0.29364458112011926,True
+Canada,2017,Hydro,81.8672403585881,other_RE_capacity_allocation_proxy,1.0,394.659,0.5503104424057681,True
+Canada,2017,Biomass,1.538759641411898,other_RE_capacity_allocation_proxy,1.0,11.539,0.8560384659645319,True
+Canada,2017,Coal_Power,12.474885844748856,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,60.104,0.5500000000000002,True
+Canada,2017,Oil_Power,2.6744292237442924,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,5.857,0.25,True
+Canada,2017,Gas_Power,13.76154236428209,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,54.248,0.45,True
+Canada,2017,Nuclear,14.45476598173516,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,101.299,0.8,True
+United States,2017,Solar,43.11466,observed_IRENA_aggregate,0.9996655155683666,67.393,0.17843733060130007,True
+United States,2017,Wind,87.5975,observed_IRENA_aggregate,0.9996655155683666,257.249,0.33524157882260625,True
+United States,2017,Hydro,85.66547248192082,other_RE_capacity_allocation_proxy,0.9996655155683666,325.114,0.4332372103296025,True
+United States,2017,Biomass,13.300067518079185,other_RE_capacity_allocation_proxy,0.9996655155683666,78.518,0.6739245494016037,True
+United States,2017,Coal_Power,274.26753839767537,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,1321.421,0.55,True
+United States,2017,Oil_Power,14.8,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,32.412,0.25,True
+United States,2017,Gas_Power,339.3462709284627,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,1337.703,0.45000000000000007,True
+United States,2017,Nuclear,119.70048515981735,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,838.861,0.8000000000000002,True
+Rest of America,2017,Solar,5.015479999999999,observed_IRENA_aggregate,1.0,7.401,0.16845107820161384,True
+Rest of America,2017,Wind,9.19347,observed_IRENA_aggregate,1.0,23.558,0.2925195172652648,True
+Rest of America,2017,Hydro,90.47423762590572,other_RE_capacity_allocation_proxy,1.0,356.425,0.4497168084064366,True
+Rest of America,2017,Biomass,3.3318423740942733,other_RE_capacity_allocation_proxy,1.0,20.418,0.6995594797433444,True
+Rest of America,2017,Coal_Power,15.061436280614362,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,72.566,0.55,True
+Rest of America,2017,Oil_Power,55.04931506849316,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,120.558,0.25,True
+Rest of America,2017,Gas_Power,96.15804160324709,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,379.055,0.45,True
+Rest of America,2017,Nuclear,2.4253710045662102,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,16.997,0.8,True
+Brazil,2017,Solar,1.2097,observed_IRENA_aggregate,1.0,0.832,0.07851299408925494,True
+Brazil,2017,Wind,12.45102,observed_IRENA_aggregate,1.0,42.373,0.38849029690908893,True
+Brazil,2017,Hydro,111.85151724367716,other_RE_capacity_allocation_proxy,1.0,370.906,0.37854531277985104,True
+Brazil,2017,Biomass,10.736072756322844,other_RE_capacity_allocation_proxy,1.0,55.38,0.5888482643242132,True
+Brazil,2017,Coal_Power,4.653798256537982,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,22.422,0.5500000000000002,True
+Brazil,2017,Oil_Power,7.1388127853881285,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,15.634,0.25,True
+Brazil,2017,Gas_Power,16.639523084728566,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,65.593,0.45,True
+Brazil,2017,Nuclear,2.245861872146119,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,15.739,0.7999999999999999,True
+"EU, UK and EFTA",2017,Solar,108.229,observed_IRENA_aggregate,0.9054265818692474,115.188,0.12149530226180738,True
+"EU, UK and EFTA",2017,Wind,166.75193,observed_IRENA_aggregate,0.9054265818692474,364.947,0.2498358875867654,True
+"EU, UK and EFTA",2017,Hydro,166.79194692970842,other_RE_capacity_allocation_proxy,0.9054265818692474,525.423,0.3596084560714757,True
+"EU, UK and EFTA",2017,Biomass,43.687233070291605,other_RE_capacity_allocation_proxy,0.9054265818692474,214.079,0.5593909316667397,True
+"EU, UK and EFTA",2017,Coal_Power,147.40514736405146,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,710.198,0.55,True
+"EU, UK and EFTA",2017,Oil_Power,27.77123287671233,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,60.819,0.25000000000000006,True
+"EU, UK and EFTA",2017,Gas_Power,168.65728056823946,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,664.847,0.45,True
+"EU, UK and EFTA",2017,Nuclear,121.30336757990868,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,850.094,0.8,True
+Eastern Europe,2017,Solar,2.6638,observed_IRENA_aggregate,1.0,0.832,0.03565476723093764,True
+Eastern Europe,2017,Wind,3.70974,observed_IRENA_aggregate,1.0,1.087,0.03344890962462802,True
+Eastern Europe,2017,Hydro,13.617605535444817,other_RE_capacity_allocation_proxy,1.0,15.913,0.1333973514423869,True
+Eastern Europe,2017,Biomass,0.23545446455518593,other_RE_capacity_allocation_proxy,1.0,0.428,0.20750699113260182,True
+Eastern Europe,2017,Coal_Power,11.420091324200913,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,55.022,0.55,True
+Eastern Europe,2017,Oil_Power,0.7022831050228311,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,1.538,0.25,True
+Eastern Europe,2017,Gas_Power,11.54718417047184,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,45.519,0.45,True
+Eastern Europe,2017,Nuclear,12.211187214611872,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,85.576,0.7999999999999999,True
+Russia,2017,Solar,0.5378,observed_IRENA_aggregate,1.0,0.558,0.11844297161953572,True
+Russia,2017,Wind,0.1407,observed_IRENA_aggregate,1.0,0.14,0.11358731456870898,True
+Russia,2017,Hydro,49.67955704086635,other_RE_capacity_allocation_proxy,1.0,187.131,0.42999550667888436,True
+Russia,2017,Biomass,0.45704295913365,other_RE_capacity_allocation_proxy,1.0,2.678,0.6688818992782724,True
+Russia,2017,Coal_Power,36.27127438771274,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,174.755,0.55,True
+Russia,2017,Oil_Power,3.1853881278538814,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,6.976,0.25,True
+Russia,2017,Gas_Power,131.52536783358698,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,518.473,0.45000000000000007,True
+Russia,2017,Nuclear,28.987300228310502,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,203.143,0.7999999999999999,True
+North Africa,2017,Solar,0.79084,observed_IRENA_aggregate,1.0,1.118,0.16137976174226862,True
+North Africa,2017,Wind,2.0272,observed_IRENA_aggregate,1.0,5.377,0.30278846950874494,True
+North Africa,2017,Hydro,4.46993,other_RE_capacity_allocation_proxy,1.0,14.347,0.3664006792338703,True
+North Africa,2017,Biomass,0.0,zero_benchmark_capacity_CF_assumption_for_future_entry,1.0,0.0,0.7,True
+North Africa,2017,Coal_Power,3.641552511415525,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,17.545,0.55,True
+North Africa,2017,Oil_Power,16.575799086757993,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,36.301,0.25,True
+North Africa,2017,Gas_Power,66.6392694063927,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,262.692,0.45,True
+North Africa,2017,Nuclear,0.0,zero_benchmark_capacity_CF_assumption_for_future_entry,1.0,0.0,0.8,True
+Sub Saharan,2017,Solar,0.7813300000000001,observed_IRENA_aggregate,1.0,0.574,0.08386355849033204,True
+Sub Saharan,2017,Wind,0.45807,observed_IRENA_aggregate,1.0,0.616,0.15351285764882303,True
+Sub Saharan,2017,Hydro,27.306166993089683,other_RE_capacity_allocation_proxy,1.0,104.483,0.43679814556328045,True
+Sub Saharan,2017,Biomass,0.32106300691031747,other_RE_capacity_allocation_proxy,1.0,1.911,0.6794637819873247,True
+Sub Saharan,2017,Coal_Power,2.102739726027397,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,10.131,0.55,True
+Sub Saharan,2017,Oil_Power,12.732876712328768,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,27.885,0.25,True
+Sub Saharan,2017,Gas_Power,12.366818873668189,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,48.75,0.45,True
+Sub Saharan,2017,Nuclear,0.0,zero_benchmark_capacity_CF_assumption_for_future_entry,1.0,0.0,0.8,True
+South Africa,2017,Solar,2.20525,observed_IRENA_aggregate,1.0,3.249,0.16818519939186222,True
+South Africa,2017,Wind,2.094,observed_IRENA_aggregate,1.0,4.924,0.26843383792789144,True
+South Africa,2017,Hydro,0.9675889585927764,other_RE_capacity_allocation_proxy,1.0,5.289,0.6239913321931314,True
+South Africa,2017,Biomass,0.0397510414072229,other_RE_capacity_allocation_proxy,1.0,0.338,0.9706531834115375,True
+South Africa,2017,Coal_Power,46.96367787463677,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,226.271,0.55,True
+South Africa,2017,Oil_Power,0.08356164383561644,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,0.183,0.25,True
+South Africa,2017,Gas_Power,0.0,zero_benchmark_capacity_CF_assumption_for_future_entry,1.0,0.0,0.45,True
+South Africa,2017,Nuclear,2.025256849315068,2017_generation_divided_by_assumed_CF_no_historical_capacity_data,1.0,14.193,0.8000000000000002,True

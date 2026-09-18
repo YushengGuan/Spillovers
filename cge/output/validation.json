@@ -1,0 +1,1102 @@
+[
+  {
+    "check": "S0_BASELINE solved to 2050",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE 18 regions 8 nodes",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE 8 technologies",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE budgets factor markets",
+    "status": "PASS",
+    "value": "1.8396713130641729e-06"
+  },
+  {
+    "check": "S0_BASELINE external balance",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE aggregate capital recursion",
+    "status": "PASS",
+    "value": "7.275957614183426e-12"
+  },
+  {
+    "check": "S0_BASELINE GW is generation equivalent",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE conversion identity",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE calibration disabled in scenario equilibrium",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE final MCP residual",
+    "status": "PASS",
+    "value": "3.35990080202464e-09"
+  },
+  {
+    "check": "S0_BASELINE 2017 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE 2017 accepted equilibrium",
+    "status": "PASS",
+    "value": "1.091393642127514e-11"
+  },
+  {
+    "check": "S0_BASELINE 2020 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE 2020 accepted equilibrium",
+    "status": "PASS",
+    "value": "1.091393642127514e-11"
+  },
+  {
+    "check": "S0_BASELINE 2025 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE 2025 accepted equilibrium",
+    "status": "PASS",
+    "value": "1.091393642127514e-11"
+  },
+  {
+    "check": "S0_BASELINE 2030 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE 2030 accepted equilibrium",
+    "status": "PASS",
+    "value": "1.4551915228366852e-11"
+  },
+  {
+    "check": "S0_BASELINE 2035 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE 2035 accepted equilibrium",
+    "status": "PASS",
+    "value": "6.113332062795962e-09"
+  },
+  {
+    "check": "S0_BASELINE 2040 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE 2040 accepted equilibrium",
+    "status": "PASS",
+    "value": "1.6975150174403095e-09"
+  },
+  {
+    "check": "S0_BASELINE 2045 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE 2045 accepted equilibrium",
+    "status": "PASS",
+    "value": "1.9367689674254507e-09"
+  },
+  {
+    "check": "S0_BASELINE 2050 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S0_BASELINE 2050 accepted equilibrium",
+    "status": "PASS",
+    "value": "3.35990080202464e-09"
+  },
+  {
+    "check": "S1_NO_CN solved to 2050",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN 18 regions 8 nodes",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN 8 technologies",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN budgets factor markets",
+    "status": "PASS",
+    "value": "9.137356755672954e-07"
+  },
+  {
+    "check": "S1_NO_CN external balance",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN aggregate capital recursion",
+    "status": "PASS",
+    "value": "7.275957614183426e-12"
+  },
+  {
+    "check": "S1_NO_CN GW is generation equivalent",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN conversion identity",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN calibration disabled in scenario equilibrium",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN final MCP residual",
+    "status": "PASS",
+    "value": "7.061544238240458e-09"
+  },
+  {
+    "check": "S1_NO_CN 2017 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN 2017 accepted equilibrium",
+    "status": "PASS",
+    "value": "2.34505387330941e-09"
+  },
+  {
+    "check": "S1_NO_CN 2020 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN 2020 accepted equilibrium",
+    "status": "PASS",
+    "value": "6.549738529315619e-11"
+  },
+  {
+    "check": "S1_NO_CN 2025 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN 2025 accepted equilibrium",
+    "status": "PASS",
+    "value": "1.7098500393331048e-10"
+  },
+  {
+    "check": "S1_NO_CN 2030 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN 2030 accepted equilibrium",
+    "status": "PASS",
+    "value": "8.759815095515933e-11"
+  },
+  {
+    "check": "S1_NO_CN 2035 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN 2035 accepted equilibrium",
+    "status": "PASS",
+    "value": "3.3233504836971406e-10"
+  },
+  {
+    "check": "S1_NO_CN 2040 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN 2040 accepted equilibrium",
+    "status": "PASS",
+    "value": "1.782609615474939e-10"
+  },
+  {
+    "check": "S1_NO_CN 2045 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN 2045 accepted equilibrium",
+    "status": "PASS",
+    "value": "8.953961128099763e-09"
+  },
+  {
+    "check": "S1_NO_CN 2050 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S1_NO_CN 2050 accepted equilibrium",
+    "status": "PASS",
+    "value": "7.061544238240458e-09"
+  },
+  {
+    "check": "S2_CAPACITY solved to 2050",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY 18 regions 8 nodes",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY 8 technologies",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY budgets factor markets",
+    "status": "PASS",
+    "value": "1.5318637451855466e-06"
+  },
+  {
+    "check": "S2_CAPACITY external balance",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY aggregate capital recursion",
+    "status": "PASS",
+    "value": "7.275957614183426e-12"
+  },
+  {
+    "check": "S2_CAPACITY GW is generation equivalent",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY conversion identity",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY calibration disabled in scenario equilibrium",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY final MCP residual",
+    "status": "PASS",
+    "value": "4.5944261728436694e-09"
+  },
+  {
+    "check": "S2_CAPACITY 2017 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY 2017 accepted equilibrium",
+    "status": "PASS",
+    "value": "1.356960099840876e-10"
+  },
+  {
+    "check": "S2_CAPACITY 2020 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY 2020 accepted equilibrium",
+    "status": "PASS",
+    "value": "1.7178685141061576e-09"
+  },
+  {
+    "check": "S2_CAPACITY 2025 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY 2025 accepted equilibrium",
+    "status": "PASS",
+    "value": "1.8189894035458562e-10"
+  },
+  {
+    "check": "S2_CAPACITY 2030 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY 2030 accepted equilibrium",
+    "status": "PASS",
+    "value": "3.0641444936918555e-10"
+  },
+  {
+    "check": "S2_CAPACITY 2035 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY 2035 accepted equilibrium",
+    "status": "PASS",
+    "value": "1.3651857422303235e-10"
+  },
+  {
+    "check": "S2_CAPACITY 2040 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY 2040 accepted equilibrium",
+    "status": "PASS",
+    "value": "8.696858344592329e-09"
+  },
+  {
+    "check": "S2_CAPACITY 2045 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY 2045 accepted equilibrium",
+    "status": "PASS",
+    "value": "1.4505161516353835e-09"
+  },
+  {
+    "check": "S2_CAPACITY 2050 checkpoint",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "S2_CAPACITY 2050 accepted equilibrium",
+    "status": "PASS",
+    "value": "4.5944261728436694e-09"
+  },
+  {
+    "check": "finite main outcomes",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "final energy excludes transformation",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "final energy shares",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv AUS actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv AUS actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv AUS cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv AUS cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization pv AUS",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv BRA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv BRA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv BRA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv BRA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization pv BRA",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv CHN actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv CHN actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv CHN cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv CHN cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization pv CHN",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv DEU actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv DEU actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv DEU cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv DEU cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization pv DEU",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv ESP actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv ESP actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv ESP cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv ESP cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization pv ESP",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv FRA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv FRA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv FRA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv FRA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization pv FRA",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv IND actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv IND actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv IND cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv IND cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization pv IND",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv ITA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv ITA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv ITA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv ITA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization pv ITA",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv JPN actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv JPN actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv JPN cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv JPN cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization pv JPN",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv KOR actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv KOR actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv KOR cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv KOR cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization pv KOR",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv USA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv USA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product pv USA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth pv USA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization pv USA",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind AUS actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind AUS actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind AUS cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind AUS cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization wind AUS",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind BRA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind BRA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind BRA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind BRA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization wind BRA",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind CAN actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind CAN actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind CAN cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind CAN cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization wind CAN",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind CHN actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind CHN actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind CHN cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind CHN cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization wind CHN",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind DEU actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind DEU actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind DEU cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind DEU cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization wind DEU",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind ESP actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind ESP actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind ESP cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind ESP cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization wind ESP",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind FRA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind FRA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind FRA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind FRA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization wind FRA",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind GBR actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind GBR actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind GBR cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind GBR cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization wind GBR",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind IND actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind IND actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind IND cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind IND cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization wind IND",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind ITA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind ITA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind ITA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind ITA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization wind ITA",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind POL actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind POL actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind POL cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind POL cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization wind POL",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind SWE actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind SWE actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind SWE cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind SWE cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization wind SWE",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind TUR actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind TUR actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind TUR cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind TUR cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization wind TUR",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind USA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind USA actual",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual product wind USA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "annual inverse growth wind USA cf",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "common factual 2017 normalization wind USA",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "B pv executed compound multiplier",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "B wind executed compound multiplier",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "B same macro productivity",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "C pv executed compound multiplier",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "C wind executed compound multiplier",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "C same macro productivity",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "baseline target",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "policy target",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "policy price persistent",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "no installed stock or generation ceiling module",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "no direct investment efficiency shock",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "cost input unchanged reference",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "cost input unchanged reference",
+    "status": "PASS",
+    "value": ""
+  },
+  {
+    "check": "cost input unchanged reference",
+    "status": "PASS",
+    "value": ""
+  }
+]

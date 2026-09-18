@@ -1,0 +1,2041 @@
+﻿technology,patent_geography,year,F,H,record_present,fill_rule
+pv,Argentina,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Argentina,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Argentina,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,Argentina,2011,0.0,0.0,False,unlisted_assumed_zero
+pv,Argentina,2012,0.0,0.0,False,unlisted_assumed_zero
+pv,Argentina,2013,2.0,2.0,True,observed
+pv,Argentina,2014,0.0,1.8,False,unlisted_assumed_zero
+pv,Argentina,2015,0.0,1.62,False,unlisted_assumed_zero
+pv,Argentina,2016,1.0,2.458,True,observed
+pv,Argentina,2017,2.0,4.2122,True,observed
+pv,Argentina,2018,3.0,6.79098,True,observed
+pv,Argentina,2019,6.0,12.111882000000001,True,observed
+pv,Argentina,2020,2.0,12.9006938,True,observed
+pv,Argentina,2021,0.0,11.61062442,False,unlisted_assumed_zero
+pv,Argentina,2022,0.0,10.449561978,False,unlisted_assumed_zero
+pv,Argentina,2023,0.0,9.4046057802,False,unlisted_assumed_zero
+pv,Argentina,2024,0.0,8.464145202180001,False,unlisted_assumed_zero
+pv,Australia,2008,10.0,100.0,True,observed
+pv,Australia,2009,13.0,103.0,True,observed
+pv,Australia,2010,8.0,100.7,True,observed
+pv,Australia,2011,22.0,112.63000000000001,True,observed
+pv,Australia,2012,12.0,113.367,True,observed
+pv,Australia,2013,19.0,121.03030000000001,True,observed
+pv,Australia,2014,9.0,117.92727000000001,True,observed
+pv,Australia,2015,15.0,121.13454300000001,True,observed
+pv,Australia,2016,7.0,116.0210887,True,observed
+pv,Australia,2017,5.0,109.41897983000001,True,observed
+pv,Australia,2018,7.0,105.47708184700001,True,observed
+pv,Australia,2019,6.0,100.92937366230001,True,observed
+pv,Australia,2020,4.0,94.83643629607,True,observed
+pv,Australia,2021,9.0,94.352792666463,True,observed
+pv,Australia,2022,7.0,91.9175133998167,True,observed
+pv,Australia,2023,5.0,87.72576205983503,True,observed
+pv,Australia,2024,6.0,84.95318585385154,True,observed
+pv,Austria,2008,3.0,30.0,True,observed
+pv,Austria,2009,3.0,30.0,True,observed
+pv,Austria,2010,4.0,31.0,True,observed
+pv,Austria,2011,6.0,33.900000000000006,True,observed
+pv,Austria,2012,8.0,38.510000000000005,True,observed
+pv,Austria,2013,5.0,39.659000000000006,True,observed
+pv,Austria,2014,4.0,39.69310000000001,True,observed
+pv,Austria,2015,2.0,37.72379000000001,True,observed
+pv,Austria,2016,2.0,35.95141100000001,True,observed
+pv,Austria,2017,1.0,33.35626990000001,True,observed
+pv,Austria,2018,2.0,32.02064291000001,True,observed
+pv,Austria,2019,0.0,28.818578619000007,False,unlisted_assumed_zero
+pv,Austria,2020,0.0,25.93672075710001,False,unlisted_assumed_zero
+pv,Austria,2021,2.0,25.34304868139001,True,observed
+pv,Austria,2022,0.0,22.80874381325101,False,unlisted_assumed_zero
+pv,Austria,2023,2.0,22.527869431925907,True,observed
+pv,Austria,2024,1.0,21.275082488733318,True,observed
+pv,Belgium,2008,1.0,10.0,True,observed
+pv,Belgium,2009,1.0,10.0,True,observed
+pv,Belgium,2010,3.0,12.0,True,observed
+pv,Belgium,2011,2.0,12.8,True,observed
+pv,Belgium,2012,1.0,12.520000000000001,True,observed
+pv,Belgium,2013,1.0,12.268,True,observed
+pv,Belgium,2014,2.0,13.041200000000002,True,observed
+pv,Belgium,2015,1.0,12.737080000000002,True,observed
+pv,Belgium,2016,1.0,12.463372000000003,True,observed
+pv,Belgium,2017,5.0,16.217034800000004,True,observed
+pv,Belgium,2018,2.0,16.595331320000003,True,observed
+pv,Belgium,2019,0.0,14.935798188000003,False,unlisted_assumed_zero
+pv,Belgium,2020,4.0,17.442218369200003,True,observed
+pv,Belgium,2021,0.0,15.697996532280003,False,unlisted_assumed_zero
+pv,Belgium,2022,0.0,14.128196879052004,False,unlisted_assumed_zero
+pv,Belgium,2023,0.0,12.715377191146803,False,unlisted_assumed_zero
+pv,Belgium,2024,1.0,12.443839472032124,True,observed
+pv,Brazil,2008,4.0,40.0,True,observed
+pv,Brazil,2009,1.0,37.0,True,observed
+pv,Brazil,2010,3.0,36.300000000000004,True,observed
+pv,Brazil,2011,6.0,38.67,True,observed
+pv,Brazil,2012,4.0,38.803000000000004,True,observed
+pv,Brazil,2013,7.0,41.922700000000006,True,observed
+pv,Brazil,2014,3.0,40.730430000000005,True,observed
+pv,Brazil,2015,14.0,50.65738700000001,True,observed
+pv,Brazil,2016,12.0,57.59164830000001,True,observed
+pv,Brazil,2017,19.0,70.83248347,True,observed
+pv,Brazil,2018,16.0,79.749235123,True,observed
+pv,Brazil,2019,13.0,84.77431161070001,True,observed
+pv,Brazil,2020,12.0,88.29688044963001,True,observed
+pv,Brazil,2021,2.0,81.46719240466702,True,observed
+pv,Brazil,2022,1.0,74.32047316420032,True,observed
+pv,Brazil,2023,0.0,66.8884258477803,False,unlisted_assumed_zero
+pv,Brazil,2024,0.0,60.19958326300227,False,unlisted_assumed_zero
+pv,Bulgaria,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Bulgaria,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Bulgaria,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,Bulgaria,2011,1.0,1.0,True,observed
+pv,Bulgaria,2012,0.0,0.9,False,unlisted_assumed_zero
+pv,Bulgaria,2013,0.0,0.81,False,unlisted_assumed_zero
+pv,Bulgaria,2014,0.0,0.7290000000000001,False,unlisted_assumed_zero
+pv,Bulgaria,2015,0.0,0.6561000000000001,False,unlisted_assumed_zero
+pv,Bulgaria,2016,1.0,1.5904900000000002,True,observed
+pv,Bulgaria,2017,1.0,2.4314410000000004,True,observed
+pv,Bulgaria,2018,1.0,3.1882969000000005,True,observed
+pv,Bulgaria,2019,2.0,4.869467210000001,True,observed
+pv,Bulgaria,2020,2.0,6.382520489000001,True,observed
+pv,Bulgaria,2021,0.0,5.744268440100001,False,unlisted_assumed_zero
+pv,Bulgaria,2022,1.0,6.169841596090001,True,observed
+pv,Bulgaria,2023,1.0,6.552857436481001,True,observed
+pv,Bulgaria,2024,0.0,5.897571692832901,False,unlisted_assumed_zero
+pv,Canada,2008,7.0,70.0,True,observed
+pv,Canada,2009,6.0,69.0,True,observed
+pv,Canada,2010,12.0,74.1,True,observed
+pv,Canada,2011,6.0,72.69,True,observed
+pv,Canada,2012,3.0,68.421,True,observed
+pv,Canada,2013,7.0,68.5789,True,observed
+pv,Canada,2014,8.0,69.72101,True,observed
+pv,Canada,2015,10.0,72.748909,True,observed
+pv,Canada,2016,1.0,66.4740181,True,observed
+pv,Canada,2017,4.0,63.82661629,True,observed
+pv,Canada,2018,8.0,65.44395466099999,True,observed
+pv,Canada,2019,10.0,68.8995591949,True,observed
+pv,Canada,2020,4.0,66.00960327541,True,observed
+pv,Canada,2021,3.0,62.408642947869005,True,observed
+pv,Canada,2022,0.0,56.1677786530821,False,unlisted_assumed_zero
+pv,Canada,2023,0.0,50.551000787773894,False,unlisted_assumed_zero
+pv,Canada,2024,0.0,45.49590070899651,False,unlisted_assumed_zero
+pv,Chile,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Chile,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Chile,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,Chile,2011,1.0,1.0,True,observed
+pv,Chile,2012,0.0,0.9,False,unlisted_assumed_zero
+pv,Chile,2013,0.0,0.81,False,unlisted_assumed_zero
+pv,Chile,2014,2.0,2.729,True,observed
+pv,Chile,2015,0.0,2.4561,False,unlisted_assumed_zero
+pv,Chile,2016,0.0,2.21049,False,unlisted_assumed_zero
+pv,Chile,2017,1.0,2.9894410000000002,True,observed
+pv,Chile,2018,2.0,4.6904969,True,observed
+pv,Chile,2019,3.0,7.22144721,True,observed
+pv,Chile,2020,3.0,9.499302489,True,observed
+pv,Chile,2021,3.0,11.5493722401,True,observed
+pv,Chile,2022,0.0,10.39443501609,False,unlisted_assumed_zero
+pv,Chile,2023,0.0,9.354991514481,False,unlisted_assumed_zero
+pv,Chile,2024,0.0,8.4194923630329,False,unlisted_assumed_zero
+pv,China,2008,874.0,8740.0,True,observed
+pv,China,2009,1448.0,9314.0,True,observed
+pv,China,2010,2229.0,10611.6,True,observed
+pv,China,2011,2490.0,12040.44,True,observed
+pv,China,2012,2321.0,13157.396,True,observed
+pv,China,2013,2120.0,13961.656400000002,True,observed
+pv,China,2014,2718.0,15283.490760000002,True,observed
+pv,China,2015,2901.0,16656.141684000002,True,observed
+pv,China,2016,4093.0,19083.527515600003,True,observed
+pv,China,2017,5332.0,22507.174764040003,True,observed
+pv,China,2018,6453.0,26709.457287636003,True,observed
+pv,China,2019,4786.0,28824.511558872404,True,observed
+pv,China,2020,6432.0,32374.060402985164,True,observed
+pv,China,2021,7699.0,36835.65436268665,True,observed
+pv,China,2022,10358.0,43510.088926417986,True,observed
+pv,China,2023,12019.0,51178.08003377619,True,observed
+pv,China,2024,8302.0,54362.27203039857,True,observed
+pv,China Hong Kong,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,China Hong Kong,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,China Hong Kong,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,China Hong Kong,2011,0.0,0.0,False,unlisted_assumed_zero
+pv,China Hong Kong,2012,0.0,0.0,False,unlisted_assumed_zero
+pv,China Hong Kong,2013,0.0,0.0,False,unlisted_assumed_zero
+pv,China Hong Kong,2014,0.0,0.0,False,unlisted_assumed_zero
+pv,China Hong Kong,2015,3.0,3.0,True,observed
+pv,China Hong Kong,2016,1.0,3.7,True,observed
+pv,China Hong Kong,2017,0.0,3.33,False,unlisted_assumed_zero
+pv,China Hong Kong,2018,2.0,4.997,True,observed
+pv,China Hong Kong,2019,0.0,4.4973,False,unlisted_assumed_zero
+pv,China Hong Kong,2020,0.0,4.04757,False,unlisted_assumed_zero
+pv,China Hong Kong,2021,0.0,3.6428130000000003,False,unlisted_assumed_zero
+pv,China Hong Kong,2022,0.0,3.2785317000000003,False,unlisted_assumed_zero
+pv,China Hong Kong,2023,0.0,2.9506785300000002,False,unlisted_assumed_zero
+pv,China Hong Kong,2024,0.0,2.6556106770000003,False,unlisted_assumed_zero
+pv,Chinese Taiwan,2008,187.0,1870.0,True,observed
+pv,Chinese Taiwan,2009,285.0,1968.0,True,observed
+pv,Chinese Taiwan,2010,312.0,2083.2,True,observed
+pv,Chinese Taiwan,2011,289.0,2163.88,True,observed
+pv,Chinese Taiwan,2012,193.0,2140.492,True,observed
+pv,Chinese Taiwan,2013,137.0,2063.4428000000003,True,observed
+pv,Chinese Taiwan,2014,82.0,1939.0985200000002,True,observed
+pv,Chinese Taiwan,2015,73.0,1818.1886680000002,True,observed
+pv,Chinese Taiwan,2016,63.0,1699.3698012000002,True,observed
+pv,Chinese Taiwan,2017,85.0,1614.4328210800002,True,observed
+pv,Chinese Taiwan,2018,74.0,1526.9895389720002,True,observed
+pv,Chinese Taiwan,2019,64.0,1438.2905850748002,True,observed
+pv,Chinese Taiwan,2020,80.0,1374.4615265673203,True,observed
+pv,Chinese Taiwan,2021,16.0,1253.0153739105883,True,observed
+pv,Chinese Taiwan,2022,13.0,1140.7138365195294,True,observed
+pv,Chinese Taiwan,2023,14.0,1040.6424528675766,True,observed
+pv,Chinese Taiwan,2024,14.0,950.5782075808189,True,observed
+pv,Colombia,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Colombia,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Colombia,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,Colombia,2011,0.0,0.0,False,unlisted_assumed_zero
+pv,Colombia,2012,0.0,0.0,False,unlisted_assumed_zero
+pv,Colombia,2013,0.0,0.0,False,unlisted_assumed_zero
+pv,Colombia,2014,1.0,1.0,True,observed
+pv,Colombia,2015,0.0,0.9,False,unlisted_assumed_zero
+pv,Colombia,2016,0.0,0.81,False,unlisted_assumed_zero
+pv,Colombia,2017,5.0,5.729,True,observed
+pv,Colombia,2018,2.0,7.1561,True,observed
+pv,Colombia,2019,0.0,6.4404900000000005,False,unlisted_assumed_zero
+pv,Colombia,2020,2.0,7.796441000000001,True,observed
+pv,Colombia,2021,1.0,8.016796900000001,True,observed
+pv,Colombia,2022,3.0,10.21511721,True,observed
+pv,Colombia,2023,0.0,9.193605489000001,False,unlisted_assumed_zero
+pv,Colombia,2024,0.0,8.274244940100001,False,unlisted_assumed_zero
+pv,Croatia,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Croatia,2009,1.0,1.0,True,observed
+pv,Croatia,2010,0.0,0.9,False,unlisted_assumed_zero
+pv,Croatia,2011,0.0,0.81,False,unlisted_assumed_zero
+pv,Croatia,2012,2.0,2.729,True,observed
+pv,Croatia,2013,2.0,4.4561,True,observed
+pv,Croatia,2014,1.0,5.01049,True,observed
+pv,Croatia,2015,0.0,4.509441,False,unlisted_assumed_zero
+pv,Croatia,2016,3.0,7.0584969,True,observed
+pv,Croatia,2017,0.0,6.35264721,False,unlisted_assumed_zero
+pv,Croatia,2018,0.0,5.717382489,False,unlisted_assumed_zero
+pv,Croatia,2019,1.0,6.1456442401,True,observed
+pv,Croatia,2020,0.0,5.53107981609,False,unlisted_assumed_zero
+pv,Croatia,2021,0.0,4.977971834481,False,unlisted_assumed_zero
+pv,Croatia,2022,0.0,4.4801746510329,False,unlisted_assumed_zero
+pv,Croatia,2023,0.0,4.03215718592961,False,unlisted_assumed_zero
+pv,Croatia,2024,0.0,3.628941467336649,False,unlisted_assumed_zero
+pv,Czech Republic,2008,3.0,30.0,True,observed
+pv,Czech Republic,2009,2.0,29.0,True,observed
+pv,Czech Republic,2010,2.0,28.1,True,observed
+pv,Czech Republic,2011,1.0,26.290000000000003,True,observed
+pv,Czech Republic,2012,1.0,24.661,True,observed
+pv,Czech Republic,2013,4.0,26.1949,True,observed
+pv,Czech Republic,2014,1.0,24.57541,True,observed
+pv,Czech Republic,2015,0.0,22.117869000000002,False,unlisted_assumed_zero
+pv,Czech Republic,2016,3.0,22.906082100000003,True,observed
+pv,Czech Republic,2017,2.0,22.615473890000004,True,observed
+pv,Czech Republic,2018,1.0,21.353926501000004,True,observed
+pv,Czech Republic,2019,1.0,20.218533850900005,True,observed
+pv,Czech Republic,2020,0.0,18.196680465810005,False,unlisted_assumed_zero
+pv,Czech Republic,2021,1.0,17.377012419229004,True,observed
+pv,Czech Republic,2022,0.0,15.639311177306103,False,unlisted_assumed_zero
+pv,Czech Republic,2023,2.0,16.075380059575494,True,observed
+pv,Czech Republic,2024,1.0,15.467842053617945,True,observed
+pv,Denmark,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Denmark,2009,1.0,1.0,True,observed
+pv,Denmark,2010,0.0,0.9,False,unlisted_assumed_zero
+pv,Denmark,2011,1.0,1.81,True,observed
+pv,Denmark,2012,1.0,2.629,True,observed
+pv,Denmark,2013,1.0,3.3661,True,observed
+pv,Denmark,2014,0.0,3.02949,False,unlisted_assumed_zero
+pv,Denmark,2015,1.0,3.726541,True,observed
+pv,Denmark,2016,0.0,3.3538869,False,unlisted_assumed_zero
+pv,Denmark,2017,0.0,3.01849821,False,unlisted_assumed_zero
+pv,Denmark,2018,0.0,2.7166483890000004,False,unlisted_assumed_zero
+pv,Denmark,2019,0.0,2.4449835501000003,False,unlisted_assumed_zero
+pv,Denmark,2020,1.0,3.20048519509,True,observed
+pv,Denmark,2021,0.0,2.880436675581,False,unlisted_assumed_zero
+pv,Denmark,2022,0.0,2.5923930080229,False,unlisted_assumed_zero
+pv,Denmark,2023,0.0,2.3331537072206103,False,unlisted_assumed_zero
+pv,Denmark,2024,0.0,2.0998383364985496,False,unlisted_assumed_zero
+pv,Ecuador,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Ecuador,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Ecuador,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,Ecuador,2011,0.0,0.0,False,unlisted_assumed_zero
+pv,Ecuador,2012,0.0,0.0,False,unlisted_assumed_zero
+pv,Ecuador,2013,0.0,0.0,False,unlisted_assumed_zero
+pv,Ecuador,2014,0.0,0.0,False,unlisted_assumed_zero
+pv,Ecuador,2015,0.0,0.0,False,unlisted_assumed_zero
+pv,Ecuador,2016,0.0,0.0,False,unlisted_assumed_zero
+pv,Ecuador,2017,0.0,0.0,False,unlisted_assumed_zero
+pv,Ecuador,2018,0.0,0.0,False,unlisted_assumed_zero
+pv,Ecuador,2019,1.0,1.0,True,observed
+pv,Ecuador,2020,1.0,1.9,True,observed
+pv,Ecuador,2021,0.0,1.71,False,unlisted_assumed_zero
+pv,Ecuador,2022,0.0,1.539,False,unlisted_assumed_zero
+pv,Ecuador,2023,0.0,1.3851,False,unlisted_assumed_zero
+pv,Ecuador,2024,0.0,1.24659,False,unlisted_assumed_zero
+pv,Egypt,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Egypt,2009,1.0,1.0,True,observed
+pv,Egypt,2010,1.0,1.9,True,observed
+pv,Egypt,2011,0.0,1.71,False,unlisted_assumed_zero
+pv,Egypt,2012,0.0,1.539,False,unlisted_assumed_zero
+pv,Egypt,2013,0.0,1.3851,False,unlisted_assumed_zero
+pv,Egypt,2014,0.0,1.24659,False,unlisted_assumed_zero
+pv,Egypt,2015,0.0,1.121931,False,unlisted_assumed_zero
+pv,Egypt,2016,0.0,1.0097379,False,unlisted_assumed_zero
+pv,Egypt,2017,0.0,0.90876411,False,unlisted_assumed_zero
+pv,Egypt,2018,0.0,0.817887699,False,unlisted_assumed_zero
+pv,Egypt,2019,0.0,0.7360989291000001,False,unlisted_assumed_zero
+pv,Egypt,2020,0.0,0.6624890361900001,False,unlisted_assumed_zero
+pv,Egypt,2021,0.0,0.5962401325710001,False,unlisted_assumed_zero
+pv,Egypt,2022,0.0,0.5366161193139001,False,unlisted_assumed_zero
+pv,Egypt,2023,0.0,0.48295450738251006,False,unlisted_assumed_zero
+pv,Egypt,2024,0.0,0.4346590566442591,False,unlisted_assumed_zero
+pv,Estonia,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Estonia,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Estonia,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,Estonia,2011,0.0,0.0,False,unlisted_assumed_zero
+pv,Estonia,2012,0.0,0.0,False,unlisted_assumed_zero
+pv,Estonia,2013,0.0,0.0,False,unlisted_assumed_zero
+pv,Estonia,2014,0.0,0.0,False,unlisted_assumed_zero
+pv,Estonia,2015,0.0,0.0,False,unlisted_assumed_zero
+pv,Estonia,2016,0.0,0.0,False,unlisted_assumed_zero
+pv,Estonia,2017,1.0,1.0,True,observed
+pv,Estonia,2018,0.0,0.9,False,unlisted_assumed_zero
+pv,Estonia,2019,0.0,0.81,False,unlisted_assumed_zero
+pv,Estonia,2020,0.0,0.7290000000000001,False,unlisted_assumed_zero
+pv,Estonia,2021,0.0,0.6561000000000001,False,unlisted_assumed_zero
+pv,Estonia,2022,0.0,0.5904900000000002,False,unlisted_assumed_zero
+pv,Estonia,2023,1.0,1.531441,True,observed
+pv,Estonia,2024,0.0,1.3782969,False,unlisted_assumed_zero
+pv,Finland,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Finland,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Finland,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,Finland,2011,1.0,1.0,True,observed
+pv,Finland,2012,0.0,0.9,False,unlisted_assumed_zero
+pv,Finland,2013,1.0,1.81,True,observed
+pv,Finland,2014,1.0,2.629,True,observed
+pv,Finland,2015,1.0,3.3661,True,observed
+pv,Finland,2016,1.0,4.02949,True,observed
+pv,Finland,2017,0.0,3.626541,False,unlisted_assumed_zero
+pv,Finland,2018,0.0,3.2638869,False,unlisted_assumed_zero
+pv,Finland,2019,1.0,3.93749821,True,observed
+pv,Finland,2020,3.0,6.543748389,True,observed
+pv,Finland,2021,0.0,5.8893735501,False,unlisted_assumed_zero
+pv,Finland,2022,2.0,7.3004361950900005,True,observed
+pv,Finland,2023,2.0,8.570392575581,True,observed
+pv,Finland,2024,3.0,10.7133533180229,True,observed
+pv,France,2008,38.0,380.0,True,observed
+pv,France,2009,73.0,415.0,True,observed
+pv,France,2010,88.0,461.5,True,observed
+pv,France,2011,45.0,460.35,True,observed
+pv,France,2012,29.0,443.31500000000005,True,observed
+pv,France,2013,28.0,426.98350000000005,True,observed
+pv,France,2014,30.0,414.28515000000004,True,observed
+pv,France,2015,31.0,403.85663500000004,True,observed
+pv,France,2016,29.0,392.4709715,True,observed
+pv,France,2017,25.0,378.22387435,True,observed
+pv,France,2018,39.0,379.401486915,True,observed
+pv,France,2019,30.0,371.46133822350004,True,observed
+pv,France,2020,30.0,364.31520440115,True,observed
+pv,France,2021,6.0,333.88368396103505,True,observed
+pv,France,2022,0.0,300.49531556493156,False,unlisted_assumed_zero
+pv,France,2023,19.0,289.4457840084384,True,observed
+pv,France,2024,8.0,268.50120560759456,True,observed
+pv,Germany,2008,129.0,1290.0,True,observed
+pv,Germany,2009,174.0,1335.0,True,observed
+pv,Germany,2010,189.0,1390.5,True,observed
+pv,Germany,2011,184.0,1435.45,True,observed
+pv,Germany,2012,137.0,1428.905,True,observed
+pv,Germany,2013,106.0,1392.0145,True,observed
+pv,Germany,2014,66.0,1318.81305,True,observed
+pv,Germany,2015,44.0,1230.931745,True,observed
+pv,Germany,2016,40.0,1147.8385705,True,observed
+pv,Germany,2017,43.0,1076.05471345,True,observed
+pv,Germany,2018,37.0,1005.449242105,True,observed
+pv,Germany,2019,49.0,953.9043178945001,True,observed
+pv,Germany,2020,56.0,914.5138861050501,True,observed
+pv,Germany,2021,4.0,827.0624974945451,True,observed
+pv,Germany,2022,1.0,745.3562477450906,True,observed
+pv,Germany,2023,31.0,701.8206229705816,True,observed
+pv,Germany,2024,15.0,646.6385606735234,True,observed
+pv,Great Britain,2008,16.0,160.0,True,observed
+pv,Great Britain,2009,13.0,157.0,True,observed
+pv,Great Britain,2010,19.0,160.3,True,observed
+pv,Great Britain,2011,13.0,157.27,True,observed
+pv,Great Britain,2012,9.0,150.543,True,observed
+pv,Great Britain,2013,14.0,149.48870000000002,True,observed
+pv,Great Britain,2014,13.0,147.53983000000002,True,observed
+pv,Great Britain,2015,7.0,139.78584700000002,True,observed
+pv,Great Britain,2016,2.0,127.80726230000002,True,observed
+pv,Great Britain,2017,12.0,127.02653607000002,True,observed
+pv,Great Britain,2018,2.0,116.32388246300002,True,observed
+pv,Great Britain,2019,7.0,111.69149421670002,True,observed
+pv,Great Britain,2020,6.0,106.52234479503002,True,observed
+pv,Great Britain,2021,6.0,101.87011031552703,True,observed
+pv,Great Britain,2022,7.0,98.68309928397433,True,observed
+pv,Great Britain,2023,5.0,93.81478935557689,True,observed
+pv,Great Britain,2024,3.0,87.43331042001921,True,observed
+pv,Greece,2008,1.0,10.0,True,observed
+pv,Greece,2009,5.0,14.0,True,observed
+pv,Greece,2010,9.0,21.6,True,observed
+pv,Greece,2011,12.0,31.44,True,observed
+pv,Greece,2012,5.0,33.29600000000001,True,observed
+pv,Greece,2013,6.0,35.96640000000001,True,observed
+pv,Greece,2014,4.0,36.36976000000001,True,observed
+pv,Greece,2015,2.0,34.73278400000001,True,observed
+pv,Greece,2016,4.0,35.25950560000001,True,observed
+pv,Greece,2017,4.0,35.73355504000001,True,observed
+pv,Greece,2018,3.0,35.160199536000015,True,observed
+pv,Greece,2019,1.0,32.644179582400014,True,observed
+pv,Greece,2020,4.0,33.37976162416001,True,observed
+pv,Greece,2021,0.0,30.04178546174401,False,unlisted_assumed_zero
+pv,Greece,2022,0.0,27.037606915569608,False,unlisted_assumed_zero
+pv,Greece,2023,1.0,25.333846224012646,True,observed
+pv,Greece,2024,0.0,22.80046160161138,False,unlisted_assumed_zero
+pv,Hungary,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Hungary,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Hungary,2010,1.0,1.0,True,observed
+pv,Hungary,2011,0.0,0.9,False,unlisted_assumed_zero
+pv,Hungary,2012,0.0,0.81,False,unlisted_assumed_zero
+pv,Hungary,2013,0.0,0.7290000000000001,False,unlisted_assumed_zero
+pv,Hungary,2014,0.0,0.6561000000000001,False,unlisted_assumed_zero
+pv,Hungary,2015,0.0,0.5904900000000002,False,unlisted_assumed_zero
+pv,Hungary,2016,0.0,0.5314410000000002,False,unlisted_assumed_zero
+pv,Hungary,2017,4.0,4.4782969,True,observed
+pv,Hungary,2018,3.0,7.03046721,True,observed
+pv,Hungary,2019,0.0,6.3274204890000005,False,unlisted_assumed_zero
+pv,Hungary,2020,0.0,5.694678440100001,False,unlisted_assumed_zero
+pv,Hungary,2021,0.0,5.1252105960900005,False,unlisted_assumed_zero
+pv,Hungary,2022,0.0,4.6126895364810006,False,unlisted_assumed_zero
+pv,Hungary,2023,0.0,4.151420582832901,False,unlisted_assumed_zero
+pv,Hungary,2024,1.0,4.736278524549611,True,observed
+pv,India,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,India,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,India,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,India,2011,0.0,0.0,False,unlisted_assumed_zero
+pv,India,2012,0.0,0.0,False,unlisted_assumed_zero
+pv,India,2013,2.0,2.0,True,observed
+pv,India,2014,4.0,5.8,True,observed
+pv,India,2015,1.0,6.22,True,observed
+pv,India,2016,0.0,5.598,False,unlisted_assumed_zero
+pv,India,2017,0.0,5.0382,False,unlisted_assumed_zero
+pv,India,2018,0.0,4.53438,False,unlisted_assumed_zero
+pv,India,2019,0.0,4.080941999999999,False,unlisted_assumed_zero
+pv,India,2020,0.0,3.6728477999999996,False,unlisted_assumed_zero
+pv,India,2021,0.0,3.3055630199999997,False,unlisted_assumed_zero
+pv,India,2022,0.0,2.975006718,False,unlisted_assumed_zero
+pv,India,2023,0.0,2.6775060462,False,unlisted_assumed_zero
+pv,India,2024,0.0,2.40975544158,False,unlisted_assumed_zero
+pv,Ireland,2008,1.0,10.0,True,observed
+pv,Ireland,2009,0.0,9.0,False,unlisted_assumed_zero
+pv,Ireland,2010,1.0,9.1,True,observed
+pv,Ireland,2011,0.0,8.19,False,unlisted_assumed_zero
+pv,Ireland,2012,0.0,7.3709999999999996,False,unlisted_assumed_zero
+pv,Ireland,2013,0.0,6.6339,False,unlisted_assumed_zero
+pv,Ireland,2014,0.0,5.97051,False,unlisted_assumed_zero
+pv,Ireland,2015,0.0,5.373459,False,unlisted_assumed_zero
+pv,Ireland,2016,0.0,4.8361131,False,unlisted_assumed_zero
+pv,Ireland,2017,0.0,4.352501790000001,False,unlisted_assumed_zero
+pv,Ireland,2018,0.0,3.9172516110000006,False,unlisted_assumed_zero
+pv,Ireland,2019,0.0,3.5255264499000005,False,unlisted_assumed_zero
+pv,Ireland,2020,2.0,5.172973804910001,True,observed
+pv,Ireland,2021,0.0,4.655676424419001,False,unlisted_assumed_zero
+pv,Ireland,2022,0.0,4.190108781977101,False,unlisted_assumed_zero
+pv,Ireland,2023,0.0,3.771097903779391,False,unlisted_assumed_zero
+pv,Ireland,2024,0.0,3.393988113401452,False,unlisted_assumed_zero
+pv,Israel,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Israel,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Israel,2010,1.0,1.0,True,observed
+pv,Israel,2011,1.0,1.9,True,observed
+pv,Israel,2012,0.0,1.71,False,unlisted_assumed_zero
+pv,Israel,2013,1.0,2.5389999999999997,True,observed
+pv,Israel,2014,1.0,3.2851,True,observed
+pv,Israel,2015,0.0,2.95659,False,unlisted_assumed_zero
+pv,Israel,2016,0.0,2.6609309999999997,False,unlisted_assumed_zero
+pv,Israel,2017,0.0,2.3948378999999997,False,unlisted_assumed_zero
+pv,Israel,2018,1.0,3.1553541099999998,True,observed
+pv,Israel,2019,2.0,4.839818699,True,observed
+pv,Israel,2020,0.0,4.3558368291,False,unlisted_assumed_zero
+pv,Israel,2021,1.0,4.92025314619,True,observed
+pv,Israel,2022,3.0,7.428227831571,True,observed
+pv,Israel,2023,0.0,6.685405048413901,False,unlisted_assumed_zero
+pv,Israel,2024,1.0,7.0168645435725105,True,observed
+pv,Italy,2008,20.0,200.0,True,observed
+pv,Italy,2009,40.0,220.0,True,observed
+pv,Italy,2010,52.0,250.0,True,observed
+pv,Italy,2011,60.0,285.0,True,observed
+pv,Italy,2012,40.0,296.5,True,observed
+pv,Italy,2013,10.0,276.85,True,observed
+pv,Italy,2014,0.0,249.16500000000002,False,unlisted_assumed_zero
+pv,Italy,2015,9.0,233.24850000000004,True,observed
+pv,Italy,2016,17.0,226.92365000000004,True,observed
+pv,Italy,2017,6.0,210.23128500000004,True,observed
+pv,Italy,2018,8.0,197.20815650000003,True,observed
+pv,Italy,2019,7.0,184.48734085000004,True,observed
+pv,Italy,2020,6.0,172.03860676500003,True,observed
+pv,Italy,2021,0.0,154.83474608850003,False,unlisted_assumed_zero
+pv,Italy,2022,4.0,143.35127147965002,True,observed
+pv,Italy,2023,13.0,142.016144331685,True,observed
+pv,Italy,2024,0.0,127.81452989851651,False,unlisted_assumed_zero
+pv,Japan,2008,614.0,6140.0,True,observed
+pv,Japan,2009,1034.0,6560.0,True,observed
+pv,Japan,2010,1211.0,7115.0,True,observed
+pv,Japan,2011,1465.0,7868.5,True,observed
+pv,Japan,2012,1558.0,8639.650000000001,True,observed
+pv,Japan,2013,1140.0,8915.685000000001,True,observed
+pv,Japan,2014,903.0,8927.1165,True,observed
+pv,Japan,2015,664.0,8698.404849999999,True,observed
+pv,Japan,2016,564.0,8392.564364999998,True,observed
+pv,Japan,2017,360.0,7913.3079284999985,True,observed
+pv,Japan,2018,333.0,7454.977135649999,True,observed
+pv,Japan,2019,322.0,7031.479422084999,True,observed
+pv,Japan,2020,266.0,6594.3314798764995,True,observed
+pv,Japan,2021,222.0,6156.8983318888495,True,observed
+pv,Japan,2022,143.0,5684.208498699964,True,observed
+pv,Japan,2023,148.0,5263.787648829968,True,observed
+pv,Japan,2024,209.0,4946.408883946971,True,observed
+pv,Korea,2008,728.0,7280.0,True,observed
+pv,Korea,2009,1346.0,7898.0,True,observed
+pv,Korea,2010,1523.0,8631.2,True,observed
+pv,Korea,2011,1795.0,9563.080000000002,True,observed
+pv,Korea,2012,1260.0,9866.772000000003,True,observed
+pv,Korea,2013,1010.0,9890.094800000003,True,observed
+pv,Korea,2014,1043.0,9944.085320000002,True,observed
+pv,Korea,2015,1057.0,10006.676788000002,True,observed
+pv,Korea,2016,1147.0,10153.009109200002,True,observed
+pv,Korea,2017,1029.0,10166.708198280003,True,observed
+pv,Korea,2018,1306.0,10456.037378452003,True,observed
+pv,Korea,2019,1303.0,10713.433640606803,True,observed
+pv,Korea,2020,1193.0,10835.090276546123,True,observed
+pv,Korea,2021,1183.0,10934.58124889151,True,observed
+pv,Korea,2022,914.0,10755.12312400236,True,observed
+pv,Korea,2023,838.0,10517.610811602124,True,observed
+pv,Korea,2024,856.0,10321.849730441912,True,observed
+pv,Latvia,2008,2.0,20.0,True,observed
+pv,Latvia,2009,1.0,19.0,True,observed
+pv,Latvia,2010,0.0,17.1,False,unlisted_assumed_zero
+pv,Latvia,2011,4.0,19.39,True,observed
+pv,Latvia,2012,0.0,17.451,False,unlisted_assumed_zero
+pv,Latvia,2013,1.0,16.7059,True,observed
+pv,Latvia,2014,1.0,16.035310000000003,True,observed
+pv,Latvia,2015,0.0,14.431779000000002,False,unlisted_assumed_zero
+pv,Latvia,2016,1.0,13.988601100000002,True,observed
+pv,Latvia,2017,0.0,12.589740990000003,False,unlisted_assumed_zero
+pv,Latvia,2018,1.0,12.330766891000003,True,observed
+pv,Latvia,2019,0.0,11.097690201900003,False,unlisted_assumed_zero
+pv,Latvia,2020,0.0,9.987921181710002,False,unlisted_assumed_zero
+pv,Latvia,2021,0.0,8.989129063539002,False,unlisted_assumed_zero
+pv,Latvia,2022,0.0,8.090216157185102,False,unlisted_assumed_zero
+pv,Latvia,2023,0.0,7.281194541466592,False,unlisted_assumed_zero
+pv,Latvia,2024,0.0,6.553075087319932,False,unlisted_assumed_zero
+pv,Lithuania,2008,1.0,10.0,True,observed
+pv,Lithuania,2009,0.0,9.0,False,unlisted_assumed_zero
+pv,Lithuania,2010,0.0,8.1,False,unlisted_assumed_zero
+pv,Lithuania,2011,0.0,7.29,False,unlisted_assumed_zero
+pv,Lithuania,2012,0.0,6.561,False,unlisted_assumed_zero
+pv,Lithuania,2013,0.0,5.9049000000000005,False,unlisted_assumed_zero
+pv,Lithuania,2014,0.0,5.3144100000000005,False,unlisted_assumed_zero
+pv,Lithuania,2015,0.0,4.7829690000000005,False,unlisted_assumed_zero
+pv,Lithuania,2016,0.0,4.3046721,False,unlisted_assumed_zero
+pv,Lithuania,2017,0.0,3.8742048900000006,False,unlisted_assumed_zero
+pv,Lithuania,2018,0.0,3.4867844010000004,False,unlisted_assumed_zero
+pv,Lithuania,2019,0.0,3.1381059609000004,False,unlisted_assumed_zero
+pv,Lithuania,2020,0.0,2.82429536481,False,unlisted_assumed_zero
+pv,Lithuania,2021,0.0,2.541865828329,False,unlisted_assumed_zero
+pv,Lithuania,2022,0.0,2.2876792454961,False,unlisted_assumed_zero
+pv,Lithuania,2023,0.0,2.05891132094649,False,unlisted_assumed_zero
+pv,Lithuania,2024,0.0,1.853020188851841,False,unlisted_assumed_zero
+pv,Luxembourg,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Luxembourg,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Luxembourg,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,Luxembourg,2011,0.0,0.0,False,unlisted_assumed_zero
+pv,Luxembourg,2012,0.0,0.0,False,unlisted_assumed_zero
+pv,Luxembourg,2013,0.0,0.0,False,unlisted_assumed_zero
+pv,Luxembourg,2014,0.0,0.0,False,unlisted_assumed_zero
+pv,Luxembourg,2015,2.0,2.0,True,observed
+pv,Luxembourg,2016,1.0,2.8,True,observed
+pv,Luxembourg,2017,2.0,4.52,True,observed
+pv,Luxembourg,2018,1.0,5.068,True,observed
+pv,Luxembourg,2019,1.0,5.5611999999999995,True,observed
+pv,Luxembourg,2020,0.0,5.0050799999999995,False,unlisted_assumed_zero
+pv,Luxembourg,2021,1.0,5.504572,True,observed
+pv,Luxembourg,2022,0.0,4.9541148,False,unlisted_assumed_zero
+pv,Luxembourg,2023,0.0,4.458703320000001,False,unlisted_assumed_zero
+pv,Luxembourg,2024,0.0,4.012832988,False,unlisted_assumed_zero
+pv,Malaysia,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Malaysia,2009,2.0,2.0,True,observed
+pv,Malaysia,2010,1.0,2.8,True,observed
+pv,Malaysia,2011,3.0,5.52,True,observed
+pv,Malaysia,2012,3.0,7.968,True,observed
+pv,Malaysia,2013,3.0,10.171199999999999,True,observed
+pv,Malaysia,2014,2.0,11.154079999999999,True,observed
+pv,Malaysia,2015,0.0,10.038671999999998,False,unlisted_assumed_zero
+pv,Malaysia,2016,0.0,9.034804799999998,False,unlisted_assumed_zero
+pv,Malaysia,2017,2.0,10.13132432,True,observed
+pv,Malaysia,2018,0.0,9.118191888,False,unlisted_assumed_zero
+pv,Malaysia,2019,2.0,10.206372699200001,True,observed
+pv,Malaysia,2020,1.0,10.185735429280001,True,observed
+pv,Malaysia,2021,0.0,9.167161886352002,False,unlisted_assumed_zero
+pv,Malaysia,2022,0.0,8.250445697716803,False,unlisted_assumed_zero
+pv,Malaysia,2023,0.0,7.425401127945123,False,unlisted_assumed_zero
+pv,Malaysia,2024,0.0,6.6828610151506105,False,unlisted_assumed_zero
+pv,Mexico,2008,3.0,30.0,True,observed
+pv,Mexico,2009,3.0,30.0,True,observed
+pv,Mexico,2010,3.0,30.0,True,observed
+pv,Mexico,2011,1.0,28.0,True,observed
+pv,Mexico,2012,3.0,28.2,True,observed
+pv,Mexico,2013,1.0,26.38,True,observed
+pv,Mexico,2014,4.0,27.742,True,observed
+pv,Mexico,2015,4.0,28.9678,True,observed
+pv,Mexico,2016,7.0,33.071020000000004,True,observed
+pv,Mexico,2017,7.0,36.763918000000004,True,observed
+pv,Mexico,2018,4.0,37.087526200000006,True,observed
+pv,Mexico,2019,2.0,35.37877358000001,True,observed
+pv,Mexico,2020,4.0,35.84089622200001,True,observed
+pv,Mexico,2021,3.0,35.256806599800015,True,observed
+pv,Mexico,2022,2.0,33.73112593982002,True,observed
+pv,Mexico,2023,2.0,32.35801334583802,True,observed
+pv,Mexico,2024,2.0,31.122212011254216,True,observed
+pv,Moldova,2008,2.0,20.0,True,observed
+pv,Moldova,2009,1.0,19.0,True,observed
+pv,Moldova,2010,1.0,18.1,True,observed
+pv,Moldova,2011,2.0,18.290000000000003,True,observed
+pv,Moldova,2012,0.0,16.461000000000002,False,unlisted_assumed_zero
+pv,Moldova,2013,2.0,16.8149,True,observed
+pv,Moldova,2014,0.0,15.133410000000001,False,unlisted_assumed_zero
+pv,Moldova,2015,0.0,13.620069,False,unlisted_assumed_zero
+pv,Moldova,2016,1.0,13.258062100000002,True,observed
+pv,Moldova,2017,0.0,11.932255890000002,False,unlisted_assumed_zero
+pv,Moldova,2018,3.0,13.739030301000001,True,observed
+pv,Moldova,2019,0.0,12.365127270900002,False,unlisted_assumed_zero
+pv,Moldova,2020,2.0,13.128614543810002,True,observed
+pv,Moldova,2021,0.0,11.815753089429002,False,unlisted_assumed_zero
+pv,Moldova,2022,0.0,10.634177780486102,False,unlisted_assumed_zero
+pv,Moldova,2023,0.0,9.570760002437492,False,unlisted_assumed_zero
+pv,Moldova,2024,0.0,8.613684002193743,False,unlisted_assumed_zero
+pv,Morocco,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Morocco,2009,2.0,2.0,True,observed
+pv,Morocco,2010,1.0,2.8,True,observed
+pv,Morocco,2011,0.0,2.52,False,unlisted_assumed_zero
+pv,Morocco,2012,0.0,2.2680000000000002,False,unlisted_assumed_zero
+pv,Morocco,2013,4.0,6.0412,True,observed
+pv,Morocco,2014,0.0,5.43708,False,unlisted_assumed_zero
+pv,Morocco,2015,2.0,6.893372,True,observed
+pv,Morocco,2016,4.0,10.2040348,True,observed
+pv,Morocco,2017,7.0,16.18363132,True,observed
+pv,Morocco,2018,5.0,19.565268188,True,observed
+pv,Morocco,2019,5.0,22.6087413692,True,observed
+pv,Morocco,2020,2.0,22.347867232280002,True,observed
+pv,Morocco,2021,0.0,20.113080509052004,False,unlisted_assumed_zero
+pv,Morocco,2022,0.0,18.101772458146804,False,unlisted_assumed_zero
+pv,Morocco,2023,0.0,16.291595212332126,False,unlisted_assumed_zero
+pv,Morocco,2024,0.0,14.662435691098914,False,unlisted_assumed_zero
+pv,Netherlands,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Netherlands,2009,8.0,8.0,True,observed
+pv,Netherlands,2010,4.0,11.2,True,observed
+pv,Netherlands,2011,8.0,18.08,True,observed
+pv,Netherlands,2012,5.0,21.272,True,observed
+pv,Netherlands,2013,14.0,33.144800000000004,True,observed
+pv,Netherlands,2014,12.0,41.83032,True,observed
+pv,Netherlands,2015,5.0,42.647288,True,observed
+pv,Netherlands,2016,8.0,46.3825592,True,observed
+pv,Netherlands,2017,9.0,50.744303280000004,True,observed
+pv,Netherlands,2018,5.0,50.669872952000006,True,observed
+pv,Netherlands,2019,12.0,57.602885656800005,True,observed
+pv,Netherlands,2020,10.0,61.842597091120005,True,observed
+pv,Netherlands,2021,1.0,56.65833738200801,True,observed
+pv,Netherlands,2022,0.0,50.992503643807204,False,unlisted_assumed_zero
+pv,Netherlands,2023,4.0,49.89325327942648,True,observed
+pv,Netherlands,2024,7.0,51.90392795148384,True,observed
+pv,New Zealand,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,New Zealand,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,New Zealand,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,New Zealand,2011,0.0,0.0,False,unlisted_assumed_zero
+pv,New Zealand,2012,1.0,1.0,True,observed
+pv,New Zealand,2013,2.0,2.9,True,observed
+pv,New Zealand,2014,1.0,3.61,True,observed
+pv,New Zealand,2015,1.0,4.2490000000000006,True,observed
+pv,New Zealand,2016,1.0,4.8241000000000005,True,observed
+pv,New Zealand,2017,1.0,5.341690000000001,True,observed
+pv,New Zealand,2018,0.0,4.807521,False,unlisted_assumed_zero
+pv,New Zealand,2019,1.0,5.3267689,True,observed
+pv,New Zealand,2020,0.0,4.79409201,False,unlisted_assumed_zero
+pv,New Zealand,2021,0.0,4.314682809,False,unlisted_assumed_zero
+pv,New Zealand,2022,0.0,3.8832145281,False,unlisted_assumed_zero
+pv,New Zealand,2023,0.0,3.49489307529,False,unlisted_assumed_zero
+pv,New Zealand,2024,0.0,3.145403767761,False,unlisted_assumed_zero
+pv,Norway,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Norway,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Norway,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,Norway,2011,0.0,0.0,False,unlisted_assumed_zero
+pv,Norway,2012,0.0,0.0,False,unlisted_assumed_zero
+pv,Norway,2013,0.0,0.0,False,unlisted_assumed_zero
+pv,Norway,2014,0.0,0.0,False,unlisted_assumed_zero
+pv,Norway,2015,0.0,0.0,False,unlisted_assumed_zero
+pv,Norway,2016,1.0,1.0,True,observed
+pv,Norway,2017,0.0,0.9,False,unlisted_assumed_zero
+pv,Norway,2018,1.0,1.81,True,observed
+pv,Norway,2019,1.0,2.629,True,observed
+pv,Norway,2020,1.0,3.3661,True,observed
+pv,Norway,2021,2.0,5.02949,True,observed
+pv,Norway,2022,2.0,6.526541,True,observed
+pv,Norway,2023,1.0,6.8738869000000005,True,observed
+pv,Norway,2024,1.0,7.186498210000001,True,observed
+pv,Philippines,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Philippines,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Philippines,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,Philippines,2011,0.0,0.0,False,unlisted_assumed_zero
+pv,Philippines,2012,0.0,0.0,False,unlisted_assumed_zero
+pv,Philippines,2013,1.0,1.0,True,observed
+pv,Philippines,2014,2.0,2.9,True,observed
+pv,Philippines,2015,2.0,4.609999999999999,True,observed
+pv,Philippines,2016,0.0,4.149,False,unlisted_assumed_zero
+pv,Philippines,2017,2.0,5.7341,True,observed
+pv,Philippines,2018,1.0,6.16069,True,observed
+pv,Philippines,2019,4.0,9.544621,True,observed
+pv,Philippines,2020,0.0,8.5901589,False,unlisted_assumed_zero
+pv,Philippines,2021,0.0,7.73114301,False,unlisted_assumed_zero
+pv,Philippines,2022,0.0,6.958028709000001,False,unlisted_assumed_zero
+pv,Philippines,2023,0.0,6.262225838100001,False,unlisted_assumed_zero
+pv,Philippines,2024,0.0,5.636003254290001,False,unlisted_assumed_zero
+pv,Poland,2008,1.0,10.0,True,observed
+pv,Poland,2009,0.0,9.0,False,unlisted_assumed_zero
+pv,Poland,2010,2.0,10.1,True,observed
+pv,Poland,2011,6.0,15.09,True,observed
+pv,Poland,2012,4.0,17.581,True,observed
+pv,Poland,2013,7.0,22.8229,True,observed
+pv,Poland,2014,12.0,32.54061,True,observed
+pv,Poland,2015,12.0,41.286549,True,observed
+pv,Poland,2016,11.0,48.1578941,True,observed
+pv,Poland,2017,8.0,51.34210469,True,observed
+pv,Poland,2018,25.0,71.207894221,True,observed
+pv,Poland,2019,24.0,88.0871047989,True,observed
+pv,Poland,2020,21.0,100.27839431901,True,observed
+pv,Poland,2021,13.0,103.250554887109,True,observed
+pv,Poland,2022,13.0,105.9254993983981,True,observed
+pv,Poland,2023,12.0,107.33294945855829,True,observed
+pv,Poland,2024,5.0,101.59965451270246,True,observed
+pv,Portugal,2008,1.0,10.0,True,observed
+pv,Portugal,2009,3.0,12.0,True,observed
+pv,Portugal,2010,0.0,10.8,False,unlisted_assumed_zero
+pv,Portugal,2011,1.0,10.72,True,observed
+pv,Portugal,2012,0.0,9.648000000000001,False,unlisted_assumed_zero
+pv,Portugal,2013,1.0,9.683200000000001,True,observed
+pv,Portugal,2014,1.0,9.71488,True,observed
+pv,Portugal,2015,1.0,9.743392000000002,True,observed
+pv,Portugal,2016,0.0,8.769052800000003,False,unlisted_assumed_zero
+pv,Portugal,2017,0.0,7.892147520000003,False,unlisted_assumed_zero
+pv,Portugal,2018,0.0,7.102932768000002,False,unlisted_assumed_zero
+pv,Portugal,2019,0.0,6.392639491200002,False,unlisted_assumed_zero
+pv,Portugal,2020,1.0,6.753375542080002,True,observed
+pv,Portugal,2021,0.0,6.078037987872002,False,unlisted_assumed_zero
+pv,Portugal,2022,1.0,6.470234189084802,True,observed
+pv,Portugal,2023,0.0,5.823210770176321,False,unlisted_assumed_zero
+pv,Portugal,2024,0.0,5.24088969315869,False,unlisted_assumed_zero
+pv,Republic of Serbia,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Republic of Serbia,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Republic of Serbia,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,Republic of Serbia,2011,0.0,0.0,False,unlisted_assumed_zero
+pv,Republic of Serbia,2012,0.0,0.0,False,unlisted_assumed_zero
+pv,Republic of Serbia,2013,0.0,0.0,False,unlisted_assumed_zero
+pv,Republic of Serbia,2014,0.0,0.0,False,unlisted_assumed_zero
+pv,Republic of Serbia,2015,1.0,1.0,True,observed
+pv,Republic of Serbia,2016,0.0,0.9,False,unlisted_assumed_zero
+pv,Republic of Serbia,2017,1.0,1.81,True,observed
+pv,Republic of Serbia,2018,0.0,1.629,False,unlisted_assumed_zero
+pv,Republic of Serbia,2019,0.0,1.4661,False,unlisted_assumed_zero
+pv,Republic of Serbia,2020,0.0,1.31949,False,unlisted_assumed_zero
+pv,Republic of Serbia,2021,0.0,1.1875410000000002,False,unlisted_assumed_zero
+pv,Republic of Serbia,2022,0.0,1.0687869,False,unlisted_assumed_zero
+pv,Republic of Serbia,2023,0.0,0.9619082100000002,False,unlisted_assumed_zero
+pv,Republic of Serbia,2024,0.0,0.8657173890000002,False,unlisted_assumed_zero
+pv,Romania,2008,1.0,10.0,True,observed
+pv,Romania,2009,0.0,9.0,False,unlisted_assumed_zero
+pv,Romania,2010,1.0,9.1,True,observed
+pv,Romania,2011,3.0,11.19,True,observed
+pv,Romania,2012,4.0,14.071,True,observed
+pv,Romania,2013,4.0,16.663899999999998,True,observed
+pv,Romania,2014,0.0,14.997509999999998,False,unlisted_assumed_zero
+pv,Romania,2015,1.0,14.497758999999999,True,observed
+pv,Romania,2016,1.0,14.0479831,True,observed
+pv,Romania,2017,2.0,14.64318479,True,observed
+pv,Romania,2018,5.0,18.178866311,True,observed
+pv,Romania,2019,5.0,21.3609796799,True,observed
+pv,Romania,2020,2.0,21.22488171191,True,observed
+pv,Romania,2021,4.0,23.102393540719003,True,observed
+pv,Romania,2022,2.0,22.792154186647103,True,observed
+pv,Romania,2023,4.0,24.512938767982394,True,observed
+pv,Romania,2024,2.0,24.061644891184155,True,observed
+pv,Russia,2008,18.0,180.0,True,observed
+pv,Russia,2009,15.0,177.0,True,observed
+pv,Russia,2010,14.0,173.3,True,observed
+pv,Russia,2011,14.0,169.97000000000003,True,observed
+pv,Russia,2012,14.0,166.97300000000004,True,observed
+pv,Russia,2013,32.0,182.27570000000003,True,observed
+pv,Russia,2014,27.0,191.04813000000004,True,observed
+pv,Russia,2015,31.0,202.94331700000004,True,observed
+pv,Russia,2016,25.0,207.64898530000005,True,observed
+pv,Russia,2017,23.0,209.88408677000004,True,observed
+pv,Russia,2018,25.0,213.89567809300004,True,observed
+pv,Russia,2019,33.0,225.50611028370005,True,observed
+pv,Russia,2020,24.0,226.95549925533004,True,observed
+pv,Russia,2021,14.0,218.25994932979705,True,observed
+pv,Russia,2022,2.0,198.43395439681734,True,observed
+pv,Russia,2023,0.0,178.5905589571356,False,unlisted_assumed_zero
+pv,Russia,2024,0.0,160.73150306142205,False,unlisted_assumed_zero
+pv,Saudi Arabia,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Saudi Arabia,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Saudi Arabia,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,Saudi Arabia,2011,0.0,0.0,False,unlisted_assumed_zero
+pv,Saudi Arabia,2012,0.0,0.0,False,unlisted_assumed_zero
+pv,Saudi Arabia,2013,0.0,0.0,False,unlisted_assumed_zero
+pv,Saudi Arabia,2014,0.0,0.0,False,unlisted_assumed_zero
+pv,Saudi Arabia,2015,0.0,0.0,False,unlisted_assumed_zero
+pv,Saudi Arabia,2016,0.0,0.0,False,unlisted_assumed_zero
+pv,Saudi Arabia,2017,1.0,1.0,True,observed
+pv,Saudi Arabia,2018,0.0,0.9,False,unlisted_assumed_zero
+pv,Saudi Arabia,2019,0.0,0.81,False,unlisted_assumed_zero
+pv,Saudi Arabia,2020,1.0,1.729,True,observed
+pv,Saudi Arabia,2021,0.0,1.5561,False,unlisted_assumed_zero
+pv,Saudi Arabia,2022,0.0,1.40049,False,unlisted_assumed_zero
+pv,Saudi Arabia,2023,0.0,1.2604410000000001,False,unlisted_assumed_zero
+pv,Saudi Arabia,2024,0.0,1.1343969000000003,False,unlisted_assumed_zero
+pv,Singapore,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Singapore,2009,2.0,2.0,True,observed
+pv,Singapore,2010,1.0,2.8,True,observed
+pv,Singapore,2011,4.0,6.52,True,observed
+pv,Singapore,2012,0.0,5.867999999999999,False,unlisted_assumed_zero
+pv,Singapore,2013,0.0,5.281199999999999,False,unlisted_assumed_zero
+pv,Singapore,2014,0.0,4.75308,False,unlisted_assumed_zero
+pv,Singapore,2015,1.0,5.277772,True,observed
+pv,Singapore,2016,0.0,4.7499948,False,unlisted_assumed_zero
+pv,Singapore,2017,1.0,5.2749953199999995,True,observed
+pv,Singapore,2018,0.0,4.747495787999999,False,unlisted_assumed_zero
+pv,Singapore,2019,0.0,4.272746209199999,False,unlisted_assumed_zero
+pv,Singapore,2020,1.0,4.845471588279999,True,observed
+pv,Singapore,2021,0.0,4.360924429451999,False,unlisted_assumed_zero
+pv,Singapore,2022,0.0,3.924831986506799,False,unlisted_assumed_zero
+pv,Singapore,2023,0.0,3.5323487878561193,False,unlisted_assumed_zero
+pv,Singapore,2024,0.0,3.1791139090705074,False,unlisted_assumed_zero
+pv,Slovakia,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Slovakia,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Slovakia,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,Slovakia,2011,0.0,0.0,False,unlisted_assumed_zero
+pv,Slovakia,2012,0.0,0.0,False,unlisted_assumed_zero
+pv,Slovakia,2013,1.0,1.0,True,observed
+pv,Slovakia,2014,1.0,1.9,True,observed
+pv,Slovakia,2015,2.0,3.71,True,observed
+pv,Slovakia,2016,1.0,4.339,True,observed
+pv,Slovakia,2017,0.0,3.9051000000000005,False,unlisted_assumed_zero
+pv,Slovakia,2018,2.0,5.51459,True,observed
+pv,Slovakia,2019,2.0,6.963131000000001,True,observed
+pv,Slovakia,2020,3.0,9.2668179,True,observed
+pv,Slovakia,2021,0.0,8.34013611,False,unlisted_assumed_zero
+pv,Slovakia,2022,0.0,7.506122499,False,unlisted_assumed_zero
+pv,Slovakia,2023,0.0,6.7555102491,False,unlisted_assumed_zero
+pv,Slovakia,2024,0.0,6.0799592241900005,False,unlisted_assumed_zero
+pv,Slovenia,2008,1.0,10.0,True,observed
+pv,Slovenia,2009,0.0,9.0,False,unlisted_assumed_zero
+pv,Slovenia,2010,1.0,9.1,True,observed
+pv,Slovenia,2011,0.0,8.19,False,unlisted_assumed_zero
+pv,Slovenia,2012,0.0,7.3709999999999996,False,unlisted_assumed_zero
+pv,Slovenia,2013,0.0,6.6339,False,unlisted_assumed_zero
+pv,Slovenia,2014,0.0,5.97051,False,unlisted_assumed_zero
+pv,Slovenia,2015,0.0,5.373459,False,unlisted_assumed_zero
+pv,Slovenia,2016,0.0,4.8361131,False,unlisted_assumed_zero
+pv,Slovenia,2017,0.0,4.352501790000001,False,unlisted_assumed_zero
+pv,Slovenia,2018,0.0,3.9172516110000006,False,unlisted_assumed_zero
+pv,Slovenia,2019,1.0,4.525526449900001,True,observed
+pv,Slovenia,2020,0.0,4.072973804910001,False,unlisted_assumed_zero
+pv,Slovenia,2021,0.0,3.665676424419001,False,unlisted_assumed_zero
+pv,Slovenia,2022,0.0,3.2991087819771012,False,unlisted_assumed_zero
+pv,Slovenia,2023,0.0,2.969197903779391,False,unlisted_assumed_zero
+pv,Slovenia,2024,0.0,2.672278113401452,False,unlisted_assumed_zero
+pv,South Africa,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,South Africa,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,South Africa,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,South Africa,2011,1.0,1.0,True,observed
+pv,South Africa,2012,0.0,0.9,False,unlisted_assumed_zero
+pv,South Africa,2013,0.0,0.81,False,unlisted_assumed_zero
+pv,South Africa,2014,0.0,0.7290000000000001,False,unlisted_assumed_zero
+pv,South Africa,2015,0.0,0.6561000000000001,False,unlisted_assumed_zero
+pv,South Africa,2016,3.0,3.59049,True,observed
+pv,South Africa,2017,1.0,4.231441,True,observed
+pv,South Africa,2018,1.0,4.8082969,True,observed
+pv,South Africa,2019,0.0,4.32746721,False,unlisted_assumed_zero
+pv,South Africa,2020,0.0,3.894720489,False,unlisted_assumed_zero
+pv,South Africa,2021,0.0,3.5052484401,False,unlisted_assumed_zero
+pv,South Africa,2022,1.0,4.15472359609,True,observed
+pv,South Africa,2023,0.0,3.7392512364810004,False,unlisted_assumed_zero
+pv,South Africa,2024,0.0,3.3653261128329004,False,unlisted_assumed_zero
+pv,Spain,2008,16.0,160.0,True,observed
+pv,Spain,2009,25.0,169.0,True,observed
+pv,Spain,2010,18.0,170.1,True,observed
+pv,Spain,2011,17.0,170.09,True,observed
+pv,Spain,2012,15.0,168.08100000000002,True,observed
+pv,Spain,2013,6.0,157.27290000000002,True,observed
+pv,Spain,2014,13.0,154.54561,True,observed
+pv,Spain,2015,15.0,154.09104900000003,True,observed
+pv,Spain,2016,7.0,145.68194410000004,True,observed
+pv,Spain,2017,17.0,148.11374969000005,True,observed
+pv,Spain,2018,15.0,148.30237472100004,True,observed
+pv,Spain,2019,14.0,147.47213724890003,True,observed
+pv,Spain,2020,17.0,149.72492352401002,True,observed
+pv,Spain,2021,3.0,137.75243117160903,True,observed
+pv,Spain,2022,4.0,127.97718805444813,True,observed
+pv,Spain,2023,5.0,120.17946924900332,True,observed
+pv,Spain,2024,0.0,108.16152232410299,False,unlisted_assumed_zero
+pv,Sweden,2008,1.0,10.0,True,observed
+pv,Sweden,2009,2.0,11.0,True,observed
+pv,Sweden,2010,2.0,11.9,True,observed
+pv,Sweden,2011,0.0,10.71,False,unlisted_assumed_zero
+pv,Sweden,2012,0.0,9.639000000000001,False,unlisted_assumed_zero
+pv,Sweden,2013,1.0,9.6751,True,observed
+pv,Sweden,2014,3.0,11.707590000000001,True,observed
+pv,Sweden,2015,0.0,10.536831000000001,False,unlisted_assumed_zero
+pv,Sweden,2016,1.0,10.4831479,True,observed
+pv,Sweden,2017,1.0,10.434833110000001,True,observed
+pv,Sweden,2018,2.0,11.391349799000002,True,observed
+pv,Sweden,2019,1.0,11.252214819100002,True,observed
+pv,Sweden,2020,5.0,15.126993337190003,True,observed
+pv,Sweden,2021,2.0,15.614294003471002,True,observed
+pv,Sweden,2022,1.0,15.052864603123902,True,observed
+pv,Sweden,2023,1.0,14.547578142811512,True,observed
+pv,Sweden,2024,7.0,20.092820328530358,True,observed
+pv,Switzerland,2008,3.0,30.0,True,observed
+pv,Switzerland,2009,4.0,31.0,True,observed
+pv,Switzerland,2010,4.0,31.900000000000002,True,observed
+pv,Switzerland,2011,7.0,35.71,True,observed
+pv,Switzerland,2012,5.0,37.139,True,observed
+pv,Switzerland,2013,9.0,42.4251,True,observed
+pv,Switzerland,2014,6.0,44.182590000000005,True,observed
+pv,Switzerland,2015,7.0,46.764331000000006,True,observed
+pv,Switzerland,2016,7.0,49.08789790000001,True,observed
+pv,Switzerland,2017,5.0,49.17910811000001,True,observed
+pv,Switzerland,2018,1.0,45.26119729900001,True,observed
+pv,Switzerland,2019,1.0,41.73507756910001,True,observed
+pv,Switzerland,2020,7.0,44.56156981219001,True,observed
+pv,Switzerland,2021,2.0,42.105412830971005,True,observed
+pv,Switzerland,2022,1.0,38.894871547873905,True,observed
+pv,Switzerland,2023,4.0,39.005384393086516,True,observed
+pv,Switzerland,2024,1.0,36.10484595377787,True,observed
+pv,Tunisia,2008,1.0,10.0,True,observed
+pv,Tunisia,2009,0.0,9.0,False,unlisted_assumed_zero
+pv,Tunisia,2010,5.0,13.1,True,observed
+pv,Tunisia,2011,1.0,12.79,True,observed
+pv,Tunisia,2012,0.0,11.511,False,unlisted_assumed_zero
+pv,Tunisia,2013,3.0,13.3599,True,observed
+pv,Tunisia,2014,0.0,12.02391,False,unlisted_assumed_zero
+pv,Tunisia,2015,2.0,12.821519,True,observed
+pv,Tunisia,2016,0.0,11.5393671,False,unlisted_assumed_zero
+pv,Tunisia,2017,0.0,10.38543039,False,unlisted_assumed_zero
+pv,Tunisia,2018,2.0,11.346887351,True,observed
+pv,Tunisia,2019,3.0,13.2121986159,True,observed
+pv,Tunisia,2020,0.0,11.89097875431,False,unlisted_assumed_zero
+pv,Tunisia,2021,0.0,10.701880878879,False,unlisted_assumed_zero
+pv,Tunisia,2022,0.0,9.631692790991101,False,unlisted_assumed_zero
+pv,Tunisia,2023,0.0,8.66852351189199,False,unlisted_assumed_zero
+pv,Tunisia,2024,0.0,7.801671160702791,False,unlisted_assumed_zero
+pv,Turkey,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Turkey,2009,2.0,2.0,True,observed
+pv,Turkey,2010,0.0,1.8,False,unlisted_assumed_zero
+pv,Turkey,2011,1.0,2.62,True,observed
+pv,Turkey,2012,1.0,3.358,True,observed
+pv,Turkey,2013,0.0,3.0222,False,unlisted_assumed_zero
+pv,Turkey,2014,1.0,3.71998,True,observed
+pv,Turkey,2015,2.0,5.347982,True,observed
+pv,Turkey,2016,5.0,9.813183800000001,True,observed
+pv,Turkey,2017,12.0,20.83186542,True,observed
+pv,Turkey,2018,9.0,27.748678878,True,observed
+pv,Turkey,2019,6.0,30.9738109902,True,observed
+pv,Turkey,2020,7.0,34.87642989118,True,observed
+pv,Turkey,2021,6.0,37.388786902062,True,observed
+pv,Turkey,2022,9.0,42.6499082118558,True,observed
+pv,Turkey,2023,4.0,42.384917390670225,True,observed
+pv,Turkey,2024,3.0,41.1464256516032,True,observed
+pv,Ukraine,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Ukraine,2009,1.0,1.0,True,observed
+pv,Ukraine,2010,4.0,4.9,True,observed
+pv,Ukraine,2011,3.0,7.41,True,observed
+pv,Ukraine,2012,3.0,9.669,True,observed
+pv,Ukraine,2013,6.0,14.702100000000002,True,observed
+pv,Ukraine,2014,7.0,20.23189,True,observed
+pv,Ukraine,2015,3.0,21.208701,True,observed
+pv,Ukraine,2016,0.0,19.0878309,False,unlisted_assumed_zero
+pv,Ukraine,2017,1.0,18.17904781,True,observed
+pv,Ukraine,2018,0.0,16.361143029,False,unlisted_assumed_zero
+pv,Ukraine,2019,0.0,14.725028726100001,False,unlisted_assumed_zero
+pv,Ukraine,2020,0.0,13.25252585349,False,unlisted_assumed_zero
+pv,Ukraine,2021,0.0,11.927273268141,False,unlisted_assumed_zero
+pv,Ukraine,2022,0.0,10.734545941326902,False,unlisted_assumed_zero
+pv,Ukraine,2023,0.0,9.661091347194212,False,unlisted_assumed_zero
+pv,Ukraine,2024,0.0,8.694982212474791,False,unlisted_assumed_zero
+pv,United States,2008,490.0,4900.0,True,observed
+pv,United States,2009,619.0,5029.0,True,observed
+pv,United States,2010,694.0,5220.1,True,observed
+pv,United States,2011,782.0,5480.09,True,observed
+pv,United States,2012,692.0,5624.081,True,observed
+pv,United States,2013,618.0,5679.6729000000005,True,observed
+pv,United States,2014,614.0,5725.705610000001,True,observed
+pv,United States,2015,586.0,5739.135049000001,True,observed
+pv,United States,2016,598.0,5763.221544100002,True,observed
+pv,United States,2017,506.0,5692.899389690002,True,observed
+pv,United States,2018,500.0,5623.609450721002,True,observed
+pv,United States,2019,426.0,5487.248505648902,True,observed
+pv,United States,2020,372.0,5310.523655084012,True,observed
+pv,United States,2021,333.0,5112.471289575611,True,observed
+pv,United States,2022,256.0,4857.2241606180505,True,observed
+pv,United States,2023,320.0,4691.501744556245,True,observed
+pv,United States,2024,302.0,4524.351570100621,True,observed
+pv,Uruguay,2008,0.0,0.0,False,unlisted_assumed_zero
+pv,Uruguay,2009,0.0,0.0,False,unlisted_assumed_zero
+pv,Uruguay,2010,0.0,0.0,False,unlisted_assumed_zero
+pv,Uruguay,2011,0.0,0.0,False,unlisted_assumed_zero
+pv,Uruguay,2012,0.0,0.0,False,unlisted_assumed_zero
+pv,Uruguay,2013,0.0,0.0,False,unlisted_assumed_zero
+pv,Uruguay,2014,0.0,0.0,False,unlisted_assumed_zero
+pv,Uruguay,2015,0.0,0.0,False,unlisted_assumed_zero
+pv,Uruguay,2016,0.0,0.0,False,unlisted_assumed_zero
+pv,Uruguay,2017,0.0,0.0,False,unlisted_assumed_zero
+pv,Uruguay,2018,0.0,0.0,False,unlisted_assumed_zero
+pv,Uruguay,2019,0.0,0.0,False,unlisted_assumed_zero
+pv,Uruguay,2020,0.0,0.0,False,unlisted_assumed_zero
+pv,Uruguay,2021,1.0,1.0,True,observed
+pv,Uruguay,2022,0.0,0.9,False,unlisted_assumed_zero
+pv,Uruguay,2023,0.0,0.81,False,unlisted_assumed_zero
+pv,Uruguay,2024,0.0,0.7290000000000001,False,unlisted_assumed_zero
+wind,Argentina,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Argentina,2009,1.0,1.0,True,observed
+wind,Argentina,2010,0.0,0.9,False,unlisted_assumed_zero
+wind,Argentina,2011,0.0,0.81,False,unlisted_assumed_zero
+wind,Argentina,2012,2.0,2.729,True,observed
+wind,Argentina,2013,3.0,5.4561,True,observed
+wind,Argentina,2014,0.0,4.91049,False,unlisted_assumed_zero
+wind,Argentina,2015,0.0,4.419441,False,unlisted_assumed_zero
+wind,Argentina,2016,1.0,4.9774969,True,observed
+wind,Argentina,2017,7.0,11.47974721,True,observed
+wind,Argentina,2018,1.0,11.331772489,True,observed
+wind,Argentina,2019,0.0,10.198595240100001,False,unlisted_assumed_zero
+wind,Argentina,2020,0.0,9.178735716090001,False,unlisted_assumed_zero
+wind,Argentina,2021,0.0,8.260862144481,False,unlisted_assumed_zero
+wind,Argentina,2022,0.0,7.434775930032901,False,unlisted_assumed_zero
+wind,Argentina,2023,0.0,6.691298337029611,False,unlisted_assumed_zero
+wind,Argentina,2024,0.0,6.02216850332665,False,unlisted_assumed_zero
+wind,Australia,2008,1.0,10.0,True,observed
+wind,Australia,2009,0.0,9.0,False,unlisted_assumed_zero
+wind,Australia,2010,17.0,25.1,True,observed
+wind,Australia,2011,10.0,32.59,True,observed
+wind,Australia,2012,17.0,46.331,True,observed
+wind,Australia,2013,10.0,51.697900000000004,True,observed
+wind,Australia,2014,27.0,73.52811,True,observed
+wind,Australia,2015,12.0,78.175299,True,observed
+wind,Australia,2016,11.0,81.3577691,True,observed
+wind,Australia,2017,13.0,86.22199219,True,observed
+wind,Australia,2018,11.0,88.599792971,True,observed
+wind,Australia,2019,6.0,85.7398136739,True,observed
+wind,Australia,2020,1.0,78.16583230651,True,observed
+wind,Australia,2021,2.0,72.349249075859,True,observed
+wind,Australia,2022,9.0,74.11432416827311,True,observed
+wind,Australia,2023,7.0,73.7028917514458,True,observed
+wind,Australia,2024,3.0,69.33260257630123,True,observed
+wind,Austria,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Austria,2009,1.0,1.0,True,observed
+wind,Austria,2010,2.0,2.9,True,observed
+wind,Austria,2011,2.0,4.609999999999999,True,observed
+wind,Austria,2012,2.0,6.149,True,observed
+wind,Austria,2013,0.0,5.5341000000000005,False,unlisted_assumed_zero
+wind,Austria,2014,0.0,4.980690000000001,False,unlisted_assumed_zero
+wind,Austria,2015,0.0,4.482621000000001,False,unlisted_assumed_zero
+wind,Austria,2016,0.0,4.034358900000001,False,unlisted_assumed_zero
+wind,Austria,2017,0.0,3.630923010000001,False,unlisted_assumed_zero
+wind,Austria,2018,0.0,3.267830709000001,False,unlisted_assumed_zero
+wind,Austria,2019,0.0,2.941047638100001,False,unlisted_assumed_zero
+wind,Austria,2020,0.0,2.646942874290001,False,unlisted_assumed_zero
+wind,Austria,2021,0.0,2.382248586861001,False,unlisted_assumed_zero
+wind,Austria,2022,0.0,2.1440237281749006,False,unlisted_assumed_zero
+wind,Austria,2023,0.0,1.9296213553574106,False,unlisted_assumed_zero
+wind,Austria,2024,0.0,1.7366592198216697,False,unlisted_assumed_zero
+wind,Belgium,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Belgium,2009,1.0,1.0,True,observed
+wind,Belgium,2010,0.0,0.9,False,unlisted_assumed_zero
+wind,Belgium,2011,0.0,0.81,False,unlisted_assumed_zero
+wind,Belgium,2012,0.0,0.7290000000000001,False,unlisted_assumed_zero
+wind,Belgium,2013,0.0,0.6561000000000001,False,unlisted_assumed_zero
+wind,Belgium,2014,1.0,1.5904900000000002,True,observed
+wind,Belgium,2015,0.0,1.4314410000000002,False,unlisted_assumed_zero
+wind,Belgium,2016,0.0,1.2882969000000002,False,unlisted_assumed_zero
+wind,Belgium,2017,1.0,2.1594672100000003,True,observed
+wind,Belgium,2018,4.0,5.943520489000001,True,observed
+wind,Belgium,2019,0.0,5.349168440100001,False,unlisted_assumed_zero
+wind,Belgium,2020,0.0,4.814251596090001,False,unlisted_assumed_zero
+wind,Belgium,2021,0.0,4.332826436481001,False,unlisted_assumed_zero
+wind,Belgium,2022,0.0,3.8995437928329015,False,unlisted_assumed_zero
+wind,Belgium,2023,0.0,3.5095894135496115,False,unlisted_assumed_zero
+wind,Belgium,2024,0.0,3.1586304721946505,False,unlisted_assumed_zero
+wind,Brazil,2008,4.0,40.0,True,observed
+wind,Brazil,2009,3.0,39.0,True,observed
+wind,Brazil,2010,6.0,41.1,True,observed
+wind,Brazil,2011,8.0,44.99,True,observed
+wind,Brazil,2012,16.0,56.491,True,observed
+wind,Brazil,2013,7.0,57.8419,True,observed
+wind,Brazil,2014,15.0,67.05771,True,observed
+wind,Brazil,2015,8.0,68.351939,True,observed
+wind,Brazil,2016,5.0,66.51674510000001,True,observed
+wind,Brazil,2017,2.0,61.86507059000001,True,observed
+wind,Brazil,2018,5.0,60.67856353100001,True,observed
+wind,Brazil,2019,2.0,56.61070717790001,True,observed
+wind,Brazil,2020,0.0,50.949636460110014,False,unlisted_assumed_zero
+wind,Brazil,2021,1.0,46.85467281409901,True,observed
+wind,Brazil,2022,1.0,43.16920553268911,True,observed
+wind,Brazil,2023,0.0,38.852284979420205,False,unlisted_assumed_zero
+wind,Brazil,2024,0.0,34.96705648147819,False,unlisted_assumed_zero
+wind,Canada,2008,1.0,10.0,True,observed
+wind,Canada,2009,1.0,10.0,True,observed
+wind,Canada,2010,17.0,26.0,True,observed
+wind,Canada,2011,17.0,40.400000000000006,True,observed
+wind,Canada,2012,20.0,56.36000000000001,True,observed
+wind,Canada,2013,18.0,68.724,True,observed
+wind,Canada,2014,21.0,82.8516,True,observed
+wind,Canada,2015,19.0,93.56644,True,observed
+wind,Canada,2016,11.0,95.209796,True,observed
+wind,Canada,2017,3.0,88.6888164,True,observed
+wind,Canada,2018,10.0,89.81993476,True,observed
+wind,Canada,2019,1.0,81.837941284,True,observed
+wind,Canada,2020,0.0,73.6541471556,False,unlisted_assumed_zero
+wind,Canada,2021,3.0,69.28873244004001,True,observed
+wind,Canada,2022,6.0,68.35985919603601,True,observed
+wind,Canada,2023,3.0,64.52387327643241,True,observed
+wind,Canada,2024,0.0,58.071485948789174,False,unlisted_assumed_zero
+wind,Chile,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Chile,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Chile,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,Chile,2011,2.0,2.0,True,observed
+wind,Chile,2012,0.0,1.8,False,unlisted_assumed_zero
+wind,Chile,2013,5.0,6.62,True,observed
+wind,Chile,2014,0.0,5.958,False,unlisted_assumed_zero
+wind,Chile,2015,5.0,10.362200000000001,True,observed
+wind,Chile,2016,2.0,11.325980000000001,True,observed
+wind,Chile,2017,1.0,11.193382000000001,True,observed
+wind,Chile,2018,1.0,11.074043800000002,True,observed
+wind,Chile,2019,1.0,10.966639420000002,True,observed
+wind,Chile,2020,0.0,9.869975478000002,False,unlisted_assumed_zero
+wind,Chile,2021,0.0,8.882977930200003,False,unlisted_assumed_zero
+wind,Chile,2022,0.0,7.994680137180002,False,unlisted_assumed_zero
+wind,Chile,2023,0.0,7.195212123462002,False,unlisted_assumed_zero
+wind,Chile,2024,2.0,8.475690911115802,True,observed
+wind,China,2008,30.0,300.0,True,observed
+wind,China,2009,45.0,315.0,True,observed
+wind,China,2010,51.0,334.5,True,observed
+wind,China,2011,70.0,371.05,True,observed
+wind,China,2012,102.0,435.945,True,observed
+wind,China,2013,66.0,458.3505,True,observed
+wind,China,2014,98.0,510.51545000000004,True,observed
+wind,China,2015,55.0,514.4639050000001,True,observed
+wind,China,2016,80.0,543.0175145000001,True,observed
+wind,China,2017,88.0,576.7157630500001,True,observed
+wind,China,2018,69.0,588.044186745,True,observed
+wind,China,2019,57.0,586.2397680705001,True,observed
+wind,China,2020,69.0,596.6157912634501,True,observed
+wind,China,2021,90.0,626.9542121371051,True,observed
+wind,China,2022,46.0,610.2587909233946,True,observed
+wind,China,2023,19.0,568.2329118310552,True,observed
+wind,China,2024,26.0,537.4096206479496,True,observed
+wind,China Hong Kong,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,China Hong Kong,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,China Hong Kong,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,China Hong Kong,2011,1.0,1.0,True,observed
+wind,China Hong Kong,2012,0.0,0.9,False,unlisted_assumed_zero
+wind,China Hong Kong,2013,2.0,2.81,True,observed
+wind,China Hong Kong,2014,0.0,2.529,False,unlisted_assumed_zero
+wind,China Hong Kong,2015,0.0,2.2761,False,unlisted_assumed_zero
+wind,China Hong Kong,2016,1.0,3.04849,True,observed
+wind,China Hong Kong,2017,0.0,2.743641,False,unlisted_assumed_zero
+wind,China Hong Kong,2018,1.0,3.4692769,True,observed
+wind,China Hong Kong,2019,0.0,3.1223492100000003,False,unlisted_assumed_zero
+wind,China Hong Kong,2020,0.0,2.8101142890000004,False,unlisted_assumed_zero
+wind,China Hong Kong,2021,0.0,2.5291028601000005,False,unlisted_assumed_zero
+wind,China Hong Kong,2022,0.0,2.2761925740900004,False,unlisted_assumed_zero
+wind,China Hong Kong,2023,0.0,2.0485733166810003,False,unlisted_assumed_zero
+wind,China Hong Kong,2024,0.0,1.8437159850129003,False,unlisted_assumed_zero
+wind,Chinese Taiwan,2008,3.0,30.0,True,observed
+wind,Chinese Taiwan,2009,12.0,39.0,True,observed
+wind,Chinese Taiwan,2010,5.0,40.1,True,observed
+wind,Chinese Taiwan,2011,10.0,46.09,True,observed
+wind,Chinese Taiwan,2012,8.0,49.481,True,observed
+wind,Chinese Taiwan,2013,2.0,46.532900000000005,True,observed
+wind,Chinese Taiwan,2014,11.0,52.87961000000001,True,observed
+wind,Chinese Taiwan,2015,3.0,50.591649000000004,True,observed
+wind,Chinese Taiwan,2016,6.0,51.532484100000005,True,observed
+wind,Chinese Taiwan,2017,12.0,58.37923569000001,True,observed
+wind,Chinese Taiwan,2018,2.0,54.54131212100001,True,observed
+wind,Chinese Taiwan,2019,3.0,52.08718090890001,True,observed
+wind,Chinese Taiwan,2020,1.0,47.87846281801001,True,observed
+wind,Chinese Taiwan,2021,0.0,43.090616536209005,False,unlisted_assumed_zero
+wind,Chinese Taiwan,2022,4.0,42.781554882588104,True,observed
+wind,Chinese Taiwan,2023,2.0,40.50339939432929,True,observed
+wind,Chinese Taiwan,2024,1.0,37.45305945489636,True,observed
+wind,Colombia,2008,1.0,10.0,True,observed
+wind,Colombia,2009,0.0,9.0,False,unlisted_assumed_zero
+wind,Colombia,2010,0.0,8.1,False,unlisted_assumed_zero
+wind,Colombia,2011,0.0,7.29,False,unlisted_assumed_zero
+wind,Colombia,2012,0.0,6.561,False,unlisted_assumed_zero
+wind,Colombia,2013,0.0,5.9049000000000005,False,unlisted_assumed_zero
+wind,Colombia,2014,0.0,5.3144100000000005,False,unlisted_assumed_zero
+wind,Colombia,2015,0.0,4.7829690000000005,False,unlisted_assumed_zero
+wind,Colombia,2016,0.0,4.3046721,False,unlisted_assumed_zero
+wind,Colombia,2017,0.0,3.8742048900000006,False,unlisted_assumed_zero
+wind,Colombia,2018,0.0,3.4867844010000004,False,unlisted_assumed_zero
+wind,Colombia,2019,0.0,3.1381059609000004,False,unlisted_assumed_zero
+wind,Colombia,2020,1.0,3.82429536481,True,observed
+wind,Colombia,2021,0.0,3.4418658283290005,False,unlisted_assumed_zero
+wind,Colombia,2022,0.0,3.0976792454961006,False,unlisted_assumed_zero
+wind,Colombia,2023,0.0,2.7879113209464905,False,unlisted_assumed_zero
+wind,Colombia,2024,0.0,2.5091201888518415,False,unlisted_assumed_zero
+wind,Croatia,2008,1.0,10.0,True,observed
+wind,Croatia,2009,1.0,10.0,True,observed
+wind,Croatia,2010,4.0,13.0,True,observed
+wind,Croatia,2011,1.0,12.700000000000001,True,observed
+wind,Croatia,2012,2.0,13.430000000000001,True,observed
+wind,Croatia,2013,1.0,13.087000000000002,True,observed
+wind,Croatia,2014,2.0,13.778300000000002,True,observed
+wind,Croatia,2015,0.0,12.400470000000002,False,unlisted_assumed_zero
+wind,Croatia,2016,2.0,13.160423000000002,True,observed
+wind,Croatia,2017,1.0,12.844380700000002,True,observed
+wind,Croatia,2018,1.0,12.559942630000002,True,observed
+wind,Croatia,2019,0.0,11.303948367000002,False,unlisted_assumed_zero
+wind,Croatia,2020,0.0,10.173553530300001,False,unlisted_assumed_zero
+wind,Croatia,2021,0.0,9.156198177270001,False,unlisted_assumed_zero
+wind,Croatia,2022,0.0,8.240578359543,False,unlisted_assumed_zero
+wind,Croatia,2023,0.0,7.416520523588701,False,unlisted_assumed_zero
+wind,Croatia,2024,0.0,6.67486847122983,False,unlisted_assumed_zero
+wind,Cuba,2008,1.0,10.0,True,observed
+wind,Cuba,2009,0.0,9.0,False,unlisted_assumed_zero
+wind,Cuba,2010,0.0,8.1,False,unlisted_assumed_zero
+wind,Cuba,2011,0.0,7.29,False,unlisted_assumed_zero
+wind,Cuba,2012,0.0,6.561,False,unlisted_assumed_zero
+wind,Cuba,2013,0.0,5.9049000000000005,False,unlisted_assumed_zero
+wind,Cuba,2014,1.0,6.3144100000000005,True,observed
+wind,Cuba,2015,0.0,5.682969000000001,False,unlisted_assumed_zero
+wind,Cuba,2016,0.0,5.114672100000001,False,unlisted_assumed_zero
+wind,Cuba,2017,0.0,4.603204890000001,False,unlisted_assumed_zero
+wind,Cuba,2018,0.0,4.142884401000001,False,unlisted_assumed_zero
+wind,Cuba,2019,0.0,3.728595960900001,False,unlisted_assumed_zero
+wind,Cuba,2020,0.0,3.3557363648100007,False,unlisted_assumed_zero
+wind,Cuba,2021,0.0,3.0201627283290007,False,unlisted_assumed_zero
+wind,Cuba,2022,0.0,2.718146455496101,False,unlisted_assumed_zero
+wind,Cuba,2023,0.0,2.4463318099464906,False,unlisted_assumed_zero
+wind,Cuba,2024,0.0,2.2016986289518417,False,unlisted_assumed_zero
+wind,Cyprus,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Cyprus,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Cyprus,2010,1.0,1.0,True,observed
+wind,Cyprus,2011,0.0,0.9,False,unlisted_assumed_zero
+wind,Cyprus,2012,1.0,1.81,True,observed
+wind,Cyprus,2013,1.0,2.629,True,observed
+wind,Cyprus,2014,4.0,6.366099999999999,True,observed
+wind,Cyprus,2015,7.0,12.729489999999998,True,observed
+wind,Cyprus,2016,2.0,13.456541,True,observed
+wind,Cyprus,2017,0.0,12.1108869,False,unlisted_assumed_zero
+wind,Cyprus,2018,0.0,10.89979821,False,unlisted_assumed_zero
+wind,Cyprus,2019,3.0,12.809818389,True,observed
+wind,Cyprus,2020,0.0,11.528836550100001,False,unlisted_assumed_zero
+wind,Cyprus,2021,0.0,10.375952895090002,False,unlisted_assumed_zero
+wind,Cyprus,2022,1.0,10.338357605581002,True,observed
+wind,Cyprus,2023,0.0,9.304521845022903,False,unlisted_assumed_zero
+wind,Cyprus,2024,0.0,8.374069660520613,False,unlisted_assumed_zero
+wind,Czech Republic,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Czech Republic,2009,1.0,1.0,True,observed
+wind,Czech Republic,2010,2.0,2.9,True,observed
+wind,Czech Republic,2011,0.0,2.61,False,unlisted_assumed_zero
+wind,Czech Republic,2012,0.0,2.3489999999999998,False,unlisted_assumed_zero
+wind,Czech Republic,2013,0.0,2.1140999999999996,False,unlisted_assumed_zero
+wind,Czech Republic,2014,0.0,1.9026899999999998,False,unlisted_assumed_zero
+wind,Czech Republic,2015,0.0,1.7124209999999997,False,unlisted_assumed_zero
+wind,Czech Republic,2016,0.0,1.5411788999999998,False,unlisted_assumed_zero
+wind,Czech Republic,2017,4.0,5.38706101,True,observed
+wind,Czech Republic,2018,0.0,4.848354909,False,unlisted_assumed_zero
+wind,Czech Republic,2019,0.0,4.3635194181,False,unlisted_assumed_zero
+wind,Czech Republic,2020,0.0,3.92716747629,False,unlisted_assumed_zero
+wind,Czech Republic,2021,0.0,3.534450728661,False,unlisted_assumed_zero
+wind,Czech Republic,2022,0.0,3.1810056557949,False,unlisted_assumed_zero
+wind,Czech Republic,2023,2.0,4.86290509021541,True,observed
+wind,Czech Republic,2024,0.0,4.376614581193869,False,unlisted_assumed_zero
+wind,Denmark,2008,1.0,10.0,True,observed
+wind,Denmark,2009,0.0,9.0,False,unlisted_assumed_zero
+wind,Denmark,2010,5.0,13.1,True,observed
+wind,Denmark,2011,6.0,17.79,True,observed
+wind,Denmark,2012,14.0,30.011,True,observed
+wind,Denmark,2013,5.0,32.0099,True,observed
+wind,Denmark,2014,4.0,32.80891,True,observed
+wind,Denmark,2015,4.0,33.528019,True,observed
+wind,Denmark,2016,7.0,37.1752171,True,observed
+wind,Denmark,2017,6.0,39.45769539,True,observed
+wind,Denmark,2018,6.0,41.511925851,True,observed
+wind,Denmark,2019,1.0,38.3607332659,True,observed
+wind,Denmark,2020,1.0,35.524659939310006,True,observed
+wind,Denmark,2021,0.0,31.972193945379004,False,unlisted_assumed_zero
+wind,Denmark,2022,1.0,29.774974550841105,True,observed
+wind,Denmark,2023,0.0,26.797477095756996,False,unlisted_assumed_zero
+wind,Denmark,2024,0.0,24.117729386181296,False,unlisted_assumed_zero
+wind,Egypt,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Egypt,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Egypt,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,Egypt,2011,2.0,2.0,True,observed
+wind,Egypt,2012,0.0,1.8,False,unlisted_assumed_zero
+wind,Egypt,2013,0.0,1.62,False,unlisted_assumed_zero
+wind,Egypt,2014,0.0,1.4580000000000002,False,unlisted_assumed_zero
+wind,Egypt,2015,0.0,1.3122000000000003,False,unlisted_assumed_zero
+wind,Egypt,2016,0.0,1.1809800000000004,False,unlisted_assumed_zero
+wind,Egypt,2017,0.0,1.0628820000000003,False,unlisted_assumed_zero
+wind,Egypt,2018,0.0,0.9565938000000003,False,unlisted_assumed_zero
+wind,Egypt,2019,0.0,0.8609344200000003,False,unlisted_assumed_zero
+wind,Egypt,2020,0.0,0.7748409780000003,False,unlisted_assumed_zero
+wind,Egypt,2021,0.0,0.6973568802000003,False,unlisted_assumed_zero
+wind,Egypt,2022,0.0,0.6276211921800003,False,unlisted_assumed_zero
+wind,Egypt,2023,0.0,0.5648590729620003,False,unlisted_assumed_zero
+wind,Egypt,2024,0.0,0.5083731656658003,False,unlisted_assumed_zero
+wind,Estonia,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Estonia,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Estonia,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,Estonia,2011,0.0,0.0,False,unlisted_assumed_zero
+wind,Estonia,2012,0.0,0.0,False,unlisted_assumed_zero
+wind,Estonia,2013,0.0,0.0,False,unlisted_assumed_zero
+wind,Estonia,2014,0.0,0.0,False,unlisted_assumed_zero
+wind,Estonia,2015,0.0,0.0,False,unlisted_assumed_zero
+wind,Estonia,2016,0.0,0.0,False,unlisted_assumed_zero
+wind,Estonia,2017,1.0,1.0,True,observed
+wind,Estonia,2018,0.0,0.9,False,unlisted_assumed_zero
+wind,Estonia,2019,0.0,0.81,False,unlisted_assumed_zero
+wind,Estonia,2020,0.0,0.7290000000000001,False,unlisted_assumed_zero
+wind,Estonia,2021,0.0,0.6561000000000001,False,unlisted_assumed_zero
+wind,Estonia,2022,0.0,0.5904900000000002,False,unlisted_assumed_zero
+wind,Estonia,2023,0.0,0.5314410000000002,False,unlisted_assumed_zero
+wind,Estonia,2024,0.0,0.47829690000000014,False,unlisted_assumed_zero
+wind,Finland,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Finland,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Finland,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,Finland,2011,0.0,0.0,False,unlisted_assumed_zero
+wind,Finland,2012,0.0,0.0,False,unlisted_assumed_zero
+wind,Finland,2013,0.0,0.0,False,unlisted_assumed_zero
+wind,Finland,2014,0.0,0.0,False,unlisted_assumed_zero
+wind,Finland,2015,0.0,0.0,False,unlisted_assumed_zero
+wind,Finland,2016,2.0,2.0,True,observed
+wind,Finland,2017,0.0,1.8,False,unlisted_assumed_zero
+wind,Finland,2018,1.0,2.62,True,observed
+wind,Finland,2019,1.0,3.358,True,observed
+wind,Finland,2020,0.0,3.0222,False,unlisted_assumed_zero
+wind,Finland,2021,0.0,2.71998,False,unlisted_assumed_zero
+wind,Finland,2022,2.0,4.447982,True,observed
+wind,Finland,2023,2.0,6.0031837999999995,True,observed
+wind,Finland,2024,0.0,5.4028654199999995,False,unlisted_assumed_zero
+wind,France,2008,1.0,10.0,True,observed
+wind,France,2009,2.0,11.0,True,observed
+wind,France,2010,6.0,15.9,True,observed
+wind,France,2011,4.0,18.310000000000002,True,observed
+wind,France,2012,3.0,19.479000000000003,True,observed
+wind,France,2013,2.0,19.531100000000002,True,observed
+wind,France,2014,5.0,22.577990000000003,True,observed
+wind,France,2015,7.0,27.320191000000005,True,observed
+wind,France,2016,9.0,33.588171900000006,True,observed
+wind,France,2017,2.0,32.22935471000001,True,observed
+wind,France,2018,4.0,33.00641923900001,True,observed
+wind,France,2019,0.0,29.70577731510001,False,unlisted_assumed_zero
+wind,France,2020,4.0,30.73519958359001,True,observed
+wind,France,2021,5.0,32.66167962523101,True,observed
+wind,France,2022,1.0,30.39551166270791,True,observed
+wind,France,2023,0.0,27.35596049643712,False,unlisted_assumed_zero
+wind,France,2024,0.0,24.62036444679341,False,unlisted_assumed_zero
+wind,Georgia,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Georgia,2009,1.0,1.0,True,observed
+wind,Georgia,2010,0.0,0.9,False,unlisted_assumed_zero
+wind,Georgia,2011,0.0,0.81,False,unlisted_assumed_zero
+wind,Georgia,2012,0.0,0.7290000000000001,False,unlisted_assumed_zero
+wind,Georgia,2013,1.0,1.6561000000000001,True,observed
+wind,Georgia,2014,0.0,1.49049,False,unlisted_assumed_zero
+wind,Georgia,2015,0.0,1.341441,False,unlisted_assumed_zero
+wind,Georgia,2016,0.0,1.2072969000000002,False,unlisted_assumed_zero
+wind,Georgia,2017,0.0,1.0865672100000003,False,unlisted_assumed_zero
+wind,Georgia,2018,0.0,0.9779104890000003,False,unlisted_assumed_zero
+wind,Georgia,2019,0.0,0.8801194401000003,False,unlisted_assumed_zero
+wind,Georgia,2020,0.0,0.7921074960900003,False,unlisted_assumed_zero
+wind,Georgia,2021,0.0,0.7128967464810003,False,unlisted_assumed_zero
+wind,Georgia,2022,0.0,0.6416070718329003,False,unlisted_assumed_zero
+wind,Georgia,2023,0.0,0.5774463646496103,False,unlisted_assumed_zero
+wind,Georgia,2024,0.0,0.5197017281846493,False,unlisted_assumed_zero
+wind,Germany,2008,8.0,80.0,True,observed
+wind,Germany,2009,4.0,76.0,True,observed
+wind,Germany,2010,10.0,78.4,True,observed
+wind,Germany,2011,24.0,94.56,True,observed
+wind,Germany,2012,9.0,94.104,True,observed
+wind,Germany,2013,8.0,92.6936,True,observed
+wind,Germany,2014,7.0,90.42424000000001,True,observed
+wind,Germany,2015,4.0,85.38181600000001,True,observed
+wind,Germany,2016,3.0,79.84363440000001,True,observed
+wind,Germany,2017,11.0,82.85927096000002,True,observed
+wind,Germany,2018,2.0,76.57334386400002,True,observed
+wind,Germany,2019,3.0,71.91600947760003,True,observed
+wind,Germany,2020,5.0,69.72440852984003,True,observed
+wind,Germany,2021,3.0,65.75196767685603,True,observed
+wind,Germany,2022,0.0,59.17677090917042,False,unlisted_assumed_zero
+wind,Germany,2023,4.0,57.25909381825338,True,observed
+wind,Germany,2024,0.0,51.533184436428044,False,unlisted_assumed_zero
+wind,Great Britain,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Great Britain,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Great Britain,2010,19.0,19.0,True,observed
+wind,Great Britain,2011,30.0,47.1,True,observed
+wind,Great Britain,2012,3.0,45.39,True,observed
+wind,Great Britain,2013,11.0,51.851,True,observed
+wind,Great Britain,2014,17.0,63.6659,True,observed
+wind,Great Britain,2015,14.0,71.29930999999999,True,observed
+wind,Great Britain,2016,9.0,73.16937899999999,True,observed
+wind,Great Britain,2017,15.0,80.8524411,True,observed
+wind,Great Britain,2018,5.0,77.76719699,True,observed
+wind,Great Britain,2019,5.0,74.990477291,True,observed
+wind,Great Britain,2020,5.0,72.4914295619,True,observed
+wind,Great Britain,2021,3.0,68.24228660571,True,observed
+wind,Great Britain,2022,6.0,67.418057945139,True,observed
+wind,Great Britain,2023,2.0,62.676252150625096,True,observed
+wind,Great Britain,2024,5.0,61.40862693556259,True,observed
+wind,Greece,2008,2.0,20.0,True,observed
+wind,Greece,2009,0.0,18.0,False,unlisted_assumed_zero
+wind,Greece,2010,1.0,17.2,True,observed
+wind,Greece,2011,0.0,15.48,False,unlisted_assumed_zero
+wind,Greece,2012,0.0,13.932,False,unlisted_assumed_zero
+wind,Greece,2013,0.0,12.5388,False,unlisted_assumed_zero
+wind,Greece,2014,0.0,11.28492,False,unlisted_assumed_zero
+wind,Greece,2015,0.0,10.156428,False,unlisted_assumed_zero
+wind,Greece,2016,0.0,9.1407852,False,unlisted_assumed_zero
+wind,Greece,2017,0.0,8.22670668,False,unlisted_assumed_zero
+wind,Greece,2018,0.0,7.404036012,False,unlisted_assumed_zero
+wind,Greece,2019,0.0,6.6636324108,False,unlisted_assumed_zero
+wind,Greece,2020,0.0,5.99726916972,False,unlisted_assumed_zero
+wind,Greece,2021,0.0,5.397542252748,False,unlisted_assumed_zero
+wind,Greece,2022,0.0,4.8577880274732,False,unlisted_assumed_zero
+wind,Greece,2023,0.0,4.37200922472588,False,unlisted_assumed_zero
+wind,Greece,2024,0.0,3.934808302253292,False,unlisted_assumed_zero
+wind,Hungary,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Hungary,2009,1.0,1.0,True,observed
+wind,Hungary,2010,1.0,1.9,True,observed
+wind,Hungary,2011,0.0,1.71,False,unlisted_assumed_zero
+wind,Hungary,2012,2.0,3.5389999999999997,True,observed
+wind,Hungary,2013,0.0,3.1851,False,unlisted_assumed_zero
+wind,Hungary,2014,1.0,3.86659,True,observed
+wind,Hungary,2015,0.0,3.479931,False,unlisted_assumed_zero
+wind,Hungary,2016,3.0,6.1319379000000005,True,observed
+wind,Hungary,2017,0.0,5.518744110000001,False,unlisted_assumed_zero
+wind,Hungary,2018,0.0,4.966869699000001,False,unlisted_assumed_zero
+wind,Hungary,2019,0.0,4.470182729100001,False,unlisted_assumed_zero
+wind,Hungary,2020,1.0,5.023164456190001,True,observed
+wind,Hungary,2021,0.0,4.520848010571001,False,unlisted_assumed_zero
+wind,Hungary,2022,0.0,4.068763209513901,False,unlisted_assumed_zero
+wind,Hungary,2023,0.0,3.661886888562511,False,unlisted_assumed_zero
+wind,Hungary,2024,0.0,3.29569819970626,False,unlisted_assumed_zero
+wind,India,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,India,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,India,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,India,2011,0.0,0.0,False,unlisted_assumed_zero
+wind,India,2012,0.0,0.0,False,unlisted_assumed_zero
+wind,India,2013,2.0,2.0,True,observed
+wind,India,2014,8.0,9.8,True,observed
+wind,India,2015,0.0,8.82,False,unlisted_assumed_zero
+wind,India,2016,0.0,7.938000000000001,False,unlisted_assumed_zero
+wind,India,2017,0.0,7.1442000000000005,False,unlisted_assumed_zero
+wind,India,2018,0.0,6.429780000000001,False,unlisted_assumed_zero
+wind,India,2019,0.0,5.786802000000001,False,unlisted_assumed_zero
+wind,India,2020,0.0,5.208121800000001,False,unlisted_assumed_zero
+wind,India,2021,0.0,4.687309620000001,False,unlisted_assumed_zero
+wind,India,2022,0.0,4.218578658000001,False,unlisted_assumed_zero
+wind,India,2023,0.0,3.7967207922000012,False,unlisted_assumed_zero
+wind,India,2024,0.0,3.417048712980001,False,unlisted_assumed_zero
+wind,Ireland,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Ireland,2009,1.0,1.0,True,observed
+wind,Ireland,2010,0.0,0.9,False,unlisted_assumed_zero
+wind,Ireland,2011,0.0,0.81,False,unlisted_assumed_zero
+wind,Ireland,2012,0.0,0.7290000000000001,False,unlisted_assumed_zero
+wind,Ireland,2013,0.0,0.6561000000000001,False,unlisted_assumed_zero
+wind,Ireland,2014,0.0,0.5904900000000002,False,unlisted_assumed_zero
+wind,Ireland,2015,0.0,0.5314410000000002,False,unlisted_assumed_zero
+wind,Ireland,2016,0.0,0.47829690000000014,False,unlisted_assumed_zero
+wind,Ireland,2017,0.0,0.43046721000000016,False,unlisted_assumed_zero
+wind,Ireland,2018,0.0,0.38742048900000015,False,unlisted_assumed_zero
+wind,Ireland,2019,0.0,0.34867844010000015,False,unlisted_assumed_zero
+wind,Ireland,2020,0.0,0.31381059609000017,False,unlisted_assumed_zero
+wind,Ireland,2021,0.0,0.28242953648100017,False,unlisted_assumed_zero
+wind,Ireland,2022,0.0,0.25418658283290013,False,unlisted_assumed_zero
+wind,Ireland,2023,0.0,0.22876792454961012,False,unlisted_assumed_zero
+wind,Ireland,2024,0.0,0.2058911320946491,False,unlisted_assumed_zero
+wind,Israel,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Israel,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Israel,2010,5.0,5.0,True,observed
+wind,Israel,2011,0.0,4.5,False,unlisted_assumed_zero
+wind,Israel,2012,1.0,5.05,True,observed
+wind,Israel,2013,0.0,4.545,False,unlisted_assumed_zero
+wind,Israel,2014,2.0,6.0905000000000005,True,observed
+wind,Israel,2015,1.0,6.481450000000001,True,observed
+wind,Israel,2016,0.0,5.833305000000001,False,unlisted_assumed_zero
+wind,Israel,2017,2.0,7.249974500000001,True,observed
+wind,Israel,2018,2.0,8.52497705,True,observed
+wind,Israel,2019,0.0,7.672479345,False,unlisted_assumed_zero
+wind,Israel,2020,1.0,7.9052314105,True,observed
+wind,Israel,2021,0.0,7.11470826945,False,unlisted_assumed_zero
+wind,Israel,2022,1.0,7.4032374425050005,True,observed
+wind,Israel,2023,1.0,7.662913698254501,True,observed
+wind,Israel,2024,0.0,6.896622328429051,False,unlisted_assumed_zero
+wind,Italy,2008,1.0,10.0,True,observed
+wind,Italy,2009,3.0,12.0,True,observed
+wind,Italy,2010,13.0,23.8,True,observed
+wind,Italy,2011,3.0,24.42,True,observed
+wind,Italy,2012,3.0,24.978,True,observed
+wind,Italy,2013,9.0,31.480200000000004,True,observed
+wind,Italy,2014,0.0,28.332180000000005,False,unlisted_assumed_zero
+wind,Italy,2015,3.0,28.498962000000006,True,observed
+wind,Italy,2016,2.0,27.649065800000006,True,observed
+wind,Italy,2017,6.0,30.884159220000004,True,observed
+wind,Italy,2018,3.0,30.795743298000005,True,observed
+wind,Italy,2019,0.0,27.716168968200005,False,unlisted_assumed_zero
+wind,Italy,2020,1.0,25.944552071380006,True,observed
+wind,Italy,2021,1.0,24.350096864242005,True,observed
+wind,Italy,2022,0.0,21.915087177817806,False,unlisted_assumed_zero
+wind,Italy,2023,1.0,20.723578460036027,True,observed
+wind,Italy,2024,0.0,18.651220614032425,False,unlisted_assumed_zero
+wind,Japan,2008,6.0,60.0,True,observed
+wind,Japan,2009,6.0,60.0,True,observed
+wind,Japan,2010,28.0,82.0,True,observed
+wind,Japan,2011,27.0,100.8,True,observed
+wind,Japan,2012,43.0,133.72,True,observed
+wind,Japan,2013,26.0,146.348,True,observed
+wind,Japan,2014,40.0,171.71320000000003,True,observed
+wind,Japan,2015,19.0,173.54188000000002,True,observed
+wind,Japan,2016,25.0,181.18769200000003,True,observed
+wind,Japan,2017,29.0,192.06892280000002,True,observed
+wind,Japan,2018,17.0,189.86203052000002,True,observed
+wind,Japan,2019,11.0,181.875827468,True,observed
+wind,Japan,2020,16.0,179.68824472120002,True,observed
+wind,Japan,2021,15.0,176.71942024908003,True,observed
+wind,Japan,2022,19.0,178.04747822417204,True,observed
+wind,Japan,2023,16.0,176.24273040175484,True,observed
+wind,Japan,2024,9.0,167.61845736157937,True,observed
+wind,Korea,2008,37.0,370.0,True,observed
+wind,Korea,2009,90.0,423.0,True,observed
+wind,Korea,2010,134.0,514.7,True,observed
+wind,Korea,2011,144.0,607.23,True,observed
+wind,Korea,2012,181.0,727.5070000000001,True,observed
+wind,Korea,2013,100.0,754.7563000000001,True,observed
+wind,Korea,2014,114.0,793.2806700000001,True,observed
+wind,Korea,2015,66.0,779.9526030000001,True,observed
+wind,Korea,2016,101.0,802.9573427,True,observed
+wind,Korea,2017,103.0,825.66160843,True,observed
+wind,Korea,2018,77.0,820.095447587,True,observed
+wind,Korea,2019,88.0,826.0859028282999,True,observed
+wind,Korea,2020,68.0,811.47731254547,True,observed
+wind,Korea,2021,96.0,826.329581290923,True,observed
+wind,Korea,2022,119.0,862.6966231618308,True,observed
+wind,Korea,2023,93.0,869.4269608456477,True,observed
+wind,Korea,2024,116.0,898.484264761083,True,observed
+wind,Latvia,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Latvia,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Latvia,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,Latvia,2011,0.0,0.0,False,unlisted_assumed_zero
+wind,Latvia,2012,0.0,0.0,False,unlisted_assumed_zero
+wind,Latvia,2013,0.0,0.0,False,unlisted_assumed_zero
+wind,Latvia,2014,0.0,0.0,False,unlisted_assumed_zero
+wind,Latvia,2015,0.0,0.0,False,unlisted_assumed_zero
+wind,Latvia,2016,0.0,0.0,False,unlisted_assumed_zero
+wind,Latvia,2017,0.0,0.0,False,unlisted_assumed_zero
+wind,Latvia,2018,0.0,0.0,False,unlisted_assumed_zero
+wind,Latvia,2019,0.0,0.0,False,unlisted_assumed_zero
+wind,Latvia,2020,2.0,2.0,True,observed
+wind,Latvia,2021,0.0,1.8,False,unlisted_assumed_zero
+wind,Latvia,2022,0.0,1.62,False,unlisted_assumed_zero
+wind,Latvia,2023,0.0,1.4580000000000002,False,unlisted_assumed_zero
+wind,Latvia,2024,0.0,1.3122000000000003,False,unlisted_assumed_zero
+wind,Lithuania,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Lithuania,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Lithuania,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,Lithuania,2011,0.0,0.0,False,unlisted_assumed_zero
+wind,Lithuania,2012,1.0,1.0,True,observed
+wind,Lithuania,2013,0.0,0.9,False,unlisted_assumed_zero
+wind,Lithuania,2014,1.0,1.81,True,observed
+wind,Lithuania,2015,0.0,1.629,False,unlisted_assumed_zero
+wind,Lithuania,2016,2.0,3.4661,True,observed
+wind,Lithuania,2017,0.0,3.11949,False,unlisted_assumed_zero
+wind,Lithuania,2018,1.0,3.807541,True,observed
+wind,Lithuania,2019,1.0,4.4267869,True,observed
+wind,Lithuania,2020,0.0,3.98410821,False,unlisted_assumed_zero
+wind,Lithuania,2021,0.0,3.585697389,False,unlisted_assumed_zero
+wind,Lithuania,2022,0.0,3.2271276501,False,unlisted_assumed_zero
+wind,Lithuania,2023,0.0,2.90441488509,False,unlisted_assumed_zero
+wind,Lithuania,2024,0.0,2.613973396581,False,unlisted_assumed_zero
+wind,Luxembourg,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2011,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2012,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2013,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2014,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2015,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2016,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2017,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2018,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2019,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2020,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2021,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2022,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2023,0.0,0.0,False,unlisted_assumed_zero
+wind,Luxembourg,2024,1.0,1.0,True,observed
+wind,Malaysia,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Malaysia,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Malaysia,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,Malaysia,2011,0.0,0.0,False,unlisted_assumed_zero
+wind,Malaysia,2012,0.0,0.0,False,unlisted_assumed_zero
+wind,Malaysia,2013,0.0,0.0,False,unlisted_assumed_zero
+wind,Malaysia,2014,0.0,0.0,False,unlisted_assumed_zero
+wind,Malaysia,2015,0.0,0.0,False,unlisted_assumed_zero
+wind,Malaysia,2016,0.0,0.0,False,unlisted_assumed_zero
+wind,Malaysia,2017,1.0,1.0,True,observed
+wind,Malaysia,2018,1.0,1.9,True,observed
+wind,Malaysia,2019,0.0,1.71,False,unlisted_assumed_zero
+wind,Malaysia,2020,0.0,1.539,False,unlisted_assumed_zero
+wind,Malaysia,2021,0.0,1.3851,False,unlisted_assumed_zero
+wind,Malaysia,2022,0.0,1.24659,False,unlisted_assumed_zero
+wind,Malaysia,2023,0.0,1.121931,False,unlisted_assumed_zero
+wind,Malaysia,2024,0.0,1.0097379,False,unlisted_assumed_zero
+wind,Mexico,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Mexico,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Mexico,2010,1.0,1.0,True,observed
+wind,Mexico,2011,4.0,4.9,True,observed
+wind,Mexico,2012,2.0,6.41,True,observed
+wind,Mexico,2013,7.0,12.769,True,observed
+wind,Mexico,2014,0.0,11.4921,False,unlisted_assumed_zero
+wind,Mexico,2015,11.0,21.34289,True,observed
+wind,Mexico,2016,2.0,21.208601,True,observed
+wind,Mexico,2017,5.0,24.087740900000004,True,observed
+wind,Mexico,2018,2.0,23.678966810000002,True,observed
+wind,Mexico,2019,4.0,25.311070129,True,observed
+wind,Mexico,2020,1.0,23.779963116100003,True,observed
+wind,Mexico,2021,2.0,23.40196680449,True,observed
+wind,Mexico,2022,0.0,21.061770124041,False,unlisted_assumed_zero
+wind,Mexico,2023,0.0,18.9555931116369,False,unlisted_assumed_zero
+wind,Mexico,2024,3.0,20.06003380047321,True,observed
+wind,Moldova,2008,1.0,10.0,True,observed
+wind,Moldova,2009,0.0,9.0,False,unlisted_assumed_zero
+wind,Moldova,2010,0.0,8.1,False,unlisted_assumed_zero
+wind,Moldova,2011,0.0,7.29,False,unlisted_assumed_zero
+wind,Moldova,2012,0.0,6.561,False,unlisted_assumed_zero
+wind,Moldova,2013,0.0,5.9049000000000005,False,unlisted_assumed_zero
+wind,Moldova,2014,0.0,5.3144100000000005,False,unlisted_assumed_zero
+wind,Moldova,2015,0.0,4.7829690000000005,False,unlisted_assumed_zero
+wind,Moldova,2016,0.0,4.3046721,False,unlisted_assumed_zero
+wind,Moldova,2017,0.0,3.8742048900000006,False,unlisted_assumed_zero
+wind,Moldova,2018,0.0,3.4867844010000004,False,unlisted_assumed_zero
+wind,Moldova,2019,0.0,3.1381059609000004,False,unlisted_assumed_zero
+wind,Moldova,2020,0.0,2.82429536481,False,unlisted_assumed_zero
+wind,Moldova,2021,0.0,2.541865828329,False,unlisted_assumed_zero
+wind,Moldova,2022,0.0,2.2876792454961,False,unlisted_assumed_zero
+wind,Moldova,2023,0.0,2.05891132094649,False,unlisted_assumed_zero
+wind,Moldova,2024,0.0,1.853020188851841,False,unlisted_assumed_zero
+wind,Montenegro,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Montenegro,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Montenegro,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,Montenegro,2011,0.0,0.0,False,unlisted_assumed_zero
+wind,Montenegro,2012,0.0,0.0,False,unlisted_assumed_zero
+wind,Montenegro,2013,1.0,1.0,True,observed
+wind,Montenegro,2014,0.0,0.9,False,unlisted_assumed_zero
+wind,Montenegro,2015,0.0,0.81,False,unlisted_assumed_zero
+wind,Montenegro,2016,0.0,0.7290000000000001,False,unlisted_assumed_zero
+wind,Montenegro,2017,0.0,0.6561000000000001,False,unlisted_assumed_zero
+wind,Montenegro,2018,0.0,0.5904900000000002,False,unlisted_assumed_zero
+wind,Montenegro,2019,0.0,0.5314410000000002,False,unlisted_assumed_zero
+wind,Montenegro,2020,0.0,0.47829690000000014,False,unlisted_assumed_zero
+wind,Montenegro,2021,0.0,0.43046721000000016,False,unlisted_assumed_zero
+wind,Montenegro,2022,0.0,0.38742048900000015,False,unlisted_assumed_zero
+wind,Montenegro,2023,0.0,0.34867844010000015,False,unlisted_assumed_zero
+wind,Montenegro,2024,0.0,0.31381059609000017,False,unlisted_assumed_zero
+wind,Morocco,2008,1.0,10.0,True,observed
+wind,Morocco,2009,0.0,9.0,False,unlisted_assumed_zero
+wind,Morocco,2010,2.0,10.1,True,observed
+wind,Morocco,2011,2.0,11.09,True,observed
+wind,Morocco,2012,0.0,9.981,False,unlisted_assumed_zero
+wind,Morocco,2013,0.0,8.9829,False,unlisted_assumed_zero
+wind,Morocco,2014,2.0,10.084610000000001,True,observed
+wind,Morocco,2015,9.0,18.076149,True,observed
+wind,Morocco,2016,0.0,16.2685341,False,unlisted_assumed_zero
+wind,Morocco,2017,0.0,14.641680690000001,False,unlisted_assumed_zero
+wind,Morocco,2018,2.0,15.177512621000002,True,observed
+wind,Morocco,2019,0.0,13.659761358900003,False,unlisted_assumed_zero
+wind,Morocco,2020,0.0,12.293785223010003,False,unlisted_assumed_zero
+wind,Morocco,2021,0.0,11.064406700709004,False,unlisted_assumed_zero
+wind,Morocco,2022,0.0,9.957966030638104,False,unlisted_assumed_zero
+wind,Morocco,2023,0.0,8.962169427574294,False,unlisted_assumed_zero
+wind,Morocco,2024,0.0,8.065952484816865,False,unlisted_assumed_zero
+wind,Netherlands,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Netherlands,2009,1.0,1.0,True,observed
+wind,Netherlands,2010,1.0,1.9,True,observed
+wind,Netherlands,2011,1.0,2.71,True,observed
+wind,Netherlands,2012,3.0,5.439,True,observed
+wind,Netherlands,2013,2.0,6.8951,True,observed
+wind,Netherlands,2014,3.0,9.20559,True,observed
+wind,Netherlands,2015,3.0,11.285031000000002,True,observed
+wind,Netherlands,2016,0.0,10.156527900000002,False,unlisted_assumed_zero
+wind,Netherlands,2017,1.0,10.140875110000001,True,observed
+wind,Netherlands,2018,2.0,11.126787599000002,True,observed
+wind,Netherlands,2019,1.0,11.014108839100002,True,observed
+wind,Netherlands,2020,2.0,11.912697955190001,True,observed
+wind,Netherlands,2021,0.0,10.721428159671001,False,unlisted_assumed_zero
+wind,Netherlands,2022,0.0,9.649285343703902,False,unlisted_assumed_zero
+wind,Netherlands,2023,0.0,8.684356809333512,False,unlisted_assumed_zero
+wind,Netherlands,2024,0.0,7.81592112840016,False,unlisted_assumed_zero
+wind,New Zealand,2008,1.0,10.0,True,observed
+wind,New Zealand,2009,0.0,9.0,False,unlisted_assumed_zero
+wind,New Zealand,2010,3.0,11.1,True,observed
+wind,New Zealand,2011,3.0,12.99,True,observed
+wind,New Zealand,2012,2.0,13.691,True,observed
+wind,New Zealand,2013,1.0,13.321900000000001,True,observed
+wind,New Zealand,2014,0.0,11.98971,False,unlisted_assumed_zero
+wind,New Zealand,2015,0.0,10.790739,False,unlisted_assumed_zero
+wind,New Zealand,2016,1.0,10.711665100000001,True,observed
+wind,New Zealand,2017,1.0,10.640498590000002,True,observed
+wind,New Zealand,2018,0.0,9.576448731000001,False,unlisted_assumed_zero
+wind,New Zealand,2019,0.0,8.618803857900001,False,unlisted_assumed_zero
+wind,New Zealand,2020,0.0,7.756923472110001,False,unlisted_assumed_zero
+wind,New Zealand,2021,0.0,6.9812311248990015,False,unlisted_assumed_zero
+wind,New Zealand,2022,0.0,6.283108012409102,False,unlisted_assumed_zero
+wind,New Zealand,2023,0.0,5.654797211168192,False,unlisted_assumed_zero
+wind,New Zealand,2024,0.0,5.089317490051372,False,unlisted_assumed_zero
+wind,Norway,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Norway,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Norway,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,Norway,2011,0.0,0.0,False,unlisted_assumed_zero
+wind,Norway,2012,1.0,1.0,True,observed
+wind,Norway,2013,1.0,1.9,True,observed
+wind,Norway,2014,0.0,1.71,False,unlisted_assumed_zero
+wind,Norway,2015,0.0,1.539,False,unlisted_assumed_zero
+wind,Norway,2016,0.0,1.3851,False,unlisted_assumed_zero
+wind,Norway,2017,0.0,1.24659,False,unlisted_assumed_zero
+wind,Norway,2018,0.0,1.121931,False,unlisted_assumed_zero
+wind,Norway,2019,0.0,1.0097379,False,unlisted_assumed_zero
+wind,Norway,2020,2.0,2.90876411,True,observed
+wind,Norway,2021,0.0,2.617887699,False,unlisted_assumed_zero
+wind,Norway,2022,4.0,6.3560989291,True,observed
+wind,Norway,2023,1.0,6.72048903619,True,observed
+wind,Norway,2024,0.0,6.048440132571,False,unlisted_assumed_zero
+wind,Philippines,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Philippines,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Philippines,2010,1.0,1.0,True,observed
+wind,Philippines,2011,0.0,0.9,False,unlisted_assumed_zero
+wind,Philippines,2012,1.0,1.81,True,observed
+wind,Philippines,2013,0.0,1.629,False,unlisted_assumed_zero
+wind,Philippines,2014,4.0,5.4661,True,observed
+wind,Philippines,2015,0.0,4.91949,False,unlisted_assumed_zero
+wind,Philippines,2016,5.0,9.427541,True,observed
+wind,Philippines,2017,1.0,9.4847869,True,observed
+wind,Philippines,2018,1.0,9.53630821,True,observed
+wind,Philippines,2019,0.0,8.582677389,False,unlisted_assumed_zero
+wind,Philippines,2020,0.0,7.724409650100001,False,unlisted_assumed_zero
+wind,Philippines,2021,0.0,6.951968685090001,False,unlisted_assumed_zero
+wind,Philippines,2022,0.0,6.256771816581001,False,unlisted_assumed_zero
+wind,Philippines,2023,0.0,5.631094634922901,False,unlisted_assumed_zero
+wind,Philippines,2024,0.0,5.067985171430611,False,unlisted_assumed_zero
+wind,Poland,2008,1.0,10.0,True,observed
+wind,Poland,2009,0.0,9.0,False,unlisted_assumed_zero
+wind,Poland,2010,2.0,10.1,True,observed
+wind,Poland,2011,3.0,12.09,True,observed
+wind,Poland,2012,5.0,15.881,True,observed
+wind,Poland,2013,5.0,19.292900000000003,True,observed
+wind,Poland,2014,3.0,20.363610000000005,True,observed
+wind,Poland,2015,2.0,20.327249000000005,True,observed
+wind,Poland,2016,5.0,23.294524100000004,True,observed
+wind,Poland,2017,0.0,20.965071690000006,False,unlisted_assumed_zero
+wind,Poland,2018,3.0,21.868564521000007,True,observed
+wind,Poland,2019,2.0,21.681708068900008,True,observed
+wind,Poland,2020,2.0,21.513537262010008,True,observed
+wind,Poland,2021,0.0,19.362183535809006,False,unlisted_assumed_zero
+wind,Poland,2022,2.0,19.425965182228104,True,observed
+wind,Poland,2023,6.0,23.483368664005294,True,observed
+wind,Poland,2024,13.0,34.13503179760477,True,observed
+wind,Portugal,2008,1.0,10.0,True,observed
+wind,Portugal,2009,0.0,9.0,False,unlisted_assumed_zero
+wind,Portugal,2010,3.0,11.1,True,observed
+wind,Portugal,2011,2.0,11.99,True,observed
+wind,Portugal,2012,9.0,19.791,True,observed
+wind,Portugal,2013,2.0,19.8119,True,observed
+wind,Portugal,2014,6.0,23.830710000000003,True,observed
+wind,Portugal,2015,0.0,21.447639000000002,False,unlisted_assumed_zero
+wind,Portugal,2016,3.0,22.3028751,True,observed
+wind,Portugal,2017,1.0,21.07258759,True,observed
+wind,Portugal,2018,2.0,20.965328831,True,observed
+wind,Portugal,2019,0.0,18.8687959479,False,unlisted_assumed_zero
+wind,Portugal,2020,0.0,16.98191635311,False,unlisted_assumed_zero
+wind,Portugal,2021,0.0,15.283724717799002,False,unlisted_assumed_zero
+wind,Portugal,2022,0.0,13.755352246019102,False,unlisted_assumed_zero
+wind,Portugal,2023,0.0,12.379817021417193,False,unlisted_assumed_zero
+wind,Portugal,2024,0.0,11.141835319275474,False,unlisted_assumed_zero
+wind,Republic of Serbia,2008,1.0,10.0,True,observed
+wind,Republic of Serbia,2009,0.0,9.0,False,unlisted_assumed_zero
+wind,Republic of Serbia,2010,0.0,8.1,False,unlisted_assumed_zero
+wind,Republic of Serbia,2011,3.0,10.29,True,observed
+wind,Republic of Serbia,2012,1.0,10.261,True,observed
+wind,Republic of Serbia,2013,0.0,9.2349,False,unlisted_assumed_zero
+wind,Republic of Serbia,2014,1.0,9.31141,True,observed
+wind,Republic of Serbia,2015,0.0,8.380269,False,unlisted_assumed_zero
+wind,Republic of Serbia,2016,2.0,9.5422421,True,observed
+wind,Republic of Serbia,2017,0.0,8.58801789,False,unlisted_assumed_zero
+wind,Republic of Serbia,2018,0.0,7.729216101,False,unlisted_assumed_zero
+wind,Republic of Serbia,2019,0.0,6.9562944908999995,False,unlisted_assumed_zero
+wind,Republic of Serbia,2020,0.0,6.260665041809999,False,unlisted_assumed_zero
+wind,Republic of Serbia,2021,0.0,5.6345985376289995,False,unlisted_assumed_zero
+wind,Republic of Serbia,2022,0.0,5.0711386838661,False,unlisted_assumed_zero
+wind,Republic of Serbia,2023,0.0,4.56402481547949,False,unlisted_assumed_zero
+wind,Republic of Serbia,2024,0.0,4.107622333931541,False,unlisted_assumed_zero
+wind,Romania,2008,1.0,10.0,True,observed
+wind,Romania,2009,0.0,9.0,False,unlisted_assumed_zero
+wind,Romania,2010,0.0,8.1,False,unlisted_assumed_zero
+wind,Romania,2011,4.0,11.29,True,observed
+wind,Romania,2012,0.0,10.161,False,unlisted_assumed_zero
+wind,Romania,2013,0.0,9.1449,False,unlisted_assumed_zero
+wind,Romania,2014,1.0,9.230410000000001,True,observed
+wind,Romania,2015,0.0,8.307369000000001,False,unlisted_assumed_zero
+wind,Romania,2016,0.0,7.476632100000002,False,unlisted_assumed_zero
+wind,Romania,2017,1.0,7.728968890000002,True,observed
+wind,Romania,2018,0.0,6.956072001000002,False,unlisted_assumed_zero
+wind,Romania,2019,0.0,6.260464800900001,False,unlisted_assumed_zero
+wind,Romania,2020,0.0,5.634418320810001,False,unlisted_assumed_zero
+wind,Romania,2021,0.0,5.070976488729001,False,unlisted_assumed_zero
+wind,Romania,2022,0.0,4.563878839856101,False,unlisted_assumed_zero
+wind,Romania,2023,1.0,5.107490955870491,True,observed
+wind,Romania,2024,0.0,4.596741860283442,False,unlisted_assumed_zero
+wind,Russia,2008,17.0,170.0,True,observed
+wind,Russia,2009,18.0,171.0,True,observed
+wind,Russia,2010,28.0,181.9,True,observed
+wind,Russia,2011,32.0,195.71,True,observed
+wind,Russia,2012,28.0,204.139,True,observed
+wind,Russia,2013,20.0,203.72510000000003,True,observed
+wind,Russia,2014,34.0,217.35259000000002,True,observed
+wind,Russia,2015,27.0,222.61733100000004,True,observed
+wind,Russia,2016,12.0,212.35559790000005,True,observed
+wind,Russia,2017,21.0,212.12003811000005,True,observed
+wind,Russia,2018,10.0,200.90803429900006,True,observed
+wind,Russia,2019,9.0,189.81723086910006,True,observed
+wind,Russia,2020,2.0,172.83550778219006,True,observed
+wind,Russia,2021,1.0,156.55195700397107,True,observed
+wind,Russia,2022,0.0,140.89676130357395,False,unlisted_assumed_zero
+wind,Russia,2023,0.0,126.80708517321656,False,unlisted_assumed_zero
+wind,Russia,2024,0.0,114.12637665589492,False,unlisted_assumed_zero
+wind,San Marino,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,San Marino,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,San Marino,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,San Marino,2011,0.0,0.0,False,unlisted_assumed_zero
+wind,San Marino,2012,0.0,0.0,False,unlisted_assumed_zero
+wind,San Marino,2013,1.0,1.0,True,observed
+wind,San Marino,2014,0.0,0.9,False,unlisted_assumed_zero
+wind,San Marino,2015,0.0,0.81,False,unlisted_assumed_zero
+wind,San Marino,2016,0.0,0.7290000000000001,False,unlisted_assumed_zero
+wind,San Marino,2017,0.0,0.6561000000000001,False,unlisted_assumed_zero
+wind,San Marino,2018,0.0,0.5904900000000002,False,unlisted_assumed_zero
+wind,San Marino,2019,0.0,0.5314410000000002,False,unlisted_assumed_zero
+wind,San Marino,2020,0.0,0.47829690000000014,False,unlisted_assumed_zero
+wind,San Marino,2021,0.0,0.43046721000000016,False,unlisted_assumed_zero
+wind,San Marino,2022,0.0,0.38742048900000015,False,unlisted_assumed_zero
+wind,San Marino,2023,0.0,0.34867844010000015,False,unlisted_assumed_zero
+wind,San Marino,2024,0.0,0.31381059609000017,False,unlisted_assumed_zero
+wind,Saudi Arabia,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Saudi Arabia,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Saudi Arabia,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,Saudi Arabia,2011,0.0,0.0,False,unlisted_assumed_zero
+wind,Saudi Arabia,2012,0.0,0.0,False,unlisted_assumed_zero
+wind,Saudi Arabia,2013,0.0,0.0,False,unlisted_assumed_zero
+wind,Saudi Arabia,2014,0.0,0.0,False,unlisted_assumed_zero
+wind,Saudi Arabia,2015,1.0,1.0,True,observed
+wind,Saudi Arabia,2016,0.0,0.9,False,unlisted_assumed_zero
+wind,Saudi Arabia,2017,0.0,0.81,False,unlisted_assumed_zero
+wind,Saudi Arabia,2018,0.0,0.7290000000000001,False,unlisted_assumed_zero
+wind,Saudi Arabia,2019,1.0,1.6561000000000001,True,observed
+wind,Saudi Arabia,2020,1.0,2.4904900000000003,True,observed
+wind,Saudi Arabia,2021,0.0,2.2414410000000005,False,unlisted_assumed_zero
+wind,Saudi Arabia,2022,0.0,2.0172969000000003,False,unlisted_assumed_zero
+wind,Saudi Arabia,2023,0.0,1.8155672100000002,False,unlisted_assumed_zero
+wind,Saudi Arabia,2024,0.0,1.6340104890000002,False,unlisted_assumed_zero
+wind,Singapore,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Singapore,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Singapore,2010,1.0,1.0,True,observed
+wind,Singapore,2011,0.0,0.9,False,unlisted_assumed_zero
+wind,Singapore,2012,3.0,3.81,True,observed
+wind,Singapore,2013,0.0,3.4290000000000003,False,unlisted_assumed_zero
+wind,Singapore,2014,4.0,7.0861,True,observed
+wind,Singapore,2015,1.0,7.37749,True,observed
+wind,Singapore,2016,0.0,6.639741,False,unlisted_assumed_zero
+wind,Singapore,2017,0.0,5.9757669,False,unlisted_assumed_zero
+wind,Singapore,2018,0.0,5.3781902100000005,False,unlisted_assumed_zero
+wind,Singapore,2019,1.0,5.840371189000001,True,observed
+wind,Singapore,2020,0.0,5.256334070100001,False,unlisted_assumed_zero
+wind,Singapore,2021,0.0,4.730700663090001,False,unlisted_assumed_zero
+wind,Singapore,2022,0.0,4.257630596781001,False,unlisted_assumed_zero
+wind,Singapore,2023,0.0,3.831867537102901,False,unlisted_assumed_zero
+wind,Singapore,2024,0.0,3.448680783392611,False,unlisted_assumed_zero
+wind,Slovakia,2008,1.0,10.0,True,observed
+wind,Slovakia,2009,0.0,9.0,False,unlisted_assumed_zero
+wind,Slovakia,2010,0.0,8.1,False,unlisted_assumed_zero
+wind,Slovakia,2011,0.0,7.29,False,unlisted_assumed_zero
+wind,Slovakia,2012,0.0,6.561,False,unlisted_assumed_zero
+wind,Slovakia,2013,0.0,5.9049000000000005,False,unlisted_assumed_zero
+wind,Slovakia,2014,0.0,5.3144100000000005,False,unlisted_assumed_zero
+wind,Slovakia,2015,2.0,6.7829690000000005,True,observed
+wind,Slovakia,2016,0.0,6.1046721,False,unlisted_assumed_zero
+wind,Slovakia,2017,0.0,5.494204890000001,False,unlisted_assumed_zero
+wind,Slovakia,2018,0.0,4.944784401000001,False,unlisted_assumed_zero
+wind,Slovakia,2019,2.0,6.450305960900001,True,observed
+wind,Slovakia,2020,0.0,5.805275364810001,False,unlisted_assumed_zero
+wind,Slovakia,2021,0.0,5.224747828329001,False,unlisted_assumed_zero
+wind,Slovakia,2022,0.0,4.702273045496101,False,unlisted_assumed_zero
+wind,Slovakia,2023,0.0,4.232045740946491,False,unlisted_assumed_zero
+wind,Slovakia,2024,0.0,3.8088411668518423,False,unlisted_assumed_zero
+wind,Slovenia,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Slovenia,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Slovenia,2010,2.0,2.0,True,observed
+wind,Slovenia,2011,2.0,3.8,True,observed
+wind,Slovenia,2012,1.0,4.42,True,observed
+wind,Slovenia,2013,0.0,3.978,False,unlisted_assumed_zero
+wind,Slovenia,2014,2.0,5.5802,True,observed
+wind,Slovenia,2015,0.0,5.02218,False,unlisted_assumed_zero
+wind,Slovenia,2016,2.0,6.519962,True,observed
+wind,Slovenia,2017,0.0,5.8679657999999995,False,unlisted_assumed_zero
+wind,Slovenia,2018,0.0,5.28116922,False,unlisted_assumed_zero
+wind,Slovenia,2019,0.0,4.753052298,False,unlisted_assumed_zero
+wind,Slovenia,2020,0.0,4.2777470682,False,unlisted_assumed_zero
+wind,Slovenia,2021,0.0,3.8499723613800003,False,unlisted_assumed_zero
+wind,Slovenia,2022,0.0,3.4649751252420002,False,unlisted_assumed_zero
+wind,Slovenia,2023,0.0,3.1184776127178004,False,unlisted_assumed_zero
+wind,Slovenia,2024,0.0,2.8066298514460204,False,unlisted_assumed_zero
+wind,South Africa,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,South Africa,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,South Africa,2010,2.0,2.0,True,observed
+wind,South Africa,2011,4.0,5.8,True,observed
+wind,South Africa,2012,1.0,6.22,True,observed
+wind,South Africa,2013,6.0,11.597999999999999,True,observed
+wind,South Africa,2014,0.0,10.4382,False,unlisted_assumed_zero
+wind,South Africa,2015,5.0,14.39438,True,observed
+wind,South Africa,2016,0.0,12.954942,False,unlisted_assumed_zero
+wind,South Africa,2017,2.0,13.6594478,True,observed
+wind,South Africa,2018,0.0,12.293503020000001,False,unlisted_assumed_zero
+wind,South Africa,2019,3.0,14.064152718,True,observed
+wind,South Africa,2020,0.0,12.6577374462,False,unlisted_assumed_zero
+wind,South Africa,2021,2.0,13.39196370158,True,observed
+wind,South Africa,2022,0.0,12.052767331422,False,unlisted_assumed_zero
+wind,South Africa,2023,0.0,10.847490598279801,False,unlisted_assumed_zero
+wind,South Africa,2024,2.0,11.762741538451822,True,observed
+wind,Spain,2008,1.0,10.0,True,observed
+wind,Spain,2009,0.0,9.0,False,unlisted_assumed_zero
+wind,Spain,2010,8.0,16.1,True,observed
+wind,Spain,2011,5.0,19.490000000000002,True,observed
+wind,Spain,2012,15.0,32.541000000000004,True,observed
+wind,Spain,2013,7.0,36.2869,True,observed
+wind,Spain,2014,13.0,45.658210000000004,True,observed
+wind,Spain,2015,14.0,55.092389000000004,True,observed
+wind,Spain,2016,14.0,63.583150100000005,True,observed
+wind,Spain,2017,7.0,64.22483509,True,observed
+wind,Spain,2018,7.0,64.80235158100001,True,observed
+wind,Spain,2019,1.0,59.32211642290001,True,observed
+wind,Spain,2020,2.0,55.38990478061001,True,observed
+wind,Spain,2021,0.0,49.85091430254901,False,unlisted_assumed_zero
+wind,Spain,2022,2.0,46.86582287229411,True,observed
+wind,Spain,2023,1.0,43.1792405850647,True,observed
+wind,Spain,2024,0.0,38.86131652655823,False,unlisted_assumed_zero
+wind,Sweden,2008,1.0,10.0,True,observed
+wind,Sweden,2009,0.0,9.0,False,unlisted_assumed_zero
+wind,Sweden,2010,3.0,11.1,True,observed
+wind,Sweden,2011,1.0,10.99,True,observed
+wind,Sweden,2012,0.0,9.891,False,unlisted_assumed_zero
+wind,Sweden,2013,0.0,8.9019,False,unlisted_assumed_zero
+wind,Sweden,2014,0.0,8.011709999999999,False,unlisted_assumed_zero
+wind,Sweden,2015,0.0,7.210538999999999,False,unlisted_assumed_zero
+wind,Sweden,2016,0.0,6.4894851,False,unlisted_assumed_zero
+wind,Sweden,2017,0.0,5.84053659,False,unlisted_assumed_zero
+wind,Sweden,2018,2.0,7.256482931,True,observed
+wind,Sweden,2019,0.0,6.5308346379,False,unlisted_assumed_zero
+wind,Sweden,2020,4.0,9.87775117411,True,observed
+wind,Sweden,2021,2.0,10.889976056699,True,observed
+wind,Sweden,2022,1.0,10.800978451029101,True,observed
+wind,Sweden,2023,4.0,13.72088060592619,True,observed
+wind,Sweden,2024,2.0,14.348792545333572,True,observed
+wind,Switzerland,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Switzerland,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Switzerland,2010,0.0,0.0,False,unlisted_assumed_zero
+wind,Switzerland,2011,0.0,0.0,False,unlisted_assumed_zero
+wind,Switzerland,2012,1.0,1.0,True,observed
+wind,Switzerland,2013,1.0,1.9,True,observed
+wind,Switzerland,2014,0.0,1.71,False,unlisted_assumed_zero
+wind,Switzerland,2015,0.0,1.539,False,unlisted_assumed_zero
+wind,Switzerland,2016,0.0,1.3851,False,unlisted_assumed_zero
+wind,Switzerland,2017,4.0,5.24659,True,observed
+wind,Switzerland,2018,2.0,6.7219310000000005,True,observed
+wind,Switzerland,2019,0.0,6.0497379,False,unlisted_assumed_zero
+wind,Switzerland,2020,0.0,5.44476411,False,unlisted_assumed_zero
+wind,Switzerland,2021,0.0,4.900287699000001,False,unlisted_assumed_zero
+wind,Switzerland,2022,0.0,4.4102589291,False,unlisted_assumed_zero
+wind,Switzerland,2023,0.0,3.9692330361900003,False,unlisted_assumed_zero
+wind,Switzerland,2024,0.0,3.5723097325710005,False,unlisted_assumed_zero
+wind,Tunisia,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Tunisia,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Tunisia,2010,1.0,1.0,True,observed
+wind,Tunisia,2011,0.0,0.9,False,unlisted_assumed_zero
+wind,Tunisia,2012,0.0,0.81,False,unlisted_assumed_zero
+wind,Tunisia,2013,0.0,0.7290000000000001,False,unlisted_assumed_zero
+wind,Tunisia,2014,4.0,4.6561,True,observed
+wind,Tunisia,2015,0.0,4.1904900000000005,False,unlisted_assumed_zero
+wind,Tunisia,2016,0.0,3.7714410000000007,False,unlisted_assumed_zero
+wind,Tunisia,2017,0.0,3.3942969000000005,False,unlisted_assumed_zero
+wind,Tunisia,2018,0.0,3.0548672100000007,False,unlisted_assumed_zero
+wind,Tunisia,2019,0.0,2.749380489000001,False,unlisted_assumed_zero
+wind,Tunisia,2020,0.0,2.4744424401000007,False,unlisted_assumed_zero
+wind,Tunisia,2021,0.0,2.2269981960900007,False,unlisted_assumed_zero
+wind,Tunisia,2022,0.0,2.0042983764810005,False,unlisted_assumed_zero
+wind,Tunisia,2023,0.0,1.8038685388329005,False,unlisted_assumed_zero
+wind,Tunisia,2024,0.0,1.6234816849496105,False,unlisted_assumed_zero
+wind,Turkey,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Turkey,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Turkey,2010,2.0,2.0,True,observed
+wind,Turkey,2011,0.0,1.8,False,unlisted_assumed_zero
+wind,Turkey,2012,0.0,1.62,False,unlisted_assumed_zero
+wind,Turkey,2013,0.0,1.4580000000000002,False,unlisted_assumed_zero
+wind,Turkey,2014,1.0,2.3122000000000003,True,observed
+wind,Turkey,2015,0.0,2.0809800000000003,False,unlisted_assumed_zero
+wind,Turkey,2016,3.0,4.872882000000001,True,observed
+wind,Turkey,2017,2.0,6.3855938000000005,True,observed
+wind,Turkey,2018,10.0,15.74703442,True,observed
+wind,Turkey,2019,2.0,16.172330977999998,True,observed
+wind,Turkey,2020,4.0,18.555097880199998,True,observed
+wind,Turkey,2021,2.0,18.699588092179997,True,observed
+wind,Turkey,2022,0.0,16.829629282962,False,unlisted_assumed_zero
+wind,Turkey,2023,0.0,15.1466663546658,False,unlisted_assumed_zero
+wind,Turkey,2024,0.0,13.631999719199221,False,unlisted_assumed_zero
+wind,Ukraine,2008,0.0,0.0,False,unlisted_assumed_zero
+wind,Ukraine,2009,0.0,0.0,False,unlisted_assumed_zero
+wind,Ukraine,2010,5.0,5.0,True,observed
+wind,Ukraine,2011,2.0,6.5,True,observed
+wind,Ukraine,2012,1.0,6.8500000000000005,True,observed
+wind,Ukraine,2013,2.0,8.165000000000001,True,observed
+wind,Ukraine,2014,3.0,10.348500000000001,True,observed
+wind,Ukraine,2015,2.0,11.31365,True,observed
+wind,Ukraine,2016,0.0,10.182285,False,unlisted_assumed_zero
+wind,Ukraine,2017,1.0,10.164056500000001,True,observed
+wind,Ukraine,2018,1.0,10.147650850000002,True,observed
+wind,Ukraine,2019,0.0,9.132885765000001,False,unlisted_assumed_zero
+wind,Ukraine,2020,0.0,8.219597188500002,False,unlisted_assumed_zero
+wind,Ukraine,2021,0.0,7.397637469650002,False,unlisted_assumed_zero
+wind,Ukraine,2022,0.0,6.657873722685002,False,unlisted_assumed_zero
+wind,Ukraine,2023,0.0,5.992086350416502,False,unlisted_assumed_zero
+wind,Ukraine,2024,0.0,5.392877715374851,False,unlisted_assumed_zero
+wind,United States,2008,16.0,160.0,True,observed
+wind,United States,2009,28.0,172.0,True,observed
+wind,United States,2010,76.0,230.8,True,observed
+wind,United States,2011,65.0,272.72,True,observed
+wind,United States,2012,68.0,313.44800000000004,True,observed
+wind,United States,2013,94.0,376.1032,True,observed
+wind,United States,2014,96.0,434.49288,True,observed
+wind,United States,2015,102.0,493.04359200000005,True,observed
+wind,United States,2016,63.0,506.7392328,True,observed
+wind,United States,2017,70.0,526.06530952,True,observed
+wind,United States,2018,55.0,528.4587785680001,True,observed
+wind,United States,2019,34.0,509.6129007112001,True,observed
+wind,United States,2020,30.0,488.6516106400801,True,observed
+wind,United States,2021,37.0,476.7864495760721,True,observed
+wind,United States,2022,29.0,458.10780461846485,True,observed
+wind,United States,2023,23.0,435.29702415661836,True,observed
+wind,United States,2024,16.0,407.76732174095656,True,observed

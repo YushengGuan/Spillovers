@@ -1,0 +1,210 @@
+{
+  "all_pass": true,
+  "checks": [
+    {
+      "check": "345 unique country-years",
+      "passed": true
+    },
+    {
+      "check": "10 PV and 13 wind countries",
+      "passed": true
+    },
+    {
+      "check": "334 observed cells",
+      "passed": true
+    },
+    {
+      "check": "15 years per country",
+      "passed": true
+    },
+    {
+      "check": "positive fitted factual/counterfactual costs",
+      "passed": true
+    },
+    {
+      "check": "mechanism sum",
+      "passed": true
+    },
+    {
+      "check": "counterfactual cost identity",
+      "passed": true
+    },
+    {
+      "check": "zero contribution in 2010",
+      "passed": true
+    },
+    {
+      "check": "zero wind E",
+      "passed": true
+    },
+    {
+      "check": "pv final weighted net contribution",
+      "passed": true
+    },
+    {
+      "check": "wind final weighted net contribution",
+      "passed": true
+    },
+    {
+      "check": "final cost reference reproduced",
+      "passed": true
+    },
+    {
+      "check": "selected regression coefficients reproduced",
+      "passed": true
+    },
+    {
+      "check": "selected HAC errors reproduced",
+      "passed": true
+    },
+    {
+      "check": "34 selected equations",
+      "passed": true
+    },
+    {
+      "check": "supplemental coefficients reproduced",
+      "passed": true
+    },
+    {
+      "check": "supplemental HAC errors reproduced",
+      "passed": true
+    },
+    {
+      "check": "matched model comparison passes",
+      "passed": true
+    },
+    {
+      "check": "CGE postprocessing checks pass",
+      "passed": true
+    },
+    {
+      "check": "S0 2030 target",
+      "passed": true
+    },
+    {
+      "check": "S2 2030 target",
+      "passed": true
+    },
+    {
+      "check": "S1_NO_CN 2030 manuscript outcomes",
+      "passed": true
+    },
+    {
+      "check": "S2_CAPACITY 2030 manuscript outcomes",
+      "passed": true
+    },
+    {
+      "check": "S1_NO_CN 2050 manuscript outcomes",
+      "passed": true
+    },
+    {
+      "check": "S2_CAPACITY 2050 manuscript outcomes",
+      "passed": true
+    },
+    {
+      "check": "carbon-price increment",
+      "passed": true
+    },
+    {
+      "check": "country inverse-cost productivity ratio",
+      "passed": true
+    },
+    {
+      "check": "source comparison common samples",
+      "passed": true
+    },
+    {
+      "check": "historical source component sums",
+      "passed": true
+    },
+    {
+      "check": "joint PV diagnostic",
+      "passed": true
+    },
+    {
+      "check": "joint wind diagnostic",
+      "passed": true
+    },
+    {
+      "check": "figure Figure1_costs.pdf",
+      "passed": true
+    },
+    {
+      "check": "figure Figure1_costs.svg",
+      "passed": true
+    },
+    {
+      "check": "figure Figure1_costs.png",
+      "passed": true
+    },
+    {
+      "check": "figure Figure1_costs.tiff",
+      "passed": true
+    },
+    {
+      "check": "figure Figure2_transition.pdf",
+      "passed": true
+    },
+    {
+      "check": "figure Figure2_transition.svg",
+      "passed": true
+    },
+    {
+      "check": "figure Figure2_transition.png",
+      "passed": true
+    },
+    {
+      "check": "figure Figure2_transition.tiff",
+      "passed": true
+    },
+    {
+      "check": "figure Figure3_emissions.pdf",
+      "passed": true
+    },
+    {
+      "check": "figure Figure3_emissions.svg",
+      "passed": true
+    },
+    {
+      "check": "figure Figure3_emissions.png",
+      "passed": true
+    },
+    {
+      "check": "figure Figure3_emissions.tiff",
+      "passed": true
+    },
+    {
+      "check": "figure Figure4_equity.pdf",
+      "passed": true
+    },
+    {
+      "check": "figure Figure4_equity.svg",
+      "passed": true
+    },
+    {
+      "check": "figure Figure4_equity.png",
+      "passed": true
+    },
+    {
+      "check": "figure Figure4_equity.tiff",
+      "passed": true
+    },
+    {
+      "check": "figure Figure5_sectoral_output.pdf",
+      "passed": true
+    },
+    {
+      "check": "figure Figure5_sectoral_output.svg",
+      "passed": true
+    },
+    {
+      "check": "figure Figure5_sectoral_output.png",
+      "passed": true
+    },
+    {
+      "check": "figure Figure5_sectoral_output.tiff",
+      "passed": true
+    }
+  ],
+  "full_CGE_resolved_by_this_check": false
+}

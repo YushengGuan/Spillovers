@@ -1,0 +1,16 @@
+SecGrid,etah,gammah
+Rice,0.3,-0.004
+Crops nec,0.3,-0.004
+"Bovine cattle, sheep and goats, horses",0.886,-0.08
+Animal products nec,0.886,-0.08
+Forestry,0.6,0
+Coal,0.2,0
+Oil,1,0
+Gas,1,0
+Mine,0.5,0
+Manufac,0.8,0
+Petro,1,0
+Power,1,0
+WatWaste, 0.5, 0
+OthServ,1,0
+Transport,1.5,0

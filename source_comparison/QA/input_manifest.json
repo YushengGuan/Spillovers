@@ -1,0 +1,57 @@
+[
+  {
+    "file": "legacy_destination_inputs.csv",
+    "source": "source_comparison\\Inputs\\legacy_destination_inputs.csv",
+    "sha256": "e170e51d156d70bc1f443b2c3dfa1e0815464f879cd2634a060dbbb1f7baa2d9"
+  },
+  {
+    "file": "bilateral_imports_selected.csv",
+    "source": "source_comparison\\Inputs\\bilateral_imports_selected.csv",
+    "sha256": "44dec8bffac7c50e1952cae64d96c10cffaf4c4c58799e93aeda993d683de9ab"
+  },
+  {
+    "file": "accepted_supplier_price_paths.csv",
+    "source": "source_comparison\\Inputs\\accepted_supplier_price_paths.csv",
+    "sha256": "605f11e0e9a910d3ee02d4dbcc715f25bf3760a1a32b8c05bff743f8ee3714cf"
+  },
+  {
+    "file": "direct_balance_panel.csv",
+    "source": "source_comparison\\Inputs\\direct_balance_panel.csv",
+    "sha256": "7f8c1da14e3f3fea4df1a91455d8af1533423baa21b6bdfac6ccbddb9be4d2f7"
+  },
+  {
+    "file": "balance_coefficients.csv",
+    "source": "source_comparison\\Inputs\\balance_coefficients.csv",
+    "sha256": "da8c0c2bf35f296dd4cbbe6b623bc72e17f068013f0be194dd315eca0015bf2e"
+  },
+  {
+    "file": "deployment_scenarios.csv",
+    "source": "source_comparison\\Inputs\\deployment_scenarios.csv",
+    "sha256": "4d70944df5a645dd13a7a8ef7584ffe02fc8a1e090b6990dc185f3dc6ba4ea89"
+  },
+  {
+    "file": "documented_policy_pv_tariff_periods.csv",
+    "source": "source_comparison\\Inputs\\documented_policy_pv_tariff_periods.csv",
+    "sha256": "5a07159011e0d146373e564a88c3eef92c76f2572f3ccc2647f462c7f3fd6f86"
+  },
+  {
+    "file": "legacy_wind_policy_and_structure.csv",
+    "source": "source_comparison\\Inputs\\legacy_wind_policy_and_structure.csv",
+    "sha256": "740677eecac4f76e90187622b130c053864062f157c2f9779ced03639c3f7c3b"
+  },
+  {
+    "file": "pv_bilateral_tariffs.csv",
+    "source": "source_comparison\\Inputs\\pv_bilateral_tariffs.csv",
+    "sha256": "c1077484864b2318ca1f8865ef0f8f888624e657583a925204957eaef46c09ae"
+  },
+  {
+    "file": "wind_bilateral_tariffs.csv",
+    "source": "source_comparison\\Inputs\\wind_bilateral_tariffs.csv",
+    "sha256": "670ed4813e0c2936fb71d4142d6679a827d2d1e17c34017dff15dd045da05b31"
+  },
+  {
+    "file": "capacity_weights_all_countries.csv",
+    "source": "source_comparison\\Inputs\\capacity_weights_all_countries.csv",
+    "sha256": "463c619f11e7b912bc2e5564bf077a3cce81b7c41096a6f2ed27302b9b8929da"
+  }
+]

@@ -1,0 +1,6014 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "pv raw unique country-years",
+      "passed": true
+    },
+    {
+      "check": "pv nonnegative integer flows",
+      "passed": true
+    },
+    {
+      "check": "pv global stock equals sum of geography stocks",
+      "passed": true
+    },
+    {
+      "check": "pv capacity cumulative reconstruction",
+      "passed": true
+    },
+    {
+      "check": "pv AUS selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv AUS same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "pv AUS G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv AUS G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv AUS G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv AUS D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv AUS D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication pv AUS",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv BRA same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "pv BRA G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv BRA G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv BRA G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv BRA D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv BRA D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication pv BRA",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv BRA GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv CHN same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "pv CHN G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv CHN G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv CHN G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv CHN D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv CHN D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication pv CHN",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv CHN GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv DEU same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "pv DEU G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv DEU G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv DEU G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv DEU D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv DEU D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication pv DEU",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv DEU GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv ESP same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "pv ESP G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv ESP G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv ESP G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv ESP D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv ESP D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication pv ESP",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ESP GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv FRA same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "pv FRA G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv FRA G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv FRA G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv FRA D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv FRA D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication pv FRA",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv FRA GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv IND same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "pv IND G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv IND G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv IND G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv IND D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv IND D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND GD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv IND GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv IND GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication pv IND",
+      "passed": true
+    },
+    {
+      "check": "pv IND DD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv IND DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv IND DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND DG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv IND DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv IND DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND GG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv IND GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv IND GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv IND GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv ITA same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "pv ITA G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv ITA G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv ITA G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv ITA D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv ITA D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication pv ITA",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv ITA GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv JPN same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "pv JPN G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv JPN G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv JPN G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv JPN D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv JPN D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication pv JPN",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv JPN GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv KOR same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "pv KOR G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv KOR G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv KOR G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv KOR D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv KOR D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication pv KOR",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv KOR GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv USA same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "pv USA G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv USA G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv USA G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "pv USA D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv USA D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA GD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv USA GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv USA GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication pv USA",
+      "passed": true
+    },
+    {
+      "check": "pv USA DD full rank",
+      "passed": true
+    },
+    {
+      "check": "pv USA DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv USA DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA DG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv USA DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv USA DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA GG full rank",
+      "passed": true
+    },
+    {
+      "check": "pv USA GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "pv USA GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv USA GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind raw unique country-years",
+      "passed": true
+    },
+    {
+      "check": "wind nonnegative integer flows",
+      "passed": true
+    },
+    {
+      "check": "wind global stock equals sum of geography stocks",
+      "passed": true
+    },
+    {
+      "check": "wind capacity cumulative reconstruction",
+      "passed": true
+    },
+    {
+      "check": "wind AUS selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind AUS same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "wind AUS G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind AUS G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind AUS G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication wind AUS",
+      "passed": true
+    },
+    {
+      "check": "wind AUS D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind AUS D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind AUS D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind AUS GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind BRA same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "wind BRA G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind BRA G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind BRA G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication wind BRA",
+      "passed": true
+    },
+    {
+      "check": "wind BRA D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind BRA D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind BRA D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind BRA GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind CAN same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "wind CAN G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind CAN G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind CAN G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication wind CAN",
+      "passed": true
+    },
+    {
+      "check": "wind CAN D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind CAN D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind CAN D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CAN GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind CHN same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "wind CHN G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind CHN G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind CHN G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication wind CHN",
+      "passed": true
+    },
+    {
+      "check": "wind CHN D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind CHN D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind CHN D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind CHN GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind DEU same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "wind DEU G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind DEU G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind DEU G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication wind DEU",
+      "passed": true
+    },
+    {
+      "check": "wind DEU D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind DEU D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind DEU D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind DEU GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind ESP same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "wind ESP G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind ESP G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind ESP G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication wind ESP",
+      "passed": true
+    },
+    {
+      "check": "wind ESP D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind ESP D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind ESP D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ESP GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind FRA same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "wind FRA G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind FRA G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind FRA G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication wind FRA",
+      "passed": true
+    },
+    {
+      "check": "wind FRA D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind FRA D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind FRA D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind FRA GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind GBR same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "wind GBR G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind GBR G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind GBR G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication wind GBR",
+      "passed": true
+    },
+    {
+      "check": "wind GBR D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind GBR D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind GBR D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind GBR GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind IND same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "wind IND G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind IND G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind IND G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication wind IND",
+      "passed": true
+    },
+    {
+      "check": "wind IND D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind IND D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind IND D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND GD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind IND GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind IND GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND DD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind IND DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind IND DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND DG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind IND DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind IND DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND GG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind IND GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind IND GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind IND GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind ITA same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "wind ITA G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind ITA G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind ITA G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication wind ITA",
+      "passed": true
+    },
+    {
+      "check": "wind ITA D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind ITA D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind ITA D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind ITA GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind POL same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "wind POL G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind POL G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind POL G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication wind POL",
+      "passed": true
+    },
+    {
+      "check": "wind POL D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind POL D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind POL D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL GD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind POL GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind POL GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL DD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind POL DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind POL DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL DG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind POL DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind POL DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL GG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind POL GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind POL GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind POL GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind SWE same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "wind SWE G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind SWE G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind SWE G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication wind SWE",
+      "passed": true
+    },
+    {
+      "check": "wind SWE D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind SWE D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind SWE D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind SWE GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind TUR same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "wind TUR G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind TUR G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind TUR G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication wind TUR",
+      "passed": true
+    },
+    {
+      "check": "wind TUR D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind TUR D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind TUR D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind TUR GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA selected domestic stock reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind USA same complete positive-cost/capacity sample",
+      "passed": true
+    },
+    {
+      "check": "wind USA G0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind USA G0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind USA G0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA G0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA G0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA G0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA G0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA G0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA G0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "published replication wind USA",
+      "passed": true
+    },
+    {
+      "check": "wind USA D0 full rank",
+      "passed": true
+    },
+    {
+      "check": "wind USA D0 coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind USA D0 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA D0 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA D0 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA D0 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA D0 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA D0 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA D0 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA GD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind USA GD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind USA GD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA GD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA GD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA GD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA GD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA GD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA GD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA DD full rank",
+      "passed": true
+    },
+    {
+      "check": "wind USA DD coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind USA DD 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA DD 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA DD 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA DD 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA DD 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA DD 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA DD 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA DG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind USA DG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind USA DG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA DG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA DG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA DG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA DG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA DG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA DG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA GG full rank",
+      "passed": true
+    },
+    {
+      "check": "wind USA GG coefficients independently reproduced",
+      "passed": true
+    },
+    {
+      "check": "wind USA GG 2018 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA GG 2019 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA GG 2020 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA GG 2021 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA GG 2022 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA GG 2023 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "wind USA GG 2024 chronological holdout",
+      "passed": true
+    },
+    {
+      "check": "pv AUS global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv AUS domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv BRA global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv BRA domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv CHN global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv CHN domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv DEU global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv DEU domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv ESP global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv ESP domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv FRA global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv FRA domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv IND global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv IND domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv ITA global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv ITA domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv JPN global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv JPN domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv KOR global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv KOR domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv USA global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "pv USA domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind AUS global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind AUS domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind BRA global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind BRA domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind CAN global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind CAN domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind CHN global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind CHN domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind DEU global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind DEU domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind ESP global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind ESP domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind FRA global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind FRA domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind GBR global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind GBR domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind IND global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind IND domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind ITA global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind ITA domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind POL global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind POL domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind SWE global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind SWE domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind TUR global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind TUR domestic nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind USA global nested R2 monotonic",
+      "passed": true
+    },
+    {
+      "check": "wind USA domestic nested R2 monotonic",
+      "passed": true
+    }
+  ],
+  "input_manifest": [
+    {
+      "source": "inputs/pv.xlsx",
+      "frozen": "pv.xlsx",
+      "sha256": "a6a4492a381ed048b9617c04c47b89e7282fe8ce73395ac8721cce758dd54b7f"
+    },
+    {
+      "source": "inputs/wind.xlsx",
+      "frozen": "wind.xlsx",
+      "sha256": "ff4ad39454381f43c21f6ff7afe558a536a1bde1fe760a0cea0ec05c9f8ed0d0"
+    },
+    {
+      "source": "inputs/cost_capacity.xlsx",
+      "frozen": "cost_capacity.xlsx",
+      "sha256": "3df74513dd6bca9cff93d1543757bb09d6368eb79c04eee9c70b376db6a9db23"
+    },
+    {
+      "source": "inputs/selected_regressions.csv",
+      "frozen": "selected_regressions.csv",
+      "sha256": "db97b5df6e1a14a52f34eda45fd369b6adc479ce581ac2d96eff8d4daae23834"
+    },
+    {
+      "source": "inputs/selected_stock_panel.csv",
+      "frozen": "selected_stock_panel.csv",
+      "sha256": "400a8477cf6f862caeb5f9fc8fd8d9695b1cf55cf54e69e7bb83fbf601763bb7"
+    },
+    {
+      "source": "inputs/country_map.csv",
+      "frozen": "country_map.csv",
+      "sha256": "c24d1bb4d1696a1eb891df14ab539e534efd168b57677a9d5362457db0d7e8a8"
+    }
+  ],
+  "specs": {
+    "G0": [
+      "global",
+      null
+    ],
+    "D0": [
+      "domestic",
+      null
+    ],
+    "GD": [
+      "global",
+      "domestic"
+    ],
+    "DD": [
+      "domestic",
+      "domestic"
+    ],
+    "DG": [
+      "domestic",
+      "global"
+    ],
+    "GG": [
+      "global",
+      "global"
+    ]
+  },
+  "models": 150,
+  "country_technology_pairs": 25,
+  "delta": 0.1,
+  "lag": 0,
+  "initialization": "H2008=F2008/0.1; Ht=.9H[t-1]+Ft for t>=2009",
+  "global_patents": "Sum of all reported country/geography flows, excluding EPO/WIPO/EAPO; not validated globally unique patent families",
+  "domestic_capacity": "Cumulative sum of country columns from the source 2000 initial row through year t; global accumulation independently matched to supplied Global_cum",
+  "missing_patents": "Unlisted country-years assumed zero under frozen convention; not confirmed zero observations",
+  "sample": "PV 2010-2024 except Japan 2011-2024; all wind 2011-2024; identical years for every spec within country/technology",
+  "inference": "HAC(1) Bartlett with n/(n-p) correction, two-sided Student t; raw p and BH across slopes within tech/spec and all explored tech slopes",
+  "AICc": "-2LL+2K+2K(K+1)/(n-K-1), K=mean coefficient count+1 residual variance",
+  "rolling": "2018-2024 expanding chronological cost holdout, contemporaneous regressors known, input costs retain prior interpolation; retrospective conditional prediction, not a real-time forecasting experiment",
+  "model_selection": "Exploratory comparison only; no automatic replacement of selected PV/wind models or downstream costs/CGE",
+  "software": {
+    "python": "3.10.11",
+    "numpy": "1.26.4",
+    "pandas": "2.1.0",
+    "statsmodels": "0.14.2"
+  }
+}

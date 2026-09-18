@@ -1,0 +1,1803 @@
+{
+  "all_pass": true,
+  "checks": [
+    {
+      "check": "procurement pv/AUS/2010",
+      "max_error": 3.183231456205249e-12
+    },
+    {
+      "check": "procurement pv/AUS/2011",
+      "max_error": 3.637978807091713e-12
+    },
+    {
+      "check": "procurement pv/AUS/2012",
+      "max_error": 1.8189894035458565e-12
+    },
+    {
+      "check": "procurement pv/AUS/2013",
+      "max_error": 1.7053025658242404e-12
+    },
+    {
+      "check": "procurement pv/AUS/2014",
+      "max_error": 1.7053025658242404e-12
+    },
+    {
+      "check": "procurement pv/AUS/2015",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement pv/AUS/2016",
+      "max_error": 1.2505552149377763e-12
+    },
+    {
+      "check": "procurement pv/AUS/2017",
+      "max_error": 1.0231815394945443e-12
+    },
+    {
+      "check": "procurement pv/AUS/2018",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement pv/AUS/2019",
+      "max_error": 6.252776074688882e-13
+    },
+    {
+      "check": "procurement pv/AUS/2020",
+      "max_error": 5.684341886080801e-13
+    },
+    {
+      "check": "procurement pv/AUS/2021",
+      "max_error": 3.979039320256561e-13
+    },
+    {
+      "check": "procurement pv/AUS/2022",
+      "max_error": 2.8421709430404007e-13
+    },
+    {
+      "check": "procurement pv/AUS/2023",
+      "max_error": 1.9895196601282805e-13
+    },
+    {
+      "check": "procurement pv/AUS/2024",
+      "max_error": 1.1368683772161603e-13
+    },
+    {
+      "check": "procurement pv/BRA/2011",
+      "max_error": 3.637978807091713e-12
+    },
+    {
+      "check": "procurement pv/BRA/2013",
+      "max_error": 2.2737367544323206e-12
+    },
+    {
+      "check": "procurement pv/BRA/2014",
+      "max_error": 2.2737367544323206e-12
+    },
+    {
+      "check": "procurement pv/BRA/2015",
+      "max_error": 1.4779288903810084e-12
+    },
+    {
+      "check": "procurement pv/BRA/2016",
+      "max_error": 7.958078640513122e-13
+    },
+    {
+      "check": "procurement pv/BRA/2017",
+      "max_error": 7.389644451905042e-13
+    },
+    {
+      "check": "procurement pv/BRA/2018",
+      "max_error": 6.252776074688882e-13
+    },
+    {
+      "check": "procurement pv/BRA/2019",
+      "max_error": 3.979039320256561e-13
+    },
+    {
+      "check": "procurement pv/BRA/2020",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement pv/BRA/2021",
+      "max_error": 2.8421709430404007e-13
+    },
+    {
+      "check": "procurement pv/BRA/2022",
+      "max_error": 1.7053025658242404e-13
+    },
+    {
+      "check": "procurement pv/BRA/2023",
+      "max_error": 2.842170943040401e-14
+    },
+    {
+      "check": "procurement pv/BRA/2024",
+      "max_error": 2.842170943040401e-14
+    },
+    {
+      "check": "procurement pv/CHN/2010",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/CHN/2011",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/CHN/2012",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/CHN/2013",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/CHN/2014",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/CHN/2015",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/CHN/2016",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/CHN/2017",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/CHN/2018",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/CHN/2019",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/CHN/2020",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/CHN/2021",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/CHN/2022",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/CHN/2023",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/CHN/2024",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement pv/DEU/2010",
+      "max_error": 6.366462912410498e-12
+    },
+    {
+      "check": "procurement pv/DEU/2011",
+      "max_error": 4.092726157978177e-12
+    },
+    {
+      "check": "procurement pv/DEU/2012",
+      "max_error": 3.865352482534945e-12
+    },
+    {
+      "check": "procurement pv/DEU/2013",
+      "max_error": 2.3874235921539366e-12
+    },
+    {
+      "check": "procurement pv/DEU/2014",
+      "max_error": 2.0463630789890885e-12
+    },
+    {
+      "check": "procurement pv/DEU/2015",
+      "max_error": 2.1600499167107046e-12
+    },
+    {
+      "check": "procurement pv/DEU/2016",
+      "max_error": 1.8189894035458565e-12
+    },
+    {
+      "check": "procurement pv/DEU/2017",
+      "max_error": 1.2505552149377763e-12
+    },
+    {
+      "check": "procurement pv/DEU/2018",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement pv/DEU/2019",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement pv/DEU/2020",
+      "max_error": 7.958078640513122e-13
+    },
+    {
+      "check": "procurement pv/DEU/2021",
+      "max_error": 9.663381206337363e-13
+    },
+    {
+      "check": "procurement pv/DEU/2022",
+      "max_error": 3.979039320256561e-13
+    },
+    {
+      "check": "procurement pv/DEU/2023",
+      "max_error": 3.694822225952521e-13
+    },
+    {
+      "check": "procurement pv/DEU/2024",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement pv/ESP/2010",
+      "max_error": 6.366462912410498e-12
+    },
+    {
+      "check": "procurement pv/ESP/2011",
+      "max_error": 3.637978807091713e-12
+    },
+    {
+      "check": "procurement pv/ESP/2012",
+      "max_error": 3.865352482534945e-12
+    },
+    {
+      "check": "procurement pv/ESP/2013",
+      "max_error": 2.5011104298755527e-12
+    },
+    {
+      "check": "procurement pv/ESP/2014",
+      "max_error": 2.5011104298755527e-12
+    },
+    {
+      "check": "procurement pv/ESP/2015",
+      "max_error": 1.9326762412674725e-12
+    },
+    {
+      "check": "procurement pv/ESP/2019",
+      "max_error": 7.958078640513122e-13
+    },
+    {
+      "check": "procurement pv/ESP/2020",
+      "max_error": 8.526512829121202e-13
+    },
+    {
+      "check": "procurement pv/ESP/2021",
+      "max_error": 5.684341886080801e-13
+    },
+    {
+      "check": "procurement pv/ESP/2022",
+      "max_error": 3.979039320256561e-13
+    },
+    {
+      "check": "procurement pv/ESP/2023",
+      "max_error": 2.8421709430404007e-13
+    },
+    {
+      "check": "procurement pv/ESP/2024",
+      "max_error": 2.5579538487363607e-13
+    },
+    {
+      "check": "procurement pv/FRA/2010",
+      "max_error": 5.4569682106375694e-12
+    },
+    {
+      "check": "procurement pv/FRA/2011",
+      "max_error": 4.092726157978177e-12
+    },
+    {
+      "check": "procurement pv/FRA/2012",
+      "max_error": 4.320099833421409e-12
+    },
+    {
+      "check": "procurement pv/FRA/2013",
+      "max_error": 2.5011104298755527e-12
+    },
+    {
+      "check": "procurement pv/FRA/2014",
+      "max_error": 2.5011104298755527e-12
+    },
+    {
+      "check": "procurement pv/FRA/2015",
+      "max_error": 1.5916157281026244e-12
+    },
+    {
+      "check": "procurement pv/FRA/2016",
+      "max_error": 1.9326762412674725e-12
+    },
+    {
+      "check": "procurement pv/FRA/2017",
+      "max_error": 1.8189894035458565e-12
+    },
+    {
+      "check": "procurement pv/FRA/2018",
+      "max_error": 1.5916157281026244e-12
+    },
+    {
+      "check": "procurement pv/FRA/2019",
+      "max_error": 9.663381206337363e-13
+    },
+    {
+      "check": "procurement pv/FRA/2020",
+      "max_error": 1.1937117960769683e-12
+    },
+    {
+      "check": "procurement pv/FRA/2021",
+      "max_error": 1.0800249583553523e-12
+    },
+    {
+      "check": "procurement pv/FRA/2022",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement pv/FRA/2023",
+      "max_error": 5.400124791776761e-13
+    },
+    {
+      "check": "procurement pv/FRA/2024",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement pv/IND/2010",
+      "max_error": 5.4569682106375694e-12
+    },
+    {
+      "check": "procurement pv/IND/2011",
+      "max_error": 3.183231456205249e-12
+    },
+    {
+      "check": "procurement pv/IND/2012",
+      "max_error": 2.9558577807620168e-12
+    },
+    {
+      "check": "procurement pv/IND/2013",
+      "max_error": 1.4779288903810084e-12
+    },
+    {
+      "check": "procurement pv/IND/2014",
+      "max_error": 1.2505552149377763e-12
+    },
+    {
+      "check": "procurement pv/IND/2015",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement pv/IND/2016",
+      "max_error": 7.958078640513122e-13
+    },
+    {
+      "check": "procurement pv/IND/2017",
+      "max_error": 7.958078640513122e-13
+    },
+    {
+      "check": "procurement pv/IND/2018",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement pv/IND/2019",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement pv/IND/2020",
+      "max_error": 6.252776074688882e-13
+    },
+    {
+      "check": "procurement pv/IND/2021",
+      "max_error": 7.389644451905042e-13
+    },
+    {
+      "check": "procurement pv/IND/2022",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement pv/IND/2023",
+      "max_error": 1.7053025658242404e-13
+    },
+    {
+      "check": "procurement pv/IND/2024",
+      "max_error": 5.684341886080802e-14
+    },
+    {
+      "check": "procurement pv/ITA/2010",
+      "max_error": 5.4569682106375694e-12
+    },
+    {
+      "check": "procurement pv/ITA/2011",
+      "max_error": 5.229594535194337e-12
+    },
+    {
+      "check": "procurement pv/ITA/2012",
+      "max_error": 2.9558577807620168e-12
+    },
+    {
+      "check": "procurement pv/ITA/2013",
+      "max_error": 3.183231456205249e-12
+    },
+    {
+      "check": "procurement pv/ITA/2014",
+      "max_error": 2.2737367544323206e-12
+    },
+    {
+      "check": "procurement pv/ITA/2017",
+      "max_error": 1.4779288903810084e-12
+    },
+    {
+      "check": "procurement pv/ITA/2018",
+      "max_error": 1.4779288903810084e-12
+    },
+    {
+      "check": "procurement pv/ITA/2019",
+      "max_error": 1.1937117960769683e-12
+    },
+    {
+      "check": "procurement pv/ITA/2020",
+      "max_error": 1.0231815394945443e-12
+    },
+    {
+      "check": "procurement pv/ITA/2021",
+      "max_error": 9.663381206337363e-13
+    },
+    {
+      "check": "procurement pv/ITA/2022",
+      "max_error": 5.115907697472721e-13
+    },
+    {
+      "check": "procurement pv/ITA/2023",
+      "max_error": 3.979039320256561e-13
+    },
+    {
+      "check": "procurement pv/ITA/2024",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement pv/JPN/2011",
+      "max_error": 3.183231456205249e-12
+    },
+    {
+      "check": "procurement pv/JPN/2012",
+      "max_error": 3.183231456205249e-12
+    },
+    {
+      "check": "procurement pv/JPN/2013",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement pv/JPN/2014",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement pv/JPN/2015",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement pv/JPN/2016",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement pv/JPN/2017",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement pv/JPN/2018",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement pv/JPN/2019",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement pv/JPN/2020",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement pv/JPN/2021",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement pv/JPN/2022",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement pv/JPN/2023",
+      "max_error": 2.8421709430404007e-13
+    },
+    {
+      "check": "procurement pv/JPN/2024",
+      "max_error": 1.1368683772161603e-13
+    },
+    {
+      "check": "procurement pv/KOR/2011",
+      "max_error": 1.8189894035458565e-12
+    },
+    {
+      "check": "procurement pv/KOR/2012",
+      "max_error": 2.0463630789890885e-12
+    },
+    {
+      "check": "procurement pv/KOR/2013",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement pv/KOR/2014",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement pv/KOR/2015",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement pv/KOR/2016",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement pv/KOR/2017",
+      "max_error": 5.684341886080801e-13
+    },
+    {
+      "check": "procurement pv/KOR/2018",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement pv/KOR/2019",
+      "max_error": 5.115907697472721e-13
+    },
+    {
+      "check": "procurement pv/KOR/2020",
+      "max_error": 3.979039320256561e-13
+    },
+    {
+      "check": "procurement pv/KOR/2021",
+      "max_error": 5.115907697472721e-13
+    },
+    {
+      "check": "procurement pv/KOR/2022",
+      "max_error": 1.1368683772161603e-13
+    },
+    {
+      "check": "procurement pv/KOR/2023",
+      "max_error": 1.4210854715202004e-13
+    },
+    {
+      "check": "procurement pv/KOR/2024",
+      "max_error": 5.684341886080802e-14
+    },
+    {
+      "check": "procurement pv/USA/2010",
+      "max_error": 6.366462912410498e-12
+    },
+    {
+      "check": "procurement pv/USA/2011",
+      "max_error": 4.547473508864641e-12
+    },
+    {
+      "check": "procurement pv/USA/2012",
+      "max_error": 4.092726157978177e-12
+    },
+    {
+      "check": "procurement pv/USA/2013",
+      "max_error": 2.2737367544323206e-12
+    },
+    {
+      "check": "procurement pv/USA/2014",
+      "max_error": 2.0463630789890885e-12
+    },
+    {
+      "check": "procurement pv/USA/2015",
+      "max_error": 1.3642420526593924e-12
+    },
+    {
+      "check": "procurement pv/USA/2016",
+      "max_error": 1.3642420526593924e-12
+    },
+    {
+      "check": "procurement pv/USA/2017",
+      "max_error": 1.3642420526593924e-12
+    },
+    {
+      "check": "procurement pv/USA/2018",
+      "max_error": 1.8189894035458565e-12
+    },
+    {
+      "check": "procurement pv/USA/2019",
+      "max_error": 1.0231815394945443e-12
+    },
+    {
+      "check": "procurement pv/USA/2020",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement pv/USA/2021",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement pv/USA/2022",
+      "max_error": 7.389644451905042e-13
+    },
+    {
+      "check": "procurement pv/USA/2023",
+      "max_error": 3.979039320256561e-13
+    },
+    {
+      "check": "procurement pv/USA/2024",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/AUS/2010",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement wind/AUS/2011",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/AUS/2012",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/AUS/2013",
+      "max_error": 7.958078640513122e-13
+    },
+    {
+      "check": "procurement wind/AUS/2014",
+      "max_error": 5.684341886080801e-13
+    },
+    {
+      "check": "procurement wind/AUS/2015",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/AUS/2016",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/AUS/2017",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/AUS/2018",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/AUS/2019",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/AUS/2020",
+      "max_error": 5.684341886080802e-14
+    },
+    {
+      "check": "procurement wind/AUS/2021",
+      "max_error": 5.684341886080801e-13
+    },
+    {
+      "check": "procurement wind/AUS/2022",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/AUS/2023",
+      "max_error": 1.7053025658242404e-13
+    },
+    {
+      "check": "procurement wind/AUS/2024",
+      "max_error": 5.684341886080802e-14
+    },
+    {
+      "check": "procurement wind/BRA/2010",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/BRA/2011",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/BRA/2012",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/BRA/2013",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/BRA/2014",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/BRA/2015",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/BRA/2016",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/BRA/2017",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/BRA/2018",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/BRA/2019",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/BRA/2020",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/BRA/2021",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/BRA/2022",
+      "max_error": 1.7053025658242404e-13
+    },
+    {
+      "check": "procurement wind/BRA/2023",
+      "max_error": 1.7053025658242404e-13
+    },
+    {
+      "check": "procurement wind/BRA/2024",
+      "max_error": 1.7053025658242404e-13
+    },
+    {
+      "check": "procurement wind/CAN/2010",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/CAN/2011",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/CAN/2012",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/CAN/2013",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/CAN/2014",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/CAN/2015",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/CAN/2016",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/CAN/2017",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/CAN/2018",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/CAN/2019",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/CAN/2020",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/CAN/2021",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/CAN/2022",
+      "max_error": 5.684341886080802e-14
+    },
+    {
+      "check": "procurement wind/CAN/2023",
+      "max_error": 5.684341886080802e-14
+    },
+    {
+      "check": "procurement wind/CAN/2024",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/CHN/2010",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/CHN/2011",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/CHN/2012",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/CHN/2013",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/CHN/2014",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/CHN/2015",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/CHN/2016",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/CHN/2017",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/CHN/2018",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/CHN/2019",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/CHN/2020",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/CHN/2021",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/CHN/2022",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/CHN/2023",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/CHN/2024",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/DEU/2010",
+      "max_error": 1.3642420526593924e-12
+    },
+    {
+      "check": "procurement wind/DEU/2011",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/DEU/2012",
+      "max_error": 1.3642420526593924e-12
+    },
+    {
+      "check": "procurement wind/DEU/2013",
+      "max_error": 1.3642420526593924e-12
+    },
+    {
+      "check": "procurement wind/DEU/2014",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/DEU/2015",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/DEU/2016",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/DEU/2017",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/DEU/2018",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/DEU/2019",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/DEU/2020",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/DEU/2021",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/DEU/2022",
+      "max_error": 1.1368683772161603e-13
+    },
+    {
+      "check": "procurement wind/DEU/2023",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/DEU/2024",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/ESP/2010",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/ESP/2011",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement wind/ESP/2012",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/ESP/2013",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/ESP/2014",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/ESP/2015",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/ESP/2016",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/ESP/2017",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/ESP/2018",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/ESP/2019",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/ESP/2020",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/ESP/2021",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/ESP/2022",
+      "max_error": 5.684341886080801e-13
+    },
+    {
+      "check": "procurement wind/ESP/2023",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/ESP/2024",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/FRA/2010",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement wind/FRA/2011",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/FRA/2012",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/FRA/2013",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement wind/FRA/2014",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/FRA/2015",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/FRA/2016",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/FRA/2017",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/FRA/2018",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/FRA/2019",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/FRA/2020",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/FRA/2021",
+      "max_error": 5.684341886080801e-13
+    },
+    {
+      "check": "procurement wind/FRA/2022",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/FRA/2023",
+      "max_error": 5.684341886080801e-13
+    },
+    {
+      "check": "procurement wind/FRA/2024",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/GBR/2010",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/GBR/2011",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement wind/GBR/2012",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/GBR/2013",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/GBR/2014",
+      "max_error": 1.3642420526593924e-12
+    },
+    {
+      "check": "procurement wind/GBR/2015",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/GBR/2016",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement wind/GBR/2017",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/GBR/2018",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/GBR/2019",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/GBR/2020",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/GBR/2021",
+      "max_error": 1.1368683772161603e-13
+    },
+    {
+      "check": "procurement wind/GBR/2022",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/GBR/2023",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/GBR/2024",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/IND/2010",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement wind/IND/2011",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/IND/2012",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement wind/IND/2013",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/IND/2014",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/IND/2015",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/IND/2016",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/IND/2017",
+      "max_error": 1.1368683772161603e-13
+    },
+    {
+      "check": "procurement wind/IND/2018",
+      "max_error": 5.684341886080801e-13
+    },
+    {
+      "check": "procurement wind/IND/2019",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/IND/2020",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/IND/2021",
+      "max_error": 1.1368683772161603e-13
+    },
+    {
+      "check": "procurement wind/IND/2022",
+      "max_error": 1.1368683772161603e-13
+    },
+    {
+      "check": "procurement wind/IND/2023",
+      "max_error": 1.1368683772161603e-13
+    },
+    {
+      "check": "procurement wind/IND/2024",
+      "max_error": 0.0
+    },
+    {
+      "check": "procurement wind/ITA/2010",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/ITA/2011",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement wind/ITA/2012",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/ITA/2013",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement wind/ITA/2014",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/ITA/2015",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/ITA/2016",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/ITA/2017",
+      "max_error": 7.958078640513122e-13
+    },
+    {
+      "check": "procurement wind/ITA/2018",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/ITA/2019",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/ITA/2020",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/ITA/2021",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/ITA/2022",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/ITA/2023",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/ITA/2024",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/POL/2010",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/POL/2011",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/POL/2012",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/POL/2013",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/POL/2014",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/POL/2015",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/POL/2016",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/POL/2017",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/POL/2020",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/POL/2021",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/POL/2022",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/POL/2023",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/POL/2024",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/SWE/2010",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/SWE/2011",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/SWE/2012",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/SWE/2013",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/SWE/2014",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/SWE/2015",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/SWE/2016",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/SWE/2017",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/SWE/2018",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/SWE/2019",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/SWE/2020",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/SWE/2021",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/SWE/2022",
+      "max_error": 1.1368683772161603e-13
+    },
+    {
+      "check": "procurement wind/SWE/2023",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/SWE/2024",
+      "max_error": 1.1368683772161603e-13
+    },
+    {
+      "check": "procurement wind/TUR/2010",
+      "max_error": 1.5916157281026244e-12
+    },
+    {
+      "check": "procurement wind/TUR/2011",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/TUR/2012",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/TUR/2013",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/TUR/2014",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/TUR/2015",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/TUR/2016",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/TUR/2017",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/TUR/2018",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "procurement wind/TUR/2019",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/TUR/2020",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/TUR/2021",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/TUR/2022",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/TUR/2023",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/TUR/2024",
+      "max_error": 3.410605131648481e-13
+    },
+    {
+      "check": "procurement wind/USA/2010",
+      "max_error": 1.8189894035458565e-12
+    },
+    {
+      "check": "procurement wind/USA/2011",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement wind/USA/2012",
+      "max_error": 1.1368683772161603e-12
+    },
+    {
+      "check": "procurement wind/USA/2013",
+      "max_error": 1.3642420526593924e-12
+    },
+    {
+      "check": "procurement wind/USA/2014",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/USA/2015",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/USA/2016",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/USA/2017",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/USA/2018",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/USA/2019",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/USA/2020",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "procurement wind/USA/2021",
+      "max_error": 5.684341886080801e-13
+    },
+    {
+      "check": "procurement wind/USA/2022",
+      "max_error": 4.547473508864641e-13
+    },
+    {
+      "check": "procurement wind/USA/2023",
+      "max_error": 6.821210263296962e-13
+    },
+    {
+      "check": "procurement wind/USA/2024",
+      "max_error": 5.684341886080801e-13
+    },
+    {
+      "check": "initial net CHN/pv/AUS",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/pv/BRA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/pv/DEU",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/pv/ESP",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/pv/FRA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/pv/IND",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/pv/ITA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/pv/JPN",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/pv/KOR",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/pv/USA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/wind/AUS",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/wind/BRA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/wind/CAN",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/wind/DEU",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/wind/ESP",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/wind/FRA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/wind/GBR",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/wind/IND",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/wind/ITA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/wind/POL",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/wind/SWE",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/wind/TUR",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net CHN/wind/USA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/pv/AUS",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/pv/BRA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/pv/CHN",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/pv/DEU",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/pv/ESP",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/pv/FRA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/pv/IND",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/pv/ITA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/pv/JPN",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/pv/KOR",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/wind/AUS",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/wind/BRA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/wind/CAN",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/wind/CHN",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/wind/DEU",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/wind/ESP",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/wind/FRA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/wind/GBR",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/wind/IND",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/wind/ITA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/wind/POL",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/wind/SWE",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net USA/wind/TUR",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/pv/AUS",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/pv/BRA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/pv/CHN",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/pv/ESP",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/pv/FRA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/pv/IND",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/pv/ITA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/pv/JPN",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/pv/KOR",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/pv/USA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/wind/AUS",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/wind/BRA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/wind/CAN",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/wind/CHN",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/wind/ESP",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/wind/FRA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/wind/GBR",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/wind/IND",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/wind/ITA",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/wind/POL",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/wind/SWE",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/wind/TUR",
+      "max_error": 0.0
+    },
+    {
+      "check": "initial net DEU/wind/USA",
+      "max_error": 0.0
+    },
+    {
+      "check": "closure",
+      "max_error": 9.094947017729282e-13
+    },
+    {
+      "check": "China replication P",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "China replication S",
+      "max_error": 1.4210854715202004e-13
+    },
+    {
+      "check": "China replication T",
+      "max_error": 5.684341886080802e-14
+    },
+    {
+      "check": "China replication K",
+      "max_error": 1.7763568394002505e-15
+    },
+    {
+      "check": "China replication E",
+      "max_error": 8.526512829121202e-14
+    },
+    {
+      "check": "China replication total_decline",
+      "max_error": 1.1368683772161603e-13
+    },
+    {
+      "check": "Archived pv P",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "Archived pv S",
+      "max_error": 3.922195901395753e-12
+    },
+    {
+      "check": "Archived pv K",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "Archived pv E",
+      "max_error": 9.663381206337363e-13
+    },
+    {
+      "check": "Archived wind P",
+      "max_error": 2.2737367544323206e-13
+    },
+    {
+      "check": "Archived wind S",
+      "max_error": 9.663381206337363e-13
+    },
+    {
+      "check": "Archived wind K",
+      "max_error": 3.375077994860476e-13
+    }
+  ],
+  "rows": 1035,
+  "country_endpoints": 69,
+  "P_definition": "all historical target-origin equipment-price reductions",
+  "common_sample_excludes": [
+    "CHN",
+    "USA",
+    "DEU"
+  ],
+  "regressions_refitted": false,
+  "original_China_Figure1_modified": false
+}

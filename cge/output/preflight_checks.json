@@ -1,0 +1,23 @@
+{
+  "source_counts": {
+    "pv": 150,
+    "wind": 195
+  },
+  "historical_contribution": [
+    {
+      "technology": "pv",
+      "markets": 10,
+      "historical_net_2024_USD_kW": 1313.308473828427,
+      "section31_value": 1313.3084738284274
+    },
+    {
+      "technology": "wind",
+      "markets": 13,
+      "historical_net_2024_USD_kW": 378.5992545497495,
+      "section31_value": 378.5992545497496
+    }
+  ],
+  "positive_cost_paths": true,
+  "zero_2010_contribution": true,
+  "tfp_inverse_identity": true
+}

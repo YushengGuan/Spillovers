@@ -1,0 +1,901 @@
+﻿technology,country,year,tic,unit,source_sheet,source_cell,source_status,imputed
+pv,Australia,2010,8226.006707647639,2024 USD/kW,Figure 3.3,C5,IRENA_reported_cell,False
+pv,Australia,2011,8070.627916404932,2024 USD/kW,Figure 3.3,D5,IRENA_reported_cell,False
+pv,Australia,2012,5845.8413892502,2024 USD/kW,Figure 3.3,E5,IRENA_reported_cell,False
+pv,Australia,2013,3431.1490001785755,2024 USD/kW,Figure 3.3,F5,IRENA_reported_cell,False
+pv,Australia,2014,3581.3283583559555,2024 USD/kW,Figure 3.3,G5,IRENA_reported_cell,False
+pv,Australia,2015,2663.0217981108967,2024 USD/kW,Figure 3.3,H5,IRENA_reported_cell,False
+pv,Australia,2016,2292.9292994915004,2024 USD/kW,Figure 3.3,I5,IRENA_reported_cell,False
+pv,Australia,2017,2346.42868245442,2024 USD/kW,Figure 3.3,J5,IRENA_reported_cell,False
+pv,Australia,2018,1809.8280037775116,2024 USD/kW,Figure 3.3,K5,IRENA_reported_cell,False
+pv,Australia,2019,1489.0921446638883,2024 USD/kW,Figure 3.3,L5,IRENA_reported_cell,False
+pv,Australia,2020,1248.0457552893834,2024 USD/kW,Figure 3.3,M5,IRENA_reported_cell,False
+pv,Australia,2021,1162.0471230412904,2024 USD/kW,Figure 3.3,N5,IRENA_reported_cell,False
+pv,Australia,2022,979.5214615557929,2024 USD/kW,Figure 3.3,O5,IRENA_reported_cell,False
+pv,Australia,2023,1012.2454310798985,2024 USD/kW,Figure 3.3,P5,IRENA_reported_cell,False
+pv,Australia,2024,943.9690385525073,2024 USD/kW,Figure 3.3,Q5,IRENA_reported_cell,False
+pv,Brazil,2010,,2024 USD/kW,Figure 3.3,C6,source_blank,False
+pv,Brazil,2011,7522.515553575554,2024 USD/kW,Figure 3.3,D6,IRENA_reported_cell,False
+pv,Brazil,2012,,2024 USD/kW,Figure 3.3,E6,source_blank,False
+pv,Brazil,2013,5117.282639309783,2024 USD/kW,Figure 3.3,F6,IRENA_reported_cell,False
+pv,Brazil,2014,6068.722799156141,2024 USD/kW,Figure 3.3,G6,IRENA_reported_cell,False
+pv,Brazil,2015,2497.658976411624,2024 USD/kW,Figure 3.3,H6,IRENA_reported_cell,False
+pv,Brazil,2016,2460.5928028234507,2024 USD/kW,Figure 3.3,I6,IRENA_reported_cell,False
+pv,Brazil,2017,1975.0868857598143,2024 USD/kW,Figure 3.3,J6,IRENA_reported_cell,False
+pv,Brazil,2018,1809.6190475909186,2024 USD/kW,Figure 3.3,K6,IRENA_reported_cell,False
+pv,Brazil,2019,1495.162848478625,2024 USD/kW,Figure 3.3,L6,IRENA_reported_cell,False
+pv,Brazil,2020,1298.4074341474254,2024 USD/kW,Figure 3.3,M6,IRENA_reported_cell,False
+pv,Brazil,2021,915.5422974243717,2024 USD/kW,Figure 3.3,N6,IRENA_reported_cell,False
+pv,Brazil,2022,779.5200740754375,2024 USD/kW,Figure 3.3,O6,IRENA_reported_cell,False
+pv,Brazil,2023,744.352528682658,2024 USD/kW,Figure 3.3,P6,IRENA_reported_cell,False
+pv,Brazil,2024,724.4366073748986,2024 USD/kW,Figure 3.3,Q6,IRENA_reported_cell,False
+pv,China,2010,4291.432902265811,2024 USD/kW,Figure 3.3,C7,IRENA_reported_cell,False
+pv,China,2011,4031.1623787810854,2024 USD/kW,Figure 3.3,D7,IRENA_reported_cell,False
+pv,China,2012,3275.3966683631643,2024 USD/kW,Figure 3.3,E7,IRENA_reported_cell,False
+pv,China,2013,2520.8503416008384,2024 USD/kW,Figure 3.3,F7,IRENA_reported_cell,False
+pv,China,2014,2100.065022292831,2024 USD/kW,Figure 3.3,G7,IRENA_reported_cell,False
+pv,China,2015,1622.5553814943787,2024 USD/kW,Figure 3.3,H7,IRENA_reported_cell,False
+pv,China,2016,1468.7692152533812,2024 USD/kW,Figure 3.3,I7,IRENA_reported_cell,False
+pv,China,2017,1377.8666056804332,2024 USD/kW,Figure 3.3,J7,IRENA_reported_cell,False
+pv,China,2018,1047.2659983319315,2024 USD/kW,Figure 3.3,K7,IRENA_reported_cell,False
+pv,China,2019,946.1882546932659,2024 USD/kW,Figure 3.3,L7,IRENA_reported_cell,False
+pv,China,2020,765.8158251007976,2024 USD/kW,Figure 3.3,M7,IRENA_reported_cell,False
+pv,China,2021,713.51431624731,2024 USD/kW,Figure 3.3,N7,IRENA_reported_cell,False
+pv,China,2022,759.3280240727838,2024 USD/kW,Figure 3.3,O7,IRENA_reported_cell,False
+pv,China,2023,687.158676448271,2024 USD/kW,Figure 3.3,P7,IRENA_reported_cell,False
+pv,China,2024,590.5861539927796,2024 USD/kW,Figure 3.3,Q7,IRENA_reported_cell,False
+pv,France,2010,6514.65732422562,2024 USD/kW,Figure 3.3,C8,IRENA_reported_cell,False
+pv,France,2011,6650.2852606921515,2024 USD/kW,Figure 3.3,D8,IRENA_reported_cell,False
+pv,France,2012,5890.383037251002,2024 USD/kW,Figure 3.3,E8,IRENA_reported_cell,False
+pv,France,2013,3864.823013780442,2024 USD/kW,Figure 3.3,F8,IRENA_reported_cell,False
+pv,France,2014,2821.354842892848,2024 USD/kW,Figure 3.3,G8,IRENA_reported_cell,False
+pv,France,2015,1857.0719154645603,2024 USD/kW,Figure 3.3,H8,IRENA_reported_cell,False
+pv,France,2016,1571.8381732973864,2024 USD/kW,Figure 3.3,I8,IRENA_reported_cell,False
+pv,France,2017,1476.3695280040931,2024 USD/kW,Figure 3.3,J8,IRENA_reported_cell,False
+pv,France,2018,1278.8838736497266,2024 USD/kW,Figure 3.3,K8,IRENA_reported_cell,False
+pv,France,2019,1165.927553649501,2024 USD/kW,Figure 3.3,L8,IRENA_reported_cell,False
+pv,France,2020,1112.9280483932464,2024 USD/kW,Figure 3.3,M8,IRENA_reported_cell,False
+pv,France,2021,918.0257559627578,2024 USD/kW,Figure 3.3,N8,IRENA_reported_cell,False
+pv,France,2022,1228.3628006623424,2024 USD/kW,Figure 3.3,O8,IRENA_reported_cell,False
+pv,France,2023,977.5888351031305,2024 USD/kW,Figure 3.3,P8,IRENA_reported_cell,False
+pv,France,2024,1103.958016240936,2024 USD/kW,Figure 3.3,Q8,IRENA_reported_cell,False
+pv,Germany,2010,4412.429498946073,2024 USD/kW,Figure 3.3,C9,IRENA_reported_cell,False
+pv,Germany,2011,3509.4585583491103,2024 USD/kW,Figure 3.3,D9,IRENA_reported_cell,False
+pv,Germany,2012,2788.468001908775,2024 USD/kW,Figure 3.3,E9,IRENA_reported_cell,False
+pv,Germany,2013,2385.8489941203084,2024 USD/kW,Figure 3.3,F9,IRENA_reported_cell,False
+pv,Germany,2014,1905.6109817322056,2024 USD/kW,Figure 3.3,G9,IRENA_reported_cell,False
+pv,Germany,2015,1524.0657237487353,2024 USD/kW,Figure 3.3,H9,IRENA_reported_cell,False
+pv,Germany,2016,1383.628851008505,2024 USD/kW,Figure 3.3,I9,IRENA_reported_cell,False
+pv,Germany,2017,1326.5973101999584,2024 USD/kW,Figure 3.3,J9,IRENA_reported_cell,False
+pv,Germany,2018,1325.5787006452413,2024 USD/kW,Figure 3.3,K9,IRENA_reported_cell,False
+pv,Germany,2019,1070.3503827217519,2024 USD/kW,Figure 3.3,L9,IRENA_reported_cell,False
+pv,Germany,2020,823.3332704010522,2024 USD/kW,Figure 3.3,M9,IRENA_reported_cell,False
+pv,Germany,2021,787.7903462895194,2024 USD/kW,Figure 3.3,N9,IRENA_reported_cell,False
+pv,Germany,2022,1057.341173676759,2024 USD/kW,Figure 3.3,O9,IRENA_reported_cell,False
+pv,Germany,2023,748.2274007844397,2024 USD/kW,Figure 3.3,P9,IRENA_reported_cell,False
+pv,Germany,2024,592.9665484018221,2024 USD/kW,Figure 3.3,Q9,IRENA_reported_cell,False
+pv,Greece,2010,5628.192471733896,2024 USD/kW,Figure 3.3,C10,IRENA_reported_cell,False
+pv,Greece,2011,4373.251073566136,2024 USD/kW,Figure 3.3,D10,IRENA_reported_cell,False
+pv,Greece,2012,2618.2511220428087,2024 USD/kW,Figure 3.3,E10,IRENA_reported_cell,False
+pv,Greece,2013,2353.5740358495054,2024 USD/kW,Figure 3.3,F10,IRENA_reported_cell,False
+pv,Greece,2014,,2024 USD/kW,Figure 3.3,G10,source_blank,False
+pv,Greece,2015,,2024 USD/kW,Figure 3.3,H10,source_blank,False
+pv,Greece,2016,,2024 USD/kW,Figure 3.3,I10,source_blank,False
+pv,Greece,2017,2361.568414229289,2024 USD/kW,Figure 3.3,J10,IRENA_reported_cell,False
+pv,Greece,2018,2165.3421631094043,2024 USD/kW,Figure 3.3,K10,IRENA_reported_cell,False
+pv,Greece,2019,,2024 USD/kW,Figure 3.3,L10,source_blank,False
+pv,Greece,2020,893.2591524897251,2024 USD/kW,Figure 3.3,M10,IRENA_reported_cell,False
+pv,Greece,2021,825.6339070458065,2024 USD/kW,Figure 3.3,N10,IRENA_reported_cell,False
+pv,Greece,2022,1244.8863102322887,2024 USD/kW,Figure 3.3,O10,IRENA_reported_cell,False
+pv,Greece,2023,641.3083890204307,2024 USD/kW,Figure 3.3,P10,IRENA_reported_cell,False
+pv,Greece,2024,565.6873590627295,2024 USD/kW,Figure 3.3,Q10,IRENA_reported_cell,False
+pv,India,2010,6015.812576430637,2024 USD/kW,Figure 3.3,C11,IRENA_reported_cell,False
+pv,India,2011,3706.132789258691,2024 USD/kW,Figure 3.3,D11,IRENA_reported_cell,False
+pv,India,2012,3251.3910782402595,2024 USD/kW,Figure 3.3,E11,IRENA_reported_cell,False
+pv,India,2013,3346.7804933594625,2024 USD/kW,Figure 3.3,F11,IRENA_reported_cell,False
+pv,India,2014,2271.335541607726,2024 USD/kW,Figure 3.3,G11,IRENA_reported_cell,False
+pv,India,2015,1547.7635728448627,2024 USD/kW,Figure 3.3,H11,IRENA_reported_cell,False
+pv,India,2016,1332.2464239123133,2024 USD/kW,Figure 3.3,I11,IRENA_reported_cell,False
+pv,India,2017,1328.4315129609276,2024 USD/kW,Figure 3.3,J11,IRENA_reported_cell,False
+pv,India,2018,943.7873225135758,2024 USD/kW,Figure 3.3,K11,IRENA_reported_cell,False
+pv,India,2019,736.3417292664177,2024 USD/kW,Figure 3.3,L11,IRENA_reported_cell,False
+pv,India,2020,701.3016128884932,2024 USD/kW,Figure 3.3,M11,IRENA_reported_cell,False
+pv,India,2021,669.689384633508,2024 USD/kW,Figure 3.3,N11,IRENA_reported_cell,False
+pv,India,2022,679.9035273566287,2024 USD/kW,Figure 3.3,O11,IRENA_reported_cell,False
+pv,India,2023,728.321084784776,2024 USD/kW,Figure 3.3,P11,IRENA_reported_cell,False
+pv,India,2024,525.1674202758713,2024 USD/kW,Figure 3.3,Q11,IRENA_reported_cell,False
+pv,Italy,2010,6078.874297702453,2024 USD/kW,Figure 3.3,C12,IRENA_reported_cell,False
+pv,Italy,2011,5733.075804344135,2024 USD/kW,Figure 3.3,D12,IRENA_reported_cell,False
+pv,Italy,2012,3045.0689972502273,2024 USD/kW,Figure 3.3,E12,IRENA_reported_cell,False
+pv,Italy,2013,2424.211548272102,2024 USD/kW,Figure 3.3,F12,IRENA_reported_cell,False
+pv,Italy,2014,2241.319524548638,2024 USD/kW,Figure 3.3,G12,IRENA_reported_cell,False
+pv,Italy,2015,,2024 USD/kW,Figure 3.3,H12,source_blank,False
+pv,Italy,2016,,2024 USD/kW,Figure 3.3,I12,source_blank,False
+pv,Italy,2017,1157.9088452672888,2024 USD/kW,Figure 3.3,J12,IRENA_reported_cell,False
+pv,Italy,2018,1036.4459520977036,2024 USD/kW,Figure 3.3,K12,IRENA_reported_cell,False
+pv,Italy,2019,988.6556563299961,2024 USD/kW,Figure 3.3,L12,IRENA_reported_cell,False
+pv,Italy,2020,918.8087537918003,2024 USD/kW,Figure 3.3,M12,IRENA_reported_cell,False
+pv,Italy,2021,891.5029479724126,2024 USD/kW,Figure 3.3,N12,IRENA_reported_cell,False
+pv,Italy,2022,818.4876080028004,2024 USD/kW,Figure 3.3,O12,IRENA_reported_cell,False
+pv,Italy,2023,840.9617751669034,2024 USD/kW,Figure 3.3,P12,IRENA_reported_cell,False
+pv,Italy,2024,804.1602225425657,2024 USD/kW,Figure 3.3,Q12,IRENA_reported_cell,False
+pv,Japan,2010,,2024 USD/kW,Figure 3.3,C13,source_blank,False
+pv,Japan,2011,6644.276501864859,2024 USD/kW,Figure 3.3,D13,IRENA_reported_cell,False
+pv,Japan,2012,4666.397750554368,2024 USD/kW,Figure 3.3,E13,IRENA_reported_cell,False
+pv,Japan,2013,3986.820627069335,2024 USD/kW,Figure 3.3,F13,IRENA_reported_cell,False
+pv,Japan,2014,3654.8291469591204,2024 USD/kW,Figure 3.3,G13,IRENA_reported_cell,False
+pv,Japan,2015,2644.6984988513204,2024 USD/kW,Figure 3.3,H13,IRENA_reported_cell,False
+pv,Japan,2016,2901.8816159801127,2024 USD/kW,Figure 3.3,I13,IRENA_reported_cell,False
+pv,Japan,2017,2632.3006248899737,2024 USD/kW,Figure 3.3,J13,IRENA_reported_cell,False
+pv,Japan,2018,2502.241154612059,2024 USD/kW,Figure 3.3,K13,IRENA_reported_cell,False
+pv,Japan,2019,2465.1839596297914,2024 USD/kW,Figure 3.3,L13,IRENA_reported_cell,False
+pv,Japan,2020,2156.084945202252,2024 USD/kW,Figure 3.3,M13,IRENA_reported_cell,False
+pv,Japan,2021,1923.3335172935465,2024 USD/kW,Figure 3.3,N13,IRENA_reported_cell,False
+pv,Japan,2022,2022.7323093139553,2024 USD/kW,Figure 3.3,O13,IRENA_reported_cell,False
+pv,Japan,2023,1920.0374804638247,2024 USD/kW,Figure 3.3,P13,IRENA_reported_cell,False
+pv,Japan,2024,1911.4506826218678,2024 USD/kW,Figure 3.3,Q13,IRENA_reported_cell,False
+pv,Netherlands,2010,,2024 USD/kW,Figure 3.3,C14,source_blank,False
+pv,Netherlands,2011,,2024 USD/kW,Figure 3.3,D14,source_blank,False
+pv,Netherlands,2012,,2024 USD/kW,Figure 3.3,E14,source_blank,False
+pv,Netherlands,2013,,2024 USD/kW,Figure 3.3,F14,source_blank,False
+pv,Netherlands,2014,,2024 USD/kW,Figure 3.3,G14,source_blank,False
+pv,Netherlands,2015,,2024 USD/kW,Figure 3.3,H14,source_blank,False
+pv,Netherlands,2016,1355.17997309698,2024 USD/kW,Figure 3.3,I14,IRENA_reported_cell,False
+pv,Netherlands,2017,1842.6343299258667,2024 USD/kW,Figure 3.3,J14,IRENA_reported_cell,False
+pv,Netherlands,2018,1390.922392100978,2024 USD/kW,Figure 3.3,K14,IRENA_reported_cell,False
+pv,Netherlands,2019,1335.413117698778,2024 USD/kW,Figure 3.3,L14,IRENA_reported_cell,False
+pv,Netherlands,2020,1322.301847993796,2024 USD/kW,Figure 3.3,M14,IRENA_reported_cell,False
+pv,Netherlands,2021,1160.99553431761,2024 USD/kW,Figure 3.3,N14,IRENA_reported_cell,False
+pv,Netherlands,2022,1296.4928941522107,2024 USD/kW,Figure 3.3,O14,IRENA_reported_cell,False
+pv,Netherlands,2023,771.1931133697339,2024 USD/kW,Figure 3.3,P14,IRENA_reported_cell,False
+pv,Netherlands,2024,641.4153298835705,2024 USD/kW,Figure 3.3,Q14,IRENA_reported_cell,False
+pv,Poland,2010,,2024 USD/kW,Figure 3.3,C15,source_blank,False
+pv,Poland,2011,,2024 USD/kW,Figure 3.3,D15,source_blank,False
+pv,Poland,2012,,2024 USD/kW,Figure 3.3,E15,source_blank,False
+pv,Poland,2013,,2024 USD/kW,Figure 3.3,F15,source_blank,False
+pv,Poland,2014,,2024 USD/kW,Figure 3.3,G15,source_blank,False
+pv,Poland,2015,,2024 USD/kW,Figure 3.3,H15,source_blank,False
+pv,Poland,2016,,2024 USD/kW,Figure 3.3,I15,source_blank,False
+pv,Poland,2017,,2024 USD/kW,Figure 3.3,J15,source_blank,False
+pv,Poland,2018,,2024 USD/kW,Figure 3.3,K15,source_blank,False
+pv,Poland,2019,,2024 USD/kW,Figure 3.3,L15,source_blank,False
+pv,Poland,2020,1430.2434842395046,2024 USD/kW,Figure 3.3,M15,IRENA_reported_cell,False
+pv,Poland,2021,879.3030903715725,2024 USD/kW,Figure 3.3,N15,IRENA_reported_cell,False
+pv,Poland,2022,1114.189397903791,2024 USD/kW,Figure 3.3,O15,IRENA_reported_cell,False
+pv,Poland,2023,717.0481636962456,2024 USD/kW,Figure 3.3,P15,IRENA_reported_cell,False
+pv,Poland,2024,872.4134320757389,2024 USD/kW,Figure 3.3,Q15,IRENA_reported_cell,False
+pv,Republic of Korea,2010,,2024 USD/kW,Figure 3.3,C16,source_blank,False
+pv,Republic of Korea,2011,7012.58447961614,2024 USD/kW,Figure 3.3,D16,IRENA_reported_cell,False
+pv,Republic of Korea,2012,3628.137387695874,2024 USD/kW,Figure 3.3,E16,IRENA_reported_cell,False
+pv,Republic of Korea,2013,3171.064023211654,2024 USD/kW,Figure 3.3,F16,IRENA_reported_cell,False
+pv,Republic of Korea,2014,2633.44817638635,2024 USD/kW,Figure 3.3,G16,IRENA_reported_cell,False
+pv,Republic of Korea,2015,2490.6956467529776,2024 USD/kW,Figure 3.3,H16,IRENA_reported_cell,False
+pv,Republic of Korea,2016,2457.9440236680557,2024 USD/kW,Figure 3.3,I16,IRENA_reported_cell,False
+pv,Republic of Korea,2017,1883.095475647461,2024 USD/kW,Figure 3.3,J16,IRENA_reported_cell,False
+pv,Republic of Korea,2018,1579.1431074974807,2024 USD/kW,Figure 3.3,K16,IRENA_reported_cell,False
+pv,Republic of Korea,2019,1491.0871038765438,2024 USD/kW,Figure 3.3,L16,IRENA_reported_cell,False
+pv,Republic of Korea,2020,1116.603856846098,2024 USD/kW,Figure 3.3,M16,IRENA_reported_cell,False
+pv,Republic of Korea,2021,1068.21464090682,2024 USD/kW,Figure 3.3,N16,IRENA_reported_cell,False
+pv,Republic of Korea,2022,1420.2340770009885,2024 USD/kW,Figure 3.3,O16,IRENA_reported_cell,False
+pv,Republic of Korea,2023,1234.052546300519,2024 USD/kW,Figure 3.3,P16,IRENA_reported_cell,False
+pv,Republic of Korea,2024,1262.2227758007118,2024 USD/kW,Figure 3.3,Q16,IRENA_reported_cell,False
+pv,Spain,2010,5563.901030792681,2024 USD/kW,Figure 3.3,C17,IRENA_reported_cell,False
+pv,Spain,2011,3886.646798518194,2024 USD/kW,Figure 3.3,D17,IRENA_reported_cell,False
+pv,Spain,2012,3201.469600696212,2024 USD/kW,Figure 3.3,E17,IRENA_reported_cell,False
+pv,Spain,2013,2750.8593471236914,2024 USD/kW,Figure 3.3,F17,IRENA_reported_cell,False
+pv,Spain,2014,2758.2897544698335,2024 USD/kW,Figure 3.3,G17,IRENA_reported_cell,False
+pv,Spain,2015,1422.8034809078426,2024 USD/kW,Figure 3.3,H17,IRENA_reported_cell,False
+pv,Spain,2016,,2024 USD/kW,Figure 3.3,I17,source_blank,False
+pv,Spain,2017,,2024 USD/kW,Figure 3.3,J17,source_blank,False
+pv,Spain,2018,,2024 USD/kW,Figure 3.3,K17,source_blank,False
+pv,Spain,2019,912.6338153971122,2024 USD/kW,Figure 3.3,L17,IRENA_reported_cell,False
+pv,Spain,2020,897.0841215721103,2024 USD/kW,Figure 3.3,M17,IRENA_reported_cell,False
+pv,Spain,2021,926.730225640223,2024 USD/kW,Figure 3.3,N17,IRENA_reported_cell,False
+pv,Spain,2022,826.2275993024847,2024 USD/kW,Figure 3.3,O17,IRENA_reported_cell,False
+pv,Spain,2023,686.7911105133509,2024 USD/kW,Figure 3.3,P17,IRENA_reported_cell,False
+pv,Spain,2024,822.1244412681233,2024 USD/kW,Figure 3.3,Q17,IRENA_reported_cell,False
+pv,Türkiye,2010,,2024 USD/kW,Figure 3.3,C18,source_blank,False
+pv,Türkiye,2011,,2024 USD/kW,Figure 3.3,D18,source_blank,False
+pv,Türkiye,2012,,2024 USD/kW,Figure 3.3,E18,source_blank,False
+pv,Türkiye,2013,,2024 USD/kW,Figure 3.3,F18,source_blank,False
+pv,Türkiye,2014,,2024 USD/kW,Figure 3.3,G18,source_blank,False
+pv,Türkiye,2015,,2024 USD/kW,Figure 3.3,H18,source_blank,False
+pv,Türkiye,2016,1865.5356917879299,2024 USD/kW,Figure 3.3,I18,IRENA_reported_cell,False
+pv,Türkiye,2017,1496.3046871355025,2024 USD/kW,Figure 3.3,J18,IRENA_reported_cell,False
+pv,Türkiye,2018,1435.9432201758366,2024 USD/kW,Figure 3.3,K18,IRENA_reported_cell,False
+pv,Türkiye,2019,1096.9479222865887,2024 USD/kW,Figure 3.3,L18,IRENA_reported_cell,False
+pv,Türkiye,2020,972.9611410022685,2024 USD/kW,Figure 3.3,M18,IRENA_reported_cell,False
+pv,Türkiye,2021,920.0801748584031,2024 USD/kW,Figure 3.3,N18,IRENA_reported_cell,False
+pv,Türkiye,2022,732.4802287506292,2024 USD/kW,Figure 3.3,O18,IRENA_reported_cell,False
+pv,Türkiye,2023,732.4492140602254,2024 USD/kW,Figure 3.3,P18,IRENA_reported_cell,False
+pv,Türkiye,2024,1032.6897498228595,2024 USD/kW,Figure 3.3,Q18,IRENA_reported_cell,False
+pv,United States,2010,5552.428538737875,2024 USD/kW,Figure 3.3,C19,IRENA_reported_cell,False
+pv,United States,2011,5343.332324829953,2024 USD/kW,Figure 3.3,D19,IRENA_reported_cell,False
+pv,United States,2012,5205.807053591208,2024 USD/kW,Figure 3.3,E19,IRENA_reported_cell,False
+pv,United States,2013,4196.912593835998,2024 USD/kW,Figure 3.3,F19,IRENA_reported_cell,False
+pv,United States,2014,3436.432230506145,2024 USD/kW,Figure 3.3,G19,IRENA_reported_cell,False
+pv,United States,2015,3062.1627290585498,2024 USD/kW,Figure 3.3,H19,IRENA_reported_cell,False
+pv,United States,2016,2651.787883404358,2024 USD/kW,Figure 3.3,I19,IRENA_reported_cell,False
+pv,United States,2017,2230.0258302833026,2024 USD/kW,Figure 3.3,J19,IRENA_reported_cell,False
+pv,United States,2018,1844.1949390024658,2024 USD/kW,Figure 3.3,K19,IRENA_reported_cell,False
+pv,United States,2019,1453.1489723057368,2024 USD/kW,Figure 3.3,L19,IRENA_reported_cell,False
+pv,United States,2020,1317.4012030837664,2024 USD/kW,Figure 3.3,M19,IRENA_reported_cell,False
+pv,United States,2021,1233.0080860825803,2024 USD/kW,Figure 3.3,N19,IRENA_reported_cell,False
+pv,United States,2022,1187.4554201636959,2024 USD/kW,Figure 3.3,O19,IRENA_reported_cell,False
+pv,United States,2023,1135.012086639563,2024 USD/kW,Figure 3.3,P19,IRENA_reported_cell,False
+pv,United States,2024,1058.0371018079034,2024 USD/kW,Figure 3.3,Q19,IRENA_reported_cell,False
+wind,Australia,2010,4143.084429461239,2024 USD/kW,Fig 2.6,C8,IRENA_reported_cell,False
+wind,Australia,2011,4377.598776191059,2024 USD/kW,Fig 2.6,D8,IRENA_reported_cell,False
+wind,Australia,2012,3732.398308548318,2024 USD/kW,Fig 2.6,E8,IRENA_reported_cell,False
+wind,Australia,2013,2770.434468668928,2024 USD/kW,Fig 2.6,F8,IRENA_reported_cell,False
+wind,Australia,2014,3022.048049327942,2024 USD/kW,Fig 2.6,G8,IRENA_reported_cell,False
+wind,Australia,2015,2819.857193002646,2024 USD/kW,Fig 2.6,H8,IRENA_reported_cell,False
+wind,Australia,2016,2630.9450852533323,2024 USD/kW,Fig 2.6,I8,IRENA_reported_cell,False
+wind,Australia,2017,2043.2539445633233,2024 USD/kW,Fig 2.6,J8,IRENA_reported_cell,False
+wind,Australia,2018,1901.9960055896213,2024 USD/kW,Fig 2.6,K8,IRENA_reported_cell,False
+wind,Australia,2019,1851.141553609305,2024 USD/kW,Fig 2.6,L8,IRENA_reported_cell,False
+wind,Australia,2020,2042.6673952451122,2024 USD/kW,Fig 2.6,M8,IRENA_reported_cell,False
+wind,Australia,2021,1411.9064049900608,2024 USD/kW,Fig 2.6,N8,IRENA_reported_cell,False
+wind,Australia,2022,1444.4693860474408,2024 USD/kW,Fig 2.6,O8,IRENA_reported_cell,False
+wind,Australia,2023,1609.687604602354,2024 USD/kW,Fig 2.6,P8,IRENA_reported_cell,False
+wind,Australia,2024,1380.5779985677066,2024 USD/kW,Fig 2.6,Q8,IRENA_reported_cell,False
+wind,Brazil,2010,3106.241515833783,2024 USD/kW,Fig 2.6,C9,IRENA_reported_cell,False
+wind,Brazil,2011,3076.0621767334746,2024 USD/kW,Fig 2.6,D9,IRENA_reported_cell,False
+wind,Brazil,2012,3123.635568353567,2024 USD/kW,Fig 2.6,E9,IRENA_reported_cell,False
+wind,Brazil,2013,3115.4061913837786,2024 USD/kW,Fig 2.6,F9,IRENA_reported_cell,False
+wind,Brazil,2014,2646.2331709806363,2024 USD/kW,Fig 2.6,G9,IRENA_reported_cell,False
+wind,Brazil,2015,2296.0447521059186,2024 USD/kW,Fig 2.6,H9,IRENA_reported_cell,False
+wind,Brazil,2016,2406.8480453672,2024 USD/kW,Fig 2.6,I9,IRENA_reported_cell,False
+wind,Brazil,2017,2065.9924280499176,2024 USD/kW,Fig 2.6,J9,IRENA_reported_cell,False
+wind,Brazil,2018,2097.030868371903,2024 USD/kW,Fig 2.6,K9,IRENA_reported_cell,False
+wind,Brazil,2019,1855.5912291160714,2024 USD/kW,Fig 2.6,L9,IRENA_reported_cell,False
+wind,Brazil,2020,1704.8931222006681,2024 USD/kW,Fig 2.6,M9,IRENA_reported_cell,False
+wind,Brazil,2021,1306.215139814895,2024 USD/kW,Fig 2.6,N9,IRENA_reported_cell,False
+wind,Brazil,2022,1117.2097995602328,2024 USD/kW,Fig 2.6,O9,IRENA_reported_cell,False
+wind,Brazil,2023,1099.1746940025255,2024 USD/kW,Fig 2.6,P9,IRENA_reported_cell,False
+wind,Brazil,2024,1307.044736135391,2024 USD/kW,Fig 2.6,Q9,IRENA_reported_cell,False
+wind,Canada,2010,3207.7690771495986,2024 USD/kW,Fig 2.6,C10,IRENA_reported_cell,False
+wind,Canada,2011,2958.624826998695,2024 USD/kW,Fig 2.6,D10,IRENA_reported_cell,False
+wind,Canada,2012,3223.160817655416,2024 USD/kW,Fig 2.6,E10,IRENA_reported_cell,False
+wind,Canada,2013,3108.906080752496,2024 USD/kW,Fig 2.6,F10,IRENA_reported_cell,False
+wind,Canada,2014,2909.7208138137717,2024 USD/kW,Fig 2.6,G10,IRENA_reported_cell,False
+wind,Canada,2015,3005.7168964844445,2024 USD/kW,Fig 2.6,H10,IRENA_reported_cell,False
+wind,Canada,2016,2815.1240756907487,2024 USD/kW,Fig 2.6,I10,IRENA_reported_cell,False
+wind,Canada,2017,2471.4182906315746,2024 USD/kW,Fig 2.6,J10,IRENA_reported_cell,False
+wind,Canada,2018,2210.7149219336793,2024 USD/kW,Fig 2.6,K10,IRENA_reported_cell,False
+wind,Canada,2019,2894.3307568325185,2024 USD/kW,Fig 2.6,L10,IRENA_reported_cell,False
+wind,Canada,2020,1658.650703711003,2024 USD/kW,Fig 2.6,M10,IRENA_reported_cell,False
+wind,Canada,2021,1553.9705855540396,2024 USD/kW,Fig 2.6,N10,IRENA_reported_cell,False
+wind,Canada,2022,1819.9977599750698,2024 USD/kW,Fig 2.6,O10,IRENA_reported_cell,False
+wind,Canada,2023,1454.1580407027554,2024 USD/kW,Fig 2.6,P10,IRENA_reported_cell,False
+wind,Canada,2024,1237.5279556276118,2024 USD/kW,Fig 2.6,Q10,IRENA_reported_cell,False
+wind,China,2010,1765.1775585802086,2024 USD/kW,Fig 2.6,C11,IRENA_reported_cell,False
+wind,China,2011,1717.2558524790718,2024 USD/kW,Fig 2.6,D11,IRENA_reported_cell,False
+wind,China,2012,1679.930392658511,2024 USD/kW,Fig 2.6,E11,IRENA_reported_cell,False
+wind,China,2013,1595.826062577922,2024 USD/kW,Fig 2.6,F11,IRENA_reported_cell,False
+wind,China,2014,1620.231001590525,2024 USD/kW,Fig 2.6,G11,IRENA_reported_cell,False
+wind,China,2015,1573.0075398913566,2024 USD/kW,Fig 2.6,H11,IRENA_reported_cell,False
+wind,China,2016,1567.4215724643545,2024 USD/kW,Fig 2.6,I11,IRENA_reported_cell,False
+wind,China,2017,1485.1298670892381,2024 USD/kW,Fig 2.6,J11,IRENA_reported_cell,False
+wind,China,2018,1538.8013700592198,2024 USD/kW,Fig 2.6,K11,IRENA_reported_cell,False
+wind,China,2019,1455.786865501193,2024 USD/kW,Fig 2.6,L11,IRENA_reported_cell,False
+wind,China,2020,1487.7151523770567,2024 USD/kW,Fig 2.6,M11,IRENA_reported_cell,False
+wind,China,2021,1314.7834349389225,2024 USD/kW,Fig 2.6,N11,IRENA_reported_cell,False
+wind,China,2022,1170.7756516936997,2024 USD/kW,Fig 2.6,O11,IRENA_reported_cell,False
+wind,China,2023,1009.8615152494498,2024 USD/kW,Fig 2.6,P11,IRENA_reported_cell,False
+wind,China,2024,855.9662826565387,2024 USD/kW,Fig 2.6,Q11,IRENA_reported_cell,False
+wind,Finland,2010,,2024 USD/kW,Fig 2.6,C12,source_blank,False
+wind,Finland,2011,,2024 USD/kW,Fig 2.6,D12,source_blank,False
+wind,Finland,2012,,2024 USD/kW,Fig 2.6,E12,source_blank,False
+wind,Finland,2013,2142.7629845142656,2024 USD/kW,Fig 2.6,F12,IRENA_reported_cell,False
+wind,Finland,2014,2414.343434184785,2024 USD/kW,Fig 2.6,G12,IRENA_reported_cell,False
+wind,Finland,2015,2799.030658995477,2024 USD/kW,Fig 2.6,H12,IRENA_reported_cell,False
+wind,Finland,2016,2548.345259794914,2024 USD/kW,Fig 2.6,I12,IRENA_reported_cell,False
+wind,Finland,2017,2500.0955561062096,2024 USD/kW,Fig 2.6,J12,IRENA_reported_cell,False
+wind,Finland,2018,2328.839738915602,2024 USD/kW,Fig 2.6,K12,IRENA_reported_cell,False
+wind,Finland,2019,1702.578355081368,2024 USD/kW,Fig 2.6,L12,IRENA_reported_cell,False
+wind,Finland,2020,1461.2659092266636,2024 USD/kW,Fig 2.6,M12,IRENA_reported_cell,False
+wind,Finland,2021,1924.0934296925902,2024 USD/kW,Fig 2.6,N12,IRENA_reported_cell,False
+wind,Finland,2022,1878.581382967341,2024 USD/kW,Fig 2.6,O12,IRENA_reported_cell,False
+wind,Finland,2023,1451.2472909645937,2024 USD/kW,Fig 2.6,P12,IRENA_reported_cell,False
+wind,Finland,2024,1423.6260109303323,2024 USD/kW,Fig 2.6,Q12,IRENA_reported_cell,False
+wind,France,2010,2950.0624683907927,2024 USD/kW,Fig 2.6,C13,IRENA_reported_cell,False
+wind,France,2011,2644.948773343461,2024 USD/kW,Fig 2.6,D13,IRENA_reported_cell,False
+wind,France,2012,2400.053077507022,2024 USD/kW,Fig 2.6,E13,IRENA_reported_cell,False
+wind,France,2013,2262.0084106773293,2024 USD/kW,Fig 2.6,F13,IRENA_reported_cell,False
+wind,France,2014,2137.2782742110044,2024 USD/kW,Fig 2.6,G13,IRENA_reported_cell,False
+wind,France,2015,2131.6884264783607,2024 USD/kW,Fig 2.6,H13,IRENA_reported_cell,False
+wind,France,2016,2109.213578229046,2024 USD/kW,Fig 2.6,I13,IRENA_reported_cell,False
+wind,France,2017,2402.662458269312,2024 USD/kW,Fig 2.6,J13,IRENA_reported_cell,False
+wind,France,2018,2320.5563744430056,2024 USD/kW,Fig 2.6,K13,IRENA_reported_cell,False
+wind,France,2019,2101.797854337148,2024 USD/kW,Fig 2.6,L13,IRENA_reported_cell,False
+wind,France,2020,1823.726881097778,2024 USD/kW,Fig 2.6,M13,IRENA_reported_cell,False
+wind,France,2021,2020.2808695552221,2024 USD/kW,Fig 2.6,N13,IRENA_reported_cell,False
+wind,France,2022,2035.8130904453128,2024 USD/kW,Fig 2.6,O13,IRENA_reported_cell,False
+wind,France,2023,1787.5143272747575,2024 USD/kW,Fig 2.6,P13,IRENA_reported_cell,False
+wind,France,2024,1860.4830152221045,2024 USD/kW,Fig 2.6,Q13,IRENA_reported_cell,False
+wind,Germany,2010,2704.819128610142,2024 USD/kW,Fig 2.6,C14,IRENA_reported_cell,False
+wind,Germany,2011,2704.819128610142,2024 USD/kW,Fig 2.6,D14,IRENA_reported_cell,False
+wind,Germany,2012,2457.322731337371,2024 USD/kW,Fig 2.6,E14,IRENA_reported_cell,False
+wind,Germany,2013,2427.545592608569,2024 USD/kW,Fig 2.6,F14,IRENA_reported_cell,False
+wind,Germany,2014,2394.891197421886,2024 USD/kW,Fig 2.6,G14,IRENA_reported_cell,False
+wind,Germany,2015,2350.2859016288076,2024 USD/kW,Fig 2.6,H14,IRENA_reported_cell,False
+wind,Germany,2016,2305.4780601776356,2024 USD/kW,Fig 2.6,I14,IRENA_reported_cell,False
+wind,Germany,2017,2305.1190969879626,2024 USD/kW,Fig 2.6,J14,IRENA_reported_cell,False
+wind,Germany,2018,2267.184611637869,2024 USD/kW,Fig 2.6,K14,IRENA_reported_cell,False
+wind,Germany,2019,2098.5998414809087,2024 USD/kW,Fig 2.6,L14,IRENA_reported_cell,False
+wind,Germany,2020,2089.1128870850494,2024 USD/kW,Fig 2.6,M14,IRENA_reported_cell,False
+wind,Germany,2021,1944.2419851493812,2024 USD/kW,Fig 2.6,N14,IRENA_reported_cell,False
+wind,Germany,2022,2011.7394262867954,2024 USD/kW,Fig 2.6,O14,IRENA_reported_cell,False
+wind,Germany,2023,1791.825824693949,2024 USD/kW,Fig 2.6,P14,IRENA_reported_cell,False
+wind,Germany,2024,1669.527372030262,2024 USD/kW,Fig 2.6,Q14,IRENA_reported_cell,False
+wind,India,2010,1607.2867942080602,2024 USD/kW,Fig 2.6,C15,IRENA_reported_cell,False
+wind,India,2011,1439.2246792330563,2024 USD/kW,Fig 2.6,D15,IRENA_reported_cell,False
+wind,India,2012,1727.3567208366633,2024 USD/kW,Fig 2.6,E15,IRENA_reported_cell,False
+wind,India,2013,1775.4884766427886,2024 USD/kW,Fig 2.6,F15,IRENA_reported_cell,False
+wind,India,2014,1697.2585891987796,2024 USD/kW,Fig 2.6,G15,IRENA_reported_cell,False
+wind,India,2015,1517.2250364441445,2024 USD/kW,Fig 2.6,H15,IRENA_reported_cell,False
+wind,India,2016,1395.6439842131053,2024 USD/kW,Fig 2.6,I15,IRENA_reported_cell,False
+wind,India,2017,1379.8823534779967,2024 USD/kW,Fig 2.6,J15,IRENA_reported_cell,False
+wind,India,2018,1381.2400608612575,2024 USD/kW,Fig 2.6,K15,IRENA_reported_cell,False
+wind,India,2019,1255.719701089365,2024 USD/kW,Fig 2.6,L15,IRENA_reported_cell,False
+wind,India,2020,1222.0443385764127,2024 USD/kW,Fig 2.6,M15,IRENA_reported_cell,False
+wind,India,2021,1051.781225948876,2024 USD/kW,Fig 2.6,N15,IRENA_reported_cell,False
+wind,India,2022,1191.1010340630933,2024 USD/kW,Fig 2.6,O15,IRENA_reported_cell,False
+wind,India,2023,1236.9870705080064,2024 USD/kW,Fig 2.6,P15,IRENA_reported_cell,False
+wind,India,2024,1110.269638408882,2024 USD/kW,Fig 2.6,Q15,IRENA_reported_cell,False
+wind,Italy,2010,3042.576771339253,2024 USD/kW,Fig 2.6,C16,IRENA_reported_cell,False
+wind,Italy,2011,3732.377300030415,2024 USD/kW,Fig 2.6,D16,IRENA_reported_cell,False
+wind,Italy,2012,3492.0935581917875,2024 USD/kW,Fig 2.6,E16,IRENA_reported_cell,False
+wind,Italy,2013,2409.1721620428693,2024 USD/kW,Fig 2.6,F16,IRENA_reported_cell,False
+wind,Italy,2014,2361.529671561993,2024 USD/kW,Fig 2.6,G16,IRENA_reported_cell,False
+wind,Italy,2015,2527.535652399827,2024 USD/kW,Fig 2.6,H16,IRENA_reported_cell,False
+wind,Italy,2016,2129.873112690811,2024 USD/kW,Fig 2.6,I16,IRENA_reported_cell,False
+wind,Italy,2017,3047.6230662438456,2024 USD/kW,Fig 2.6,J16,IRENA_reported_cell,False
+wind,Italy,2018,2093.797504944295,2024 USD/kW,Fig 2.6,K16,IRENA_reported_cell,False
+wind,Italy,2019,1988.9232899516264,2024 USD/kW,Fig 2.6,L16,IRENA_reported_cell,False
+wind,Italy,2020,2037.3177709416573,2024 USD/kW,Fig 2.6,M16,IRENA_reported_cell,False
+wind,Italy,2021,1564.420272621896,2024 USD/kW,Fig 2.6,N16,IRENA_reported_cell,False
+wind,Italy,2022,1538.4390431300337,2024 USD/kW,Fig 2.6,O16,IRENA_reported_cell,False
+wind,Italy,2023,1401.7706099642528,2024 USD/kW,Fig 2.6,P16,IRENA_reported_cell,False
+wind,Italy,2024,1408.131747785429,2024 USD/kW,Fig 2.6,Q16,IRENA_reported_cell,False
+wind,Poland,2010,3129.841562382764,2024 USD/kW,Fig 2.6,C17,IRENA_reported_cell,False
+wind,Poland,2011,2691.817910915693,2024 USD/kW,Fig 2.6,D17,IRENA_reported_cell,False
+wind,Poland,2012,2684.699599991936,2024 USD/kW,Fig 2.6,E17,IRENA_reported_cell,False
+wind,Poland,2013,2759.507417153754,2024 USD/kW,Fig 2.6,F17,IRENA_reported_cell,False
+wind,Poland,2014,2486.027904399791,2024 USD/kW,Fig 2.6,G17,IRENA_reported_cell,False
+wind,Poland,2015,2310.548393337525,2024 USD/kW,Fig 2.6,H17,IRENA_reported_cell,False
+wind,Poland,2016,2298.1565210002695,2024 USD/kW,Fig 2.6,I17,IRENA_reported_cell,False
+wind,Poland,2017,1712.2026322546378,2024 USD/kW,Fig 2.6,J17,IRENA_reported_cell,False
+wind,Poland,2018,,2024 USD/kW,Fig 2.6,K17,source_blank,False
+wind,Poland,2019,,2024 USD/kW,Fig 2.6,L17,source_blank,False
+wind,Poland,2020,1739.9009953814207,2024 USD/kW,Fig 2.6,M17,IRENA_reported_cell,False
+wind,Poland,2021,1920.241670095832,2024 USD/kW,Fig 2.6,N17,IRENA_reported_cell,False
+wind,Poland,2022,1748.9163284507442,2024 USD/kW,Fig 2.6,O17,IRENA_reported_cell,False
+wind,Poland,2023,1719.2909543523535,2024 USD/kW,Fig 2.6,P17,IRENA_reported_cell,False
+wind,Poland,2024,1838.4745885101934,2024 USD/kW,Fig 2.6,Q17,IRENA_reported_cell,False
+wind,Spain,2010,2917.3316496399493,2024 USD/kW,Fig 2.6,C18,IRENA_reported_cell,False
+wind,Spain,2011,2838.1110057057613,2024 USD/kW,Fig 2.6,D18,IRENA_reported_cell,False
+wind,Spain,2012,2489.7916665030607,2024 USD/kW,Fig 2.6,E18,IRENA_reported_cell,False
+wind,Spain,2013,2478.4744316553188,2024 USD/kW,Fig 2.6,F18,IRENA_reported_cell,False
+wind,Spain,2014,2087.660762101033,2024 USD/kW,Fig 2.6,G18,IRENA_reported_cell,False
+wind,Spain,2015,1974.0001131302856,2024 USD/kW,Fig 2.6,H18,IRENA_reported_cell,False
+wind,Spain,2016,1944.6505362263822,2024 USD/kW,Fig 2.6,I18,IRENA_reported_cell,False
+wind,Spain,2017,2134.4262580278214,2024 USD/kW,Fig 2.6,J18,IRENA_reported_cell,False
+wind,Spain,2018,2785.8482935998636,2024 USD/kW,Fig 2.6,K18,IRENA_reported_cell,False
+wind,Spain,2019,1848.056275124011,2024 USD/kW,Fig 2.6,L18,IRENA_reported_cell,False
+wind,Spain,2020,1450.2230865567224,2024 USD/kW,Fig 2.6,M18,IRENA_reported_cell,False
+wind,Spain,2021,1330.7665242650544,2024 USD/kW,Fig 2.6,N18,IRENA_reported_cell,False
+wind,Spain,2022,1230.4390450051135,2024 USD/kW,Fig 2.6,O18,IRENA_reported_cell,False
+wind,Spain,2023,1185.8472461907197,2024 USD/kW,Fig 2.6,P18,IRENA_reported_cell,False
+wind,Spain,2024,1398.8328190572436,2024 USD/kW,Fig 2.6,Q18,IRENA_reported_cell,False
+wind,Sweden,2010,2773.2755858141873,2024 USD/kW,Fig 2.6,C19,IRENA_reported_cell,False
+wind,Sweden,2011,2551.407722896317,2024 USD/kW,Fig 2.6,D19,IRENA_reported_cell,False
+wind,Sweden,2012,2775.2464224535406,2024 USD/kW,Fig 2.6,E19,IRENA_reported_cell,False
+wind,Sweden,2013,2391.9924352197113,2024 USD/kW,Fig 2.6,F19,IRENA_reported_cell,False
+wind,Sweden,2014,2555.2754298676873,2024 USD/kW,Fig 2.6,G19,IRENA_reported_cell,False
+wind,Sweden,2015,2284.897140482114,2024 USD/kW,Fig 2.6,H19,IRENA_reported_cell,False
+wind,Sweden,2016,2101.631309145028,2024 USD/kW,Fig 2.6,I19,IRENA_reported_cell,False
+wind,Sweden,2017,1903.388408996142,2024 USD/kW,Fig 2.6,J19,IRENA_reported_cell,False
+wind,Sweden,2018,1520.082158545755,2024 USD/kW,Fig 2.6,K19,IRENA_reported_cell,False
+wind,Sweden,2019,1595.3412580470892,2024 USD/kW,Fig 2.6,L19,IRENA_reported_cell,False
+wind,Sweden,2020,1598.3813227028127,2024 USD/kW,Fig 2.6,M19,IRENA_reported_cell,False
+wind,Sweden,2021,1499.7076816824365,2024 USD/kW,Fig 2.6,N19,IRENA_reported_cell,False
+wind,Sweden,2022,1313.1234013488265,2024 USD/kW,Fig 2.6,O19,IRENA_reported_cell,False
+wind,Sweden,2023,1571.2722957714248,2024 USD/kW,Fig 2.6,P19,IRENA_reported_cell,False
+wind,Sweden,2024,1772.9311285129593,2024 USD/kW,Fig 2.6,Q19,IRENA_reported_cell,False
+wind,Turkey,2010,2878.3500629421737,2024 USD/kW,Fig 2.6,C20,IRENA_reported_cell,False
+wind,Turkey,2011,2664.820862539856,2024 USD/kW,Fig 2.6,D20,IRENA_reported_cell,False
+wind,Turkey,2012,2109.273740267664,2024 USD/kW,Fig 2.6,E20,IRENA_reported_cell,False
+wind,Turkey,2013,2326.0159749153895,2024 USD/kW,Fig 2.6,F20,IRENA_reported_cell,False
+wind,Turkey,2014,2246.1887394604487,2024 USD/kW,Fig 2.6,G20,IRENA_reported_cell,False
+wind,Turkey,2015,2313.6027895208003,2024 USD/kW,Fig 2.6,H20,IRENA_reported_cell,False
+wind,Turkey,2016,2332.5867473688395,2024 USD/kW,Fig 2.6,I20,IRENA_reported_cell,False
+wind,Turkey,2017,2105.3982588589097,2024 USD/kW,Fig 2.6,J20,IRENA_reported_cell,False
+wind,Turkey,2018,2232.7157620349126,2024 USD/kW,Fig 2.6,K20,IRENA_reported_cell,False
+wind,Turkey,2019,2003.9863465520727,2024 USD/kW,Fig 2.6,L20,IRENA_reported_cell,False
+wind,Turkey,2020,1585.4623535749379,2024 USD/kW,Fig 2.6,M20,IRENA_reported_cell,False
+wind,Turkey,2021,1455.22879287732,2024 USD/kW,Fig 2.6,N20,IRENA_reported_cell,False
+wind,Turkey,2022,1757.8634063507664,2024 USD/kW,Fig 2.6,O20,IRENA_reported_cell,False
+wind,Turkey,2023,1468.1518868815974,2024 USD/kW,Fig 2.6,P20,IRENA_reported_cell,False
+wind,Turkey,2024,1423.6985915002006,2024 USD/kW,Fig 2.6,Q20,IRENA_reported_cell,False
+wind,United Kingdom,2010,2646.677480945218,2024 USD/kW,Fig 2.6,C21,IRENA_reported_cell,False
+wind,United Kingdom,2011,2809.9113674102177,2024 USD/kW,Fig 2.6,D21,IRENA_reported_cell,False
+wind,United Kingdom,2012,2747.8809796906717,2024 USD/kW,Fig 2.6,E21,IRENA_reported_cell,False
+wind,United Kingdom,2013,2761.2528998111115,2024 USD/kW,Fig 2.6,F21,IRENA_reported_cell,False
+wind,United Kingdom,2014,2697.606225405735,2024 USD/kW,Fig 2.6,G21,IRENA_reported_cell,False
+wind,United Kingdom,2015,2657.2208697143733,2024 USD/kW,Fig 2.6,H21,IRENA_reported_cell,False
+wind,United Kingdom,2016,2491.129940503493,2024 USD/kW,Fig 2.6,I21,IRENA_reported_cell,False
+wind,United Kingdom,2017,2516.6323084024853,2024 USD/kW,Fig 2.6,J21,IRENA_reported_cell,False
+wind,United Kingdom,2018,2198.396210530895,2024 USD/kW,Fig 2.6,K21,IRENA_reported_cell,False
+wind,United Kingdom,2019,2258.591645264536,2024 USD/kW,Fig 2.6,L21,IRENA_reported_cell,False
+wind,United Kingdom,2020,2047.4076327217401,2024 USD/kW,Fig 2.6,M21,IRENA_reported_cell,False
+wind,United Kingdom,2021,2203.4103014109132,2024 USD/kW,Fig 2.6,N21,IRENA_reported_cell,False
+wind,United Kingdom,2022,1573.6200074383676,2024 USD/kW,Fig 2.6,O21,IRENA_reported_cell,False
+wind,United Kingdom,2023,1303.0584580732284,2024 USD/kW,Fig 2.6,P21,IRENA_reported_cell,False
+wind,United Kingdom,2024,1925.6208848759481,2024 USD/kW,Fig 2.6,Q21,IRENA_reported_cell,False
+wind,United States,2010,2849.9272631611007,2024 USD/kW,Fig 2.6,C22,IRENA_reported_cell,False
+wind,United States,2011,2822.2310585314794,2024 USD/kW,Fig 2.6,D22,IRENA_reported_cell,False
+wind,United States,2012,2583.03557060981,2024 USD/kW,Fig 2.6,E22,IRENA_reported_cell,False
+wind,United States,2013,2390.0032794756194,2024 USD/kW,Fig 2.6,F22,IRENA_reported_cell,False
+wind,United States,2014,2267.462988264707,2024 USD/kW,Fig 2.6,G22,IRENA_reported_cell,False
+wind,United States,2015,2168.6170033307826,2024 USD/kW,Fig 2.6,H22,IRENA_reported_cell,False
+wind,United States,2016,2216.7739436486186,2024 USD/kW,Fig 2.6,I22,IRENA_reported_cell,False
+wind,United States,2017,2007.2700635353704,2024 USD/kW,Fig 2.6,J22,IRENA_reported_cell,False
+wind,United States,2018,1957.1404259671533,2024 USD/kW,Fig 2.6,K22,IRENA_reported_cell,False
+wind,United States,2019,1849.7707511846468,2024 USD/kW,Fig 2.6,L22,IRENA_reported_cell,False
+wind,United States,2020,1635.2645679290024,2024 USD/kW,Fig 2.6,M22,IRENA_reported_cell,False
+wind,United States,2021,1569.4893134730623,2024 USD/kW,Fig 2.6,N22,IRENA_reported_cell,False
+wind,United States,2022,1294.4512143826532,2024 USD/kW,Fig 2.6,O22,IRENA_reported_cell,False
+wind,United States,2023,1536.630662300211,2024 USD/kW,Fig 2.6,P22,IRENA_reported_cell,False
+wind,United States,2024,1567.8128228070361,2024 USD/kW,Fig 2.6,Q22,IRENA_reported_cell,False
+wind,Argentina,2010,,2024 USD/kW,Fig 2.7,C8,source_blank,False
+wind,Argentina,2011,,2024 USD/kW,Fig 2.7,D8,source_blank,False
+wind,Argentina,2012,2795.688460671054,2024 USD/kW,Fig 2.7,E8,IRENA_reported_cell,False
+wind,Argentina,2013,2964.0635582892346,2024 USD/kW,Fig 2.7,F8,IRENA_reported_cell,False
+wind,Argentina,2014,2634.6932247493082,2024 USD/kW,Fig 2.7,G8,IRENA_reported_cell,False
+wind,Argentina,2015,2536.5635754192135,2024 USD/kW,Fig 2.7,H8,IRENA_reported_cell,False
+wind,Argentina,2016,,2024 USD/kW,Fig 2.7,I8,source_blank,False
+wind,Argentina,2017,2615.055700783548,2024 USD/kW,Fig 2.7,J8,IRENA_reported_cell,False
+wind,Argentina,2018,2041.87370034402,2024 USD/kW,Fig 2.7,K8,IRENA_reported_cell,False
+wind,Argentina,2019,1779.3080093830185,2024 USD/kW,Fig 2.7,L8,IRENA_reported_cell,False
+wind,Argentina,2020,1997.6708397662092,2024 USD/kW,Fig 2.7,M8,IRENA_reported_cell,False
+wind,Argentina,2021,2025.699215136947,2024 USD/kW,Fig 2.7,N8,IRENA_reported_cell,False
+wind,Argentina,2022,1553.4690073390902,2024 USD/kW,Fig 2.7,O8,IRENA_reported_cell,False
+wind,Argentina,2023,1898.0304391214395,2024 USD/kW,Fig 2.7,P8,IRENA_reported_cell,False
+wind,Argentina,2024,1668.8263285255107,2024 USD/kW,Fig 2.7,Q8,IRENA_reported_cell,False
+wind,Austria,2010,,2024 USD/kW,Fig 2.7,C9,source_blank,False
+wind,Austria,2011,,2024 USD/kW,Fig 2.7,D9,source_blank,False
+wind,Austria,2012,2452.067550343923,2024 USD/kW,Fig 2.7,E9,IRENA_reported_cell,False
+wind,Austria,2013,3048.5733090452554,2024 USD/kW,Fig 2.7,F9,IRENA_reported_cell,False
+wind,Austria,2014,2546.377840741766,2024 USD/kW,Fig 2.7,G9,IRENA_reported_cell,False
+wind,Austria,2015,2474.7020200394054,2024 USD/kW,Fig 2.7,H9,IRENA_reported_cell,False
+wind,Austria,2016,2533.348866670561,2024 USD/kW,Fig 2.7,I9,IRENA_reported_cell,False
+wind,Austria,2017,2032.190709009743,2024 USD/kW,Fig 2.7,J9,IRENA_reported_cell,False
+wind,Austria,2018,1930.5811735592536,2024 USD/kW,Fig 2.7,K9,IRENA_reported_cell,False
+wind,Austria,2019,,2024 USD/kW,Fig 2.7,L9,source_blank,False
+wind,Austria,2020,,2024 USD/kW,Fig 2.7,M9,source_blank,False
+wind,Austria,2021,,2024 USD/kW,Fig 2.7,N9,source_blank,False
+wind,Austria,2022,1537.0565472116134,2024 USD/kW,Fig 2.7,O9,IRENA_reported_cell,False
+wind,Austria,2023,1614.030064968537,2024 USD/kW,Fig 2.7,P9,IRENA_reported_cell,False
+wind,Austria,2024,1701.5580787442136,2024 USD/kW,Fig 2.7,Q9,IRENA_reported_cell,False
+wind,Chile,2010,,2024 USD/kW,Fig 2.7,C10,source_blank,False
+wind,Chile,2011,3265.2344885307416,2024 USD/kW,Fig 2.7,D10,IRENA_reported_cell,False
+wind,Chile,2012,2454.110221033898,2024 USD/kW,Fig 2.7,E10,IRENA_reported_cell,False
+wind,Chile,2013,2466.123651565242,2024 USD/kW,Fig 2.7,F10,IRENA_reported_cell,False
+wind,Chile,2014,2623.903755713473,2024 USD/kW,Fig 2.7,G10,IRENA_reported_cell,False
+wind,Chile,2015,2706.712909541826,2024 USD/kW,Fig 2.7,H10,IRENA_reported_cell,False
+wind,Chile,2016,2367.7675341860468,2024 USD/kW,Fig 2.7,I10,IRENA_reported_cell,False
+wind,Chile,2017,2134.7585446078992,2024 USD/kW,Fig 2.7,J10,IRENA_reported_cell,False
+wind,Chile,2018,2079.752423641779,2024 USD/kW,Fig 2.7,K10,IRENA_reported_cell,False
+wind,Chile,2019,2937.134028653069,2024 USD/kW,Fig 2.7,L10,IRENA_reported_cell,False
+wind,Chile,2020,1804.7832373729827,2024 USD/kW,Fig 2.7,M10,IRENA_reported_cell,False
+wind,Chile,2021,1787.502728105507,2024 USD/kW,Fig 2.7,N10,IRENA_reported_cell,False
+wind,Chile,2022,1363.8017447948732,2024 USD/kW,Fig 2.7,O10,IRENA_reported_cell,False
+wind,Chile,2023,1569.7343454319437,2024 USD/kW,Fig 2.7,P10,IRENA_reported_cell,False
+wind,Chile,2024,1313.2932051102064,2024 USD/kW,Fig 2.7,Q10,IRENA_reported_cell,False
+wind,Costa Rica,2010,,2024 USD/kW,Fig 2.7,C11,source_blank,False
+wind,Costa Rica,2011,2634.992405760143,2024 USD/kW,Fig 2.7,D11,IRENA_reported_cell,False
+wind,Costa Rica,2012,4005.4362182763616,2024 USD/kW,Fig 2.7,E11,IRENA_reported_cell,False
+wind,Costa Rica,2013,,2024 USD/kW,Fig 2.7,F11,source_blank,False
+wind,Costa Rica,2014,3071.720451189754,2024 USD/kW,Fig 2.7,G11,IRENA_reported_cell,False
+wind,Costa Rica,2015,3159.394728327746,2024 USD/kW,Fig 2.7,H11,IRENA_reported_cell,False
+wind,Costa Rica,2016,3115.3201822382603,2024 USD/kW,Fig 2.7,I11,IRENA_reported_cell,False
+wind,Costa Rica,2017,2513.8693602851486,2024 USD/kW,Fig 2.7,J11,IRENA_reported_cell,False
+wind,Costa Rica,2018,,2024 USD/kW,Fig 2.7,K11,source_blank,False
+wind,Costa Rica,2019,,2024 USD/kW,Fig 2.7,L11,source_blank,False
+wind,Costa Rica,2020,,2024 USD/kW,Fig 2.7,M11,source_blank,False
+wind,Costa Rica,2021,,2024 USD/kW,Fig 2.7,N11,source_blank,False
+wind,Costa Rica,2022,,2024 USD/kW,Fig 2.7,O11,source_blank,False
+wind,Costa Rica,2023,,2024 USD/kW,Fig 2.7,P11,source_blank,False
+wind,Costa Rica,2024,,2024 USD/kW,Fig 2.7,Q11,source_blank,False
+wind,Croatia,2010,,2024 USD/kW,Fig 2.7,C12,source_blank,False
+wind,Croatia,2011,2428.2141588364498,2024 USD/kW,Fig 2.7,D12,IRENA_reported_cell,False
+wind,Croatia,2012,2020.581135988339,2024 USD/kW,Fig 2.7,E12,IRENA_reported_cell,False
+wind,Croatia,2013,,2024 USD/kW,Fig 2.7,F12,source_blank,False
+wind,Croatia,2014,2959.7675959303,2024 USD/kW,Fig 2.7,G12,IRENA_reported_cell,False
+wind,Croatia,2015,2107.1047714082165,2024 USD/kW,Fig 2.7,H12,IRENA_reported_cell,False
+wind,Croatia,2016,2337.5457018556876,2024 USD/kW,Fig 2.7,I12,IRENA_reported_cell,False
+wind,Croatia,2017,2337.545701855687,2024 USD/kW,Fig 2.7,J12,IRENA_reported_cell,False
+wind,Croatia,2018,,2024 USD/kW,Fig 2.7,K12,source_blank,False
+wind,Croatia,2019,,2024 USD/kW,Fig 2.7,L12,source_blank,False
+wind,Croatia,2020,1968.6195563914646,2024 USD/kW,Fig 2.7,M12,IRENA_reported_cell,False
+wind,Croatia,2021,1824.5575566674672,2024 USD/kW,Fig 2.7,N12,IRENA_reported_cell,False
+wind,Croatia,2022,,2024 USD/kW,Fig 2.7,O12,source_blank,False
+wind,Croatia,2023,1558.5875622615483,2024 USD/kW,Fig 2.7,P12,IRENA_reported_cell,False
+wind,Croatia,2024,,2024 USD/kW,Fig 2.7,Q12,source_blank,False
+wind,Cyprus,2010,2242.5579899330837,2024 USD/kW,Fig 2.7,C13,IRENA_reported_cell,False
+wind,Cyprus,2011,2373.098872068914,2024 USD/kW,Fig 2.7,D13,IRENA_reported_cell,False
+wind,Cyprus,2012,2535.3738669546096,2024 USD/kW,Fig 2.7,E13,IRENA_reported_cell,False
+wind,Cyprus,2013,2737.7533005682053,2024 USD/kW,Fig 2.7,F13,IRENA_reported_cell,False
+wind,Cyprus,2014,,2024 USD/kW,Fig 2.7,G13,source_blank,False
+wind,Cyprus,2015,,2024 USD/kW,Fig 2.7,H13,source_blank,False
+wind,Cyprus,2016,2297.80971606113,2024 USD/kW,Fig 2.7,I13,IRENA_reported_cell,False
+wind,Cyprus,2017,,2024 USD/kW,Fig 2.7,J13,source_blank,False
+wind,Cyprus,2018,,2024 USD/kW,Fig 2.7,K13,source_blank,False
+wind,Cyprus,2019,,2024 USD/kW,Fig 2.7,L13,source_blank,False
+wind,Cyprus,2020,,2024 USD/kW,Fig 2.7,M13,source_blank,False
+wind,Cyprus,2021,,2024 USD/kW,Fig 2.7,N13,source_blank,False
+wind,Cyprus,2022,,2024 USD/kW,Fig 2.7,O13,source_blank,False
+wind,Cyprus,2023,,2024 USD/kW,Fig 2.7,P13,source_blank,False
+wind,Cyprus,2024,,2024 USD/kW,Fig 2.7,Q13,source_blank,False
+wind,Denmark,2010,2829.308711935296,2024 USD/kW,Fig 2.7,C14,IRENA_reported_cell,False
+wind,Denmark,2011,3043.07870350374,2024 USD/kW,Fig 2.7,D14,IRENA_reported_cell,False
+wind,Denmark,2012,2452.067550343923,2024 USD/kW,Fig 2.7,E14,IRENA_reported_cell,False
+wind,Denmark,2013,2669.609953528281,2024 USD/kW,Fig 2.7,F14,IRENA_reported_cell,False
+wind,Denmark,2014,,2024 USD/kW,Fig 2.7,G14,source_blank,False
+wind,Denmark,2015,2263.446969548236,2024 USD/kW,Fig 2.7,H14,IRENA_reported_cell,False
+wind,Denmark,2016,2263.446969548236,2024 USD/kW,Fig 2.7,I14,IRENA_reported_cell,False
+wind,Denmark,2017,2085.510402489083,2024 USD/kW,Fig 2.7,J14,IRENA_reported_cell,False
+wind,Denmark,2018,2266.005369502973,2024 USD/kW,Fig 2.7,K14,IRENA_reported_cell,False
+wind,Denmark,2019,2262.846856831192,2024 USD/kW,Fig 2.7,L14,IRENA_reported_cell,False
+wind,Denmark,2020,2262.846856831192,2024 USD/kW,Fig 2.7,M14,IRENA_reported_cell,False
+wind,Denmark,2021,,2024 USD/kW,Fig 2.7,N14,source_blank,False
+wind,Denmark,2022,,2024 USD/kW,Fig 2.7,O14,source_blank,False
+wind,Denmark,2023,,2024 USD/kW,Fig 2.7,P14,source_blank,False
+wind,Denmark,2024,,2024 USD/kW,Fig 2.7,Q14,source_blank,False
+wind,Dominican Republic,2010,,2024 USD/kW,Fig 2.7,C15,source_blank,False
+wind,Dominican Republic,2011,1679.6966524738002,2024 USD/kW,Fig 2.7,D15,IRENA_reported_cell,False
+wind,Dominican Republic,2012,2944.0833147834683,2024 USD/kW,Fig 2.7,E15,IRENA_reported_cell,False
+wind,Dominican Republic,2013,2581.7700596941995,2024 USD/kW,Fig 2.7,F15,IRENA_reported_cell,False
+wind,Dominican Republic,2014,2642.604327619912,2024 USD/kW,Fig 2.7,G15,IRENA_reported_cell,False
+wind,Dominican Republic,2015,,2024 USD/kW,Fig 2.7,H15,source_blank,False
+wind,Dominican Republic,2016,2996.2627041845085,2024 USD/kW,Fig 2.7,I15,IRENA_reported_cell,False
+wind,Dominican Republic,2017,2430.34790389692,2024 USD/kW,Fig 2.7,J15,IRENA_reported_cell,False
+wind,Dominican Republic,2018,2490.7292182794527,2024 USD/kW,Fig 2.7,K15,IRENA_reported_cell,False
+wind,Dominican Republic,2019,2067.6597741513083,2024 USD/kW,Fig 2.7,L15,IRENA_reported_cell,False
+wind,Dominican Republic,2020,2426.7167492340077,2024 USD/kW,Fig 2.7,M15,IRENA_reported_cell,False
+wind,Dominican Republic,2021,,2024 USD/kW,Fig 2.7,N15,source_blank,False
+wind,Dominican Republic,2022,,2024 USD/kW,Fig 2.7,O15,source_blank,False
+wind,Dominican Republic,2023,,2024 USD/kW,Fig 2.7,P15,source_blank,False
+wind,Dominican Republic,2024,2108.0067043255785,2024 USD/kW,Fig 2.7,Q15,IRENA_reported_cell,False
+wind,Egypt,2010,1834.4723256991094,2024 USD/kW,Fig 2.7,C16,IRENA_reported_cell,False
+wind,Egypt,2011,,2024 USD/kW,Fig 2.7,D16,source_blank,False
+wind,Egypt,2012,,2024 USD/kW,Fig 2.7,E16,source_blank,False
+wind,Egypt,2013,,2024 USD/kW,Fig 2.7,F16,source_blank,False
+wind,Egypt,2014,,2024 USD/kW,Fig 2.7,G16,source_blank,False
+wind,Egypt,2015,2301.625233767108,2024 USD/kW,Fig 2.7,H16,IRENA_reported_cell,False
+wind,Egypt,2016,,2024 USD/kW,Fig 2.7,I16,source_blank,False
+wind,Egypt,2017,,2024 USD/kW,Fig 2.7,J16,source_blank,False
+wind,Egypt,2018,2081.496440671476,2024 USD/kW,Fig 2.7,K16,IRENA_reported_cell,False
+wind,Egypt,2019,,2024 USD/kW,Fig 2.7,L16,source_blank,False
+wind,Egypt,2020,1724.073795680908,2024 USD/kW,Fig 2.7,M16,IRENA_reported_cell,False
+wind,Egypt,2021,1622.5135592682948,2024 USD/kW,Fig 2.7,N16,IRENA_reported_cell,False
+wind,Egypt,2022,1558.2033844385596,2024 USD/kW,Fig 2.7,O16,IRENA_reported_cell,False
+wind,Egypt,2023,,2024 USD/kW,Fig 2.7,P16,source_blank,False
+wind,Egypt,2024,1435.4923368827385,2024 USD/kW,Fig 2.7,Q16,IRENA_reported_cell,False
+wind,Ethiopia,2010,,2024 USD/kW,Fig 2.7,C17,source_blank,False
+wind,Ethiopia,2011,3150.065554401592,2024 USD/kW,Fig 2.7,D17,IRENA_reported_cell,False
+wind,Ethiopia,2012,2952.202658292882,2024 USD/kW,Fig 2.7,E17,IRENA_reported_cell,False
+wind,Ethiopia,2013,,2024 USD/kW,Fig 2.7,F17,source_blank,False
+wind,Ethiopia,2014,,2024 USD/kW,Fig 2.7,G17,source_blank,False
+wind,Ethiopia,2015,2835.472782216877,2024 USD/kW,Fig 2.7,H17,IRENA_reported_cell,False
+wind,Ethiopia,2016,3113.16154795305,2024 USD/kW,Fig 2.7,I17,IRENA_reported_cell,False
+wind,Ethiopia,2017,,2024 USD/kW,Fig 2.7,J17,source_blank,False
+wind,Ethiopia,2018,,2024 USD/kW,Fig 2.7,K17,source_blank,False
+wind,Ethiopia,2019,2262.846856831192,2024 USD/kW,Fig 2.7,L17,IRENA_reported_cell,False
+wind,Ethiopia,2020,,2024 USD/kW,Fig 2.7,M17,source_blank,False
+wind,Ethiopia,2021,,2024 USD/kW,Fig 2.7,N17,source_blank,False
+wind,Ethiopia,2022,2273.458740323888,2024 USD/kW,Fig 2.7,O17,IRENA_reported_cell,False
+wind,Ethiopia,2023,,2024 USD/kW,Fig 2.7,P17,source_blank,False
+wind,Ethiopia,2024,,2024 USD/kW,Fig 2.7,Q17,source_blank,False
+wind,Greece,2010,3004.097116805965,2024 USD/kW,Fig 2.7,C18,IRENA_reported_cell,False
+wind,Greece,2011,1926.802072054809,2024 USD/kW,Fig 2.7,D18,IRENA_reported_cell,False
+wind,Greece,2012,2703.5616580715046,2024 USD/kW,Fig 2.7,E18,IRENA_reported_cell,False
+wind,Greece,2013,,2024 USD/kW,Fig 2.7,F18,source_blank,False
+wind,Greece,2014,2429.43308064844,2024 USD/kW,Fig 2.7,G18,IRENA_reported_cell,False
+wind,Greece,2015,2414.343434184785,2024 USD/kW,Fig 2.7,H18,IRENA_reported_cell,False
+wind,Greece,2016,2054.6866274333765,2024 USD/kW,Fig 2.7,I18,IRENA_reported_cell,False
+wind,Greece,2017,2279.9391883381822,2024 USD/kW,Fig 2.7,J18,IRENA_reported_cell,False
+wind,Greece,2018,2511.1647367498217,2024 USD/kW,Fig 2.7,K18,IRENA_reported_cell,False
+wind,Greece,2019,2192.378913089225,2024 USD/kW,Fig 2.7,L18,IRENA_reported_cell,False
+wind,Greece,2020,2202.5787219674644,2024 USD/kW,Fig 2.7,M18,IRENA_reported_cell,False
+wind,Greece,2021,1540.4361586828409,2024 USD/kW,Fig 2.7,N18,IRENA_reported_cell,False
+wind,Greece,2022,1963.8437367778333,2024 USD/kW,Fig 2.7,O18,IRENA_reported_cell,False
+wind,Greece,2023,1600.845018371483,2024 USD/kW,Fig 2.7,P18,IRENA_reported_cell,False
+wind,Greece,2024,1966.8938205766926,2024 USD/kW,Fig 2.7,Q18,IRENA_reported_cell,False
+wind,Indonesia,2010,,2024 USD/kW,Fig 2.7,C19,source_blank,False
+wind,Indonesia,2011,,2024 USD/kW,Fig 2.7,D19,source_blank,False
+wind,Indonesia,2012,,2024 USD/kW,Fig 2.7,E19,source_blank,False
+wind,Indonesia,2013,,2024 USD/kW,Fig 2.7,F19,source_blank,False
+wind,Indonesia,2014,,2024 USD/kW,Fig 2.7,G19,source_blank,False
+wind,Indonesia,2015,,2024 USD/kW,Fig 2.7,H19,source_blank,False
+wind,Indonesia,2016,,2024 USD/kW,Fig 2.7,I19,source_blank,False
+wind,Indonesia,2017,3097.299637410054,2024 USD/kW,Fig 2.7,J19,IRENA_reported_cell,False
+wind,Indonesia,2018,2381.944059822307,2024 USD/kW,Fig 2.7,K19,IRENA_reported_cell,False
+wind,Indonesia,2019,2658.183405648922,2024 USD/kW,Fig 2.7,L19,IRENA_reported_cell,False
+wind,Indonesia,2020,2529.2843138084572,2024 USD/kW,Fig 2.7,M19,IRENA_reported_cell,False
+wind,Indonesia,2021,,2024 USD/kW,Fig 2.7,N19,source_blank,False
+wind,Indonesia,2022,,2024 USD/kW,Fig 2.7,O19,source_blank,False
+wind,Indonesia,2023,,2024 USD/kW,Fig 2.7,P19,source_blank,False
+wind,Indonesia,2024,,2024 USD/kW,Fig 2.7,Q19,source_blank,False
+wind,Ireland,2010,4238.2409612573065,2024 USD/kW,Fig 2.7,C20,IRENA_reported_cell,False
+wind,Ireland,2011,2580.440328439444,2024 USD/kW,Fig 2.7,D20,IRENA_reported_cell,False
+wind,Ireland,2012,2580.440328439444,2024 USD/kW,Fig 2.7,E20,IRENA_reported_cell,False
+wind,Ireland,2013,2580.440328439444,2024 USD/kW,Fig 2.7,F20,IRENA_reported_cell,False
+wind,Ireland,2014,2613.199770395157,2024 USD/kW,Fig 2.7,G20,IRENA_reported_cell,False
+wind,Ireland,2015,2308.9361491467293,2024 USD/kW,Fig 2.7,H20,IRENA_reported_cell,False
+wind,Ireland,2016,2181.839458688478,2024 USD/kW,Fig 2.7,I20,IRENA_reported_cell,False
+wind,Ireland,2017,2407.8265834464555,2024 USD/kW,Fig 2.7,J20,IRENA_reported_cell,False
+wind,Ireland,2018,2414.507673472744,2024 USD/kW,Fig 2.7,K20,IRENA_reported_cell,False
+wind,Ireland,2019,2805.127758790899,2024 USD/kW,Fig 2.7,L20,IRENA_reported_cell,False
+wind,Ireland,2020,2634.9848509409,2024 USD/kW,Fig 2.7,M20,IRENA_reported_cell,False
+wind,Ireland,2021,,2024 USD/kW,Fig 2.7,N20,source_blank,False
+wind,Ireland,2022,2153.309866272955,2024 USD/kW,Fig 2.7,O20,IRENA_reported_cell,False
+wind,Ireland,2023,1837.4154820634717,2024 USD/kW,Fig 2.7,P20,IRENA_reported_cell,False
+wind,Ireland,2024,1605.3455419648749,2024 USD/kW,Fig 2.7,Q20,IRENA_reported_cell,False
+wind,Japan,2010,3269.423400458563,2024 USD/kW,Fig 2.7,C21,IRENA_reported_cell,False
+wind,Japan,2011,2779.0098903897792,2024 USD/kW,Fig 2.7,D21,IRENA_reported_cell,False
+wind,Japan,2012,4129.473858593708,2024 USD/kW,Fig 2.7,E21,IRENA_reported_cell,False
+wind,Japan,2013,3679.0938721614425,2024 USD/kW,Fig 2.7,F21,IRENA_reported_cell,False
+wind,Japan,2014,3476.629347013712,2024 USD/kW,Fig 2.7,G21,IRENA_reported_cell,False
+wind,Japan,2015,2766.4351850034004,2024 USD/kW,Fig 2.7,H21,IRENA_reported_cell,False
+wind,Japan,2016,3269.842615986735,2024 USD/kW,Fig 2.7,I21,IRENA_reported_cell,False
+wind,Japan,2017,2942.611902077537,2024 USD/kW,Fig 2.7,J21,IRENA_reported_cell,False
+wind,Japan,2018,3109.3264626590585,2024 USD/kW,Fig 2.7,K21,IRENA_reported_cell,False
+wind,Japan,2019,2694.574217673985,2024 USD/kW,Fig 2.7,L21,IRENA_reported_cell,False
+wind,Japan,2020,3752.849810309514,2024 USD/kW,Fig 2.7,M21,IRENA_reported_cell,False
+wind,Japan,2021,3556.955248637961,2024 USD/kW,Fig 2.7,N21,IRENA_reported_cell,False
+wind,Japan,2022,3737.176810014049,2024 USD/kW,Fig 2.7,O21,IRENA_reported_cell,False
+wind,Japan,2023,2441.4167101606376,2024 USD/kW,Fig 2.7,P21,IRENA_reported_cell,False
+wind,Japan,2024,2891.0806973555455,2024 USD/kW,Fig 2.7,Q21,IRENA_reported_cell,False
+wind,Mexico,2010,3341.0880308776045,2024 USD/kW,Fig 2.7,C22,IRENA_reported_cell,False
+wind,Mexico,2011,3049.896202763099,2024 USD/kW,Fig 2.7,D22,IRENA_reported_cell,False
+wind,Mexico,2012,2645.8153523573474,2024 USD/kW,Fig 2.7,E22,IRENA_reported_cell,False
+wind,Mexico,2013,2964.005064940783,2024 USD/kW,Fig 2.7,F22,IRENA_reported_cell,False
+wind,Mexico,2014,3016.5842014860027,2024 USD/kW,Fig 2.7,G22,IRENA_reported_cell,False
+wind,Mexico,2015,2583.2227154219413,2024 USD/kW,Fig 2.7,H22,IRENA_reported_cell,False
+wind,Mexico,2016,2419.2764969037926,2024 USD/kW,Fig 2.7,I22,IRENA_reported_cell,False
+wind,Mexico,2017,2322.045285768722,2024 USD/kW,Fig 2.7,J22,IRENA_reported_cell,False
+wind,Mexico,2018,1799.024840899802,2024 USD/kW,Fig 2.7,K22,IRENA_reported_cell,False
+wind,Mexico,2019,2106.4868383930852,2024 USD/kW,Fig 2.7,L22,IRENA_reported_cell,False
+wind,Mexico,2020,1805.008890626959,2024 USD/kW,Fig 2.7,M22,IRENA_reported_cell,False
+wind,Mexico,2021,1671.399215696986,2024 USD/kW,Fig 2.7,N22,IRENA_reported_cell,False
+wind,Mexico,2022,1614.2596639523192,2024 USD/kW,Fig 2.7,O22,IRENA_reported_cell,False
+wind,Mexico,2023,,2024 USD/kW,Fig 2.7,P22,source_blank,False
+wind,Mexico,2024,,2024 USD/kW,Fig 2.7,Q22,source_blank,False
+wind,Morocco,2010,,2024 USD/kW,Fig 2.7,C23,source_blank,False
+wind,Morocco,2011,2468.0406830333195,2024 USD/kW,Fig 2.7,D23,IRENA_reported_cell,False
+wind,Morocco,2012,2893.797635819946,2024 USD/kW,Fig 2.7,E23,IRENA_reported_cell,False
+wind,Morocco,2013,2389.425398268113,2024 USD/kW,Fig 2.7,F23,IRENA_reported_cell,False
+wind,Morocco,2014,2510.7245011094856,2024 USD/kW,Fig 2.7,G23,IRENA_reported_cell,False
+wind,Morocco,2015,,2024 USD/kW,Fig 2.7,H23,source_blank,False
+wind,Morocco,2016,1753.0045915852259,2024 USD/kW,Fig 2.7,I23,IRENA_reported_cell,False
+wind,Morocco,2017,1744.0910783356032,2024 USD/kW,Fig 2.7,J23,IRENA_reported_cell,False
+wind,Morocco,2018,2485.014729965892,2024 USD/kW,Fig 2.7,K23,IRENA_reported_cell,False
+wind,Morocco,2019,,2024 USD/kW,Fig 2.7,L23,source_blank,False
+wind,Morocco,2020,1581.6979014412022,2024 USD/kW,Fig 2.7,M23,IRENA_reported_cell,False
+wind,Morocco,2021,1063.3299688864263,2024 USD/kW,Fig 2.7,N23,IRENA_reported_cell,False
+wind,Morocco,2022,1998.630520549542,2024 USD/kW,Fig 2.7,O23,IRENA_reported_cell,False
+wind,Morocco,2023,1637.9556365859437,2024 USD/kW,Fig 2.7,P23,IRENA_reported_cell,False
+wind,Morocco,2024,1215.7407407407409,2024 USD/kW,Fig 2.7,Q23,IRENA_reported_cell,False
+wind,Netherlands,2010,2158.92562733493,2024 USD/kW,Fig 2.7,C24,IRENA_reported_cell,False
+wind,Netherlands,2011,,2024 USD/kW,Fig 2.7,D24,source_blank,False
+wind,Netherlands,2012,2634.4007784464193,2024 USD/kW,Fig 2.7,E24,IRENA_reported_cell,False
+wind,Netherlands,2013,2047.711158514466,2024 USD/kW,Fig 2.7,F24,IRENA_reported_cell,False
+wind,Netherlands,2014,2464.6422557303017,2024 USD/kW,Fig 2.7,G24,IRENA_reported_cell,False
+wind,Netherlands,2015,3128.7477408195973,2024 USD/kW,Fig 2.7,H24,IRENA_reported_cell,False
+wind,Netherlands,2016,2206.684379051889,2024 USD/kW,Fig 2.7,I24,IRENA_reported_cell,False
+wind,Netherlands,2017,3123.1643487174047,2024 USD/kW,Fig 2.7,J24,IRENA_reported_cell,False
+wind,Netherlands,2018,2832.8473094792557,2024 USD/kW,Fig 2.7,K24,IRENA_reported_cell,False
+wind,Netherlands,2019,2525.561275193945,2024 USD/kW,Fig 2.7,L24,IRENA_reported_cell,False
+wind,Netherlands,2020,2425.633757502371,2024 USD/kW,Fig 2.7,M24,IRENA_reported_cell,False
+wind,Netherlands,2021,2448.47367719408,2024 USD/kW,Fig 2.7,N24,IRENA_reported_cell,False
+wind,Netherlands,2022,1878.9958952870404,2024 USD/kW,Fig 2.7,O24,IRENA_reported_cell,False
+wind,Netherlands,2023,1741.372212705164,2024 USD/kW,Fig 2.7,P24,IRENA_reported_cell,False
+wind,Netherlands,2024,1684.5153447099583,2024 USD/kW,Fig 2.7,Q24,IRENA_reported_cell,False
+wind,New Zealand,2010,,2024 USD/kW,Fig 2.7,C25,source_blank,False
+wind,New Zealand,2011,2300.4809656889506,2024 USD/kW,Fig 2.7,D25,IRENA_reported_cell,False
+wind,New Zealand,2012,,2024 USD/kW,Fig 2.7,E25,source_blank,False
+wind,New Zealand,2013,,2024 USD/kW,Fig 2.7,F25,source_blank,False
+wind,New Zealand,2014,3476.1093814487704,2024 USD/kW,Fig 2.7,G25,IRENA_reported_cell,False
+wind,New Zealand,2015,2958.7542129979165,2024 USD/kW,Fig 2.7,H25,IRENA_reported_cell,False
+wind,New Zealand,2016,,2024 USD/kW,Fig 2.7,I25,source_blank,False
+wind,New Zealand,2017,,2024 USD/kW,Fig 2.7,J25,source_blank,False
+wind,New Zealand,2018,,2024 USD/kW,Fig 2.7,K25,source_blank,False
+wind,New Zealand,2019,,2024 USD/kW,Fig 2.7,L25,source_blank,False
+wind,New Zealand,2020,1575.9233548083519,2024 USD/kW,Fig 2.7,M25,IRENA_reported_cell,False
+wind,New Zealand,2021,1521.100715149986,2024 USD/kW,Fig 2.7,N25,IRENA_reported_cell,False
+wind,New Zealand,2022,,2024 USD/kW,Fig 2.7,O25,source_blank,False
+wind,New Zealand,2023,1717.7535666860015,2024 USD/kW,Fig 2.7,P25,IRENA_reported_cell,False
+wind,New Zealand,2024,1162.3080116230801,2024 USD/kW,Fig 2.7,Q25,IRENA_reported_cell,False
+wind,Norway,2010,,2024 USD/kW,Fig 2.7,C26,source_blank,False
+wind,Norway,2011,,2024 USD/kW,Fig 2.7,D26,source_blank,False
+wind,Norway,2012,2640.6881311396087,2024 USD/kW,Fig 2.7,E26,IRENA_reported_cell,False
+wind,Norway,2013,2509.3957579474786,2024 USD/kW,Fig 2.7,F26,IRENA_reported_cell,False
+wind,Norway,2014,,2024 USD/kW,Fig 2.7,G26,source_blank,False
+wind,Norway,2015,2047.0572518825313,2024 USD/kW,Fig 2.7,H26,IRENA_reported_cell,False
+wind,Norway,2016,2198.6991750939587,2024 USD/kW,Fig 2.7,I26,IRENA_reported_cell,False
+wind,Norway,2017,2272.3747551959104,2024 USD/kW,Fig 2.7,J26,IRENA_reported_cell,False
+wind,Norway,2018,2302.9466061248804,2024 USD/kW,Fig 2.7,K26,IRENA_reported_cell,False
+wind,Norway,2019,2117.2171994664586,2024 USD/kW,Fig 2.7,L26,IRENA_reported_cell,False
+wind,Norway,2020,1491.7999285427406,2024 USD/kW,Fig 2.7,M26,IRENA_reported_cell,False
+wind,Norway,2021,1750.1899748354551,2024 USD/kW,Fig 2.7,N26,IRENA_reported_cell,False
+wind,Norway,2022,,2024 USD/kW,Fig 2.7,O26,source_blank,False
+wind,Norway,2023,,2024 USD/kW,Fig 2.7,P26,source_blank,False
+wind,Norway,2024,,2024 USD/kW,Fig 2.7,Q26,source_blank,False
+wind,Pakistan,2010,,2024 USD/kW,Fig 2.7,C27,source_blank,False
+wind,Pakistan,2011,,2024 USD/kW,Fig 2.7,D27,source_blank,False
+wind,Pakistan,2012,3241.6244028628657,2024 USD/kW,Fig 2.7,E27,IRENA_reported_cell,False
+wind,Pakistan,2013,,2024 USD/kW,Fig 2.7,F27,source_blank,False
+wind,Pakistan,2014,1895.6171040113568,2024 USD/kW,Fig 2.7,G27,IRENA_reported_cell,False
+wind,Pakistan,2015,3166.699429283991,2024 USD/kW,Fig 2.7,H27,IRENA_reported_cell,False
+wind,Pakistan,2016,3263.7983952221907,2024 USD/kW,Fig 2.7,I27,IRENA_reported_cell,False
+wind,Pakistan,2017,3162.649974918301,2024 USD/kW,Fig 2.7,J27,IRENA_reported_cell,False
+wind,Pakistan,2018,2531.621455317668,2024 USD/kW,Fig 2.7,K27,IRENA_reported_cell,False
+wind,Pakistan,2019,,2024 USD/kW,Fig 2.7,L27,source_blank,False
+wind,Pakistan,2020,,2024 USD/kW,Fig 2.7,M27,source_blank,False
+wind,Pakistan,2021,2124.5679794539774,2024 USD/kW,Fig 2.7,N27,IRENA_reported_cell,False
+wind,Pakistan,2022,1321.4261956321814,2024 USD/kW,Fig 2.7,O27,IRENA_reported_cell,False
+wind,Pakistan,2023,,2024 USD/kW,Fig 2.7,P27,source_blank,False
+wind,Pakistan,2024,,2024 USD/kW,Fig 2.7,Q27,source_blank,False
+wind,Panama,2010,,2024 USD/kW,Fig 2.7,C28,source_blank,False
+wind,Panama,2011,,2024 USD/kW,Fig 2.7,D28,source_blank,False
+wind,Panama,2012,,2024 USD/kW,Fig 2.7,E28,source_blank,False
+wind,Panama,2013,2253.829657825554,2024 USD/kW,Fig 2.7,F28,IRENA_reported_cell,False
+wind,Panama,2014,2061.5612188681102,2024 USD/kW,Fig 2.7,G28,IRENA_reported_cell,False
+wind,Panama,2015,2489.7916665030607,2024 USD/kW,Fig 2.7,H28,IRENA_reported_cell,False
+wind,Panama,2016,2490.5292358474976,2024 USD/kW,Fig 2.7,I28,IRENA_reported_cell,False
+wind,Panama,2017,,2024 USD/kW,Fig 2.7,J28,source_blank,False
+wind,Panama,2018,,2024 USD/kW,Fig 2.7,K28,source_blank,False
+wind,Panama,2019,,2024 USD/kW,Fig 2.7,L28,source_blank,False
+wind,Panama,2020,,2024 USD/kW,Fig 2.7,M28,source_blank,False
+wind,Panama,2021,,2024 USD/kW,Fig 2.7,N28,source_blank,False
+wind,Panama,2022,,2024 USD/kW,Fig 2.7,O28,source_blank,False
+wind,Panama,2023,,2024 USD/kW,Fig 2.7,P28,source_blank,False
+wind,Panama,2024,,2024 USD/kW,Fig 2.7,Q28,source_blank,False
+wind,Peru,2010,,2024 USD/kW,Fig 2.7,C29,source_blank,False
+wind,Peru,2011,,2024 USD/kW,Fig 2.7,D29,source_blank,False
+wind,Peru,2012,,2024 USD/kW,Fig 2.7,E29,source_blank,False
+wind,Peru,2013,2116.6136192751574,2024 USD/kW,Fig 2.7,F29,IRENA_reported_cell,False
+wind,Peru,2014,3380.6094476317653,2024 USD/kW,Fig 2.7,G29,IRENA_reported_cell,False
+wind,Peru,2015,2992.7798819582235,2024 USD/kW,Fig 2.7,H29,IRENA_reported_cell,False
+wind,Peru,2016,,2024 USD/kW,Fig 2.7,I29,source_blank,False
+wind,Peru,2017,,2024 USD/kW,Fig 2.7,J29,source_blank,False
+wind,Peru,2018,1488.6826241894983,2024 USD/kW,Fig 2.7,K29,IRENA_reported_cell,False
+wind,Peru,2019,,2024 USD/kW,Fig 2.7,L29,source_blank,False
+wind,Peru,2020,,2024 USD/kW,Fig 2.7,M29,source_blank,False
+wind,Peru,2021,,2024 USD/kW,Fig 2.7,N29,source_blank,False
+wind,Peru,2022,,2024 USD/kW,Fig 2.7,O29,source_blank,False
+wind,Peru,2023,1301.5318479864275,2024 USD/kW,Fig 2.7,P29,IRENA_reported_cell,False
+wind,Peru,2024,1064.9717514124293,2024 USD/kW,Fig 2.7,Q29,IRENA_reported_cell,False
+wind,Philippines,2010,,2024 USD/kW,Fig 2.7,C30,source_blank,False
+wind,Philippines,2011,,2024 USD/kW,Fig 2.7,D30,source_blank,False
+wind,Philippines,2012,,2024 USD/kW,Fig 2.7,E30,source_blank,False
+wind,Philippines,2013,3771.9913182610826,2024 USD/kW,Fig 2.7,F30,IRENA_reported_cell,False
+wind,Philippines,2014,3390.6375924533586,2024 USD/kW,Fig 2.7,G30,IRENA_reported_cell,False
+wind,Philippines,2015,3362.819424030517,2024 USD/kW,Fig 2.7,H30,IRENA_reported_cell,False
+wind,Philippines,2016,3343.766114978089,2024 USD/kW,Fig 2.7,I30,IRENA_reported_cell,False
+wind,Philippines,2017,3549.004168941876,2024 USD/kW,Fig 2.7,J30,IRENA_reported_cell,False
+wind,Philippines,2018,,2024 USD/kW,Fig 2.7,K30,source_blank,False
+wind,Philippines,2019,2224.069374666822,2024 USD/kW,Fig 2.7,L30,IRENA_reported_cell,False
+wind,Philippines,2020,,2024 USD/kW,Fig 2.7,M30,source_blank,False
+wind,Philippines,2021,,2024 USD/kW,Fig 2.7,N30,source_blank,False
+wind,Philippines,2022,,2024 USD/kW,Fig 2.7,O30,source_blank,False
+wind,Philippines,2023,1693.0611126276094,2024 USD/kW,Fig 2.7,P30,IRENA_reported_cell,False
+wind,Philippines,2024,2324.5931212640144,2024 USD/kW,Fig 2.7,Q30,IRENA_reported_cell,False
+wind,Portugal,2010,2452.067550343923,2024 USD/kW,Fig 2.7,C31,IRENA_reported_cell,False
+wind,Portugal,2011,2878.573792100409,2024 USD/kW,Fig 2.7,D31,IRENA_reported_cell,False
+wind,Portugal,2012,2955.055765799086,2024 USD/kW,Fig 2.7,E31,IRENA_reported_cell,False
+wind,Portugal,2013,2399.0229412796475,2024 USD/kW,Fig 2.7,F31,IRENA_reported_cell,False
+wind,Portugal,2014,2338.8952018665113,2024 USD/kW,Fig 2.7,G31,IRENA_reported_cell,False
+wind,Portugal,2015,2376.619318025648,2024 USD/kW,Fig 2.7,H31,IRENA_reported_cell,False
+wind,Portugal,2016,2133.1533869350837,2024 USD/kW,Fig 2.7,I31,IRENA_reported_cell,False
+wind,Portugal,2017,2208.8422670854943,2024 USD/kW,Fig 2.7,J31,IRENA_reported_cell,False
+wind,Portugal,2018,2092.180564944923,2024 USD/kW,Fig 2.7,K31,IRENA_reported_cell,False
+wind,Portugal,2019,,2024 USD/kW,Fig 2.7,L31,source_blank,False
+wind,Portugal,2020,,2024 USD/kW,Fig 2.7,M31,source_blank,False
+wind,Portugal,2021,,2024 USD/kW,Fig 2.7,N31,source_blank,False
+wind,Portugal,2022,,2024 USD/kW,Fig 2.7,O31,source_blank,False
+wind,Portugal,2023,,2024 USD/kW,Fig 2.7,P31,source_blank,False
+wind,Portugal,2024,,2024 USD/kW,Fig 2.7,Q31,source_blank,False
+wind,Republic of Korea,2010,2887.8821309725513,2024 USD/kW,Fig 2.7,C32,IRENA_reported_cell,False
+wind,Republic of Korea,2011,2678.6654025797284,2024 USD/kW,Fig 2.7,D32,IRENA_reported_cell,False
+wind,Republic of Korea,2012,2881.842191778824,2024 USD/kW,Fig 2.7,E32,IRENA_reported_cell,False
+wind,Republic of Korea,2013,,2024 USD/kW,Fig 2.7,F32,source_blank,False
+wind,Republic of Korea,2014,,2024 USD/kW,Fig 2.7,G32,source_blank,False
+wind,Republic of Korea,2015,2866.191290118574,2024 USD/kW,Fig 2.7,H32,IRENA_reported_cell,False
+wind,Republic of Korea,2016,2782.6874761523745,2024 USD/kW,Fig 2.7,I32,IRENA_reported_cell,False
+wind,Republic of Korea,2017,2724.3724308195046,2024 USD/kW,Fig 2.7,J32,IRENA_reported_cell,False
+wind,Republic of Korea,2018,2687.7918823873456,2024 USD/kW,Fig 2.7,K32,IRENA_reported_cell,False
+wind,Republic of Korea,2019,2629.4164501574037,2024 USD/kW,Fig 2.7,L32,IRENA_reported_cell,False
+wind,Republic of Korea,2020,,2024 USD/kW,Fig 2.7,M32,source_blank,False
+wind,Republic of Korea,2021,2733.811884161581,2024 USD/kW,Fig 2.7,N32,IRENA_reported_cell,False
+wind,Republic of Korea,2022,2687.3214631918813,2024 USD/kW,Fig 2.7,O32,IRENA_reported_cell,False
+wind,Republic of Korea,2023,2098.9723898784696,2024 USD/kW,Fig 2.7,P32,IRENA_reported_cell,False
+wind,Republic of Korea,2024,2614.551102421224,2024 USD/kW,Fig 2.7,Q32,IRENA_reported_cell,False
+wind,Russian Federation,2010,,2024 USD/kW,Fig 2.7,C33,source_blank,False
+wind,Russian Federation,2011,,2024 USD/kW,Fig 2.7,D33,source_blank,False
+wind,Russian Federation,2012,,2024 USD/kW,Fig 2.7,E33,source_blank,False
+wind,Russian Federation,2013,,2024 USD/kW,Fig 2.7,F33,source_blank,False
+wind,Russian Federation,2014,,2024 USD/kW,Fig 2.7,G33,source_blank,False
+wind,Russian Federation,2015,2814.9962833852,2024 USD/kW,Fig 2.7,H33,IRENA_reported_cell,False
+wind,Russian Federation,2016,,2024 USD/kW,Fig 2.7,I33,source_blank,False
+wind,Russian Federation,2017,,2024 USD/kW,Fig 2.7,J33,source_blank,False
+wind,Russian Federation,2018,2386.0380364288594,2024 USD/kW,Fig 2.7,K33,IRENA_reported_cell,False
+wind,Russian Federation,2019,1833.6807740940271,2024 USD/kW,Fig 2.7,L33,IRENA_reported_cell,False
+wind,Russian Federation,2020,1913.0445038919024,2024 USD/kW,Fig 2.7,M33,IRENA_reported_cell,False
+wind,Russian Federation,2021,1667.735994972729,2024 USD/kW,Fig 2.7,N33,IRENA_reported_cell,False
+wind,Russian Federation,2022,1518.4455784960508,2024 USD/kW,Fig 2.7,O33,IRENA_reported_cell,False
+wind,Russian Federation,2023,1756.9987710111645,2024 USD/kW,Fig 2.7,P33,IRENA_reported_cell,False
+wind,Russian Federation,2024,1483.2410830340045,2024 USD/kW,Fig 2.7,Q33,IRENA_reported_cell,False
+wind,South Africa,2010,,2024 USD/kW,Fig 2.7,C34,source_blank,False
+wind,South Africa,2011,,2024 USD/kW,Fig 2.7,D34,source_blank,False
+wind,South Africa,2012,2663.9539687454717,2024 USD/kW,Fig 2.7,E34,IRENA_reported_cell,False
+wind,South Africa,2013,2937.3922376731516,2024 USD/kW,Fig 2.7,F34,IRENA_reported_cell,False
+wind,South Africa,2014,2809.2308698693714,2024 USD/kW,Fig 2.7,G34,IRENA_reported_cell,False
+wind,South Africa,2015,2577.95474550319,2024 USD/kW,Fig 2.7,H34,IRENA_reported_cell,False
+wind,South Africa,2016,2214.416937425144,2024 USD/kW,Fig 2.7,I34,IRENA_reported_cell,False
+wind,South Africa,2017,2381.0901630795966,2024 USD/kW,Fig 2.7,J34,IRENA_reported_cell,False
+wind,South Africa,2018,,2024 USD/kW,Fig 2.7,K34,source_blank,False
+wind,South Africa,2019,2234.3550042432935,2024 USD/kW,Fig 2.7,L34,IRENA_reported_cell,False
+wind,South Africa,2020,2036.2810704703413,2024 USD/kW,Fig 2.7,M34,IRENA_reported_cell,False
+wind,South Africa,2021,2117.2358348626703,2024 USD/kW,Fig 2.7,N34,IRENA_reported_cell,False
+wind,South Africa,2022,1685.8345977544966,2024 USD/kW,Fig 2.7,O34,IRENA_reported_cell,False
+wind,South Africa,2023,1773.3756972046385,2024 USD/kW,Fig 2.7,P34,IRENA_reported_cell,False
+wind,South Africa,2024,,2024 USD/kW,Fig 2.7,Q34,source_blank,False
+wind,Ukraine,2010,,2024 USD/kW,Fig 2.7,C35,source_blank,False
+wind,Ukraine,2011,1425.7545959453614,2024 USD/kW,Fig 2.7,D35,IRENA_reported_cell,False
+wind,Ukraine,2012,2967.379505215364,2024 USD/kW,Fig 2.7,E35,IRENA_reported_cell,False
+wind,Ukraine,2013,3058.168349967395,2024 USD/kW,Fig 2.7,F35,IRENA_reported_cell,False
+wind,Ukraine,2014,2452.067550343923,2024 USD/kW,Fig 2.7,G35,IRENA_reported_cell,False
+wind,Ukraine,2015,,2024 USD/kW,Fig 2.7,H35,source_blank,False
+wind,Ukraine,2016,,2024 USD/kW,Fig 2.7,I35,source_blank,False
+wind,Ukraine,2017,2371.7725874365387,2024 USD/kW,Fig 2.7,J35,IRENA_reported_cell,False
+wind,Ukraine,2018,,2024 USD/kW,Fig 2.7,K35,source_blank,False
+wind,Ukraine,2019,2484.656561203385,2024 USD/kW,Fig 2.7,L35,IRENA_reported_cell,False
+wind,Ukraine,2020,1735.915112693397,2024 USD/kW,Fig 2.7,M35,IRENA_reported_cell,False
+wind,Ukraine,2021,1402.736560484722,2024 USD/kW,Fig 2.7,N35,IRENA_reported_cell,False
+wind,Ukraine,2022,,2024 USD/kW,Fig 2.7,O35,source_blank,False
+wind,Ukraine,2023,1641.5359215432359,2024 USD/kW,Fig 2.7,P35,IRENA_reported_cell,False
+wind,Ukraine,2024,,2024 USD/kW,Fig 2.7,Q35,source_blank,False
+wind,Uruguay,2010,,2024 USD/kW,Fig 2.7,C36,source_blank,False
+wind,Uruguay,2011,4094.3240738050317,2024 USD/kW,Fig 2.7,D36,IRENA_reported_cell,False
+wind,Uruguay,2012,3932.824491839634,2024 USD/kW,Fig 2.7,E36,IRENA_reported_cell,False
+wind,Uruguay,2013,2791.036728437179,2024 USD/kW,Fig 2.7,F36,IRENA_reported_cell,False
+wind,Uruguay,2014,2862.3021810572545,2024 USD/kW,Fig 2.7,G36,IRENA_reported_cell,False
+wind,Uruguay,2015,2483.301025825896,2024 USD/kW,Fig 2.7,H36,IRENA_reported_cell,False
+wind,Uruguay,2016,,2024 USD/kW,Fig 2.7,I36,source_blank,False
+wind,Uruguay,2017,2765.1475594702765,2024 USD/kW,Fig 2.7,J36,IRENA_reported_cell,False
+wind,Uruguay,2018,,2024 USD/kW,Fig 2.7,K36,source_blank,False
+wind,Uruguay,2019,,2024 USD/kW,Fig 2.7,L36,source_blank,False
+wind,Uruguay,2020,,2024 USD/kW,Fig 2.7,M36,source_blank,False
+wind,Uruguay,2021,,2024 USD/kW,Fig 2.7,N36,source_blank,False
+wind,Uruguay,2022,,2024 USD/kW,Fig 2.7,O36,source_blank,False
+wind,Uruguay,2023,,2024 USD/kW,Fig 2.7,P36,source_blank,False
+wind,Uruguay,2024,,2024 USD/kW,Fig 2.7,Q36,source_blank,False
+wind,Viet Nam,2010,,2024 USD/kW,Fig 2.7,C37,source_blank,False
+wind,Viet Nam,2011,2514.4703683290895,2024 USD/kW,Fig 2.7,D37,IRENA_reported_cell,False
+wind,Viet Nam,2012,3303.9005827670435,2024 USD/kW,Fig 2.7,E37,IRENA_reported_cell,False
+wind,Viet Nam,2013,3105.579333611682,2024 USD/kW,Fig 2.7,F37,IRENA_reported_cell,False
+wind,Viet Nam,2014,,2024 USD/kW,Fig 2.7,G37,source_blank,False
+wind,Viet Nam,2015,2492.3066075803363,2024 USD/kW,Fig 2.7,H37,IRENA_reported_cell,False
+wind,Viet Nam,2016,2517.6067791235214,2024 USD/kW,Fig 2.7,I37,IRENA_reported_cell,False
+wind,Viet Nam,2017,2639.3531128200398,2024 USD/kW,Fig 2.7,J37,IRENA_reported_cell,False
+wind,Viet Nam,2018,,2024 USD/kW,Fig 2.7,K37,source_blank,False
+wind,Viet Nam,2019,2721.9194026706255,2024 USD/kW,Fig 2.7,L37,IRENA_reported_cell,False
+wind,Viet Nam,2020,2739.805024646427,2024 USD/kW,Fig 2.7,M37,IRENA_reported_cell,False
+wind,Viet Nam,2021,1747.7060938190634,2024 USD/kW,Fig 2.7,N37,IRENA_reported_cell,False
+wind,Viet Nam,2022,1828.2989744757288,2024 USD/kW,Fig 2.7,O37,IRENA_reported_cell,False
+wind,Viet Nam,2023,1730.5927051259584,2024 USD/kW,Fig 2.7,P37,IRENA_reported_cell,False
+wind,Viet Nam,2024,1695.5220646958928,2024 USD/kW,Fig 2.7,Q37,IRENA_reported_cell,False

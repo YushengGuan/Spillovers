@@ -1,0 +1,12 @@
+technology,iso3,year,source_sheet,source_cell,source_status,left_year,left_value,right_year,right_value,completed_value,method,unit
+pv,BRA,2010,Figure 3.3,C6,source_blank,2011,7522.515553575554,2011,7522.515553575554,7522.515553575554,2011_value_carried_to_2010_per_user,2024 USD/kW
+pv,BRA,2012,Figure 3.3,E6,source_blank,2011,7522.515553575554,2013,5117.282639309783,6319.899096442668,internal_linear_interpolation,2024 USD/kW
+pv,ESP,2016,Figure 3.3,I17,source_blank,2015,1422.8034809078426,2019,912.6338153971122,1295.26106453016,internal_linear_interpolation,2024 USD/kW
+pv,ESP,2017,Figure 3.3,J17,source_blank,2015,1422.8034809078426,2019,912.6338153971122,1167.7186481524775,internal_linear_interpolation,2024 USD/kW
+pv,ESP,2018,Figure 3.3,K17,source_blank,2015,1422.8034809078426,2019,912.6338153971122,1040.1762317747948,internal_linear_interpolation,2024 USD/kW
+pv,ITA,2015,Figure 3.3,H12,source_blank,2014,2241.319524548638,2017,1157.9088452672888,1880.182631454855,internal_linear_interpolation,2024 USD/kW
+pv,ITA,2016,Figure 3.3,I12,source_blank,2014,2241.319524548638,2017,1157.9088452672888,1519.045738361072,internal_linear_interpolation,2024 USD/kW
+pv,JPN,2010,Figure 3.3,C13,source_blank,2011,6644.276501864859,2011,6644.276501864859,6644.276501864859,2011_value_carried_to_2010_per_user,2024 USD/kW
+pv,KOR,2010,Figure 3.3,C16,source_blank,2011,7012.58447961614,2011,7012.58447961614,7012.58447961614,2011_value_carried_to_2010_per_user,2024 USD/kW
+wind,POL,2018,Fig 2.6,K17,source_blank,2017,1712.2026322546378,2020,1739.900995381421,1721.4354199635654,internal_linear_interpolation,2024 USD/kW
+wind,POL,2019,Fig 2.6,L17,source_blank,2017,1712.2026322546378,2020,1739.900995381421,1730.6682076724933,internal_linear_interpolation,2024 USD/kW

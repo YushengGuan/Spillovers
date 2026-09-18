@@ -1,0 +1,11 @@
+{
+  "input_rows": 23,
+  "shapley_rows": 23,
+  "main_rows": 23,
+  "all_assertions_pass": true,
+  "max_closure_error": 9.094947017729282e-13,
+  "label_count": 23,
+  "annual_model_points": 30,
+  "observation_series_points": 30,
+  "points_containing_interpolation": 8
+}

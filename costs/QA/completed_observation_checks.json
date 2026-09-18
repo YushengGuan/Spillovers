@@ -1,0 +1,12 @@
+{
+  "country_years": 345,
+  "reported_country_years": 334,
+  "filled_country_years": 11,
+  "carried_2011_to_2010": 3,
+  "internal_linear_interpolations": 8,
+  "annual_points": 30,
+  "aggregate_points_containing_imputation": 8,
+  "all_reported_values_unchanged": true,
+  "weights_identical_to_model": true,
+  "model_not_used_for_imputation": true
+}

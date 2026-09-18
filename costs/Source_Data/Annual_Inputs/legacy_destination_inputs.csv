@@ -1,0 +1,376 @@
+﻿technology,iso3,country_name,year,tic,equipment_cost,other_cost,equipment_share,new_capacity_kw,import_dependency_value,scope_note
+pv,AUS,Australia,2010,8226.00670764764,2185.9325702699407,6040.0741373777,0.2657343530048061,379500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,AUS,Australia,2011,8070.62791640493,2144.643087708391,5925.984828696539,0.2657343530048061,165000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,AUS,Australia,2012,5845.8413892502,1553.4408793411187,4292.400509909082,0.2657343530048061,545000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,AUS,Australia,2013,3431.14900017858,911.774159625541,2519.374840553039,0.2657343530048057,400500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,AUS,Australia,2014,3581.32835835596,951.681974205484,2629.646384150476,0.2657343530048057,412500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,AUS,Australia,2015,2663.0217981109,707.6563745586944,1955.365423552205,0.2657343530048057,449500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,AUS,Australia,2016,2292.9292994915,653.4996895923867,1639.429609899113,0.2850064717378388,422500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,AUS,Australia,2017,2346.42868245442,623.5267078039449,1722.9019746504753,0.2657343530048061,680115.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,AUS,Australia,2018,1809.82800377751,394.0416140569556,1415.7863897205543,0.2177232384704535,1943270.0000000005,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,AUS,Australia,2019,1489.09214466389,360.31100109130585,1128.781143572584,0.2419668939779636,2162460.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,AUS,Australia,2020,1248.04575528938,330.7723542623641,917.2734010270158,0.2650322336825456,2159970.0000000005,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,AUS,Australia,2021,1162.04712304129,411.66110049082926,750.3860225504607,0.3542550834026737,2311994.999999999,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,AUS,Australia,2022,979.521461555793,363.57932992773056,615.9421316280625,0.3711805654061427,2245235.0000000005,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,AUS,Australia,2023,1012.2454310799,318.39518766937607,693.850243410524,0.3145434673186922,893924.9999999995,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,AUS,Australia,2024,943.969038552507,294.5420026163424,649.4270359361645,0.3120250671229604,2661500.000000002,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2010,7522.51555357555,1987.611977062298,5534.903576513252,0.264221717177781,24.99999999999991,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2011,7522.51555357555,1987.611977062298,5534.903576513252,0.264221717177781,2780.0000000000005,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2012,6319.89909644267,1669.8545916523892,4650.044504790281,0.264221717177781,505.00000000000045,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2013,5117.28263930978,1352.0972062424776,3765.185433067303,0.264221717177781,464.9999999999999,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2014,6068.72279915614,1603.4883590689851,4465.234440087155,0.264221717177781,6305.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2015,2497.65897641162,659.9357436719772,1837.723232739643,0.264221717177781,11930.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2016,2460.59280282345,650.142055637301,1810.4507471861489,0.264221717177781,42629.99999999999,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2017,1975.08688575981,521.8608485307728,1453.226037229037,0.264221717177781,535700.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2018,1809.61904759092,478.1406521920935,1331.4783953988265,0.264221717177781,623955.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2019,1495.16284847862,375.50606547835577,1119.656783000264,0.25114726858044,1105845.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2020,1298.40743414743,263.1233860293644,1035.2840481180656,0.2026508622096256,1858120.0000000005,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2021,915.542297424372,304.5782776691147,610.9640197552574,0.3326752663705024,2962210.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2022,779.520074075437,205.26368420153423,574.2563898739028,0.2633205879207032,5379585.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2023,744.352528682658,193.8722481119236,550.4802805707344,0.2604575663295391,6247325.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,BRA,Brazil,2024,724.436607374899,197.9053365242601,526.531270850639,0.2731851683219029,7775425.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,CHN,China,2010,4291.43290226581,2361.1493952340747,1930.2835070317356,0.5502007019584122,290000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,CHN,China,2011,4031.16237878109,1659.2384175334264,2371.9239612476636,0.4116029724496321,1033000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,CHN,China,2012,3275.39666836316,833.8275607552864,2441.569107607874,0.2545730014349626,1785000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,CHN,China,2013,2520.85034160084,749.0545000578583,1771.7958415429816,0.29714358194789897,5475000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,CHN,China,2014,2100.06502229283,699.0226074119715,1401.0424148808584,0.3328576020226201,5300000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,CHN,China,2015,1622.55538149438,629.8291681948343,992.7262132995457,0.3881711375637355,7565000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,CHN,China,2016,1468.76921525338,521.4871782855456,947.2820369678344,0.35505045508159216,17120000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,CHN,China,2017,1377.86660568043,405.340532042003,972.526073638427,0.2941798069355446,26502245.000000004,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,CHN,China,2018,1047.26599833193,341.954784931793,705.3112134001369,0.3265214238564544,22102784.999999996,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,CHN,China,2019,946.188254693266,298.4415804150787,647.7466742781874,0.3154145899980835,14774970.000000002,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,CHN,China,2020,765.815825100798,275.7864282538957,490.0293968469023,0.36012108814491556,24415000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,CHN,China,2021,713.51431624731,346.4040549812865,367.11026126602354,0.48548998540517013,26490000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,CHN,China,2022,759.328024072784,302.580926235985,456.74709783679907,0.3984851298033768,43025000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,CHN,China,2023,687.158676448271,213.89399786188568,473.2646785863853,0.31127308028393574,108440000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,CHN,China,2024,590.58615399278,97.27851766068326,493.30763633209676,0.16471520201246118,138380000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+pv,DEU,Germany,2010,4412.42949894607,1797.8001360173848,2614.6293629286856,0.4074399684905556,3720000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,DEU,Germany,2011,3509.45855834911,1429.8936844326713,2079.5648739164385,0.4074399684905554,3955000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,DEU,Germany,2012,2788.46800190878,1136.133314834633,1652.334687074147,0.4074399684905546,4080500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,DEU,Germany,2013,2385.84899412031,972.0902389876014,1413.7587551327088,0.4074399684905549,1316500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,DEU,Germany,2014,1905.61098173221,776.4220783522259,1129.188903379984,0.4074399684905543,595000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,DEU,Germany,2015,1524.06572374874,620.9652904617201,903.10043328702,0.407439968490554,662000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,DEU,Germany,2016,1383.62885100851,640.4296958005392,743.1991552079709,0.4628623458767413,727500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,DEU,Germany,2017,1326.59731019996,540.5087662675264,786.0885439324336,0.4074399684905547,807000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,DEU,Germany,2018,1325.57870064524,587.9687167741243,737.6099838711156,0.443556249423685,1432500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,DEU,Germany,2019,1070.35038272175,459.9881204074208,610.3622623143292,0.4297547119455742,1878000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,DEU,Germany,2020,823.333270401052,283.57258925639064,539.7606811446614,0.3444201752204915,2378500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,DEU,Germany,2021,787.790346289519,392.9071358452965,394.88321044422247,0.4987458118722619,3183500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,DEU,Germany,2022,1057.34117367676,313.6300469836497,743.7111266931104,0.2966214262639975,576000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,DEU,Germany,2023,748.22740078444,284.82829177718986,463.3991090072501,0.3806707579521633,7165500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,DEU,Germany,2024,592.966548401822,204.80076657906832,388.1657818227537,0.3453833392980639,7842500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2010,5563.90103079268,2309.220242396958,3254.680788395722,0.4150361822787431,225970.0000000001,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2011,3886.64679851819,1613.0990491228908,2273.547749395299,0.4150361822787436,203995.0000000001,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2012,3201.46960069621,1328.7257207544087,1872.7438799418007,0.4150361822787436,143324.99999999985,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2013,2750.85934712369,1141.7061614160134,1609.1531857076766,0.4150361822787436,60505.0000000001,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2014,2758.28975446983,1144.7900493137315,1613.499705156098,0.4150361822787438,3380.000000000109,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2015,1422.80348090784,590.5149248488979,832.288556058942,0.4150361822787441,3609.9999999996726,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2016,1295.26106453016,528.4681132398714,766.7929512902886,0.4080012344318917,2120.0000000003456,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2017,1167.71864815248,472.94070811634754,694.7779400361325,0.4050125506384747,4134.999999999764,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2018,1040.17623177479,400.6798229789932,639.4964087957969,0.3852037863769847,20704.999999999927,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2019,912.633815397112,358.52581132534766,554.1080040717643,0.3928473888175437,2021795.0000000005,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2020,897.08412157211,303.78889237447305,593.2952291976369,0.3386403627812441,664195.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2021,926.730225640223,357.94604125917994,568.7841843810431,0.386246214222587,1789805.0000000005,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2022,826.227599302485,304.8406881823307,521.3869111201543,0.3689548599437761,5091060.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2023,686.791110513351,224.69537033699208,462.0957401763589,0.3271669753690326,2841145.0000000005,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ESP,Spain,2024,822.124441268123,285.875194092936,536.249247175187,0.347727399579527,3121630.000000001,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2010,6514.65732422562,2753.305234492456,3761.352089733164,0.4226323960669311,383500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2011,6650.28526069215,2810.62599425492,3839.6592664372297,0.4226323960669312,972290.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2012,5890.383037251,2489.466696785398,3400.916340465602,0.4226323960669312,656090.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2013,3864.82301378044,1633.399410688646,2231.4236030917937,0.4226323960669313,429759.99999999977,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2014,2821.35484289285,1192.3959574068444,1628.958885486005,0.4226323960669308,350565.00000000006,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2015,1857.07191546456,784.8587533013924,1072.2131621631677,0.4226323960669311,479065.00000000006,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2016,1571.83817329739,640.4296958005392,931.4084774968508,0.4074399684905544,249770.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2017,1476.36952800409,623.961591100574,852.407936903516,0.422632396066932,102345.00000000026,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2018,1278.88387364973,335.6253810646457,943.2584925850844,0.2624361663947052,584840.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2019,1165.9275536495,290.7957901054928,875.1317635440071,0.2494115429344348,516165.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2020,1112.92804839325,286.04118062988044,826.8868677633695,0.2570167775381725,578535.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2021,918.025755962758,324.3741292393992,593.6516267233587,0.3533388111744419,1476040.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2022,1228.36280066234,269.5760656745998,958.7867349877404,0.2194596462293085,1296334.9999999988,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2023,977.58883510313,278.81235842960865,698.7764766735213,0.2852041148773917,1660855.0000000016,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,FRA,France,2024,1103.95801624094,382.5825781632973,721.3754380776427,0.3465553694387942,2666760.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2010,6015.81257643064,1598.608062795971,4417.204513634669,0.2657343530048059,11435.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2011,3706.13278925869,984.8467989035556,2721.2859903551343,0.2657343530048061,224740.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2012,3251.39107824026,864.006304541774,2387.384773698486,0.265734353004806,173695.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2013,3346.78049335946,889.3545490519825,2457.425944307477,0.2657343530048063,173690.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2014,2271.33554160773,603.5718806059498,1667.7636610017803,0.2657343530048056,943215.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2015,1547.76357284486,411.2939516343368,1136.4696212105232,0.2657343530048066,908095.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2016,1332.24642391231,575.0797268413004,757.1666970710097,0.4316616779893513,2066895.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2017,1328.43151296093,353.0098886078678,975.421624353062,0.2657343530048057,4019855.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2018,943.787322513576,386.4275911304743,557.3597313831017,0.4094435069347053,4486800.000000002,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2019,736.341729266418,340.9687049836304,395.3730242827877,0.463057696490081,3852279.999999999,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2020,701.301612888493,271.1569848318088,430.1446280566842,0.3866481694159781,2060875.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2021,669.689384633508,331.08851164335545,338.60087299015254,0.4943911599025059,5075430.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2022,679.903527356629,210.9446112316551,468.9589161249738,0.310256680167227,6583220.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2023,728.321084784776,287.7961519896476,440.52493279512834,0.3951501034391904,4796370.000000002,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,IND,India,2024,525.167420275871,170.32884171486674,354.8385785610043,0.3243324607329846,12087359.999999994,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2010,6078.87429770245,2476.7763523139342,3602.097945388516,0.4074399684905555,1164000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2011,5733.07580434413,2335.8842250759403,3397.19157926819,0.4074399684905558,4722500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2012,3045.06899725023,1240.6828162911995,1804.3861809590303,0.407439968490555,1808500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2013,2424.2115482721,987.7206768424256,1436.4908714296744,0.4074399684905556,686500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2014,2241.31952454864,913.2031564593634,1328.1163680892764,0.4074399684905549,204500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2015,1880.18263145486,750.8788218152279,1129.3038096396322,0.3993648325717209,150500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2016,1519.04573836107,640.4296958005391,878.616042560531,0.4216000082337954,187000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2017,1157.90884526729,471.7783434306395,686.1305018366504,0.4074399684905549,194145.00000000047,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2018,1036.4459520977,458.04937561676894,578.3965764809311,0.4419423653396556,206149.99999999965,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2019,988.655656329996,438.2372397235359,550.4184166064601,0.4432657992878159,354340.0000000002,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2020,918.8087537918,339.5908660441967,579.2178877476033,0.3695990755886368,366885.0000000002,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2021,891.502947972413,398.2323356829169,493.2706122894961,0.4466977216268722,463455.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2022,818.4876080028,322.31221848251363,496.1753895202864,0.3937899796296134,1137149.9999999995,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2023,840.961775166903,262.5421769775569,578.4195981893461,0.3121927592076953,2398075.000000001,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,ITA,Italy,2024,804.160222542566,347.0349043047221,457.1253182378439,0.4315494531767302,3042875.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2010,6644.27650186486,2007.880665795767,4636.395836069092,0.3021970360854507,495500.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2011,6644.27650186486,1893.6618030471327,4750.614698817726,0.2850064717378387,648000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2012,4666.39775055437,1329.953558610888,3336.444191943482,0.2850064717378386,859000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2013,3986.82062706933,1136.2696803726692,2850.5509466966605,0.2850064717378391,3483500.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2014,3654.82914695912,1041.6499599794338,2613.179186979686,0.2850064717378388,4870000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2015,2644.69849885132,753.7561879679735,1890.9423108833464,0.2850064717378388,5405500.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2016,2901.88161598011,771.1296337190163,2130.751982261094,0.2657343530048063,3945000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2017,2632.30062488997,750.2227136531998,1882.0779112367704,0.2850064717378392,3729814.999999999,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2018,2502.24115461206,658.0289707176622,1844.212183894398,0.262975840479964,3331000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2019,2465.18395962979,553.1437791924335,1912.0401804373564,0.2243823537110399,3515185.000000001,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2020,2156.08494520225,444.6486630871103,1711.4362821151394,0.2062296590292273,4338000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2021,1923.33351729355,334.21417241761065,1589.1193448759393,0.17376818394342,3272500.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2022,2022.73230931396,405.168003280313,1617.564306033647,0.2003072781379221,2322000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2023,1920.03748046382,655.5010775812144,1264.5364028826057,0.3414001467423783,2005500.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,JPN,Japan,2024,1911.45068262187,243.43947373014333,1668.0112088917267,0.1273584905660374,1266665.000000001,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2010,7012.58447961614,2121.4524167899604,4891.13206282618,0.3025207643425189,63500.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2011,7012.58447961614,1931.058279940632,5081.526199675508,0.2753704123713225,42000.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2012,3628.13738769587,999.0816885896256,2629.0556991062444,0.2753704123713228,152000.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2013,3171.06402321165,873.2172077276581,2297.846815483992,0.2753704123713228,260000.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2014,2633.44817638635,725.1737102900164,1908.2744660963333,0.2753704123713225,439500.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2015,2490.69564675298,685.8638873378252,1804.8317594151547,0.2753704123713222,514500.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2016,2457.94402366806,676.8450593831002,1781.0989642849595,0.275370412371322,435500.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2017,1883.09547564746,518.548777663613,1364.546697983847,0.2753704123713226,647735.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2018,1579.14310749748,507.60236124839207,1071.540746249088,0.3214416469529517,1033984.9999999997,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2019,1491.08710387654,416.5035369225172,1074.583566954023,0.2793287768633288,1572965.0000000005,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2020,1116.6038568461,341.7114451712156,774.8924116748843,0.306027462717526,1954109.9999999995,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2021,1068.21464090682,370.9117452116471,697.302895695173,0.3472258579949585,1574764.9999999995,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2022,1420.23407700099,477.2942305490128,942.9398464519772,0.3360672992418841,1309990.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2023,1234.05254630052,398.9374174764433,835.1151288240767,0.3232742549516144,1501560.0000000016,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,KOR,South Korea,2024,1262.22277580071,416.2684723559311,845.9543034447788,0.3297900183205496,1576014.9999999995,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2010,5552.42853873787,1582.4780674021656,3969.9504713357046,0.285006471737839,647500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2011,5343.33232482995,1522.8842932225284,3820.448031607422,0.2850064717378389,1131500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2012,5205.80705359121,1483.688700891985,3722.1183526992254,0.2850064717378388,1482500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2013,4196.912593836,1196.147250561299,3000.765343274701,0.2850064717378386,1811000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2014,3436.43223050615,979.405425382748,2457.026805123402,0.2850064717378384,2112500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2015,3062.16272905855,872.7361952960888,2189.426533762461,0.2850064717378387,2850000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2016,2651.78788340436,686.1746740720063,1965.6132093323536,0.2587592613897521,5637000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2017,2230.0258302833,635.5717937732884,1594.4540365100115,0.285006471737839,4199380.000000002,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2018,1844.19493900247,503.4374469847516,1340.7574920177185,0.2729849411999049,4227735.000000001,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2019,1453.14897230574,439.3820229174244,1013.7669493883157,0.3023654362293277,4628085.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2020,1317.40120308377,431.5605344580499,885.8406686257201,0.3275847429377276,7488590.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2021,1233.00808608258,394.5278488393549,838.480237243225,0.3199718260508891,9630040.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2022,1187.4554201637,429.713895542533,757.741524621167,0.3618779183165407,9028129.999999996,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2023,1135.01208663956,408.0663991967552,726.9456874428048,0.359526038533141,13542340.000000006,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+pv,USA,United States,2024,1058.0371018079,317.1124186442344,740.9246831636656,0.2997176735129371,18833850.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2010,4143.08442946124,3175.259906739094,967.824522722146,0.7664,161000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2011,4377.59877619106,3354.9917020728285,1022.6070741182316,0.7664,263000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2012,3732.39830854832,2860.5100636714324,871.8882448768877,0.7664,434000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2013,2770.43446866893,2123.260976787868,647.1734918810621,0.7664,660000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2014,3022.04804932794,2316.097625004933,705.9504243230072,0.7663999999999999,576000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2015,2819.85719300265,2161.138552717231,658.718640285419,0.7664,521000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2016,2630.94508525333,2016.356313338152,614.5887719151781,0.7664,365000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2017,2043.25394456332,1565.9498231133284,477.3041214499915,0.7664,724000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2018,1901.99600558962,1457.6897386838846,444.30626690573536,0.7664,1002000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2019,1851.1415536093,1418.7148866861671,432.42666692313287,0.7663999999999997,1472000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2020,2042.66739524511,1565.5002917158522,477.1671035292577,0.7664,2326000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2021,1411.90640499006,1082.085068784382,329.8213362056781,0.7664,348000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2022,1444.46938604744,1107.0413374667578,337.4280485806821,0.7663999999999999,1411000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2023,1609.68760460235,1233.664580167241,376.02302443510894,0.7664,942000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,AUS,Australia,2024,1380.57799856771,1058.0749781022928,322.5030204654172,0.7663999999999999,2655000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2010,3106.24151583378,2325.844425392157,780.3970904416228,0.7487648380000008,326799.99999999994,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2011,3076.06217673347,2342.113741364867,733.948435368603,0.761400000000001,596350.0000000001,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2012,3123.63556835357,2342.9881995295,780.6473688240699,0.7500837239999992,373780.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2013,3115.40619138378,2336.5546435378337,778.8515478459462,0.7499999999999996,350570.0000000002,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2014,2646.23317098064,1950.803093646925,695.430077333715,0.737199999999999,2778280.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2015,2296.04475210592,1726.1664446332293,569.8783074726907,0.7517999999999994,2652830.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2016,2406.8480453672,1844.608341969422,562.2397033977779,0.7664,2639960.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2017,2065.99242804992,1583.376596857457,482.615831192463,0.7663999999999992,2128690.0000000005,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2018,2097.0308683719,1607.1644575202265,489.86641085167344,0.7664000000000012,2062990.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2019,1855.59122911607,1422.1251179945573,433.4661111215128,0.7664000000000006,942619.999999999,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2020,1704.89312220067,1306.6300888545918,398.26303334607815,0.7663999999999991,1759920.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2021,1306.2151398149,1001.0832831541356,305.13185666076447,0.7663999999999971,3830000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2022,1117.20979956023,856.2295903829623,260.98020917726774,0.7664000000000017,4065000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2023,1099.17469400253,842.4074854835357,256.7672085189944,0.766399999999997,4817000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,BRA,Brazil,2024,1307.04473613539,1001.7190857741635,305.3256503612264,0.7664000000000005,3278000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2010,3207.7690771496,2401.8646933933287,805.9043837562713,0.7487648379999997,685000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2011,2958.62482699869,2252.6969432768065,705.9278837218835,0.7614000000000013,1298000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2012,3223.16081765542,2417.64046915786,805.52034849756,0.7500837239999992,936000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2013,3108.9060807525,2331.679560564372,777.2265201881282,0.749999999999999,1600000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2014,2909.72081381377,2145.046183943513,764.6746298702569,0.7372000000000006,1893000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2015,3005.71689648444,2259.6979627770056,746.0189337074344,0.7518000000000012,1520000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2016,2815.12407569075,2157.511091609389,657.612984081361,0.7663999999999994,759000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2017,2471.41829063157,1894.0949779400387,577.3233126915313,0.7664000000000014,277000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2018,2210.71492193368,1694.2919161699722,516.423005763708,0.7663999999999999,566000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2019,2894.33075683252,2218.215092036442,676.1156647960779,0.7663999999999995,404000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2020,1658.650703711,1271.1898993241127,387.4608043868873,0.7664000000000014,312000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2021,1553.97058555404,1190.9630567686158,363.00752878542426,0.7663999999999996,677000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2022,1819.99775997507,1394.8462832448934,425.1514767301767,0.7663999999999999,1006000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2023,1454.15804070276,1114.4667223945917,339.6913183081683,0.7663999999999975,1720000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CAN,Canada,2024,1237.52795562761,948.4414251930016,289.08653043460845,0.766400000000001,1387000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,CHN,China,2010,1765.17755858021,908.8931830120896,856.2843755681204,0.5149018457628377,11877570.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,CHN,China,2011,1717.25585247907,820.2209888739409,897.0348636051291,0.47763470288358667,16544520.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,CHN,China,2012,1679.93039265851,787.1571447391749,892.7732479193352,0.4685653335275929,15112339.999999996,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,CHN,China,2013,1595.82606257792,819.1090154497972,776.7170471281229,0.5132821393621037,14970660.000000004,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,CHN,China,2014,1620.23100159053,693.6768873733519,926.5541142171782,0.4281345602524523,20027000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,CHN,China,2015,1573.00753989136,624.6502405494081,948.357299341952,0.3971056874861195,34061000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,CHN,China,2016,1567.42157246435,636.4434668068892,930.9781056574608,0.40604485607930774,16503200.000000011,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,CHN,China,2017,1485.12986708924,645.392097611782,839.737769477458,0.43456946891567766,14521889.999999985,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,CHN,China,2018,1538.80137005922,639.4422397706869,899.3591302885332,0.4155456657450716,18459640.000000015,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,CHN,China,2019,1455.78686550119,601.1015696488976,854.6852958522925,0.4129049271521994,23544269.99999999,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,CHN,China,2020,1487.71515237706,605.2464880320971,882.4686643449628,0.40682955138625754,69320000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,CHN,China,2021,1314.78343493892,472.95250127256736,841.8309336663526,0.3597189382710309,29550000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,CHN,China,2022,1170.7756516937,321.6630370953079,849.112614598392,0.27474353146136477,32890000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,CHN,China,2023,1009.86151524945,235.49892702593712,774.3625882235128,0.2331992292703278,69070000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,CHN,China,2024,855.966282656539,194.82113843199423,661.1451442245448,0.2276037530676512,75360000.0,0.0,China extension: domestic procurement approximation; PV utility additions=50% net additions
+wind,DEU,Germany,2010,2704.81912861014,2023.555458325708,681.263670284432,0.7481296760000006,1126000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,DEU,Germany,2011,2704.81912861014,2023.555458325708,681.263670284432,0.7481296760000006,1701000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,DEU,Germany,2012,2457.32273133737,1843.4035222797447,613.9192090576253,0.7501674480000001,2187000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,DEU,Germany,2013,2427.54559260857,1821.065682110818,606.4799104977521,0.7501674479999997,2258000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,DEU,Germany,2014,2394.89119742189,1796.5694178076403,598.3217796142496,0.7501674479999987,4651000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,DEU,Germany,2015,2350.28590162881,1763.107976895262,587.1779247335478,0.7501674479999995,3677000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,DEU,Germany,2016,2305.47806017764,1729.4945928234476,575.9834673541925,0.7501674479999987,3986000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,DEU,Germany,2017,2305.11909698796,1729.2253103235244,575.8937866644355,0.7501674480000009,4891000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,DEU,Germany,2018,2267.18461163787,1700.768094257251,566.4165173806191,0.7501674479999996,2154000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,DEU,Germany,2019,2098.59984148091,1574.301287456938,524.298554023972,0.7501674479999997,859000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,DEU,Germany,2020,2089.11288708505,1567.1844830885036,521.9284039965462,0.7501674479999998,1227000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,DEU,Germany,2021,1944.24198514938,1458.507048293965,485.7349368554151,0.7501674480000003,1925000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,DEU,Germany,2022,2011.7394262868,1509.1414314585495,502.5979948282504,0.7501674479999983,2403000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,DEU,Germany,2023,1791.82582469395,1344.169406171155,447.65641852279487,0.7501674479999996,3567000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,DEU,Germany,2024,1669.52737203026,1252.4250880420884,417.1022839881716,0.750167448000001,3292000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2010,2917.33164963995,2184.3953600349296,732.9362896050202,0.7487648379999999,1517000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2011,2838.11100570576,2160.9377197443664,677.1732859613935,0.7614000000000003,836000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2012,2489.79166650306,1867.552205194782,622.2394613082779,0.7500837240000003,1260000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2013,2478.47443165532,1858.855823741489,619.618607913831,0.7499999999999996,164000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2014,2087.66076210103,1539.0235138208814,548.6372482801485,0.7372000000000011,0.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2015,1974.00011313029,1484.053285051349,489.94682807894105,0.7517999999999985,18000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2016,1944.65053622638,1490.3801709638994,454.2703652624805,0.766400000000001,47000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2017,2134.42625802782,1635.8242841525223,498.60197387529774,0.7664000000000005,134479.99999999956,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2018,2785.84829359986,2135.074132214936,650.7741613849239,0.7664000000000012,280580.00000000175,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2019,1848.05627512401,1416.350329255042,431.705945868968,0.7664000000000004,2185020.0000000005,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2020,1450.22308655672,1111.450973537072,338.77211301964803,0.7664000000000012,1229109.999999997,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2021,1330.76652426505,1019.8994641967377,310.8670600683124,0.7664000000000024,750000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2022,1230.43904500511,943.0084840919192,287.4305609131909,0.7664000000000023,1659000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2023,1185.84724619072,908.8333294805674,277.01391671015256,0.7663999999999996,762000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ESP,Spain,2024,1398.83281905724,1072.0654725254717,326.7673465317682,0.7664000000000022,1183000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2010,2950.06246839079,2208.903046234512,741.1594221562777,0.7487648380000007,1330000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2011,2644.94877334346,2013.863996023712,631.0847773197479,0.7614000000000006,835220.0000000002,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2012,2400.05307750702,1800.2407501741277,599.8123273328924,0.7500837240000006,849479.9999999995,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2013,2262.00841067733,1696.506308007997,565.5021026693332,0.7499999999999997,552630.0000000001,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2014,2137.278274211,1575.6015437483522,561.6767304626476,0.7372000000000015,1041260.0000000002,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2015,2131.68842647836,1602.6033590264317,529.0850674519281,0.7518000000000004,1096760.0000000002,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2016,2109.21357822905,1616.5012863547408,492.71229187430936,0.7663999999999984,1268410.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2017,2402.66245826931,1841.4005080176007,561.2619502517091,0.7664000000000007,1932789.999999999,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2018,2320.55637444301,1778.4744053731197,542.0819690698904,0.7663999999999986,1398790.000000001,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2019,2101.79785433715,1610.81787556399,490.97997877316016,0.7663999999999991,1542209.999999999,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2020,1823.72688109778,1397.704281673337,426.0225994244431,0.7663999999999991,1011420.000000002,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2021,2020.28086955522,1548.343258427122,471.93761112809807,0.7664000000000006,1192000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2022,2035.81309044531,1560.2471525172878,475.5659379280223,0.7664000000000011,1590000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2023,1787.51432727476,1369.9509804233742,417.56334685138586,0.766399999999999,1400000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,FRA,France,2024,1860.4830152221,1425.8741828662207,434.60883235587926,0.7664000000000017,1081000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2010,2646.67748094522,1981.7390352581945,664.9384456870255,0.7487648379999995,612000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2011,2809.91136741022,2139.4665151461395,670.4448522640805,0.7613999999999993,678000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2012,2747.88097969067,2061.140798355148,686.7401813355218,0.7500837240000008,1277000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2013,2761.25289981111,2070.939674858333,690.3132249527771,0.7500000000000001,1551000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2014,2697.60622540574,1988.675309369108,708.9309160366322,0.7371999999999986,987000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2015,2657.22086971437,1997.6986498512656,659.5222198631045,0.7518000000000008,639000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2016,2491.12994050349,1909.2019864018769,581.9279541016133,0.7664000000000009,1621000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2017,2516.63230840249,1928.7470011596647,587.8853072428251,0.7663999999999986,1764000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2018,2198.3962105309,1684.850855750878,513.5453547800221,0.7663999999999983,828149.9999999997,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2019,2258.59164526454,1730.9846369307404,527.6070083337997,0.7663999999999986,573670.0000000001,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2020,2047.40763272174,1569.133209717941,478.2744230037988,0.7663999999999999,76260.00000000022,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2021,2203.41030141091,1688.6936550013236,514.7166464095865,0.766400000000001,328000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2022,1573.62000743837,1206.0223737007648,367.5976337376053,0.7663999999999987,502000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2023,1303.05845807323,998.6640022673222,304.3944558059078,0.766399999999999,553000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,GBR,United Kingdom,2024,1925.62088487595,1475.7958461689263,449.8250387070236,0.7663999999999991,739000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2010,1607.28679420806,1204.5007235795204,402.7860706285396,0.7494000000000002,2259000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2011,1439.22467923306,1124.8980092885568,314.32666994450324,0.781599999999998,2995000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2012,1727.35672083666,1337.665044615912,389.69167622074815,0.7744000000000014,1120700.0000000007,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2013,1775.48847664279,1365.5281873859687,409.9602892568212,0.7690999999999995,1120700.0000000007,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2014,1697.25858919878,1348.4719491184303,348.7866400803498,0.7944999999999998,4044899.9999999977,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2015,1517.22503644414,1174.028733200479,343.19630324366085,0.7738000000000024,2622889.9999999995,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2016,1395.64398421311,1069.6215495009235,326.0224347121864,0.7663999999999972,3612250.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2017,1379.882353478,1057.5418357055366,322.3405177724633,0.7663999999999982,4148020.000000001,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2018,1381.24006086126,1058.5823826440678,322.65767821719214,0.7663999999999986,2439639.9999999995,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2019,1255.71970108936,962.3835789148892,293.3361221744707,0.766400000000003,2217080.000000002,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2020,1222.04433857641,936.5747810849628,285.4695574914472,0.7664000000000017,1053419.9999999984,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2021,1051.78122594888,806.0851315672186,245.6960943816615,0.7663999999999971,1459000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2022,1191.10103406309,912.8598325059546,278.24120155713547,0.766400000000002,1847000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2023,1236.98707050801,948.026890837336,288.96017967067394,0.7663999999999977,2806000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,IND,India,2024,1110.26963840888,850.9106508765672,259.3589875323128,0.7664000000000014,3420000.0,0.25,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2010,3042.57677133925,2278.174503294399,764.4022680448511,0.7487648380000008,915000.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2011,3732.37730003041,2841.8320762431576,890.5452237872523,0.761400000000001,1124000.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2012,3492.09355819179,2619.362540684907,872.7310175068833,0.7500837239999995,1184000.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2013,2409.17216204287,1806.879121532152,602.2930405107177,0.7499999999999999,440000.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2014,2361.52967156199,1740.919673875501,620.6099976864891,0.7372000000000009,141000.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2015,2527.53565239983,1900.20130347419,627.3343489256399,0.7517999999999991,454000.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2016,2129.87311269081,1632.3347535662374,497.5383591245727,0.7664000000000003,247000.0,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2017,3047.62306624385,2335.6983179692834,711.9247482745668,0.7663999999999989,352579.99999999994,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2018,2093.79750494429,1604.6864077893074,489.1110971549824,0.7664000000000017,493670.00000000006,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2019,1988.92328995163,1524.3108094189265,464.6124805327036,0.7663999999999986,449209.9999999991,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2020,2037.31777094166,1561.400339649686,475.917431291974,0.7663999999999989,191160.0000000017,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2021,1564.4202726219,1198.971696937421,365.448575684479,0.766399999999998,383109.9999999989,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2022,1538.43904313003,1179.0596826548576,359.37936047517246,0.7664000000000016,566780.0000000007,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2023,1401.77060996425,1074.316995476603,327.453614487647,0.7664000000000013,455799.9999999993,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,ITA,Italy,2024,1408.13174778543,1079.192171502753,328.9395762826771,0.7663999999999995,652860.0000000006,0.5,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2010,3129.84156238276,2398.7105734101474,731.1309889726126,0.7664000000000001,399000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2011,2691.81791091569,2063.0092469257847,628.8086639899052,0.7664,692000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2012,2684.69959999194,2057.5537734338227,627.1458265581173,0.7664,764000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2013,2759.50741715375,2114.8864845066337,644.6209326471162,0.7664,865000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2014,2486.02790439979,1905.291785931999,580.7361184677909,0.7664,407000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2015,2310.54839333752,1770.8042886538751,539.7441046836448,0.7664,1050000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2016,2298.15652100027,1761.3071576946068,536.8493633056632,0.7664,861000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2017,1712.20263225464,1312.232097359956,399.9705348946841,0.7663999999999999,12359.99999999967,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2018,1721.43541996357,1319.30810586008,402.1273141034899,0.7664000000000001,6720.000000000255,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2019,1730.66820767249,1326.3841143601965,404.2840933122936,0.7664000000000001,71680.00000000029,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2020,1739.90099538142,1333.4601228603203,406.44087252109966,0.7664000000000001,460489.99999999977,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2021,1920.24167009583,1471.673215961444,448.568454134386,0.7664,669090.0000000002,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2022,1748.91632845074,1340.369474124647,408.5468543260929,0.7664,1182900.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2023,1719.29095435235,1317.6645874156409,401.626366936709,0.7664,1193080.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,POL,Poland,2024,1838.47458851019,1409.0069246342096,429.4676638759804,0.7664,808430.0000000003,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2010,2773.27558581419,2076.531244741516,696.7443410726742,0.7487648379999996,542000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2011,2551.40772289632,1942.641840213256,608.7658826830641,0.7613999999999992,747000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2012,2775.24642245354,2081.667171571629,693.5792508819113,0.7500837240000001,842000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2013,2391.99243521971,1793.9943264147837,597.9981088049262,0.7500000000000006,538000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2014,2555.27542986769,1883.74904689846,671.5263829692301,0.7371999999999995,894000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2015,2284.89714048211,1717.7856702144534,567.1114702676566,0.7518000000000014,731000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2016,2101.63130914503,1610.6902353287494,490.9410738162808,0.7663999999999992,626000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2017,1903.38840899614,1458.7568766546433,444.6315323414967,0.7664000000000009,176000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2018,1520.08215854575,1164.9909663094666,355.0911922362834,0.7664000000000025,689000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2019,1595.34125804709,1222.6695401672891,372.6717178798008,0.7663999999999996,1381000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2020,1598.38132270281,1224.9994457194357,373.38187698337424,0.7664000000000013,1295000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2021,1499.70768168244,1149.3759672414192,350.3317144410207,0.7663999999999982,2104000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2022,1313.12340134883,1006.3777747937404,306.7456265550896,0.7663999999999979,2441000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2023,1571.27229577142,1204.22308747922,367.0492082921999,0.7664000000000024,1973000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,SWE,Sweden,2024,1772.93112851296,1358.7744168923318,414.1567116206281,0.7663999999999996,1015000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2010,2878.35006294217,2155.207318586187,723.1427443559833,0.748764838000001,528000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2011,2664.82086253986,2028.9946047378464,635.8262578020137,0.7613999999999989,409000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2012,2109.27374026766,1582.131902035378,527.1418382322818,0.7500837240000015,532000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2013,2326.01597491539,1744.5119811865418,581.5039937288482,0.7499999999999997,499000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2014,2246.18873946045,1655.8903387302428,590.2984007302073,0.7371999999999995,870000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2015,2313.6027895208,1739.3665771617375,574.2362123590624,0.7518,873000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2016,2332.58674736884,1787.6944831834785,544.8922641853615,0.7663999999999999,1248000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2017,2105.39825885891,1613.5772255894683,491.8210332694418,0.7663999999999997,765149.9999999997,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2018,2232.71576203491,1711.1533600235568,521.562402011353,0.7664000000000009,489240.0000000007,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2019,2003.98634655207,1535.8551359975086,468.1312105545615,0.7664000000000011,585769.9999999995,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2020,1585.46235357494,1215.0983477798325,370.36400579510746,0.7663999999999991,1241239.9999999998,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2021,1455.22879287732,1115.287346861178,339.941446016142,0.7664,1400000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2022,1757.86340635077,1347.2265146272273,410.6368917235427,0.7663999999999984,867000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2023,1468.1518868816,1125.1916061060565,342.9602807755434,0.7663999999999989,397000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,TUR,Turkey,2024,1423.6985915002,1091.1226005257536,332.57599097444654,0.7664000000000002,1310000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2010,2849.9272631611,2133.925325512605,716.0019376484952,0.7487648380000002,4839000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2011,2822.23105853148,2148.8467279658685,673.3843305656114,0.7613999999999999,6541000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2012,2583.03557060981,1937.4929400274711,645.5426305823387,0.750083724,13399000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2013,2390.00327947562,1792.5024596067149,597.500819868905,0.75,898000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2014,2267.46298826471,1671.5737149487418,595.8892733159682,0.737199999999999,4259000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2015,2168.61700333078,1630.3662631040825,538.2507402266974,0.751800000000001,8341000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2016,2216.77394364862,1698.9355504123012,517.8383932363188,0.7663999999999995,8684000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2017,2007.27006353537,1538.371776693508,468.8982868418618,0.7664000000000003,6311199.999999997,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2018,1957.14042596715,1499.9524224612262,457.1880035059237,0.7664000000000013,6919199.999999997,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2019,1849.77075118465,1417.6643037079132,432.1064474767368,0.7663999999999986,9153500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2020,1635.264567929,1253.2667648607874,381.9978030682125,0.7664000000000011,14807500.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2021,1569.48931347306,1202.856609845755,366.6327036273051,0.7664000000000011,12747000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2022,1294.45121438265,992.0674107028652,302.3838036797848,0.7664000000000017,8612000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2023,1536.63066230021,1177.6737395868818,358.95692271332814,0.7664000000000006,6402000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies
+wind,USA,United States,2024,1567.81282280704,1201.5717473993122,366.24107540772775,0.766399999999998,3926000.0,0.75,inherited recipient equipment/other-cost and import-penetration proxies

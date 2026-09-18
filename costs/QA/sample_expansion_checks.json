@@ -1,0 +1,14 @@
+{
+  "all_pass": true,
+  "pv_countries": 10,
+  "wind_countries": 13,
+  "country_years": 345,
+  "raw_reported": 334,
+  "filled": 11,
+  "carry_to_2010": 3,
+  "internal_interpolation": 8,
+  "reproduces_archived_final_23_country_paths": true,
+  "reproduces_archived_final_23_country_effects": true,
+  "annual_vs_bar_endpoint_closure": true,
+  "identical_country_weights": true
+}

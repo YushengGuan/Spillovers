@@ -1,0 +1,17 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+PATHSolver = "f5f7c340-0bb3-5c69-969a-41884d311d1b"
+Complementarity = "a9b2a840-c9d5-5181-a245-8df664c2d6e7"
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+SHA = "ea8e919c-243c-51af-8825-aaa63cd721ce"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+[compat]
+julia = "1.9"
+CSV = "=0.10.11"
+DataFrames = "=1.6.1"
+JuMP = "=1.15.0"
+PATHSolver = "=1.6.1"
+Complementarity = "=0.9.0"

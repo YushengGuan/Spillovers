@@ -1,0 +1,19 @@
+﻿year,x_center,top_pixel,bottom_pixel,orange_height_pixels,module_index_2006_1,module_EUR_per_W,anchor_2006_EUR_per_kWp,digitization_method
+2006,127,169.0,531.0,363.0,1.0,3.3066,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2007,175,190.0,531.0,342.0,0.9421487603305785,3.115309090909091,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2008,223,203.0,531.0,329.0,0.90633608815427,2.9968909090909093,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2009,271,320.0,531.0,212.0,0.5840220385674931,1.9311272727272728,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2010,319,351.0,531.0,181.0,0.4986225895316804,1.6487454545454545,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2011,367,417.0,531.0,115.0,0.3168044077134986,1.0475454545454546,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2012,415,452.0,531.0,80.0,0.22038567493112948,0.7287272727272728,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2013,464,458.0,531.0,74.0,0.20385674931129477,0.6740727272727273,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2014,512,463.0,531.0,69.0,0.19008264462809918,0.6285272727272727,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2015,560,466.0,531.0,66.0,0.18181818181818182,0.6012000000000001,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2016,608,467.0,531.0,65.0,0.1790633608815427,0.5920909090909091,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2017,656,476.0,531.0,56.0,0.15426997245179064,0.510109090909091,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2018,704,483.0,531.0,49.0,0.1349862258953168,0.44634545454545455,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2019,753,488.0,531.0,44.0,0.12121212121212122,0.4008,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2020,801,484.0,531.0,48.0,0.1322314049586777,0.43723636363636365,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2021,849,482.0,531.0,50.0,0.13774104683195593,0.45545454545454545,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2022,897,473.0,531.0,59.0,0.162534435261708,0.5374363636363636,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
+2023,945,489.0,531.0,43.0,0.1184573002754821,0.3916909090909091,3306.6,median top/bottom across 17 central columns of orange segment; pixel boundaries
