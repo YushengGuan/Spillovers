@@ -1,0 +1,536 @@
+[
+  {
+    "file": "data/cge/tables/capacity_policy_selected.csv",
+    "source": "capacity_policy_selected.csv",
+    "source_sha256": "d0d5002d23089530b5485d9603acc48aee6e818011f0ec65bd7779901a9e0dea",
+    "packaged_sha256": "b5c7e19a2c2a16b221454776e99c371631ec8aa3433be0ce5ab613b8cff07856"
+  },
+  {
+    "file": "data/cge/tables/capacity_price_search.csv",
+    "source": "capacity_price_search.csv",
+    "source_sha256": "5ae6312b3ed95b6c4b9a47a61bb47172bdb63b01433c689c0171b6870ba88690",
+    "packaged_sha256": "56198f1fe716832d063d782f31cab48a77abcc362de77daf23265a006c2b7b7e"
+  },
+  {
+    "file": "data/cge/tables/final_energy_mix.csv",
+    "source": "final_energy_mix.csv",
+    "source_sha256": "be0ba38642e7365b1a87938d6fd9829017bca39a3afd0511fb4793d900fe9650",
+    "packaged_sha256": "70f13258e939bc54c0eb13edab3d88e7421564f8aa0fddc035591c471ba7f85a"
+  },
+  {
+    "file": "data/cge/tables/group_equilibria_all_nodes.csv",
+    "source": "group_equilibria_all_nodes.csv",
+    "source_sha256": "48f3e4d5a1c9d0b24120e9c515120bb35d6281992d539204b0452f570658efcb",
+    "packaged_sha256": "d606e5ba03fabf211ec4f3fdbfd02b5c319ad7ad872b43d3b052fc2d0a57da1a"
+  },
+  {
+    "file": "data/cge/tables/power_equilibria_all_nodes.csv",
+    "source": "power_equilibria_all_nodes.csv",
+    "source_sha256": "b6c48837922ad923f4bf545ba1a8555ddaa33ef381a2b6b4352579546f2e85fd",
+    "packaged_sha256": "2f0ba06ea3dc63df8525351904519ccef14f53c07ba824ac7ae3eb2425e80aff"
+  },
+  {
+    "file": "data/cge/tables/regional_equilibria_all_nodes.csv",
+    "source": "regional_equilibria_all_nodes.csv",
+    "source_sha256": "150143c6aad491ff3275ec41555a59e8a80d3ab3fe6fdc449d873a5d3f398c45",
+    "packaged_sha256": "13d9abd05d590fec9a6ab2d2ede5540e9c80af9ea23bdfe52e4fdfb61b512cd2"
+  },
+  {
+    "file": "data/cge/tables/sector_equilibria_all_nodes.csv",
+    "source": "sector_equilibria_all_nodes.csv",
+    "source_sha256": "58d570373a345d36fabe1da6c9273242d2bbbeb7626db1328a8653847a02dfc1",
+    "packaged_sha256": "a1d73fdf67dc52d8587dc953e4c1ff183adc810a74e1432a04a7bfc0d9c42ad0"
+  },
+  {
+    "file": "data/figure_source/Costs/aggregate_figure_labels.csv",
+    "source": "aggregate_figure_labels.csv",
+    "source_sha256": "86373469fb06506ec97ff8cd6cf6fc5da9019ee1efdf1f07fbe72889df3e87bc",
+    "packaged_sha256": "9117a0dca020394ce7d7f59e2a8d20e05abf3e06dc3e200ae4dca09f06497f1a"
+  },
+  {
+    "file": "data/figure_source/Costs/annual_country_costs_completed.csv",
+    "source": "annual_country_costs_completed.csv",
+    "source_sha256": "7ef24e5ab65a7deecc2e3021a0849347cdc80f5732f0db624f777965c5c8e842",
+    "packaged_sha256": "9639d633d1e70d4a98ab1dad673f2291158c05fa5dce83436a59cd53c7ea8dc9"
+  },
+  {
+    "file": "data/figure_source/Costs/annual_plot_costs.csv",
+    "source": "annual_plot_costs.csv",
+    "source_sha256": "7df270944bb0ebd73556f33b8c993e73851818a08b4d489fafe7b8faecd9e306",
+    "packaged_sha256": "3c088e2ab8b882add927a08bc690fae129741a1afacf5aae3df9e5a95a008235"
+  },
+  {
+    "file": "data/figure_source/Costs/capacity_weights_all_countries.csv",
+    "source": "capacity_weights_all_countries.csv",
+    "source_sha256": "463c619f11e7b912bc2e5564bf077a3cce81b7c41096a6f2ed27302b9b8929da",
+    "packaged_sha256": "7ecdc52d622e092b79cc39c38c47395753b20e87d53addef41e194a5e47e7293"
+  },
+  {
+    "file": "data/figure_source/Costs/coverage.csv",
+    "source": "coverage.csv",
+    "source_sha256": "0834e1cc6b905afd15c0d60b87e74067b3706898c966038bff1827e4c115421e",
+    "packaged_sha256": "99769f34b08b2d8a274d167f7ca35ff5ba6fc6b696fce2c08ebd74e954e86884"
+  },
+  {
+    "file": "data/figure_source/Costs/figure_labels.csv",
+    "source": "figure_labels.csv",
+    "source_sha256": "d8bce57999acf22c19b428c027e476dad8ca505789f464a4ef14b39080ab4b13",
+    "packaged_sha256": "8ad31e7a5d40f904c276b8abef57a3a2e6e361d82706fc81d8fa3544b3d7cd6c"
+  },
+  {
+    "file": "data/figure_source/Costs/manuscript_statistics.json",
+    "source": "manuscript_statistics.json",
+    "source_sha256": "a2cf04ac8f7b609406fa33d92145a6557a0adc0c1276b25338f969d73865f87b",
+    "packaged_sha256": "3cf93f7f246e04bc81cc8ba5998e727633ba4e32d704856c154bf32d7b1666a1"
+  },
+  {
+    "file": "data/figure_source/Costs/observation_imputation_audit.csv",
+    "source": "observation_imputation_audit.csv",
+    "source_sha256": "6223a6dda27fb5f0ff43e34bca721120b1c8431477b7b7a4f11d6e518559149d",
+    "packaged_sha256": "899de6d33eaf8d27e3d34314dc90ca8a12bf2f148460783839f422082146b2d0"
+  },
+  {
+    "file": "data/figure_source/Costs/plot_country_data.csv",
+    "source": "plot_country_data.csv",
+    "source_sha256": "03fb4d9226bac98db9ba6f965c077984db5ee18147e25c67a1b7d1436908b3eb",
+    "packaged_sha256": "dc054e466dcb4f983d2356e5878ef1c2ab80c472a88d5e62d2d889b228eea5b5"
+  },
+  {
+    "file": "data/figure_source/Costs/results.csv",
+    "source": "results.csv",
+    "source_sha256": "a81b5f75072964a042d1822e5d555474aa4851ef19f1de84f3d9251f12c88555",
+    "packaged_sha256": "628fdd73901382b6143fad3bdb4fcf9e9c6ee931ced65189bd6fefd372d458aa"
+  },
+  {
+    "file": "data/figure_source/Costs/weighted_shapley_summary.csv",
+    "source": "weighted_shapley_summary.csv",
+    "source_sha256": "9ed8d9e0406697e92421c07f3d1e4c7b03fc93ce9d5d8e8e861e379fca8807da",
+    "packaged_sha256": "0f8315c53abdac67fc00956810d406d80c50559cdeab04765f4ca0f09b063f70"
+  },
+  {
+    "file": "data/figure_source/CGE/emissions_map_values.csv",
+    "source": "emissions_map_values.csv",
+    "source_sha256": "0bdd6ffea80831283bc0c69be00c86eb449cc30aa9ec326e6343a6a6d0e02e38",
+    "packaged_sha256": "dc5304a71d0cc3d4c4a803d06061434de064e046f5f725350228507672cf1fdc"
+  },
+  {
+    "file": "data/figure_source/CGE/equity_map_values.csv",
+    "source": "equity_map_values.csv",
+    "source_sha256": "4c7aafc89bba4b1440a705e9fd8ff68fa8e63d3ce913ec3dde7c975e17470960",
+    "packaged_sha256": "b46d4e36cf4e6d516d12ed90633ae9071e1d6bf0c0546114c15849b4b37ce0fd"
+  },
+  {
+    "file": "data/figure_source/CGE/global_final_energy_comparison.csv",
+    "source": "global_final_energy_comparison.csv",
+    "source_sha256": "8a2258b11ef0ae823c561850aa2a041f83a4011cc6c149a3ab8e89b4b1eb8883",
+    "packaged_sha256": "93d3424c9f946c0178af03b8f6b7299d1691d797a5bfb706e23c83190eed0f48"
+  },
+  {
+    "file": "data/figure_source/CGE/global_generation_comparison.csv",
+    "source": "global_generation_comparison.csv",
+    "source_sha256": "7cfbf30641cf83b90cee36a521a654b8b27084f88feca0f82658a91a9e6c6624",
+    "packaged_sha256": "d732d06a33f2cf61c3b7162f82c0cc04fabdf191ab8dd8dec2b66ca61da33eb4"
+  },
+  {
+    "file": "data/figure_source/CGE/global_sector_comparison.csv",
+    "source": "global_sector_comparison.csv",
+    "source_sha256": "54107062ede85e3ce72de6e822c9a6f8d3a50f4bd61c9aea123daf446af2ddb9",
+    "packaged_sha256": "e366ca94be17915a1ca0d1eb5b671a0cdebbfa71a55d8ec3cfe964cd08110d1e"
+  },
+  {
+    "file": "data/figure_source/CGE/regional_contrasts.csv",
+    "source": "regional_contrasts.csv",
+    "source_sha256": "9f1880560f4e71badcfe7f04b625fc92f7a6650e68151d6b65d375c9e7e2333b",
+    "packaged_sha256": "5a307495f1441174a2f8ac224c82684546a43715f14e7b0d91684bc522661ebd"
+  },
+  {
+    "file": "data/figure_source/CGE/regional_emissions_stacks.csv",
+    "source": "regional_emissions_stacks.csv",
+    "source_sha256": "fd711b85b824602f1101143132cf4140935344b49063b268cc0dfbc1d455ba01",
+    "packaged_sha256": "dc5f6d215fff06f7e5348952ce75c7bbf33aa732ad01b02d76284b59353ae3c7"
+  },
+  {
+    "file": "data/figure_source/Geography/map_name.csv",
+    "source": "map_name.csv",
+    "source_sha256": "aacf821d8060b6ef01a7ecea02df9042ec652f99e09c278f54164dcf29748ea8",
+    "packaged_sha256": "ce6c1557184e5cddb0cfe997022bf5bbb9fa3e4a8fb54a950a145604fe06eb70"
+  },
+  {
+    "file": "data/figure_source/Geography/worldmap.dbf",
+    "source": "worldmap.dbf",
+    "source_sha256": "78ee36b924f6001eede68bcb4bd76d18cab78ed6e4c542d3f7d7eb030ffb9a14",
+    "packaged_sha256": "78ee36b924f6001eede68bcb4bd76d18cab78ed6e4c542d3f7d7eb030ffb9a14"
+  },
+  {
+    "file": "data/figure_source/Geography/worldmap.prj",
+    "source": "worldmap.prj",
+    "source_sha256": "a145cd62425c84e8a0d67e3d953401feee62dcd613845406b251049cefc42f9a",
+    "packaged_sha256": "a145cd62425c84e8a0d67e3d953401feee62dcd613845406b251049cefc42f9a"
+  },
+  {
+    "file": "data/figure_source/Geography/worldmap.shp",
+    "source": "worldmap.shp",
+    "source_sha256": "0ef4dadacf5c9ded40770062c84dadbb7362d50634027a96526c6fe0671e4a94",
+    "packaged_sha256": "0ef4dadacf5c9ded40770062c84dadbb7362d50634027a96526c6fe0671e4a94"
+  },
+  {
+    "file": "data/figure_source/Geography/worldmap.shx",
+    "source": "worldmap.shx",
+    "source_sha256": "c209456de4e23ebbde8d8e5944355a69952eb4b1c6955a712ed543c33c206f3e",
+    "packaged_sha256": "c209456de4e23ebbde8d8e5944355a69952eb4b1c6955a712ed543c33c206f3e"
+  },
+  {
+    "file": "data/cost_inputs/accepted_supplier_price_paths.csv",
+    "source": "Manuscript\\Results31_Shapley_Insets_0916\\Source_Data\\Annual_Inputs\\accepted_supplier_price_paths.csv",
+    "source_sha256": "605f11e0e9a910d3ee02d4dbcc715f25bf3760a1a32b8c05bff743f8ee3714cf",
+    "packaged_sha256": "6f4730e42378d0cc0d6b50449ed1548a615680f70ca44fd1a7c93e381ca3ee1b"
+  },
+  {
+    "file": "data/cost_inputs/balance_coefficients.csv",
+    "source": "Manuscript\\Results31_Shapley_Insets_0916\\Source_Data\\Annual_Inputs\\balance_coefficients.csv",
+    "source_sha256": "da8c0c2bf35f296dd4cbbe6b623bc72e17f068013f0be194dd315eca0015bf2e",
+    "packaged_sha256": "8ae445d953d1b8c9b30406abb1417c27f7cd9b6fecc607ce6db902953403f51e"
+  },
+  {
+    "file": "data/cost_inputs/baseline_supplier_weights_tariffs.csv",
+    "source": "Manuscript\\Results31_Shapley_Insets_0916\\Source_Data\\Annual_Inputs\\baseline_supplier_weights_tariffs.csv",
+    "source_sha256": "59e522c5e6677c39f10e274226bdc293adce741ed4d0e2ec10f691f648e3f552",
+    "packaged_sha256": "8348b4354ae47dfe75c01a63a4bd7791080ed223e7a37e4ce29ef165d9f7a82b"
+  },
+  {
+    "file": "data/cost_inputs/bilateral_imports_selected.csv",
+    "source": "Manuscript\\Results31_Shapley_Insets_0916\\Source_Data\\Annual_Inputs\\bilateral_imports_selected.csv",
+    "source_sha256": "44dec8bffac7c50e1952cae64d96c10cffaf4c4c58799e93aeda993d683de9ab",
+    "packaged_sha256": "7f5523e6a32e7d403cce041f107f084289544b0125d2d68cec6526415e0c4c19"
+  },
+  {
+    "file": "data/cost_inputs/country_tic_all_cells.csv",
+    "source": "Manuscript\\Results31_Shapley_Insets_0916\\Source_Data\\Annual_Inputs\\country_tic_all_cells.csv",
+    "source_sha256": "f57aefa82fb38983c213788588bf6a8d5f8ee94c2acb1d0ecb8b9d4212618f0f",
+    "packaged_sha256": "ee264065a0791814af63a1781780af00804266f3094950b324424c73603f34e9"
+  },
+  {
+    "file": "data/cost_inputs/deployment_scenarios.csv",
+    "source": "Manuscript\\Results31_Shapley_Insets_0916\\Source_Data\\Annual_Inputs\\deployment_scenarios.csv",
+    "source_sha256": "4d70944df5a645dd13a7a8ef7584ffe02fc8a1e090b6990dc185f3dc6ba4ea89",
+    "packaged_sha256": "b270eec28030a103ee73ac7e872a4ad18cb75828b48b814e0f795511af435799"
+  },
+  {
+    "file": "data/cost_inputs/direct_balance_panel.csv",
+    "source": "Manuscript\\Results31_Shapley_Insets_0916\\Source_Data\\Annual_Inputs\\direct_balance_panel.csv",
+    "source_sha256": "7f8c1da14e3f3fea4df1a91455d8af1533423baa21b6bdfac6ccbddb9be4d2f7",
+    "packaged_sha256": "ce9f5e2b4d8801b6f59015061555febdda3c5efeffc753abdbdd86d5fab58b9b"
+  },
+  {
+    "file": "data/cost_inputs/documented_policy_pv_tariff_periods.csv",
+    "source": "Manuscript\\Results31_Shapley_Insets_0916\\Source_Data\\Annual_Inputs\\documented_policy_pv_tariff_periods.csv",
+    "source_sha256": "5a07159011e0d146373e564a88c3eef92c76f2572f3ccc2647f462c7f3fd6f86",
+    "packaged_sha256": "a5119f998726b9fd5f4661a4a40a4e885453506a62397f164a56744d613b9841"
+  },
+  {
+    "file": "data/cost_inputs/legacy_destination_inputs.csv",
+    "source": "Manuscript\\Results31_Shapley_Insets_0916\\Source_Data\\Annual_Inputs\\legacy_destination_inputs.csv",
+    "source_sha256": "e170e51d156d70bc1f443b2c3dfa1e0815464f879cd2634a060dbbb1f7baa2d9",
+    "packaged_sha256": "a05db57ce05bfa9db4861b67eea91d5e29b047c4303be6b6bf94cb5982d651e4"
+  },
+  {
+    "file": "data/cost_inputs/legacy_wind_policy_and_structure.csv",
+    "source": "Manuscript\\Results31_Shapley_Insets_0916\\Source_Data\\Annual_Inputs\\legacy_wind_policy_and_structure.csv",
+    "source_sha256": "740677eecac4f76e90187622b130c053864062f157c2f9779ced03639c3f7c3b",
+    "packaged_sha256": "dfe8a5d5ce6a38237913de79c7751c028016c7cb5127dc5c8db2abd852b376cf"
+  },
+  {
+    "file": "data/cost_inputs/policy_functions.py",
+    "source": "Manuscript\\Results31_Shapley_Insets_0916\\Source_Data\\Annual_Inputs\\policy_functions.py",
+    "source_sha256": "0385b25495031d964b78b515f7b9e169b73ba880f7cac7a0e45ede51ef264b03",
+    "packaged_sha256": "553226650269df3e95429d4f8289b6f19f99b4b2965ef25e06ea790cd87b8805"
+  },
+  {
+    "file": "data/cost_inputs/pv_bilateral_tariffs.csv",
+    "source": "Manuscript\\Results31_Shapley_Insets_0916\\Source_Data\\Annual_Inputs\\pv_bilateral_tariffs.csv",
+    "source_sha256": "c1077484864b2318ca1f8865ef0f8f888624e657583a925204957eaef46c09ae",
+    "packaged_sha256": "7da5bfa50d345bf4b7f5b9ddc1c346d21ca8213da6d5eff742de13e0292aaebb"
+  },
+  {
+    "file": "data/cost_inputs/wind_bilateral_tariffs.csv",
+    "source": "Manuscript\\Results31_Shapley_Insets_0916\\Source_Data\\Annual_Inputs\\wind_bilateral_tariffs.csv",
+    "source_sha256": "670ed4813e0c2936fb71d4142d6679a827d2d1e17c34017dff15dd045da05b31",
+    "packaged_sha256": "cc007d7e6da3b25953b037e678ffc2d18a1cffc5ad296933ff23d3fdda39c7dd"
+  },
+  {
+    "file": "data/cost_inputs/endpoint_template.csv",
+    "source": "Historical endpoint metadata; replaced by recomputed 2010-2024 effects",
+    "source_sha256": "c4b6c7b5ea0e9ba027804b8222c0961b4f59ee5224676d9d0d0bc98ba21b531e",
+    "packaged_sha256": "06eb8c598f9f090f3ccad4a737e533a7d13f3f2fef47c1f9de1a311fdaf2656f"
+  },
+  {
+    "file": "data/regressions/equipment/fit_samples.csv",
+    "source": "Outputs0909/US_Wind_Regression_Replacement_0915/fit_samples.csv",
+    "source_sha256": "e338a27bf9ad4edfb5e626aa41a330c2b059d1b60ecf3a8f0fdf064a6ac2b9b1",
+    "packaged_sha256": "afda850585d51f8fd172a4643aa7c55db73f7070b7ce022ff70dabfcf791608f"
+  },
+  {
+    "file": "data/regressions/equipment/coefficients.csv",
+    "source": "Outputs0909/US_Wind_Regression_Replacement_0915/coefficients.csv",
+    "source_sha256": "982699236dc535d24dff156c481a9703f2ec05db9e3392ff9225a863ed79d0c2",
+    "packaged_sha256": "605c6c80f25736a2fa57fc96d19804e8d8d96822d5b6023c77b34e16f70d4fd1"
+  },
+  {
+    "file": "data/regressions/equipment/models.csv",
+    "source": "Outputs0909/US_Wind_Regression_Replacement_0915/models.csv",
+    "source_sha256": "dc4c9832ca7ca9b8e5ae0e1425b1582e4f5517b03da5a7f178ec65341fac9693",
+    "packaged_sha256": "2793681224c64ca610599f7734e0c71d968df403c2ec15ac79966d9c737d19c6"
+  },
+  {
+    "file": "data/regressions/other_costs/fit_samples.csv",
+    "source": "Outputs0909/Direct_Subtraction_Experience_0915/fit_samples.csv",
+    "source_sha256": "7d8e1be25e2e10dffd7d4e3a8205eb6bbf37652f7b7d5a8cd9f60e1cae55ec77",
+    "packaged_sha256": "103a88440e9de9ba2e58e27c4dc3ccf581f99dfd9ea6ddfcaef68469d8104e2b"
+  },
+  {
+    "file": "data/regressions/other_costs/coefficients.csv",
+    "source": "Outputs0909/Direct_Subtraction_Experience_0915/coefficients.csv",
+    "source_sha256": "da8c0c2bf35f296dd4cbbe6b623bc72e17f068013f0be194dd315eca0015bf2e",
+    "packaged_sha256": "8ae445d953d1b8c9b30406abb1417c27f7cd9b6fecc607ce6db902953403f51e"
+  },
+  {
+    "file": "data/regressions/other_costs/models.csv",
+    "source": "Outputs0909/Direct_Subtraction_Experience_0915/models.csv",
+    "source_sha256": "4a9531cb7865a73aa0d2de851a38f4bba36846bc185d4eca2617c5c72be6155c",
+    "packaged_sha256": "dac4ab9a1045dd769264166268e10ea044945a6ddd3dc993ec882d4fde7ba1ad"
+  },
+  {
+    "file": "data/regressions/equipment/pv_regression_panel.csv",
+    "source": "pv_regression_panel.csv",
+    "source_sha256": "c3f0aeaf190e6bd43c2b29738a6c1c12cc12614a177f08c558a789034657c5b9",
+    "packaged_sha256": "6e77c168a0a4a7c086ed202323876102f15ca1109c626a9d930f65e50cfabac4"
+  },
+  {
+    "file": "data/regressions/equipment/wind_regression_panel.csv",
+    "source": "wind_regression_panel.csv",
+    "source_sha256": "1ddb5403a17c336ad0538a3d268f6603bfa68693e3b258de82e9fa62d744a1e9",
+    "packaged_sha256": "2bc6f7dbd333cb8a0fa9a8e613759d54bb19c179beadf373bdfb226eb89546ff"
+  },
+  {
+    "file": "data/regressions/other_costs/annual_panel.csv",
+    "source": "annual_panel.csv",
+    "source_sha256": "7f8c1da14e3f3fea4df1a91455d8af1533423baa21b6bdfac6ccbddb9be4d2f7",
+    "packaged_sha256": "ce9f5e2b4d8801b6f59015061555febdda3c5efeffc753abdbdd86d5fab58b9b"
+  },
+  {
+    "file": "data/cge/equilibria/capacity_policy_selected.csv",
+    "source": "tmp\\cge_historical_net_0918_runtime\\equilibria_final\\fiveyear_2050\\capacity_policy_selected.csv",
+    "source_sha256": "310449a328b167d73ae0054f76088a636e9e36e7d651406d254b7a888c7c2af1",
+    "packaged_sha256": "310449a328b167d73ae0054f76088a636e9e36e7d651406d254b7a888c7c2af1"
+  },
+  {
+    "file": "data/cge/equilibria/capacity_price_search.csv",
+    "source": "tmp\\cge_historical_net_0918_runtime\\equilibria_final\\fiveyear_2050\\capacity_price_search.csv",
+    "source_sha256": "c40bcc88bab2bf91a62dad6661a47ff8c73114d9fbff9c4a8ca1111a0e9df56f",
+    "packaged_sha256": "c40bcc88bab2bf91a62dad6661a47ff8c73114d9fbff9c4a8ca1111a0e9df56f"
+  },
+  {
+    "file": "data/cge/equilibria/emissions_checks.csv",
+    "source": "tmp\\cge_historical_net_0918_runtime\\equilibria_final\\fiveyear_2050\\emissions_checks.csv",
+    "source_sha256": "f44943149daf0e615dd4bbd2e93474f7600a367248d339052ca990c1533ab00f",
+    "packaged_sha256": "f44943149daf0e615dd4bbd2e93474f7600a367248d339052ca990c1533ab00f"
+  },
+  {
+    "file": "data/cge/equilibria/energy_balances.csv",
+    "source": "tmp\\cge_historical_net_0918_runtime\\equilibria_final\\fiveyear_2050\\energy_balances.csv",
+    "source_sha256": "bfacb18c3a4194a92cc7af839b7c99eb8409342b2f6481fba602187fd81b2cb2",
+    "packaged_sha256": "bfacb18c3a4194a92cc7af839b7c99eb8409342b2f6481fba602187fd81b2cb2"
+  },
+  {
+    "file": "data/cge/equilibria/household_consumption.csv",
+    "source": "tmp\\cge_historical_net_0918_runtime\\equilibria_final\\fiveyear_2050\\household_consumption.csv",
+    "source_sha256": "7e394cf333abfbaae7fad32952d11ae748a6a1e8b364579502a44014b3318ed0",
+    "packaged_sha256": "7e394cf333abfbaae7fad32952d11ae748a6a1e8b364579502a44014b3318ed0"
+  },
+  {
+    "file": "data/cge/equilibria/household_incomes.csv",
+    "source": "tmp\\cge_historical_net_0918_runtime\\equilibria_final\\fiveyear_2050\\household_incomes.csv",
+    "source_sha256": "3fd447c13ae3055dd4b2d4b579aad5c3841e1793c810820acfc48b934f72d556",
+    "packaged_sha256": "3fd447c13ae3055dd4b2d4b579aad5c3841e1793c810820acfc48b934f72d556"
+  },
+  {
+    "file": "data/cge/equilibria/input_audit.csv",
+    "source": "tmp\\cge_historical_net_0918_runtime\\equilibria_final\\fiveyear_2050\\input_audit.csv",
+    "source_sha256": "6c11f0754abf015b7471e53e652e46a62a151665bcebc9e6bf14d29a017eb21b",
+    "packaged_sha256": "6c11f0754abf015b7471e53e652e46a62a151665bcebc9e6bf14d29a017eb21b"
+  },
+  {
+    "file": "data/cge/equilibria/macro_extras.csv",
+    "source": "tmp\\cge_historical_net_0918_runtime\\equilibria_final\\fiveyear_2050\\macro_extras.csv",
+    "source_sha256": "7cc14ef93d97e9a693961210246d19ef76b5c2a96c1c31993e6f19a3a30dee76",
+    "packaged_sha256": "7cc14ef93d97e9a693961210246d19ef76b5c2a96c1c31993e6f19a3a30dee76"
+  },
+  {
+    "file": "data/cge/equilibria/power_emissions.csv",
+    "source": "tmp\\cge_historical_net_0918_runtime\\equilibria_final\\fiveyear_2050\\power_emissions.csv",
+    "source_sha256": "60e00e1ded6d9f0107650adca8ef523cf1393d266508f1fb783b04d0ce5097b0",
+    "packaged_sha256": "60e00e1ded6d9f0107650adca8ef523cf1393d266508f1fb783b04d0ce5097b0"
+  },
+  {
+    "file": "data/cge/equilibria/sector.csv",
+    "source": "tmp\\cge_historical_net_0918_runtime\\equilibria_final\\fiveyear_2050\\sector.csv",
+    "source_sha256": "4f76988b34e8d07846f4ee9cbc75514eaf834074fa3d3dd49dc98823ec38f021",
+    "packaged_sha256": "4f76988b34e8d07846f4ee9cbc75514eaf834074fa3d3dd49dc98823ec38f021"
+  },
+  {
+    "file": "data/cge/equilibria/sector_emissions.csv",
+    "source": "tmp\\cge_historical_net_0918_runtime\\equilibria_final\\fiveyear_2050\\sector_emissions.csv",
+    "source_sha256": "c66b6b51c76bfbf9118b93992f4927c28ad2816ebe02164076bb2fb268ace011",
+    "packaged_sha256": "c66b6b51c76bfbf9118b93992f4927c28ad2816ebe02164076bb2fb268ace011"
+  },
+  {
+    "file": "data/cge/equilibria/A/accounting.csv",
+    "source": "CGE_historical_net/A/accounting.csv",
+    "source_sha256": "caca58769e7d41c83230e0ebf3669d9a57a1bfedb61329e509f6b35c39b6c888",
+    "packaged_sha256": "caca58769e7d41c83230e0ebf3669d9a57a1bfedb61329e509f6b35c39b6c888"
+  },
+  {
+    "file": "data/cge/equilibria/A/calibration.csv",
+    "source": "CGE_historical_net/A/calibration.csv",
+    "source_sha256": "4c9ca931d046fc8642156548629177ce69909dcd7167582844a7bbddc827b1b6",
+    "packaged_sha256": "4c9ca931d046fc8642156548629177ce69909dcd7167582844a7bbddc827b1b6"
+  },
+  {
+    "file": "data/cge/equilibria/A/capital_transitions.csv",
+    "source": "CGE_historical_net/A/capital_transitions.csv",
+    "source_sha256": "9b99933e4a5a277cc4e856198c667454911403363be05e613bc58ff1770137d4",
+    "packaged_sha256": "9b99933e4a5a277cc4e856198c667454911403363be05e613bc58ff1770137d4"
+  },
+  {
+    "file": "data/cge/equilibria/A/completion.csv",
+    "source": "CGE_historical_net/A/completion.csv",
+    "source_sha256": "a5656c956c0bdaafa20b84032dd20645bc22c59f8f008198b1de86a4ee8c9251",
+    "packaged_sha256": "a5656c956c0bdaafa20b84032dd20645bc22c59f8f008198b1de86a4ee8c9251"
+  },
+  {
+    "file": "data/cge/equilibria/A/cost_mapping.csv",
+    "source": "CGE_historical_net/A/cost_mapping.csv",
+    "source_sha256": "dbbcd756e67253342b6172c1c8fcff09686d9ccc407f58ec1cf632476e144684",
+    "packaged_sha256": "dbbcd756e67253342b6172c1c8fcff09686d9ccc407f58ec1cf632476e144684"
+  },
+  {
+    "file": "data/cge/equilibria/A/macro.csv",
+    "source": "CGE_historical_net/A/macro.csv",
+    "source_sha256": "8dde1c0ca95ff0aef12c4c0c3025c21fcafa275082c8b46943806e4deb5a85f6",
+    "packaged_sha256": "8dde1c0ca95ff0aef12c4c0c3025c21fcafa275082c8b46943806e4deb5a85f6"
+  },
+  {
+    "file": "data/cge/equilibria/A/power.csv",
+    "source": "CGE_historical_net/A/power.csv",
+    "source_sha256": "b06b2d4b03be9829e6d57af50844a1614b1e83ab17fbba555a57c1c0de184cbe",
+    "packaged_sha256": "b06b2d4b03be9829e6d57af50844a1614b1e83ab17fbba555a57c1c0de184cbe"
+  },
+  {
+    "file": "data/cge/equilibria/A/solve_diagnostics.csv",
+    "source": "CGE_historical_net/A/solve_diagnostics.csv",
+    "source_sha256": "c3c0b1db43657c0546d8b533e2f840b171fbc990d41754533bbb978a307c28fc",
+    "packaged_sha256": "c3c0b1db43657c0546d8b533e2f840b171fbc990d41754533bbb978a307c28fc"
+  },
+  {
+    "file": "data/cge/equilibria/B/accounting.csv",
+    "source": "CGE_historical_net/B/accounting.csv",
+    "source_sha256": "9f6f875a3ba464ca0874ec9674b5718217158655089111bf5142c46e96c50d49",
+    "packaged_sha256": "9f6f875a3ba464ca0874ec9674b5718217158655089111bf5142c46e96c50d49"
+  },
+  {
+    "file": "data/cge/equilibria/B/capital_transitions.csv",
+    "source": "CGE_historical_net/B/capital_transitions.csv",
+    "source_sha256": "704254f858f34f30c209cbeaca780bbdf47384c91845fdf936b9186c10b9a25c",
+    "packaged_sha256": "704254f858f34f30c209cbeaca780bbdf47384c91845fdf936b9186c10b9a25c"
+  },
+  {
+    "file": "data/cge/equilibria/B/completion.csv",
+    "source": "CGE_historical_net/B/completion.csv",
+    "source_sha256": "b1634a37105755875de8ca0dc69f6b0b4cfe70b6949072fe0d0227f45f7b0ecd",
+    "packaged_sha256": "b1634a37105755875de8ca0dc69f6b0b4cfe70b6949072fe0d0227f45f7b0ecd"
+  },
+  {
+    "file": "data/cge/equilibria/B/macro.csv",
+    "source": "CGE_historical_net/B/macro.csv",
+    "source_sha256": "5e48bb068f01d944b1e5a9e3df9c6937b82814ab3ec600341352f13782ede14a",
+    "packaged_sha256": "5e48bb068f01d944b1e5a9e3df9c6937b82814ab3ec600341352f13782ede14a"
+  },
+  {
+    "file": "data/cge/equilibria/B/power.csv",
+    "source": "CGE_historical_net/B/power.csv",
+    "source_sha256": "df87132d4a82606da08aaf80263121925f94bbcfad94f02d814ccad9a470fafb",
+    "packaged_sha256": "df87132d4a82606da08aaf80263121925f94bbcfad94f02d814ccad9a470fafb"
+  },
+  {
+    "file": "data/cge/equilibria/B/solve_diagnostics.csv",
+    "source": "CGE_historical_net/B/solve_diagnostics.csv",
+    "source_sha256": "72aea91c9330e20664732ad48c2d853ff82862d93b2a874b5f08a6097b58e634",
+    "packaged_sha256": "72aea91c9330e20664732ad48c2d853ff82862d93b2a874b5f08a6097b58e634"
+  },
+  {
+    "file": "data/cge/equilibria/C/accounting.csv",
+    "source": "CGE_historical_net/C/accounting.csv",
+    "source_sha256": "c3eb38a10ba0061fd22a35f6ea0e49e0e9c2f6f975d86dbe6699a7e3fdf41a11",
+    "packaged_sha256": "c3eb38a10ba0061fd22a35f6ea0e49e0e9c2f6f975d86dbe6699a7e3fdf41a11"
+  },
+  {
+    "file": "data/cge/equilibria/C/capital_transitions.csv",
+    "source": "CGE_historical_net/C/capital_transitions.csv",
+    "source_sha256": "12c3952d3216b5999de603841c6ce5fb661b40838c367aaad157a2ca5e57d51e",
+    "packaged_sha256": "12c3952d3216b5999de603841c6ce5fb661b40838c367aaad157a2ca5e57d51e"
+  },
+  {
+    "file": "data/cge/equilibria/C/completion.csv",
+    "source": "CGE_historical_net/C/completion.csv",
+    "source_sha256": "3504a2765b1b495cb287807f00bd9ca3dae9f5f7b74eca76552ad5913464e118",
+    "packaged_sha256": "3504a2765b1b495cb287807f00bd9ca3dae9f5f7b74eca76552ad5913464e118"
+  },
+  {
+    "file": "data/cge/equilibria/C/macro.csv",
+    "source": "CGE_historical_net/C/macro.csv",
+    "source_sha256": "f5dbbb0687abc0efe1b25183d7499345ab159b02b3324b70d0a9f08f1f5183c7",
+    "packaged_sha256": "f5dbbb0687abc0efe1b25183d7499345ab159b02b3324b70d0a9f08f1f5183c7"
+  },
+  {
+    "file": "data/cge/equilibria/C/power.csv",
+    "source": "CGE_historical_net/C/power.csv",
+    "source_sha256": "5502681ad5869b8661f558e56642100cf693ac4469d9a25e2e8c4c0934becba2",
+    "packaged_sha256": "5502681ad5869b8661f558e56642100cf693ac4469d9a25e2e8c4c0934becba2"
+  },
+  {
+    "file": "data/cge/equilibria/C/solve_diagnostics.csv",
+    "source": "CGE_historical_net/C/solve_diagnostics.csv",
+    "source_sha256": "a4cb8b6927a512b8a73fefa60e992f5714caf0bf9c80826442bb228d03d57130",
+    "packaged_sha256": "a4cb8b6927a512b8a73fefa60e992f5714caf0bf9c80826442bb228d03d57130"
+  },
+  {
+    "file": "data/cge/inputs/country_tfp_history.csv",
+    "source": "country_tfp_history.csv",
+    "source_sha256": "819afdbc750208cfe1f0dd327a09902cca658a9797dd4a836caa9c5055fa7cf7",
+    "packaged_sha256": "f04a6f7b1703b872faee41720c604c929246e8a3dca2a0c4d808751060f21253"
+  },
+  {
+    "file": "data/cge/inputs/dynamic_paths.csv",
+    "source": "dynamic_paths.csv",
+    "source_sha256": "abfba8d54111b05127ce7c7accd34387afdfba979279bebe864572ff5ae8403e",
+    "packaged_sha256": "b05f08075ea62eab57fd24f5061f27f2296eec1d91e0db42caa8a58bdace1a4e"
+  },
+  {
+    "file": "data/cge/inputs/physical_benchmark.csv",
+    "source": "physical_benchmark.csv",
+    "source_sha256": "f6a9be11b163acbee7ba2bc8964fb446cf534bf64fa2c2f3f2b719a96048bfa0",
+    "packaged_sha256": "c6394a394aedf5eb7d743136bd3c24edc305f0449d120c9eccf1ff8283bc7fbd"
+  },
+  {
+    "file": "data/cge/inputs/power_targets.csv",
+    "source": "power_targets.csv",
+    "source_sha256": "8ab8a3e2f2ea9f519164037a7d3a042943192782e10cbd4832f0cd32ecda5f2c",
+    "packaged_sha256": "ace6cf9445e99166051772b0e833b6588b4cad0cfda316759ce5a11de36a9e44"
+  },
+  {
+    "file": "data/cge/inputs/regional_tfp_paths.csv",
+    "source": "regional_tfp_paths.csv",
+    "source_sha256": "7cfda7879b63471a90a79bed5223f2c522343ead2e7175e2a6b1919a1f9cafed",
+    "packaged_sha256": "19373f9fbb0c1529f4aa4bf07084c802b259ddf351d6bce087e43067b99fbda6"
+  }
+]

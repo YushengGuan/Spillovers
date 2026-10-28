@@ -1,0 +1,38 @@
+{
+  "manuscript_id": "ESE-D-26-01101R2",
+  "submission_snapshot": "2026-10-28",
+  "files": [
+    {
+      "submission_filename": "Manuscript.docx",
+      "sha256": "977057386b8e9473664fa01a6f7ed07a4463592e70a5a28ad0882a128db4ebe2"
+    },
+    {
+      "submission_filename": "Supplementary_information.docx",
+      "sha256": "e7d77bf8bd5e95aa9627338a041628c848f64b0a1272ab29b7740f226cd78d7b"
+    },
+    {
+      "submission_filename": "Highlights.docx",
+      "sha256": "33dbb2db67c49b1c1c932baa08ff9048fd4891e021d5440c5d2bad8a75ae4f15"
+    },
+    {
+      "submission_filename": "Figure1.svg",
+      "sha256": "e23b9effcbfcb8bfe045a09678ba261e9f8893f24dbb170ea111a7c2f17967c0"
+    },
+    {
+      "submission_filename": "Figure2.svg",
+      "sha256": "ae3572a64fe4c111a7c3445dbc76430762e96112defb7ca3748e40ed33dbd8ba"
+    },
+    {
+      "submission_filename": "Figure3.svg",
+      "sha256": "8974924a0b8d892b6d388b414337204f8762217444085ec6164ccf88e46eeea4"
+    },
+    {
+      "submission_filename": "Figure4.svg",
+      "sha256": "ad8987b8f7a8fcbb7372749ceda3dc434b1c0c4ec950131a8ae04e89c95c2b0c"
+    },
+    {
+      "submission_filename": "Figure5.svg",
+      "sha256": "2093cea1fdaf31111d386b674c31dc0710bc5b6c809e60c41dc9a25a59977098"
+    }
+  ]
+}

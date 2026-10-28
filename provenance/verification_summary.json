@@ -1,0 +1,16 @@
+{
+  "snapshot": "r2-2026-10-28",
+  "relocated_clean_run": true,
+  "default_workflow_seconds": 40.7,
+  "regression_specifications_passed": 68,
+  "cge_postprocessing_checks_passed": 193,
+  "numerical_and_vector_checks_passed": 18,
+  "figures_pixel_identical": 5,
+  "julia_modules_parsed": 37,
+  "external_input_hashes_recorded": 285,
+  "full_cge_solve_rerun": false,
+  "supplementary_all_tables_reproduced": false,
+  "open_source_license_assigned": false,
+  "public_upload_performed": false,
+  "remaining_author_check": "Confirm original geographic boundary redistribution rights before public upload."
+}

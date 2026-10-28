@@ -1,46 +1,47 @@
-# Core data dictionary
+# Data dictionary
 
-Column-level inventories for every CSV are in `CSV_CATALOG.csv`. Files preserve established variable names to keep numerical correspondence with the final analysis.
+CSV files use UTF-8 (some original exports include a BOM), decimal points and
+comma separators. Empty numeric cells/NaN mean unavailable or inapplicable,
+not zero. Country codes are ISO3 unless a model-region name is supplied.
+`provenance/csv_inventory.json` lists every CSV's columns and row count.
 
-| Field | Meaning / unit |
+| File family / fields | Definition and units |
 |---|---|
-| `technology` | `pv` or `wind` in historical analysis; named electricity technologies in CGE outputs |
-| `iso3` / `supplier` / `destination` | ISO country identifiers or explicitly documented supplier proxy |
-| `year` | Calendar year; annual 2010–2024 cost panel; CGE nodes 2017, 2020, 2025, …, 2050 |
-| `observed` | Reported total installed cost, 2024 USD/kW; missing values remain missing |
-| `observed_completed` | Observed total installed cost with documented completion for reporting |
-| `procurement_model` | Modeled equipment procurement cost including relevant border terms, 2024 USD/kW |
-| `other_cost_fitted` | Fitted balance outside equipment procurement, 2024 USD/kW |
-| `model_factual` | Fitted factual procurement plus fitted other cost, 2024 USD/kW |
-| `model_without_china_contribution` | Factual fitted cost plus historical net contribution, 2024 USD/kW |
-| `P_direct` | Historical target-origin equipment-price effect P, 2024 USD/kW |
-| `S_share` | Sourcing-share effect S, 2024 USD/kW |
-| `T_cn_tariff` | China-related border-policy effect T, 2024 USD/kW |
-| `K_spillover` | Equipment deployment-learning spillover K, 2024 USD/kW |
-| `G_other` | Other-cost effect E, 2024 USD/kW; legacy field name; zero for wind |
-| `china_contribution_since_2010` / `cn_related_net` | Sum P+S+T+K+E; signed contribution; annual / endpoint form |
-| `total_decline` / `remainder` | Observed endpoint cost decline / part not attributed to the five China-related channels, 2024 USD/kW |
-| `weight` / `net_additions_2024_mw` | Fixed within-technology reporting weight / 2024 net added capacity used to construct it |
-| `capacity_weight_MW` | Country's factual cumulative capacity used for CGE regional aggregation, MW |
-| `cost_actual` / `cost_cf` | Country factual / historical-contribution-restored cost, 2024 USD/kW |
-| `tfp_raw_actual` / `tfp_raw_cf` | Inverse-cost productivity paths normalized to each path's 2010 value |
-| `tfp_actual` / `tfp_cf` | Both raw paths divided by factual-2017 normalization |
-| `tfp_multiplier` | Counterfactual-to-factual productivity ratio; neutral value is 1 |
-| `mapping_status` / `countries` | Regional coverage or proxy rule and countries contributing to each cost index |
-| `coefficient` / `SE_HAC` | OLS coefficient / heteroskedasticity-and-autocorrelation-consistent standard error |
-| `p_raw`, `q_BH` | Unadjusted p value / Benjamini–Hochberg adjusted value within stated testing family |
-| `LR_pct` | Learning-rate transformation 100×(1−2^coefficient), percent |
-| `logQ`, `logG`, `logK`, `logM`, `x`, `y` | Natural-log or transformed regression variables; check the model-specific panel and specification metadata. In final balance panels `x` is log deployment. Supplemental samples may already be differenced. |
-| `scenario` | Exported labels S0_BASELINE, S1_NO_CN, S2_CAPACITY; raw Julia directories A, B, C correspond in that order |
-| `real_GDP` / `EV` in `cge/output/tables/` | Real GDP / equivalent variation, billion 2024 USD; flow at the reporting year, not a cumulative amount |
-| `CO2_Mt` | Modeled CO₂ emissions, Mt/year |
-| `generation_TWh` | Electricity generation, TWh/year |
-| `renewable_capacity_GW`, `capacity_proxy_GW` | Capacity equivalent obtained from generation/(8.76×fixed capacity factor), GW |
-| `additional_carbon_price_2024USD_t` | Uniform S2 increment above region-specific reference price, 2024 USD/tCO₂ |
-| `real_output` in sector output tables | Sectoral real output in billion 2024 USD; `_pct` contrasts are percent changes against S0 |
-| `modeled_final_demand_Mtoe` | Household plus non-energy-industry final energy demand; excludes transformation inputs |
-| `deviation` / `difference` / `_gap` | Scenario value minus S0 unless a table explicitly states another comparator |
+| `cost_inputs/*` | Frozen inputs to the historical accounting; original provider releases are not re-downloaded |
+| `results.csv`: `total_decline` | Observed installed-cost decline between common endpoints, 2024 USD/kW |
+| `P_direct` | Chinese supplier equipment-price contribution, 2024 USD/kW |
+| `S_share` | Chinese sourcing-share contribution, 2024 USD/kW |
+| `T_cn_tariff` | Chinese-equipment tariff contribution, 2024 USD/kW |
+| `K_spillover` | Deployment spillover through non-Chinese supplier equipment prices, 2024 USD/kW |
+| `G_other` | Final manuscript E: PV other-cost experience contribution, 2024 USD/kW; zero for wind |
+| `cn_related_net` | Sum of the five signed contributions, 2024 USD/kW |
+| `remainder` | Observed decline less the China-related net contribution, 2024 USD/kW |
+| `*_pct` in cost tables | 100 × contribution / observed installed-cost decline |
+| `weight` | Technology-specific fixed share of 2024 net capacity additions in the study sample |
+| `net_additions_2024_mw` | 2024 net capacity additions, MW |
+| `annual_country_costs_completed.csv`: `observed` | Original reported TIC, 2024 USD/kW; missing values retained |
+| `observed_completed`, `completion_method` | Observed series after disclosed endpoint carry/internal interpolation and its flag |
+| `model_factual`, `model_without_china_contribution` | Fitted costs and fitted costs plus historical net contribution, 2024 USD/kW |
+| `regressions/*/fit_samples.csv`: `y` | Log price/balance or its annual difference, according to the model ID |
+| `logQ` / `x` | Log global deployment or its annual difference |
+| `logM` | Log silicon-price control or its annual difference |
+| `model_id` | Technology, supplier/recipient and specification identifier |
+| `coefficient`, `SE_HAC`, `p_HAC_raw` | OLS estimate, calendar-year HAC(1) standard error, unadjusted two-sided t-test p value |
+| `country_tfp_history.csv` | Factual/counterfactual costs, inverse-cost productivity, common normalization and regional weights |
+| `regional_tfp_paths.csv`: `tfp_multiplier` | Counterfactual/reference technology productivity ratio |
+| `scenario` | `S0_BASELINE`, `S1_NO_CN`, `S2_CAPACITY`; raw equilibria use A/B/C |
+| `real_GDP`, `real_output`, `EV` in final CGE tables | Real GDP, sector output, equivalent variation; billion 2024 USD |
+| `CO2_Mt` | Carbon dioxide emissions, million tonnes |
+| `generation_TWh` | Electricity generation, TWh |
+| `renewable_capacity_GW`, `capacity_proxy_GW` | Capacity equivalent derived from generation and fixed reference capacity factor, GW |
+| `reference_CF` | Reference capacity factor, fraction |
+| `modeled_final_demand_Mtoe` | Household plus non-energy-industry final energy use, Mtoe |
+| `additional_price_2024USD_t` | Uniform additional carbon price, 2024 USD/tCO2 |
+| `GDP_pct`, `CO2_pct` | Scenario difference as a percentage of S0 |
+| `EV_pct_C0` | Equivalent variation as a percentage of S0 household consumption |
 
-Raw files under `cge/equilibria_final/` retain solver-side units where labeled (including 2017-dollar carbon prices). Use `cge/output/tables/` for manuscript monetary results in 2024 dollars. The CPI factor is 1.279736455613577. Shares may be stored as fractions or percentages according to the field suffix; tariff `applied_rate_pct` is percent, while the internal T term is a rate.
-
-Missing values in source panels and inapplicable diagnostics are intentional; no blanket zero fill is appropriate. The supplementary `source_comparison` tables use P/S/T/K/E column names directly, with `scope` identifying the recipient sample. The `JOINT` rows in `joint_2024_summary.csv` represent a separate nonlinear deployment intervention.
+Raw equilibrium tables in `data/cge/equilibria/` retain base-price values and
+diagnostic variables. Use the post-processed `data/cge/tables/` for figure units.
+Do not apply the deflator twice. `endpoint_template.csv` is legacy metadata
+used by the endpoint updater; its historical effect values are replaced by
+the recomputed common-window results before publication outputs are produced.

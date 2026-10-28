@@ -1,0 +1,692 @@
+[
+  {
+    "group": "equipment",
+    "model_id": "pv__CHN__main_level",
+    "n": 14,
+    "terms": [
+      "const",
+      "logQ",
+      "logM"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "pv__CHN__annual_difference",
+    "n": 12,
+    "terms": [
+      "const",
+      "logQ",
+      "logM"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "pv__DEU__main_level",
+    "n": 14,
+    "terms": [
+      "const",
+      "logQ",
+      "logM"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "pv__DEU__annual_difference",
+    "n": 13,
+    "terms": [
+      "const",
+      "logQ",
+      "logM"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "pv__JPN__main_level",
+    "n": 10,
+    "terms": [
+      "const",
+      "logQ",
+      "logM"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "pv__JPN__annual_difference",
+    "n": 9,
+    "terms": [
+      "const",
+      "logQ",
+      "logM"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "pv__KOR__main_level",
+    "n": 8,
+    "terms": [
+      "const",
+      "logQ",
+      "logM"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "pv__KOR__annual_difference",
+    "n": 5,
+    "terms": [
+      "const",
+      "logQ",
+      "logM"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "pv__USA__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "logQ",
+      "logM"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "pv__USA__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "logQ",
+      "logM"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "wind__DEU_spliced_proxy__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "logQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "wind__DEU_spliced_proxy__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "logQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "wind__DNK_vestas_proxy__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "logQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "wind__DNK_vestas_proxy__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "logQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "wind__china_domestic__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "logQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "wind__china_domestic__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "logQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "wind__USA_LBNL_WM_chain__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "logQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "equipment",
+    "model_id": "wind__USA_LBNL_WM_chain__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "logQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__AUS__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__AUS__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__BRA__main_level",
+    "n": 13,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__BRA__annual_difference",
+    "n": 11,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__CHN__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__CHN__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__DEU__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__DEU__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__ESP__main_level",
+    "n": 12,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__ESP__annual_difference",
+    "n": 10,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__FRA__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__FRA__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__IND__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__IND__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__ITA__main_level",
+    "n": 13,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__ITA__annual_difference",
+    "n": 11,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__JPN__main_level",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__JPN__annual_difference",
+    "n": 13,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__KOR__main_level",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__KOR__annual_difference",
+    "n": 13,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__USA__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "pv__USA__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__AUS__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__AUS__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__BRA__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__BRA__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__CAN__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__CAN__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__CHN__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__CHN__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__DEU__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__DEU__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__ESP__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__ESP__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__FRA__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__FRA__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__GBR__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__GBR__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__IND__main_level",
+    "n": 13,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__IND__annual_difference",
+    "n": 12,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__ITA__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__ITA__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__POL__main_level",
+    "n": 13,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__POL__annual_difference",
+    "n": 11,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__SWE__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__SWE__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__TUR__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__TUR__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__USA__main_level",
+    "n": 15,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  },
+  {
+    "group": "other_costs",
+    "model_id": "wind__USA__annual_difference",
+    "n": 14,
+    "terms": [
+      "const",
+      "lnQ"
+    ],
+    "status": "PASS"
+  }
+]

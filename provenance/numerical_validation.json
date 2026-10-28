@@ -1,0 +1,110 @@
+[
+  {
+    "file": "costs\\Source_Data\\results.csv",
+    "rows": 23,
+    "numeric_columns": 19,
+    "status": "PASS"
+  },
+  {
+    "file": "costs\\Source_Data\\annual_country_costs_completed.csv",
+    "rows": 345,
+    "numeric_columns": 19,
+    "status": "PASS"
+  },
+  {
+    "file": "costs\\Source_Data\\annual_plot_costs.csv",
+    "rows": 30,
+    "numeric_columns": 19,
+    "status": "PASS"
+  },
+  {
+    "file": "costs\\Source_Data\\observation_imputation_audit.csv",
+    "rows": 11,
+    "numeric_columns": 6,
+    "status": "PASS"
+  },
+  {
+    "file": "cge\\output\\tables\\group_equilibria_all_nodes.csv",
+    "rows": 72,
+    "numeric_columns": 16,
+    "status": "PASS"
+  },
+  {
+    "file": "cge\\output\\tables\\regional_equilibria_all_nodes.csv",
+    "rows": 432,
+    "numeric_columns": 17,
+    "status": "PASS"
+  },
+  {
+    "file": "cge\\output\\tables\\power_equilibria_all_nodes.csv",
+    "rows": 3456,
+    "numeric_columns": 9,
+    "status": "PASS"
+  },
+  {
+    "file": "cge\\output\\tables\\sector_equilibria_all_nodes.csv",
+    "rows": 6480,
+    "numeric_columns": 4,
+    "status": "PASS"
+  },
+  {
+    "file": "cge\\output\\tables\\final_energy_mix.csv",
+    "rows": 360,
+    "numeric_columns": 7,
+    "status": "PASS"
+  },
+  {
+    "file": "cge\\output\\tables\\capacity_price_search.csv",
+    "rows": 8,
+    "numeric_columns": 3,
+    "status": "PASS"
+  },
+  {
+    "file": "cge\\output\\tables\\capacity_policy_selected.csv",
+    "rows": 1,
+    "numeric_columns": 4,
+    "status": "PASS"
+  },
+  {
+    "file": "figures\\Source_Data\\Costs\\weighted_shapley_summary.csv",
+    "rows": 3,
+    "numeric_columns": 18,
+    "status": "PASS"
+  },
+  {
+    "file": "figures\\Source_Data\\Costs\\annual_plot_costs.csv",
+    "rows": 30,
+    "numeric_columns": 19,
+    "status": "PASS"
+  },
+  {
+    "file": "figures\\Figures\\Figure1_costs.svg",
+    "status": "PASS",
+    "width_mm": 183,
+    "embedded_bitmap_count": 0
+  },
+  {
+    "file": "figures\\Figures\\Figure2_transition.svg",
+    "status": "PASS",
+    "width_mm": 183,
+    "embedded_bitmap_count": 0
+  },
+  {
+    "file": "figures\\Figures\\Figure3_emissions.svg",
+    "status": "PASS",
+    "width_mm": 183,
+    "embedded_bitmap_count": 0
+  },
+  {
+    "file": "figures\\Figures\\Figure4_equity.svg",
+    "status": "PASS",
+    "width_mm": 183,
+    "embedded_bitmap_count": 0
+  },
+  {
+    "file": "figures\\Figures\\Figure5_sectoral_output.svg",
+    "status": "PASS",
+    "width_mm": 183,
+    "embedded_bitmap_count": 0
+  }
+]

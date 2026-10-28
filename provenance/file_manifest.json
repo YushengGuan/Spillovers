@@ -1,0 +1,887 @@
+[
+  {
+    "file": ".gitattributes",
+    "bytes": 153,
+    "sha256": "e008d6edd1b3cbd336524fc98000fd3fc6fc622bbb426b3daf81817174d107ab"
+  },
+  {
+    "file": ".github/workflows/validate.yml",
+    "bytes": 432,
+    "sha256": "e8e30e27ee29a1ad82c8b2a9f657ce0b2c61d5a424e4596b29969398e086d1b0"
+  },
+  {
+    "file": ".gitignore",
+    "bytes": 160,
+    "sha256": "87207a63a9cffea618269770104d19ef791443719ab1950c9859ebfb8a20f295"
+  },
+  {
+    "file": "analysis/cge/analyze.py",
+    "bytes": 10674,
+    "sha256": "22d7ffa78494827d646855767e3c074ac14833b54ba9af34c8bdc86c923ac567"
+  },
+  {
+    "file": "analysis/costs/build_annual.py",
+    "bytes": 9957,
+    "sha256": "484664b5727d21a8f08bb7d0b09a5bb4a49d7db5e4be4e65d477f0af51f59dd2"
+  },
+  {
+    "file": "analysis/costs/complete_all_observed.py",
+    "bytes": 3621,
+    "sha256": "ed6272e5e1015ae2d45550667802f6080e22f4473d7978d721ad66b2eb59ba0a"
+  },
+  {
+    "file": "analysis/costs/update_endpoints.py",
+    "bytes": 1877,
+    "sha256": "db9e7b8bcccc736df1796da407134904a8ec8dc7b783cf6c86673199fd7c07bd"
+  },
+  {
+    "file": "analysis/refit_regressions.py",
+    "bytes": 2316,
+    "sha256": "06434919feddd894db00c2aae6759912d1fa922cf493caa36917e2ac7b97d6ae"
+  },
+  {
+    "file": "cge/config.json",
+    "bytes": 3743,
+    "sha256": "07f9f86a1eeb021031ad64284d98cd6a187d5badc52d5c6bed8b0d7ff44aa05d"
+  },
+  {
+    "file": "cge/model/jl_r18s15/dyn/dyn_cal.jl",
+    "bytes": 5210,
+    "sha256": "6a282da2d335cac3c8055adadd67dd4cd13b02950837379a4f1ed6eeef3edd27"
+  },
+  {
+    "file": "cge/model/jl_r18s15/elas/elas_cal_0.jl",
+    "bytes": 3113,
+    "sha256": "947f1c538c03346150cbe8344706301315ac6ceb367f294817919c7607af8d86"
+  },
+  {
+    "file": "cge/model/jl_r18s15/elec/elec_cal_share.jl",
+    "bytes": 6357,
+    "sha256": "23f859eac9d47d424e7ca408a14c5fd89a2ea91daed2af98ed2a76cb4e1bf38a"
+  },
+  {
+    "file": "cge/model/jl_r18s15/elec/elec_read.jl",
+    "bytes": 4513,
+    "sha256": "3c9948fa2ea5c3dd9e57e55b06046885e24334ad714c95c48b6b6f085c40c508"
+  },
+  {
+    "file": "cge/model/jl_r18s15/elec/elec_set.jl",
+    "bytes": 1708,
+    "sha256": "1c8e7b31f220cac27de50e7203a95d02d23fa832630dfb905767b923b9f38fe7"
+  },
+  {
+    "file": "cge/model/jl_r18s15/elec/eq_elec.jl",
+    "bytes": 5547,
+    "sha256": "91a0ddf5dbd825a4ac7660b4cd4f5cbe1cb475fc5f0ae2e826223590ca6a0b4c"
+  },
+  {
+    "file": "cge/model/jl_r18s15/elec/init_elec.jl",
+    "bytes": 1632,
+    "sha256": "e7fa11a7e8f2b1c4548649a69ece06c265827abe5238228e4e0b5a108e6383d4"
+  },
+  {
+    "file": "cge/model/jl_r18s15/ene/ene_cal.jl",
+    "bytes": 1135,
+    "sha256": "9b6e9c0f9213b24cb255fab21023a34a46d608213541f8b5126e0b609c4874cb"
+  },
+  {
+    "file": "cge/model/jl_r18s15/ene/ene_read.jl",
+    "bytes": 3936,
+    "sha256": "fb9ac94dfb5c6f5db3403298654331d71f24e6e134e9e99935fb9018ac306948"
+  },
+  {
+    "file": "cge/model/jl_r18s15/ene/ene_set.jl",
+    "bytes": 785,
+    "sha256": "b26d3f260b0e82e5781105c7a444d56d5a3639b9e0ac193c0ca215ac08b33944"
+  },
+  {
+    "file": "cge/model/jl_r18s15/ene/eq_ene.jl",
+    "bytes": 1814,
+    "sha256": "181c34f2e9fc6d227a739d6efd498686901a598af3aeae3ce7b81d7cafa75d2b"
+  },
+  {
+    "file": "cge/model/jl_r18s15/ene/init_ene.jl",
+    "bytes": 887,
+    "sha256": "6bce7d03915b9d8efaa11fd34e6e3dd42b5f215c554a25130f124e1484b84d63"
+  },
+  {
+    "file": "cge/model/jl_r18s15/policy/eq_policy.jl",
+    "bytes": 1902,
+    "sha256": "b472b3af37306ed386c01f25ea0014262f5974ffe312d0cede61bc10329ba954"
+  },
+  {
+    "file": "cge/model/jl_r18s15/policy/init_policy.jl",
+    "bytes": 2640,
+    "sha256": "dad73b0dc4654412a6620ff87dc76894d8d1cbd7fff4fd87b12327c9375868ee"
+  },
+  {
+    "file": "cge/model/jl_r18s15/policy/policy_cal.jl",
+    "bytes": 4207,
+    "sha256": "4f9d832dd7ff5b281379b2d4abfa449a2a5073d2c93a75fa4c325651316be51f"
+  },
+  {
+    "file": "cge/model/jl_r18s15/running/exg_param_tfp_share.jl",
+    "bytes": 3458,
+    "sha256": "6193c8a5e7a76499c74aba9d309d1e7362e0bdafc38b6af2f21585f53ce02512"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/eq_demand.jl",
+    "bytes": 1814,
+    "sha256": "d64e7158afa7c2d5781e7d04e9c47011f1945c2e3b40f437d747e6cae0b9557e"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/eq_income_elec.jl",
+    "bytes": 2689,
+    "sha256": "9e9b5c12c1812ffc9f3a087129253ebac4311c5f9c3632b318c5495ee1354d1d"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/eq_macro_tfp_new.jl",
+    "bytes": 4337,
+    "sha256": "b79b33e38ee6f8715040111e2fe6f28152a369ee7d2e26b98c0c5a05092a4f74"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/eq_production_s22_elec.jl",
+    "bytes": 5979,
+    "sha256": "1212a69a6df29869bc53ee2cfd65024bb4e7884cad49a355ae04030006bce27c"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/eq_save.jl",
+    "bytes": 1358,
+    "sha256": "6c2862a22844bc58d0c7c59b166817851c31c5bc5da5fbe5d2d68b6ab50d532e"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/eq_trade.jl",
+    "bytes": 3773,
+    "sha256": "4ed66385e0598dac670ffb8789bfe6d79454def27368cdd0d491eda1593e573a"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/init_demand.jl",
+    "bytes": 600,
+    "sha256": "2e7a82bf3f2ebb9c2d4649d191c2f3035e2d62192a4792464447c487c4cd9bb2"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/init_income.jl",
+    "bytes": 668,
+    "sha256": "7a80b12caba664ce133c63ab5baabfca965241656f7b279f1de8e8f2568ecd4b"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/init_investment_closure.jl",
+    "bytes": 566,
+    "sha256": "d53c794a826caf650fa51b4221832ff1a7fc0f20371a4047865186cf6fd97623"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/init_macro.jl",
+    "bytes": 959,
+    "sha256": "0eab113458839c9de6c458fe56f99a7dbeb55bb3913770069c56a6d5e53200f3"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/init_production_new_elec.jl",
+    "bytes": 1833,
+    "sha256": "20fc8c4994826d41bfc2ede234ece98cda83eb64fb0a1d3d2b1888d20bffc4b5"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/init_save.jl",
+    "bytes": 566,
+    "sha256": "06d6c05565739440997e15811d7da115901a2d16a71f07c7f73e0fe757eed2c2"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/init_trade.jl",
+    "bytes": 1240,
+    "sha256": "92268e45366b27676eddfd0ae6da464ebc35f33a90f222189dfd2f30d164e69f"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/sam_cal_new.jl",
+    "bytes": 11841,
+    "sha256": "4f5fd03c5172a943e6cc8147992aa6b13284b1923345d98399cba122d6f0d050"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/sam_read.jl",
+    "bytes": 11634,
+    "sha256": "aac6866f60f5aa2d2e6facf8ac6add34aec07b14a1e36f80d24c01427b63c597"
+  },
+  {
+    "file": "cge/model/jl_r18s15/sam/sam_set_r18s15.jl",
+    "bytes": 3243,
+    "sha256": "c66da616474ba684da5863e02ec86bb74a4bdc7ab58bc4e1ee938e6f85bcbefb"
+  },
+  {
+    "file": "cge/Project.toml",
+    "bytes": 388,
+    "sha256": "8b7a646ae5fb76105fddac7723fafb556f4fc343e4f2a9d834e5518c1f783f4f"
+  },
+  {
+    "file": "cge/README.md",
+    "bytes": 2430,
+    "sha256": "fd0fdbf383afe667cea8ee1013522bdb0531500395b83d50417c6933b9580600"
+  },
+  {
+    "file": "cge/required_external_files.json",
+    "bytes": 48130,
+    "sha256": "f4f6eabebee54116986d165541fa30caf4b4535d7c887f6830009db061d8f1f0"
+  },
+  {
+    "file": "cge/run.py",
+    "bytes": 2891,
+    "sha256": "9a3c2972bf8edf2210d28dd3a0005a466af7b418c1724cee13916f73a5fe593a"
+  },
+  {
+    "file": "cge/src/cached_path_solver.jl",
+    "bytes": 4775,
+    "sha256": "3f02066dcc0f28af05fc2306780a7d5fafe2a92ad472bc967990b1f9238ae0c6"
+  },
+  {
+    "file": "cge/src/capacity_search.jl",
+    "bytes": 2707,
+    "sha256": "4cd16b9ddc69592136b42cd797672a9f3cd0aa0381faf31de9756c01e402ca8d"
+  },
+  {
+    "file": "cge/src/experiment.jl",
+    "bytes": 22087,
+    "sha256": "076ec69172ba63d5f5515d5a23af64077bf9752a8b037e0ea2a5d93353f8c4ae"
+  },
+  {
+    "file": "cge/src/export.jl",
+    "bytes": 5339,
+    "sha256": "33cd35deabd0dc865928ce28b095f81f2bc2aab609fc41d4b9394fe29ad96f33"
+  },
+  {
+    "file": "cge/src/runner.jl",
+    "bytes": 3066,
+    "sha256": "ed4a5ae2fd9064d4061f6b29d0ef746eb2f55699146be868cac73c532894a576"
+  },
+  {
+    "file": "CITATION.cff",
+    "bytes": 858,
+    "sha256": "b8c1e8c67112ad5f8721c761ff9765be0ae539844e103bafa5fd0378f8bb00d9"
+  },
+  {
+    "file": "data/cge/equilibria/A/accounting.csv",
+    "bytes": 30554,
+    "sha256": "caca58769e7d41c83230e0ebf3669d9a57a1bfedb61329e509f6b35c39b6c888"
+  },
+  {
+    "file": "data/cge/equilibria/A/calibration.csv",
+    "bytes": 81889,
+    "sha256": "4c9ca931d046fc8642156548629177ce69909dcd7167582844a7bbddc827b1b6"
+  },
+  {
+    "file": "data/cge/equilibria/A/capital_transitions.csv",
+    "bytes": 19147,
+    "sha256": "9b99933e4a5a277cc4e856198c667454911403363be05e613bc58ff1770137d4"
+  },
+  {
+    "file": "data/cge/equilibria/A/completion.csv",
+    "bytes": 169,
+    "sha256": "a5656c956c0bdaafa20b84032dd20645bc22c59f8f008198b1de86a4ee8c9251"
+  },
+  {
+    "file": "data/cge/equilibria/A/cost_mapping.csv",
+    "bytes": 19117,
+    "sha256": "dbbcd756e67253342b6172c1c8fcff09686d9ccc407f58ec1cf632476e144684"
+  },
+  {
+    "file": "data/cge/equilibria/A/macro.csv",
+    "bytes": 55346,
+    "sha256": "8dde1c0ca95ff0aef12c4c0c3025c21fcafa275082c8b46943806e4deb5a85f6"
+  },
+  {
+    "file": "data/cge/equilibria/A/power.csv",
+    "bytes": 262874,
+    "sha256": "b06b2d4b03be9829e6d57af50844a1614b1e83ab17fbba555a57c1c0de184cbe"
+  },
+  {
+    "file": "data/cge/equilibria/A/solve_diagnostics.csv",
+    "bytes": 3919,
+    "sha256": "c3c0b1db43657c0546d8b533e2f840b171fbc990d41754533bbb978a307c28fc"
+  },
+  {
+    "file": "data/cge/equilibria/B/accounting.csv",
+    "bytes": 31074,
+    "sha256": "9f6f875a3ba464ca0874ec9674b5718217158655089111bf5142c46e96c50d49"
+  },
+  {
+    "file": "data/cge/equilibria/B/capital_transitions.csv",
+    "bytes": 19323,
+    "sha256": "704254f858f34f30c209cbeaca780bbdf47384c91845fdf936b9186c10b9a25c"
+  },
+  {
+    "file": "data/cge/equilibria/B/completion.csv",
+    "bytes": 169,
+    "sha256": "b1634a37105755875de8ca0dc69f6b0b4cfe70b6949072fe0d0227f45f7b0ecd"
+  },
+  {
+    "file": "data/cge/equilibria/B/macro.csv",
+    "bytes": 55645,
+    "sha256": "5e48bb068f01d944b1e5a9e3df9c6937b82814ab3ec600341352f13782ede14a"
+  },
+  {
+    "file": "data/cge/equilibria/B/power.csv",
+    "bytes": 263399,
+    "sha256": "df87132d4a82606da08aaf80263121925f94bbcfad94f02d814ccad9a470fafb"
+  },
+  {
+    "file": "data/cge/equilibria/B/solve_diagnostics.csv",
+    "bytes": 3012,
+    "sha256": "72aea91c9330e20664732ad48c2d853ff82862d93b2a874b5f08a6097b58e634"
+  },
+  {
+    "file": "data/cge/equilibria/C/accounting.csv",
+    "bytes": 31016,
+    "sha256": "c3eb38a10ba0061fd22a35f6ea0e49e0e9c2f6f975d86dbe6699a7e3fdf41a11"
+  },
+  {
+    "file": "data/cge/equilibria/C/capital_transitions.csv",
+    "bytes": 19359,
+    "sha256": "12c3952d3216b5999de603841c6ce5fb661b40838c367aaad157a2ca5e57d51e"
+  },
+  {
+    "file": "data/cge/equilibria/C/completion.csv",
+    "bytes": 169,
+    "sha256": "3504a2765b1b495cb287807f00bd9ca3dae9f5f7b74eca76552ad5913464e118"
+  },
+  {
+    "file": "data/cge/equilibria/C/macro.csv",
+    "bytes": 61010,
+    "sha256": "f5dbbb0687abc0efe1b25183d7499345ab159b02b3324b70d0a9f08f1f5183c7"
+  },
+  {
+    "file": "data/cge/equilibria/C/power.csv",
+    "bytes": 263300,
+    "sha256": "5502681ad5869b8661f558e56642100cf693ac4469d9a25e2e8c4c0934becba2"
+  },
+  {
+    "file": "data/cge/equilibria/C/solve_diagnostics.csv",
+    "bytes": 3001,
+    "sha256": "a4cb8b6927a512b8a73fefa60e992f5714caf0bf9c80826442bb228d03d57130"
+  },
+  {
+    "file": "data/cge/equilibria/capacity_policy_selected.csv",
+    "bytes": 136,
+    "sha256": "310449a328b167d73ae0054f76088a636e9e36e7d651406d254b7a888c7c2af1"
+  },
+  {
+    "file": "data/cge/equilibria/capacity_price_search.csv",
+    "bytes": 513,
+    "sha256": "c40bcc88bab2bf91a62dad6661a47ff8c73114d9fbff9c4a8ca1111a0e9df56f"
+  },
+  {
+    "file": "data/cge/equilibria/emissions_checks.csv",
+    "bytes": 8128,
+    "sha256": "f44943149daf0e615dd4bbd2e93474f7600a367248d339052ca990c1533ab00f"
+  },
+  {
+    "file": "data/cge/equilibria/energy_balances.csv",
+    "bytes": 260996,
+    "sha256": "bfacb18c3a4194a92cc7af839b7c99eb8409342b2f6481fba602187fd81b2cb2"
+  },
+  {
+    "file": "data/cge/equilibria/household_consumption.csv",
+    "bytes": 170979,
+    "sha256": "7e394cf333abfbaae7fad32952d11ae748a6a1e8b364579502a44014b3318ed0"
+  },
+  {
+    "file": "data/cge/equilibria/household_incomes.csv",
+    "bytes": 20357,
+    "sha256": "3fd447c13ae3055dd4b2d4b579aad5c3841e1793c810820acfc48b934f72d556"
+  },
+  {
+    "file": "data/cge/equilibria/input_audit.csv",
+    "bytes": 36903,
+    "sha256": "6c11f0754abf015b7471e53e652e46a62a151665bcebc9e6bf14d29a017eb21b"
+  },
+  {
+    "file": "data/cge/equilibria/macro_extras.csv",
+    "bytes": 64986,
+    "sha256": "7cc14ef93d97e9a693961210246d19ef76b5c2a96c1c31993e6f19a3a30dee76"
+  },
+  {
+    "file": "data/cge/equilibria/power_emissions.csv",
+    "bytes": 46341,
+    "sha256": "60e00e1ded6d9f0107650adca8ef523cf1393d266508f1fb783b04d0ce5097b0"
+  },
+  {
+    "file": "data/cge/equilibria/sector.csv",
+    "bytes": 556030,
+    "sha256": "4f76988b34e8d07846f4ee9cbc75514eaf834074fa3d3dd49dc98823ec38f021"
+  },
+  {
+    "file": "data/cge/equilibria/sector_emissions.csv",
+    "bytes": 84173,
+    "sha256": "c66b6b51c76bfbf9118b93992f4927c28ad2816ebe02164076bb2fb268ace011"
+  },
+  {
+    "file": "data/cge/inputs/country_tfp_history.csv",
+    "bytes": 247920,
+    "sha256": "f04a6f7b1703b872faee41720c604c929246e8a3dca2a0c4d808751060f21253"
+  },
+  {
+    "file": "data/cge/inputs/dynamic_paths.csv",
+    "bytes": 33082,
+    "sha256": "b05f08075ea62eab57fd24f5061f27f2296eec1d91e0db42caa8a58bdace1a4e"
+  },
+  {
+    "file": "data/cge/inputs/physical_benchmark.csv",
+    "bytes": 17671,
+    "sha256": "c6394a394aedf5eb7d743136bd3c24edc305f0449d120c9eccf1ff8283bc7fbd"
+  },
+  {
+    "file": "data/cge/inputs/power_targets.csv",
+    "bytes": 235655,
+    "sha256": "ace6cf9445e99166051772b0e833b6588b4cad0cfda316759ce5a11de36a9e44"
+  },
+  {
+    "file": "data/cge/inputs/regional_tfp_paths.csv",
+    "bytes": 146788,
+    "sha256": "19373f9fbb0c1529f4aa4bf07084c802b259ddf351d6bce087e43067b99fbda6"
+  },
+  {
+    "file": "data/cge/tables/capacity_policy_selected.csv",
+    "bytes": 139,
+    "sha256": "b5c7e19a2c2a16b221454776e99c371631ec8aa3433be0ce5ab613b8cff07856"
+  },
+  {
+    "file": "data/cge/tables/capacity_price_search.csv",
+    "bytes": 514,
+    "sha256": "56198f1fe716832d063d782f31cab48a77abcc362de77daf23265a006c2b7b7e"
+  },
+  {
+    "file": "data/cge/tables/final_energy_mix.csv",
+    "bytes": 51194,
+    "sha256": "70f13258e939bc54c0eb13edab3d88e7421564f8aa0fddc035591c471ba7f85a"
+  },
+  {
+    "file": "data/cge/tables/group_equilibria_all_nodes.csv",
+    "bytes": 20883,
+    "sha256": "d606e5ba03fabf211ec4f3fdbfd02b5c319ad7ad872b43d3b052fc2d0a57da1a"
+  },
+  {
+    "file": "data/cge/tables/power_equilibria_all_nodes.csv",
+    "bytes": 809896,
+    "sha256": "2f0ba06ea3dc63df8525351904519ccef14f53c07ba824ac7ae3eb2425e80aff"
+  },
+  {
+    "file": "data/cge/tables/regional_equilibria_all_nodes.csv",
+    "bytes": 132980,
+    "sha256": "13d9abd05d590fec9a6ab2d2ede5540e9c80af9ea23bdfe52e4fdfb61b512cd2"
+  },
+  {
+    "file": "data/cge/tables/sector_equilibria_all_nodes.csv",
+    "bytes": 610595,
+    "sha256": "a1d73fdf67dc52d8587dc953e4c1ff183adc810a74e1432a04a7bfc0d9c42ad0"
+  },
+  {
+    "file": "data/cost_inputs/accepted_supplier_price_paths.csv",
+    "bytes": 26334,
+    "sha256": "6f4730e42378d0cc0d6b50449ed1548a615680f70ca44fd1a7c93e381ca3ee1b"
+  },
+  {
+    "file": "data/cost_inputs/balance_coefficients.csv",
+    "bytes": 22940,
+    "sha256": "8ae445d953d1b8c9b30406abb1417c27f7cd9b6fecc607ce6db902953403f51e"
+  },
+  {
+    "file": "data/cost_inputs/baseline_supplier_weights_tariffs.csv",
+    "bytes": 2207931,
+    "sha256": "8348b4354ae47dfe75c01a63a4bd7791080ed223e7a37e4ce29ef165d9f7a82b"
+  },
+  {
+    "file": "data/cost_inputs/bilateral_imports_selected.csv",
+    "bytes": 6773978,
+    "sha256": "7f5523e6a32e7d403cce041f107f084289544b0125d2d68cec6526415e0c4c19"
+  },
+  {
+    "file": "data/cost_inputs/country_tic_all_cells.csv",
+    "bytes": 73817,
+    "sha256": "ee264065a0791814af63a1781780af00804266f3094950b324424c73603f34e9"
+  },
+  {
+    "file": "data/cost_inputs/deployment_scenarios.csv",
+    "bytes": 29461,
+    "sha256": "b270eec28030a103ee73ac7e872a4ad18cb75828b48b814e0f795511af435799"
+  },
+  {
+    "file": "data/cost_inputs/direct_balance_panel.csv",
+    "bytes": 164483,
+    "sha256": "ce9f5e2b4d8801b6f59015061555febdda3c5efeffc753abdbdd86d5fab58b9b"
+  },
+  {
+    "file": "data/cost_inputs/documented_policy_pv_tariff_periods.csv",
+    "bytes": 687590,
+    "sha256": "a5119f998726b9fd5f4661a4a40a4e885453506a62397f164a56744d613b9841"
+  },
+  {
+    "file": "data/cost_inputs/endpoint_template.csv",
+    "bytes": 14245,
+    "sha256": "06eb8c598f9f090f3ccad4a737e533a7d13f3f2fef47c1f9de1a311fdaf2656f"
+  },
+  {
+    "file": "data/cost_inputs/legacy_destination_inputs.csv",
+    "bytes": 68863,
+    "sha256": "a05db57ce05bfa9db4861b67eea91d5e29b047c4303be6b6bf94cb5982d651e4"
+  },
+  {
+    "file": "data/cost_inputs/legacy_wind_policy_and_structure.csv",
+    "bytes": 379641,
+    "sha256": "dfe8a5d5ce6a38237913de79c7751c028016c7cb5127dc5c8db2abd852b376cf"
+  },
+  {
+    "file": "data/cost_inputs/policy_functions.py",
+    "bytes": 3178,
+    "sha256": "553226650269df3e95429d4f8289b6f19f99b4b2965ef25e06ea790cd87b8805"
+  },
+  {
+    "file": "data/cost_inputs/pv_bilateral_tariffs.csv",
+    "bytes": 1404610,
+    "sha256": "7da5bfa50d345bf4b7f5b9ddc1c346d21ca8213da6d5eff742de13e0292aaebb"
+  },
+  {
+    "file": "data/cost_inputs/wind_bilateral_tariffs.csv",
+    "bytes": 514677,
+    "sha256": "cc007d7e6da3b25953b037e678ffc2d18a1cffc5ad296933ff23d3fdda39c7dd"
+  },
+  {
+    "file": "data/figure_source/CGE/emissions_map_values.csv",
+    "bytes": 2604,
+    "sha256": "dc5304a71d0cc3d4c4a803d06061434de064e046f5f725350228507672cf1fdc"
+  },
+  {
+    "file": "data/figure_source/CGE/equity_map_values.csv",
+    "bytes": 5494,
+    "sha256": "b46d4e36cf4e6d516d12ed90633ae9071e1d6bf0c0546114c15849b4b37ce0fd"
+  },
+  {
+    "file": "data/figure_source/CGE/global_final_energy_comparison.csv",
+    "bytes": 9019,
+    "sha256": "93d3424c9f946c0178af03b8f6b7299d1691d797a5bfb706e23c83190eed0f48"
+  },
+  {
+    "file": "data/figure_source/CGE/global_generation_comparison.csv",
+    "bytes": 17041,
+    "sha256": "d732d06a33f2cf61c3b7162f82c0cc04fabdf191ab8dd8dec2b66ca61da33eb4"
+  },
+  {
+    "file": "data/figure_source/CGE/global_sector_comparison.csv",
+    "bytes": 7039,
+    "sha256": "e366ca94be17915a1ca0d1eb5b671a0cdebbfa71a55d8ec3cfe964cd08110d1e"
+  },
+  {
+    "file": "data/figure_source/CGE/regional_contrasts.csv",
+    "bytes": 124091,
+    "sha256": "5a307495f1441174a2f8ac224c82684546a43715f14e7b0d91684bc522661ebd"
+  },
+  {
+    "file": "data/figure_source/CGE/regional_emissions_stacks.csv",
+    "bytes": 21363,
+    "sha256": "dc5f6d215fff06f7e5348952ce75c7bbf33aa732ad01b02d76284b59353ae3c7"
+  },
+  {
+    "file": "data/figure_source/Costs/aggregate_figure_labels.csv",
+    "bytes": 767,
+    "sha256": "9117a0dca020394ce7d7f59e2a8d20e05abf3e06dc3e200ae4dca09f06497f1a"
+  },
+  {
+    "file": "data/figure_source/Costs/annual_country_costs_completed.csv",
+    "bytes": 122295,
+    "sha256": "9639d633d1e70d4a98ab1dad673f2291158c05fa5dce83436a59cd53c7ea8dc9"
+  },
+  {
+    "file": "data/figure_source/Costs/annual_plot_costs.csv",
+    "bytes": 8285,
+    "sha256": "3c088e2ab8b882add927a08bc690fae129741a1afacf5aae3df9e5a95a008235"
+  },
+  {
+    "file": "data/figure_source/Costs/capacity_weights_all_countries.csv",
+    "bytes": 14820,
+    "sha256": "7ecdc52d622e092b79cc39c38c47395753b20e87d53addef41e194a5e47e7293"
+  },
+  {
+    "file": "data/figure_source/Costs/coverage.csv",
+    "bytes": 181,
+    "sha256": "99769f34b08b2d8a274d167f7ca35ff5ba6fc6b696fce2c08ebd74e954e86884"
+  },
+  {
+    "file": "data/figure_source/Costs/figure_labels.csv",
+    "bytes": 1506,
+    "sha256": "8ad31e7a5d40f904c276b8abef57a3a2e6e361d82706fc81d8fa3544b3d7cd6c"
+  },
+  {
+    "file": "data/figure_source/Costs/manuscript_statistics.json",
+    "bytes": 2139,
+    "sha256": "3cf93f7f246e04bc81cc8ba5998e727633ba4e32d704856c154bf32d7b1666a1"
+  },
+  {
+    "file": "data/figure_source/Costs/observation_imputation_audit.csv",
+    "bytes": 1759,
+    "sha256": "899de6d33eaf8d27e3d34314dc90ca8a12bf2f148460783839f422082146b2d0"
+  },
+  {
+    "file": "data/figure_source/Costs/plot_country_data.csv",
+    "bytes": 7693,
+    "sha256": "dc054e466dcb4f983d2356e5878ef1c2ab80c472a88d5e62d2d889b228eea5b5"
+  },
+  {
+    "file": "data/figure_source/Costs/results.csv",
+    "bytes": 7100,
+    "sha256": "628fdd73901382b6143fad3bdb4fcf9e9c6ee931ced65189bd6fefd372d458aa"
+  },
+  {
+    "file": "data/figure_source/Costs/weighted_shapley_summary.csv",
+    "bytes": 1139,
+    "sha256": "0f8315c53abdac67fc00956810d406d80c50559cdeab04765f4ca0f09b063f70"
+  },
+  {
+    "file": "data/figure_source/Geography/map_name.csv",
+    "bytes": 8017,
+    "sha256": "ce6c1557184e5cddb0cfe997022bf5bbb9fa3e4a8fb54a950a145604fe06eb70"
+  },
+  {
+    "file": "data/figure_source/Geography/worldmap.dbf",
+    "bytes": 32756,
+    "sha256": "78ee36b924f6001eede68bcb4bd76d18cab78ed6e4c542d3f7d7eb030ffb9a14"
+  },
+  {
+    "file": "data/figure_source/Geography/worldmap.prj",
+    "bytes": 132,
+    "sha256": "a145cd62425c84e8a0d67e3d953401feee62dcd613845406b251049cefc42f9a"
+  },
+  {
+    "file": "data/figure_source/Geography/worldmap.shp",
+    "bytes": 2157532,
+    "sha256": "0ef4dadacf5c9ded40770062c84dadbb7362d50634027a96526c6fe0671e4a94"
+  },
+  {
+    "file": "data/figure_source/Geography/worldmap.shx",
+    "bytes": 2044,
+    "sha256": "c209456de4e23ebbde8d8e5944355a69952eb4b1c6955a712ed543c33c206f3e"
+  },
+  {
+    "file": "data/regressions/equipment/coefficients.csv",
+    "bytes": 14563,
+    "sha256": "605c6c80f25736a2fa57fc96d19804e8d8d96822d5b6023c77b34e16f70d4fd1"
+  },
+  {
+    "file": "data/regressions/equipment/fit_samples.csv",
+    "bytes": 28155,
+    "sha256": "afda850585d51f8fd172a4643aa7c55db73f7070b7ce022ff70dabfcf791608f"
+  },
+  {
+    "file": "data/regressions/equipment/models.csv",
+    "bytes": 6176,
+    "sha256": "2793681224c64ca610599f7734e0c71d968df403c2ec15ac79966d9c737d19c6"
+  },
+  {
+    "file": "data/regressions/equipment/pv_regression_panel.csv",
+    "bytes": 18424,
+    "sha256": "6e77c168a0a4a7c086ed202323876102f15ca1109c626a9d930f65e50cfabac4"
+  },
+  {
+    "file": "data/regressions/equipment/wind_regression_panel.csv",
+    "bytes": 13061,
+    "sha256": "2bc6f7dbd333cb8a0fa9a8e613759d54bb19c179beadf373bdfb226eb89546ff"
+  },
+  {
+    "file": "data/regressions/other_costs/annual_panel.csv",
+    "bytes": 164483,
+    "sha256": "ce9f5e2b4d8801b6f59015061555febdda3c5efeffc753abdbdd86d5fab58b9b"
+  },
+  {
+    "file": "data/regressions/other_costs/coefficients.csv",
+    "bytes": 22940,
+    "sha256": "8ae445d953d1b8c9b30406abb1417c27f7cd9b6fecc607ce6db902953403f51e"
+  },
+  {
+    "file": "data/regressions/other_costs/fit_samples.csv",
+    "bytes": 74457,
+    "sha256": "103a88440e9de9ba2e58e27c4dc3ccf581f99dfd9ea6ddfcaef68469d8104e2b"
+  },
+  {
+    "file": "data/regressions/other_costs/models.csv",
+    "bytes": 16218,
+    "sha256": "dac4ab9a1045dd769264166268e10ea044945a6ddd3dc993ec882d4fde7ba1ad"
+  },
+  {
+    "file": "docs/DATA_DICTIONARY.md",
+    "bytes": 3704,
+    "sha256": "23c1c0ad37d82f131a06d249e62c3509454cae2782526abb7745a31e4a029314"
+  },
+  {
+    "file": "docs/DATA_SOURCES.md",
+    "bytes": 2305,
+    "sha256": "051e25674630bf09a586cef817f016d486e1c3ae77f38b234f20c4b7dc998eee"
+  },
+  {
+    "file": "docs/FIGURE_MAP.md",
+    "bytes": 1568,
+    "sha256": "15b656842b831435139e9d62d93a72d6a5817de6b7b90d42c4c391777acd929e"
+  },
+  {
+    "file": "docs/METHODS.md",
+    "bytes": 4933,
+    "sha256": "29658e759aeb1bac29a663dd6e8a66662cf0c09d222ab6f667061d4c2c67fb95"
+  },
+  {
+    "file": "docs/README_ZH.md",
+    "bytes": 1933,
+    "sha256": "497b32fbf3f7fafc7a1caea7e8c51b99450a9ca537ca50f1964a986327e697a2"
+  },
+  {
+    "file": "figures/submitted/Figure1_costs.png",
+    "bytes": 343132,
+    "sha256": "f1a3b54ca780b393c16f78d5dbf8c787aeda3f0384e88c2be337d12bb208f108"
+  },
+  {
+    "file": "figures/submitted/Figure1_costs.svg",
+    "bytes": 84389,
+    "sha256": "e23b9effcbfcb8bfe045a09678ba261e9f8893f24dbb170ea111a7c2f17967c0"
+  },
+  {
+    "file": "figures/submitted/Figure2_transition.png",
+    "bytes": 298907,
+    "sha256": "4dd6f2dbbae5a19507f0e69c1ec067b11349dbc2c7ab275d668ea802703ed079"
+  },
+  {
+    "file": "figures/submitted/Figure2_transition.svg",
+    "bytes": 76731,
+    "sha256": "ae3572a64fe4c111a7c3445dbc76430762e96112defb7ca3748e40ed33dbd8ba"
+  },
+  {
+    "file": "figures/submitted/Figure3_emissions.png",
+    "bytes": 276973,
+    "sha256": "4a7628972e64bdfa7a53abdbcedf3a45bd4a59dec017d9c27c280e6620e6ea73"
+  },
+  {
+    "file": "figures/submitted/Figure3_emissions.svg",
+    "bytes": 5616261,
+    "sha256": "8974924a0b8d892b6d388b414337204f8762217444085ec6164ccf88e46eeea4"
+  },
+  {
+    "file": "figures/submitted/Figure4_equity.png",
+    "bytes": 368810,
+    "sha256": "ed3929bb92f015094afc5826969e8613a6fad4ee66d3bfb79fd0546c4bea90b9"
+  },
+  {
+    "file": "figures/submitted/Figure4_equity.svg",
+    "bytes": 10806816,
+    "sha256": "ad8987b8f7a8fcbb7372749ceda3dc434b1c0c4ec950131a8ae04e89c95c2b0c"
+  },
+  {
+    "file": "figures/submitted/Figure5_sectoral_output.png",
+    "bytes": 169893,
+    "sha256": "ee46c5722f8f0543426b48893aa4b64ef8171434b24a1447667f73b48543ee18"
+  },
+  {
+    "file": "figures/submitted/Figure5_sectoral_output.svg",
+    "bytes": 48454,
+    "sha256": "2093cea1fdaf31111d386b674c31dc0710bc5b6c809e60c41dc9a25a59977098"
+  },
+  {
+    "file": "plotting/ese_style.py",
+    "bytes": 4146,
+    "sha256": "5e769924c97d702e9628e4a657677c9b254c6ef1e89edca744d7fac77b184d07"
+  },
+  {
+    "file": "plotting/figure_costs.py",
+    "bytes": 10783,
+    "sha256": "497353b6bf94dfd73bcba9e154c08151c88404205d932181d8ba243a68bcb2dc"
+  },
+  {
+    "file": "plotting/figure_sectors.py",
+    "bytes": 3885,
+    "sha256": "72b5e70d2137e9c29a093c0667160d9578c4043bbd9c91fe67566eb9580a2419"
+  },
+  {
+    "file": "plotting/figures.py",
+    "bytes": 13927,
+    "sha256": "956e4fa94ce82e34df2733496c502b41fa45f051f04e198cb7e14c464f8275ca"
+  },
+  {
+    "file": "plotting/render_all.py",
+    "bytes": 274,
+    "sha256": "9679540e70393263ba4ed4af26b9b1f0a5df8053e5262947133b88bd7037d45c"
+  },
+  {
+    "file": "provenance/cge_postprocessing_validation.json",
+    "bytes": 20361,
+    "sha256": "ca831dcf36c1eed17dba86b51112fc0bd53c1bfa3a05362c3a27d6bf28040319"
+  },
+  {
+    "file": "provenance/copied_files.json",
+    "bytes": 28411,
+    "sha256": "089f831eff8b50a3846dd50712b3ea121446c9f79c9b13c092c0dddc97a3cc9b"
+  },
+  {
+    "file": "provenance/csv_inventory.json",
+    "bytes": 37329,
+    "sha256": "8cba6d1dd98714f85e7f898d031837a22ef5ed91fc068a6dc0c4d07343ddad09"
+  },
+  {
+    "file": "provenance/figure_comparison.json",
+    "bytes": 540,
+    "sha256": "64569e82bbe6b076e76a2a8ca6be949d8bdca42609a80db5997ac809374eab75"
+  },
+  {
+    "file": "provenance/manuscript_linkage.json",
+    "bytes": 1283,
+    "sha256": "6831838682e6014408a7336b6bb3a8e7ec66432fe5c6902667135ff611674b04"
+  },
+  {
+    "file": "provenance/numerical_validation.json",
+    "bytes": 2587,
+    "sha256": "b2165694fd3b2053b9f40c0e58116afa0f51669dd12a34e4316047d3709fa23f"
+  },
+  {
+    "file": "provenance/regression_validation.json",
+    "bytes": 12040,
+    "sha256": "a52b8b52f000879d33d37c3d2fea4e21555a9c695cfa356b917728049b887849"
+  },
+  {
+    "file": "provenance/tested_environment.json",
+    "bytes": 225,
+    "sha256": "735eb1c2d3f4ed3bf3414831a26547794908c6488737f69ad550e423fa051af4"
+  },
+  {
+    "file": "provenance/verification_summary.json",
+    "bytes": 619,
+    "sha256": "c6f09a16787023351dbef74047f43aae9e854249471bf52d1314ddd3f463a107"
+  },
+  {
+    "file": "README.md",
+    "bytes": 6631,
+    "sha256": "e2a4391135fa13c7464ea45e8b72b2bb4d4b461f691cf73be22798381fff9f17"
+  },
+  {
+    "file": "reproduce.py",
+    "bytes": 3227,
+    "sha256": "53058733dd6031b98dc542e6a07c42dfa491d4e2ce01ffa572ab12729b93ade6"
+  },
+  {
+    "file": "requirements.txt",
+    "bytes": 76,
+    "sha256": "5f7388e9d809822aa6d20bdd149dad65df70594086b154ace9aebea788069d46"
+  },
+  {
+    "file": "RIGHTS.md",
+    "bytes": 765,
+    "sha256": "dd1e6ece34921683be97dfac0029daa15fa76c85e6e2734782ea482e2b68d925"
+  },
+  {
+    "file": "scripts/build_manifest.py",
+    "bytes": 1629,
+    "sha256": "0f49ec554d79553cc48df1cc0c8bea22d18f05f2cf316e03f83fabb63a5d282d"
+  },
+  {
+    "file": "scripts/validate_release.py",
+    "bytes": 1469,
+    "sha256": "73e2959bb33cffa2833db2e2e0e80cea2731486d1d6b8083cdb5ec63ed3fc716"
+  },
+  {
+    "file": "scripts/validate_results.py",
+    "bytes": 2687,
+    "sha256": "f53d858c2918f8a8d8f7962ff05e67ec665336774ed7031133d428971f39a2d6"
+  },
+  {
+    "file": "VERSION",
+    "bytes": 14,
+    "sha256": "c0ddfa66c81a8d70e01a465136c9347f5e9fb1ce5fe8f3149fe9f0190317b30c"
+  }
+]

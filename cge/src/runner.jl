@@ -6,10 +6,8 @@ stop_year=length(ARGS)>=4 ? parse(Int,ARGS[4]) : (grid=="annual_2030" ? 2030 : 2
 model_dir=joinpath(runtime,"model","jl_r18s15");input_dir=joinpath(runtime,"inputs")
 output_dir=joinpath(runtime,"equilibria_final",grid,get(ENV,"LEGACY_RUN_ID",scenario));mkpath(output_dir)
 license=get(ENV,"PATH_LICENSE_STRING","")
-if scenario != "CHECK"
-    isempty(license) && error("Set PATH_LICENSE_STRING in your environment before solving. No license key is distributed with this repository.")
-    PATHSolver.c_api_License_SetString(license)
-end
+isempty(license) && error("Set PATH_LICENSE_STRING in your environment before solving.")
+PATHSolver.c_api_License_SetString(license)
 cd(model_dir)
 rNum=18;sNum=15;yrgap=grid=="annual_2030" ? 1 : 5
 tfp_flag="GDP";cp_flag="Tax";rr_farm=0.;rr_int=0.;rr_h=0.;rand_flag=0
@@ -42,9 +40,7 @@ eq_investment_closure();eq_production();eq_income();eq_demand();eq_save();eq_tra
 eq_macro("TFP");eq_ene();eq_elec();eq_policy("Tax");eq_calibration_switches()
 include(joinpath(@__DIR__,"cached_path_solver.jl"))
 include(joinpath(@__DIR__,"experiment.jl"))
-if scenario=="CHECK"
-    println("MODEL_BUILD_CHECK_PASS variables=", JuMP.num_variables(m))
-elseif scenario=="C"
+if scenario=="C"
     include(joinpath(@__DIR__,"capacity_search.jl"));run_capacity_search()
 elseif scenario=="EXPORT"
     include(joinpath(@__DIR__,"export.jl"));export_states()

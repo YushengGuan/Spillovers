@@ -1,0 +1,27 @@
+[
+  {
+    "figure": "Figure1_costs",
+    "same_dimensions": true,
+    "identical_pixels": true
+  },
+  {
+    "figure": "Figure2_transition",
+    "same_dimensions": true,
+    "identical_pixels": true
+  },
+  {
+    "figure": "Figure3_emissions",
+    "same_dimensions": true,
+    "identical_pixels": true
+  },
+  {
+    "figure": "Figure4_equity",
+    "same_dimensions": true,
+    "identical_pixels": true
+  },
+  {
+    "figure": "Figure5_sectoral_output",
+    "same_dimensions": true,
+    "identical_pixels": true
+  }
+]
